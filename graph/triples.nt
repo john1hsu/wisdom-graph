@@ -356,6 +356,90 @@
 <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wisdom in work and leadership" .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wisdom traditions" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reliving this from the inside, or looking at it as an observer would?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Would I give a friend in my position the advice I am about to follow?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I asked what I might not know and how the other person sees this?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is this distance helping me understand the feeling, or helping me avoid it?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Why is Jordan so rattled by one line? Jordan doesn't yet know what the manager meant by 'the point'. If a friend showed me this, I'd tell them to ask one clarifying question on Monday, not to send a reply at midnight." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I can't believe I got this so wrong. I'll keep rereading that comment, write a defensive reply tonight and hit send." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Late on a Friday, your manager leaves a blunt comment on your project report saying the analysis \"misses the point\", and you feel your weekend souring." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Viewing the moment as an observer cools the sting enough to admit what you don't know and to consider the other person's view, which is the kind of reasoning people find easier about a friend's problem than their own." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/1> <https://schema.org/text> "Notice the signs that you are immersed in an upsetting experience, such as replaying the same scene, rehearsing the same sentence or feeling the original anger or shame rise again." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/2> <https://schema.org/text> "Shift your vantage point by picturing the scene from across the room, as a neutral observer would see it, with yourself as one of the people in it." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/3> <https://schema.org/text> "Talk to yourself silently using your own name or \"you\" instead of \"I\", for example \"Why is Sam so stung by this?\"" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/4> <https://schema.org/text> "Ask what lies behind the feeling and what you might be missing, rather than recounting again what happened." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/5> <https://schema.org/text> "Widen the frame by asking how the other people involved might see it, and how the situation could change over the coming months." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/6> <https://schema.org/text> "Ask what you would advise a friend in exactly this position, then choose one concrete next step." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/7> <https://schema.org/text> "Stop if the distance is turning into a way of avoiding the feeling or the problem, and seek support if the distress persists." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/name> "Self-distancing" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/7> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2000/01/rdf-schema#label> "Self-distancing" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#altLabel> "distanced self-talk" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#altLabel> "fly-on-the-wall perspective" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#altLabel> "observer perspective" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#altLabel> "self-distanced reflection" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#altLabel> "third-person self-talk" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#definition> "Reflecting on your own feelings and problems from the vantage point of an outside observer, for example by picturing the scene as a \"fly on the wall\" or by silently addressing yourself by name or as \"you\", so that you can understand a difficult experience without being swept back into it." .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-distancing" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/distraction> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/example> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/construal-level-theory> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/self-distancing.md" .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> .
+<https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Do I actually know this, or am I only confident about it?" .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
@@ -590,6 +674,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://schema.org/url> <https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> <http://purl.org/dc/terms/publisher> "Psychological Science (Association for Psychological Science; author proof hosted by the University of Waterloo Wisdom and Culture Lab)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> <http://purl.org/dc/terms/title> "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1> <https://schema.org/url> <https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> <http://purl.org/dc/terms/publisher> "Social and Personality Psychology Compass, 4(10), 841–854 (Ayduk & Kross, 2010)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> <http://purl.org/dc/terms/title> "Analyzing negative experiences without ruminating: The role of self-distancing in enabling adaptive self-reflection" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2> <https://schema.org/url> <https://rascl.studentorg.berkeley.edu/assets/files/ayduk_kross_compass_2010.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 106(2), 304–324 (Kross et al., 2014), PubMed record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> <http://purl.org/dc/terms/title> "Self-talk as a regulatory mechanism: How you do it matters" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/24467424/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> <http://purl.org/dc/terms/publisher> "Stress and Health, 39(2), 255–271 (Murdoch, Chapman, Crane & Gucciardi, 2023), Macquarie University research portal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> <http://purl.org/dc/terms/title> "The effectiveness of self-distanced versus self-immersed reflections among adults: Systematic review and meta-analysis of experimental studies" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> <https://schema.org/url> <https://researchers.mq.edu.au/en/publications/the-effectiveness-of-self-distanced-versus-self-immersed-reflecti/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> <http://purl.org/dc/terms/publisher> "International Journal of Psychophysiology, 177, 122–132 (Webster, Berg, Kross & Moser, 2022), author copy, University of Michigan" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> <http://purl.org/dc/terms/title> "An event-related potential investigation of distanced self-talk: Replication and comparison to detached reappraisal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> <https://schema.org/url> <https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2023/01/An-Event-Related-Potential-Investigation-of-Distanced-Self-Talk-Replication-and-Comparison-to-Detached-Reappraisal.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, UC Berkeley" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <http://purl.org/dc/terms/title> "Gaining Perspective on Negative Events" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <https://schema.org/url> <https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events> .
 <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1> <http://purl.org/dc/terms/title> "Plato, Apology, trans. Benjamin Jowett" .

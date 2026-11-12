@@ -125,3 +125,29 @@ Ask yourself:
 - If someone questioned me closely here, where would my account run out?
 - Am I treating skill in my own field as if it made me an authority on this question too?
 
+## self-knowledge
+
+### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice
+
+1. Notice the signs that you are immersed in an upsetting experience, such as replaying the same scene, rehearsing the same sentence or feeling the original anger or shame rise again.
+2. Shift your vantage point by picturing the scene from across the room, as a neutral observer would see it, with yourself as one of the people in it.
+3. Talk to yourself silently using your own name or "you" instead of "I", for example "Why is Sam so stung by this?"
+4. Ask what lies behind the feeling and what you might be missing, rather than recounting again what happened.
+5. Widen the frame by asking how the other people involved might see it, and how the situation could change over the coming months.
+6. Ask what you would advise a friend in exactly this position, then choose one concrete next step.
+7. Stop if the distance is turning into a way of avoiding the feeling or the problem, and seek support if the distress persists.
+
+*Late on a Friday, your manager leaves a blunt comment on your project report saying the analysis "misses the point", and you feel your weekend souring.*
+
+| Before | After |
+|---|---|
+| I can't believe I got this so wrong. I'll keep rereading that comment, write a defensive reply tonight and hit send. | Why is Jordan so rattled by one line? Jordan doesn't yet know what the manager meant by 'the point'. If a friend showed me this, I'd tell them to ask one clarifying question on Monday, not to send a reply at midnight. |
+
+**Why:** Viewing the moment as an observer cools the sting enough to admit what you don't know and to consider the other person's view, which is the kind of reasoning people find easier about a friend's problem than their own.
+
+Ask yourself:
+- Am I reliving this from the inside, or looking at it as an observer would?
+- Would I give a friend in my position the advice I am about to follow?
+- Have I asked what I might not know and how the other person sees this?
+- Is this distance helping me understand the feeling, or helping me avoid it?
+

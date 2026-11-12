@@ -28,6 +28,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 |---|---|---|
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
 | `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
+| `wg:self-distancing` | 3 | Rumination, solomons-paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
 | `wg:socratic-ignorance` | 1 | intellectual-humility |
@@ -40,6 +41,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 |---|---|
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
+| `wg:interpersonal-conflict` | `wg:self-distancing` |
 
 ## Myths and contested advice
 
@@ -48,6 +50,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | node | status | challenger |
 |---|---|---|
 | `wg:compassionate-reappraisal` | mixed |  |
+| `wg:self-distancing` | mixed |  |
 
 ## Ideas with no recorded origin (gap)
 
@@ -59,9 +62,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `wg:socratic-ignorance` |
+_No results._
 
 ## Teachings by tradition
 

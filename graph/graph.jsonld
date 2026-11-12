@@ -450,6 +450,116 @@
    "skos:prefLabel": "Wisdom traditions"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I reliving this from the inside, or looking at it as an observer would?",
+   "wgo:questionFor": {
+    "@id": "wg:self-distancing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I give a friend in my position the advice I am about to follow?",
+   "wgo:questionFor": {
+    "@id": "wg:self-distancing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I asked what I might not know and how the other person sees this?",
+   "wgo:questionFor": {
+    "@id": "wg:self-distancing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this distance helping me understand the feeling, or helping me avoid it?",
+   "wgo:questionFor": {
+    "@id": "wg:self-distancing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Why is Jordan so rattled by one line? Jordan doesn't yet know what the manager meant by 'the point'. If a friend showed me this, I'd tell them to ask one clarifying question on Monday, not to send a reply at midnight.",
+   "wgo:before": "I can't believe I got this so wrong. I'll keep rereading that comment, write a defensive reply tonight and hit send.",
+   "wgo:situation": "Late on a Friday, your manager leaves a blunt comment on your project report saying the analysis \"misses the point\", and you feel your weekend souring.",
+   "wgo:why": "Viewing the moment as an observer cools the sting enough to admit what you don't know and to consider the other person's view, which is the kind of reasoning people find easier about a friend's problem than their own."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Self-distancing",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Notice the signs that you are immersed in an upsetting experience, such as replaying the same scene, rehearsing the same sentence or feeling the original anger or shame rise again."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Shift your vantage point by picturing the scene from across the room, as a neutral observer would see it, with yourself as one of the people in it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Talk to yourself silently using your own name or \"you\" instead of \"I\", for example \"Why is Sam so stung by this?\""
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Ask what lies behind the feeling and what you might be missing, rather than recounting again what happened."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Widen the frame by asking how the other people involved might see it, and how the situation could change over the coming months."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Ask what you would advise a friend in exactly this position, then choose one concrete next step."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Stop if the distance is turning into a way of avoiding the feeling or the problem, and seek support if the distress persists."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Do I actually know this, or am I only confident about it?",
@@ -928,6 +1038,90 @@
     "@id": "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Psychological Science (Association for Psychological Science; author proof hosted by the University of Waterloo Wisdom and Culture Lab)",
+   "dcterms:title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Social and Personality Psychology Compass, 4(10), 841–854 (Ayduk & Kross, 2010)",
+   "dcterms:title": "Analyzing negative experiences without ruminating: The role of self-distancing in enabling adaptive self-reflection",
+   "schema:url": {
+    "@id": "https://rascl.studentorg.berkeley.edu/assets/files/ayduk_kross_compass_2010.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 106(2), 304–324 (Kross et al., 2014), PubMed record",
+   "dcterms:title": "Self-talk as a regulatory mechanism: How you do it matters",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/24467424/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stress and Health, 39(2), 255–271 (Murdoch, Chapman, Crane & Gucciardi, 2023), Macquarie University research portal",
+   "dcterms:title": "The effectiveness of self-distanced versus self-immersed reflections among adults: Systematic review and meta-analysis of experimental studies",
+   "schema:url": {
+    "@id": "https://researchers.mq.edu.au/en/publications/the-effectiveness-of-self-distanced-versus-self-immersed-reflecti/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "International Journal of Psychophysiology, 177, 122–132 (Webster, Berg, Kross & Moser, 2022), author copy, University of Michigan",
+   "dcterms:title": "An event-related potential investigation of distanced self-talk: Replication and comparison to detached reappraisal",
+   "schema:url": {
+    "@id": "https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2023/01/An-Event-Related-Potential-Investigation-of-Distanced-Self-Talk-Replication-and-Comparison-to-Detached-Reappraisal.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Greater Good in Action, Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Gaining Perspective on Negative Events",
+   "schema:url": {
+    "@id": "https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1",
@@ -1628,6 +1822,105 @@
      "@id": "wg:social-support"
     }
    ]
+  },
+  {
+   "@id": "wg:self-distancing",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6"
+    }
+   ],
+   "rdfs:label": "Self-distancing",
+   "skos:altLabel": [
+    "distanced self-talk",
+    "fly-on-the-wall perspective",
+    "observer perspective",
+    "self-distanced reflection",
+    "third-person self-talk"
+   ],
+   "skos:broader": {
+    "@id": "wg:self-reflection"
+   },
+   "skos:definition": "Reflecting on your own feelings and problems from the vantage point of an outside observer, for example by picturing the scene as a \"fly on the wall\" or by silently addressing yourself by name or as \"you\", so that you can understand a difficult experience without being swept back into it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Self-distancing",
+   "skos:related": [
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:addresses": [
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:interpersonal-conflict"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:distraction"
+   },
+   "wgo:develops": {
+    "@id": "wg:wise-reasoning"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:construal-level-theory"
+   },
+   "wgo:file": "articles/self-knowledge/self-distancing.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/howto"
+   },
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:ethan-kross"
+    },
+    {
+     "@id": "wg:ozlem-ayduk"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:socratic-ignorance",
