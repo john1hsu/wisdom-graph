@@ -125,6 +125,32 @@ Ask yourself:
 - If someone questioned me closely here, where would my account run out?
 - Am I treating skill in my own field as if it made me an authority on this question too?
 
+## judgment-and-decisions
+
+### [Seeking counsel](../articles/judgment-and-decisions/seeking-counsel.md) — Practice
+
+1. Name the decision and decide whether it is important and uncertain enough to deserve outside counsel.
+2. Write down your own current view and how confident you are, before you ask anyone.
+3. Choose two or three advisers who know this kind of situation, including at least one who has lived through it and one likely to disagree with you.
+4. Ask each one separately and personally, describe the problem without revealing your preferred answer, and ask what they would do and why.
+5. Ask anyone who has already been through the same choice how it actually turned out and felt for them.
+6. Compare their answers with your own and move your view meaningfully toward the advice where they know more or agree with each other, noting where and why you still differ.
+7. Make the decision yourself, take responsibility for it, and later tell your advisers what you decided and how it went.
+
+*A team lead has a job offer from a fast-growing start-up and must answer by Friday. They are excited and have already half-decided to accept.*
+
+| Before | After |
+|---|---|
+| I'll ask my best friend, who always backs me, mention the salary first, and take the yes as confirmation. | I'll write down my own answer first, then ask a former colleague who joined a start-up two years ago how it really went, and a mentor who tends to be cautious. I won't tell them which way I'm leaning, and I'll actually shift my view if they both raise the same worry. |
+
+**Why:** Asking advisers who know the terrain, without steering them, gives the decision a second independent view and the lived experience of someone who has already been there, which people tend to undervalue.
+
+Ask yourself:
+- Did I ask people who know this kind of decision, or only people who would agree with me?
+- Did I ask without signalling the answer I wanted?
+- When the advice differed from my view, did I actually move, or did I explain it away?
+- Have I asked anyone who has already lived through this choice how it felt afterwards?
+
 ## self-knowledge
 
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice

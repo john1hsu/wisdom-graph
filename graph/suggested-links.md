@@ -4,7 +4,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 2.64 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
+| 2.45 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
 | 2.16 | `wg:forgiveness` | `wg:memento-mori` | `wg:buddhism`, `wg:equanimity` |
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
 | 1.44 | `wg:socratic-ignorance` | `wg:stoicism` | `wg:socratic-philosophy` |
@@ -12,12 +12,15 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.12 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:rumination` |
 | 1.12 | `wg:negative-visualization` | `wg:self-distancing` | `wg:rumination`, `wg:view-from-above` |
 | 1.11 | `wg:memento-mori` | `wg:rumination` | `wg:equanimity`, `wg:negative-visualization` |
+| 1.10 | `wg:compassionate-reappraisal` | `wg:seeking-counsel` | `wg:perspective-taking`, `wg:self-distancing` |
+| 0.72 | `wg:forgiveness` | `wg:seeking-counsel` | `wg:perspective-taking` |
 | 0.72 | `wg:memento-mori` | `wg:self-distancing` | `wg:view-from-above` |
 | 0.72 | `wg:self-distancing` | `wg:stoicism` | `wg:view-from-above` |
 | 0.40 | `wg:compassionate-reappraisal` | `wg:negative-visualization` | `wg:rumination` |
 | 0.40 | `wg:compassionate-reappraisal` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
 | 0.40 | `wg:forgiveness` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
 | 0.40 | `wg:negative-visualization` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
-| 0.39 | `wg:compassionate-reappraisal` | `wg:socratic-ignorance` | `wg:self-distancing` |
-| 0.39 | `wg:rumination` | `wg:socratic-ignorance` | `wg:self-distancing` |
 | 0.39 | `wg:rumination` | `wg:stoicism` | `wg:negative-visualization` |
+| 0.38 | `wg:compassionate-reappraisal` | `wg:socratic-ignorance` | `wg:self-distancing` |
+| 0.38 | `wg:rumination` | `wg:seeking-counsel` | `wg:self-distancing` |
+| 0.38 | `wg:rumination` | `wg:socratic-ignorance` | `wg:self-distancing` |

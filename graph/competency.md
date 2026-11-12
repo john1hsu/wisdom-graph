@@ -31,6 +31,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:self-distancing` | 3 | Rumination, solomons-paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
+| `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:socratic-ignorance` | 1 | intellectual-humility |
 
 ## Toolkit by life situation
@@ -42,6 +43,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
+| `wg:major-life-decision` | `wg:seeking-counsel` |
 
 ## Myths and contested advice
 
@@ -50,6 +52,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | node | status | challenger |
 |---|---|---|
 | `wg:compassionate-reappraisal` | mixed |  |
+| `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 
 ## Ideas with no recorded origin (gap)
@@ -72,6 +75,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 |---|---|
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
+| `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:negative-visualization` |

@@ -4,58 +4,64 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `wg:equanimity` | 5.20 | - | `wg:forgiveness`, `wg:memento-mori`, `wg:negative-visualization`, `wg:rumination` |
-| `wg:view-from-above` | 5.16 | - | `wg:memento-mori`, `wg:negative-visualization`, `wg:self-distancing`, `wg:stoicism` |
-| `wg:perspective-taking` | 4.00 | - | `wg:compassionate-reappraisal`, `wg:forgiveness`, `wg:self-distancing` |
-| `wg:self-reflection` | 3.52 | - | `wg:rumination`, `wg:self-distancing`, `wg:susan-nolen-hoeksema` |
-| `wg:emotional-suppression` | 3.51 | - | `wg:compassionate-reappraisal`, `wg:stoicism` |
-| `wg:interpersonal-conflict` | 3.50 | Context | `wg:compassionate-reappraisal`, `wg:forgiveness`, `wg:self-distancing` |
-| `wg:cognitive-reappraisal` | 2.85 | - | `wg:compassionate-reappraisal` |
-| `wg:compassion` | 2.84 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
-| `wg:dichotomy-of-control` | 2.84 | - | `wg:negative-visualization`, `wg:stoicism` |
-| `wg:epicureanism` | 2.84 | - | `wg:negative-visualization`, `wg:stoicism` |
-| `wg:buddhism` | 2.82 | Tradition | `wg:forgiveness`, `wg:memento-mori` |
-| `wg:wise-reasoning` | 2.81 | - | `wg:self-distancing`, `wg:socratic-ignorance` |
-| `wg:socratic-philosophy` | 2.81 | Tradition | `wg:socratic-ignorance`, `wg:stoicism` |
-| `wg:response-styles-theory` | 2.35 | - | `wg:rumination`, `wg:susan-nolen-hoeksema` |
-| `wg:worry` | 2.35 | - | `wg:rumination`, `wg:susan-nolen-hoeksema` |
-| `wg:reach-forgiveness` | 2.34 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
-| `wg:gratitude` | 1.68 | - | `wg:negative-visualization` |
-| `wg:hedonic-adaptation` | 1.68 | - | `wg:negative-visualization` |
+| `wg:equanimity` | 5.14 | - | `wg:forgiveness`, `wg:memento-mori`, `wg:negative-visualization`, `wg:rumination` |
+| `wg:view-from-above` | 5.11 | - | `wg:memento-mori`, `wg:negative-visualization`, `wg:self-distancing`, `wg:stoicism` |
+| `wg:perspective-taking` | 5.09 | - | `wg:compassionate-reappraisal`, `wg:forgiveness`, `wg:seeking-counsel`, `wg:self-distancing` |
+| `wg:self-reflection` | 3.48 | - | `wg:rumination`, `wg:self-distancing`, `wg:susan-nolen-hoeksema` |
+| `wg:interpersonal-conflict` | 3.47 | Context | `wg:compassionate-reappraisal`, `wg:forgiveness`, `wg:self-distancing` |
+| `wg:emotional-suppression` | 3.46 | - | `wg:compassionate-reappraisal`, `wg:stoicism` |
+| `wg:cognitive-reappraisal` | 2.81 | - | `wg:compassionate-reappraisal` |
+| `wg:compassion` | 2.81 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
+| `wg:dichotomy-of-control` | 2.80 | - | `wg:negative-visualization`, `wg:stoicism` |
+| `wg:epicureanism` | 2.80 | - | `wg:negative-visualization`, `wg:stoicism` |
+| `wg:wise-reasoning` | 2.80 | - | `wg:self-distancing`, `wg:socratic-ignorance` |
+| `wg:buddhism` | 2.79 | Tradition | `wg:forgiveness`, `wg:memento-mori` |
+| `wg:socratic-philosophy` | 2.79 | Tradition | `wg:socratic-ignorance`, `wg:stoicism` |
+| `wg:intellectual-humility` | 2.77 | - | `wg:seeking-counsel`, `wg:socratic-ignorance` |
+| `wg:response-styles-theory` | 2.32 | - | `wg:rumination`, `wg:susan-nolen-hoeksema` |
+| `wg:worry` | 2.32 | - | `wg:rumination`, `wg:susan-nolen-hoeksema` |
+| `wg:reach-forgiveness` | 2.31 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
 | `wg:solomons-paradox` | 1.66 | - | `wg:self-distancing` |
-| `wg:cardinal-virtues` | 1.66 | - | `wg:stoicism` |
-| `wg:eudaimonia` | 1.66 | - | `wg:stoicism` |
-| `wg:death-awareness` | 1.66 | - | `wg:memento-mori` |
-| `wg:impermanence` | 1.66 | - | `wg:memento-mori` |
-| `wg:life-review` | 1.66 | - | `wg:memento-mori` |
-| `wg:robert-sternberg` | 1.65 | - | `wg:susan-nolen-hoeksema` |
-| `wg:intellectual-humility` | 1.65 | - | `wg:socratic-ignorance` |
-| `wg:know-thyself` | 1.65 | - | `wg:socratic-ignorance` |
-| `wg:socrates` | 1.65 | Person | `wg:socratic-ignorance` |
-| `wg:problem-solving` | 1.20 | - | `wg:rumination` |
-| `wg:repetitive-negative-thinking` | 1.20 | - | `wg:rumination` |
-| `wg:social-support` | 1.20 | - | `wg:rumination` |
-| `wg:anticipating-ones-troubles-study` | 1.18 | - | `wg:negative-visualization` |
-| `wg:george-bailey-effect` | 1.18 | - | `wg:negative-visualization` |
-| `wg:mental-subtraction` | 1.18 | - | `wg:negative-visualization` |
-| `wg:spiritual-exercises` | 1.18 | - | `wg:negative-visualization` |
-| `wg:benefit-finding` | 1.17 | - | `wg:compassionate-reappraisal` |
-| `wg:charlotte-witvliet` | 1.17 | Person | `wg:compassionate-reappraisal` |
-| `wg:condonation` | 1.17 | - | `wg:forgiveness` |
-| `wg:reconciliation` | 1.17 | - | `wg:forgiveness` |
-| `wg:self-forgiveness` | 1.17 | - | `wg:forgiveness` |
-| `wg:vindictiveness` | 1.17 | - | `wg:forgiveness` |
+| `wg:gratitude` | 1.66 | - | `wg:negative-visualization` |
+| `wg:hedonic-adaptation` | 1.66 | - | `wg:negative-visualization` |
+| `wg:cardinal-virtues` | 1.65 | - | `wg:stoicism` |
+| `wg:eudaimonia` | 1.65 | - | `wg:stoicism` |
+| `wg:know-thyself` | 1.64 | - | `wg:socratic-ignorance` |
+| `wg:socrates` | 1.64 | Person | `wg:socratic-ignorance` |
+| `wg:death-awareness` | 1.64 | - | `wg:memento-mori` |
+| `wg:impermanence` | 1.64 | - | `wg:memento-mori` |
+| `wg:life-review` | 1.64 | - | `wg:memento-mori` |
+| `wg:robert-sternberg` | 1.64 | - | `wg:susan-nolen-hoeksema` |
+| `wg:deliberation` | 1.62 | - | `wg:seeking-counsel` |
+| `wg:hebrew-wisdom-literature` | 1.62 | Tradition | `wg:seeking-counsel` |
+| `wg:problem-solving` | 1.18 | - | `wg:rumination` |
+| `wg:repetitive-negative-thinking` | 1.18 | - | `wg:rumination` |
+| `wg:social-support` | 1.18 | - | `wg:rumination` |
 | `wg:construal-level-theory` | 1.16 | - | `wg:self-distancing` |
 | `wg:distraction` | 1.16 | - | `wg:self-distancing` |
 | `wg:ethan-kross` | 1.16 | Person | `wg:self-distancing` |
 | `wg:ozlem-ayduk` | 1.16 | Person | `wg:self-distancing` |
-| `wg:hellenistic-philosophy` | 1.16 | - | `wg:stoicism` |
-| `wg:virtue-ethics` | 1.16 | - | `wg:stoicism` |
-| `wg:zeno-of-citium` | 1.16 | Person | `wg:stoicism` |
-| `wg:greed` | 1.16 | - | `wg:memento-mori` |
-| `wg:mortality-salience` | 1.16 | - | `wg:memento-mori` |
-| `wg:clinical-psychologists` | 1.15 | - | `wg:susan-nolen-hoeksema` |
-| `wg:martin-seligman` | 1.15 | - | `wg:susan-nolen-hoeksema` |
-| `wg:apology-of-socrates` | 1.15 | Work | `wg:socratic-ignorance` |
-| `wg:socratic-method` | 1.15 | - | `wg:socratic-ignorance` |
-| `wg:wisdom` | 1.15 | - | `wg:socratic-ignorance` |
+| `wg:anticipating-ones-troubles-study` | 1.16 | - | `wg:negative-visualization` |
+| `wg:george-bailey-effect` | 1.16 | - | `wg:negative-visualization` |
+| `wg:mental-subtraction` | 1.16 | - | `wg:negative-visualization` |
+| `wg:spiritual-exercises` | 1.16 | - | `wg:negative-visualization` |
+| `wg:benefit-finding` | 1.16 | - | `wg:compassionate-reappraisal` |
+| `wg:charlotte-witvliet` | 1.16 | Person | `wg:compassionate-reappraisal` |
+| `wg:condonation` | 1.15 | - | `wg:forgiveness` |
+| `wg:reconciliation` | 1.15 | - | `wg:forgiveness` |
+| `wg:self-forgiveness` | 1.15 | - | `wg:forgiveness` |
+| `wg:vindictiveness` | 1.15 | - | `wg:forgiveness` |
+| `wg:hellenistic-philosophy` | 1.15 | - | `wg:stoicism` |
+| `wg:virtue-ethics` | 1.15 | - | `wg:stoicism` |
+| `wg:zeno-of-citium` | 1.15 | Person | `wg:stoicism` |
+| `wg:apology-of-socrates` | 1.14 | Work | `wg:socratic-ignorance` |
+| `wg:socratic-method` | 1.14 | - | `wg:socratic-ignorance` |
+| `wg:wisdom` | 1.14 | - | `wg:socratic-ignorance` |
+| `wg:greed` | 1.14 | - | `wg:memento-mori` |
+| `wg:mortality-salience` | 1.14 | - | `wg:memento-mori` |
+| `wg:clinical-psychologists` | 1.14 | - | `wg:susan-nolen-hoeksema` |
+| `wg:martin-seligman` | 1.14 | - | `wg:susan-nolen-hoeksema` |
+| `wg:egocentric-discounting` | 1.12 | - | `wg:seeking-counsel` |
+| `wg:major-life-decision` | 1.12 | Context | `wg:seeking-counsel` |
+| `wg:neighborly-advice-study` | 1.12 | Study | `wg:seeking-counsel` |
+| `wg:wisdom-of-crowds` | 1.12 | - | `wg:seeking-counsel` |

@@ -450,6 +450,116 @@
    "skos:prefLabel": "Wisdom traditions"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I ask people who know this kind of decision, or only people who would agree with me?",
+   "wgo:questionFor": {
+    "@id": "wg:seeking-counsel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I ask without signalling the answer I wanted?",
+   "wgo:questionFor": {
+    "@id": "wg:seeking-counsel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When the advice differed from my view, did I actually move, or did I explain it away?",
+   "wgo:questionFor": {
+    "@id": "wg:seeking-counsel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I asked anyone who has already lived through this choice how it felt afterwards?",
+   "wgo:questionFor": {
+    "@id": "wg:seeking-counsel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll write down my own answer first, then ask a former colleague who joined a start-up two years ago how it really went, and a mentor who tends to be cautious. I won't tell them which way I'm leaning, and I'll actually shift my view if they both raise the same worry.",
+   "wgo:before": "I'll ask my best friend, who always backs me, mention the salary first, and take the yes as confirmation.",
+   "wgo:situation": "A team lead has a job offer from a fast-growing start-up and must answer by Friday. They are excited and have already half-decided to accept.",
+   "wgo:why": "Asking advisers who know the terrain, without steering them, gives the decision a second independent view and the lived experience of someone who has already been there, which people tend to undervalue."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Seeking counsel",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the decision and decide whether it is important and uncertain enough to deserve outside counsel."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Write down your own current view and how confident you are, before you ask anyone."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Choose two or three advisers who know this kind of situation, including at least one who has lived through it and one likely to disagree with you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Ask each one separately and personally, describe the problem without revealing your preferred answer, and ask what they would do and why."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Ask anyone who has already been through the same choice how it actually turned out and felt for them."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Compare their answers with your own and move your view meaningfully toward the advice where they know more or agree with each other, noting where and why you still differ."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Make the decision yourself, take responsibility for it, and later tell your advisers what you decided and how it went."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reliving this from the inside, or looking at it as an observer would?",
@@ -1038,6 +1148,90 @@
     "@id": "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Organizational Behavior and Human Decision Processes, 83(2), 260–281 (Yaniv & Kleinberger, 2000), Hebrew University of Jerusalem research portal",
+   "dcterms:title": "Advice taking in decision making: Egocentric discounting and reputation formation",
+   "schema:url": {
+    "@id": "https://cris.huji.ac.il/en/publications/advice-taking-in-decision-making-egocentric-discounting-and-reput/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, Massachusetts Institute of Technology",
+   "dcterms:title": "Nicomachean Ethics, Book III (translated by W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Current Psychology, 42, 24516–24541 (Bailey, Leon, Ebner et al., 2023), Springer",
+   "dcterms:title": "A meta-analysis of the weight of advice in decision-making",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s12144-022-03573-2"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Science, 323(5921), 1617–1619 (Gilbert, Killingsworth, Eyre & Wilson, 2009), Harvard DASH repository",
+   "dcterms:title": "The surprising power of neighborly advice",
+   "schema:url": {
+    "@id": "https://dash.harvard.edu/entities/publication/73120378-8610-6bd4-e053-0100007fdf3b"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Management Science, 61(6), 1421–1435 (Brooks, Gino & Schweitzer, 2015), RePEc/IDEAS record",
+   "dcterms:title": "Smart people ask for (my) advice: Seeking advice boosts perceptions of competence",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/inm/ormnsc/v61y2015i6p1421-1435.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "TIPs, United Bible Societies (drawing on Reyburn and Fry's UBS Handbook on Proverbs)",
+   "dcterms:title": "Translation commentary on Proverbs 15:22",
+   "schema:url": {
+    "@id": "https://tips.translation.bible/tip_verse/prov-1522/"
+   },
+   "wgo:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1",
@@ -1822,6 +2016,88 @@
      "@id": "wg:social-support"
     }
    ]
+  },
+  {
+   "@id": "wg:seeking-counsel",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6"
+    }
+   ],
+   "rdfs:label": "Seeking counsel",
+   "skos:altLabel": [
+    "advice seeking",
+    "asking for advice",
+    "taking counsel",
+    "wise counsel"
+   ],
+   "skos:broader": {
+    "@id": "wg:deliberation"
+   },
+   "skos:definition": "Deliberately asking well-chosen people for their view before an important or uncertain decision, and then giving their advice real weight rather than only using it to confirm what you already think.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Seeking counsel",
+   "skos:related": [
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:egocentric-discounting"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:major-life-decision"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:neighborly-advice-study"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:wisdom-of-crowds"
+   },
+   "wgo:file": "articles/judgment-and-decisions/seeking-counsel.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:requires": {
+    "@id": "wg:intellectual-humility"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:hebrew-wisdom-literature"
+   }
   },
   {
    "@id": "wg:self-distancing",

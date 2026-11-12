@@ -54,6 +54,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s2> .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s3> .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/judgment-and-decisions/seeking-counsel.md" .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/self-distancing.md" .
@@ -693,6 +702,124 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s4> <https://schema.org/url> <https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Did I ask people who know this kind of decision, or only people who would agree with me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Did I ask without signalling the answer I wanted?" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "When the advice differed from my view, did I actually move, or did I explain it away?" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Have I asked anyone who has already lived through this choice how it felt afterwards?" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I'll write down my own answer first, then ask a former colleague who joined a start-up two years ago how it really went, and a mentor who tends to be cautious. I won't tell them which way I'm leaning, and I'll actually shift my view if they both raise the same worry." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'll ask my best friend, who always backs me, mention the salary first, and take the yes as confirmation." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead has a job offer from a fast-growing start-up and must answer by Friday. They are excited and have already half-decided to accept." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Asking advisers who know the terrain, without steering them, gives the decision a second independent view and the lived experience of someone who has already been there, which people tend to undervalue." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/1> <https://schema.org/text> "Name the decision and decide whether it is important and uncertain enough to deserve outside counsel." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/2> <https://schema.org/text> "Write down your own current view and how confident you are, before you ask anyone." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/3> <https://schema.org/text> "Choose two or three advisers who know this kind of situation, including at least one who has lived through it and one likely to disagree with you." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/4> <https://schema.org/text> "Ask each one separately and personally, describe the problem without revealing your preferred answer, and ask what they would do and why." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/5> <https://schema.org/text> "Ask anyone who has already been through the same choice how it actually turned out and felt for them." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/6> <https://schema.org/text> "Compare their answers with your own and move your view meaningfully toward the advice where they know more or agree with each other, noting where and why you still differ." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/7> <https://schema.org/text> "Make the decision yourself, take responsibility for it, and later tell your advisers what you decided and how it went." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/name> "Seeking counsel" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto/7> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2000/01/rdf-schema#label> "Seeking counsel" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#altLabel> "advice seeking" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#altLabel> "asking for advice" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#altLabel> "taking counsel" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#altLabel> "wise counsel" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#definition> "Deliberately asking well-chosen people for their view before an important or uncertain decision, and then giving their advice real weight rather than only using it to confirm what you already think." .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seeking counsel" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/egocentric-discounting> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/neighborly-advice-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/wisdom-of-crowds> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/seeking-counsel.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://purl.org/dc/terms/publisher> "Organizational Behavior and Human Decision Processes, 83(2), 260–281 (Yaniv & Kleinberger, 2000), Hebrew University of Jerusalem research portal" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://purl.org/dc/terms/title> "Advice taking in decision making: Egocentric discounting and reputation formation" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <https://schema.org/url> <https://cris.huji.ac.il/en/publications/advice-taking-in-decision-making-egocentric-discounting-and-reput/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, Massachusetts Institute of Technology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book III (translated by W. D. Ross)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s2> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.mb.txt> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> <http://purl.org/dc/terms/publisher> "Current Psychology, 42, 24516–24541 (Bailey, Leon, Ebner et al., 2023), Springer" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> <http://purl.org/dc/terms/title> "A meta-analysis of the weight of advice in decision-making" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s3> <https://schema.org/url> <https://link.springer.com/article/10.1007/s12144-022-03573-2> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> <http://purl.org/dc/terms/publisher> "Science, 323(5921), 1617–1619 (Gilbert, Killingsworth, Eyre & Wilson, 2009), Harvard DASH repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> <http://purl.org/dc/terms/title> "The surprising power of neighborly advice" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> <https://schema.org/url> <https://dash.harvard.edu/entities/publication/73120378-8610-6bd4-e053-0100007fdf3b> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> <http://purl.org/dc/terms/publisher> "Management Science, 61(6), 1421–1435 (Brooks, Gino & Schweitzer, 2015), RePEc/IDEAS record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> <http://purl.org/dc/terms/title> "Smart people ask for (my) advice: Seeking advice boosts perceptions of competence" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> <https://schema.org/url> <https://ideas.repec.org/a/inm/ormnsc/v61y2015i6p1421-1435.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <http://purl.org/dc/terms/publisher> "TIPs, United Bible Societies (drawing on Reyburn and Fry's UBS Handbook on Proverbs)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <http://purl.org/dc/terms/title> "Translation commentary on Proverbs 15:22" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <https://schema.org/url> <https://tips.translation.bible/tip_verse/prov-1522/> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reliving this from the inside, or looking at it as an observer would?" .
@@ -993,9 +1120,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/construal-level-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/distraction> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/egocentric-discounting> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
@@ -1021,11 +1151,16 @@
   <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -1034,6 +1169,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/life-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-seligman> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -1053,11 +1192,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/neighborly-advice-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/neighborly-advice-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/neighborly-advice-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/problem-solving> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
@@ -1080,6 +1223,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -1088,6 +1239,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/self-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
@@ -1104,6 +1256,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -1129,6 +1282,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/vindictiveness> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-of-crowds> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
