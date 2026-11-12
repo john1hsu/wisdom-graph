@@ -164,6 +164,46 @@
    "wgo:why": "Forgiving here means dropping the campaign of payback while keeping the judgement that it was wrong and the safeguards that protect you; it is neither pretending nothing happened nor trusting blindly."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I noticed who made this good thing possible, and the effort or intention it took them?",
+   "wgo:questionFor": {
+    "@id": "wg:gratitude"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I actually told them, specifically, rather than only feeling it?",
+   "wgo:questionFor": {
+    "@id": "wg:gratitude"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?",
+   "wgo:questionFor": {
+    "@id": "wg:gratitude"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using \"be grateful\" to talk myself, or someone else, out of a legitimate complaint?",
+   "wgo:questionFor": {
+    "@id": "wg:gratitude"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll tell them specifically what their evening saved, mention it to our manager, and keep an eye out for a chance to help them in turn.",
+   "wgo:before": "Good, it's fixed. That's their job anyway; on to the next thing.",
+   "wgo:situation": "A teammate quietly stayed late to fix a broken data feed so your quarterly report could go out on time.",
+   "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
@@ -880,6 +920,90 @@
    "dcterms:title": "Dhammapada I, Yamakavagga: Pairs, verses 3–5, trans. Acharya Buddharakkhita",
    "schema:url": {
     "@id": "https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Gratitude (Manela; first published 2015, substantive revision 2019)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/gratitude/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Gratitude: What Is It? (definition, benefits and how to cultivate it)",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/gratitude/definition"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 84(2), 377–389 (Emmons & McCullough, 2003; author PDF hosted by the Greater Good Science Center)",
+   "dcterms:title": "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 22(1), 413–445 (Cregg & Cheavens, 2021; RePEc record)",
+   "dcterms:title": "Gratitude Interventions: Effective Self-help? A Meta-analysis of the Impact on Symptoms of Depression and Anxiety",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/spr/jhappi/v22y2021i1d10.1007_s10902-020-00236-6.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Ohio State News, The Ohio State University",
+   "dcterms:title": "Gratitude interventions don't help with depression, anxiety",
+   "schema:url": {
+    "@id": "https://news.osu.edu/gratitude-interventions-dont-help-with-depression-anxiety/"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Project Gutenberg (Bohn's Classical Library translation)",
+   "dcterms:title": "L. Annaeus Seneca On Benefits (De Beneficiis), trans. Aubrey Stewart (1887)",
+   "schema:url": {
+    "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
    },
    "wgo:sourceType": "primary"
   },
@@ -1741,6 +1865,87 @@
    "wgo:level": "introductory",
    "wgo:rootedIn": {
     "@id": "wg:buddhism"
+   }
+  },
+  {
+   "@id": "wg:gratitude",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6"
+    }
+   ],
+   "rdfs:label": "Gratitude",
+   "skos:altLabel": [
+    "grateful disposition",
+    "gratefulness",
+    "thankfulness"
+   ],
+   "skos:broader": {
+    "@id": "wg:appreciation"
+   },
+   "skos:definition": "The settled disposition to recognise goods you have received, to see that they came from the goodwill of someone else, and to respond with fitting thanks and goodwill in return, without servility or a ledger of debts.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Gratitude",
+   "skos:related": [
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:mental-subtraction"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:savoring"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:ingratitude"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:gratitude-interventions-meta-analysis"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:indebtedness"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/gratitude.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:stoicism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:counting-blessings-study"
    }
   },
   {

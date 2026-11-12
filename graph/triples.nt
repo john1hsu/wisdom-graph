@@ -130,6 +130,54 @@
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/forgiveness.md" .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I noticed who made this good thing possible, and the effort or intention it took them?" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I actually told them, specifically, rather than only feeling it?" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using \"be grateful\" to talk myself, or someone else, out of a legitimate complaint?" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I'll tell them specifically what their evening saved, mention it to our manager, and keep an eye out for a chance to help them in turn." .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Good, it's fixed. That's their job anyway; on to the next thing." .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A teammate quietly stayed late to fix a broken data feed so your quarterly report could go out on time." .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget." .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2000/01/rdf-schema#label> "Gratitude" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#altLabel> "grateful disposition" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#altLabel> "gratefulness" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#altLabel> "thankfulness" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/appreciation> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#definition> "The settled disposition to recognise goods you have received, to see that they came from the goodwill of someone else, and to respond with fitting thanks and goodwill in return, without servility or a ledger of debts." .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gratitude" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mental-subtraction> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/ingratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/gratitude-interventions-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/indebtedness> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/gratitude/example> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/gratitude.md" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+<https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/counting-blessings-study> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If my time were shorter than I assume, would this still be worth my anger or effort?" .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -639,6 +687,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://purl.org/dc/terms/title> "Gratitude (Manela; first published 2015, substantive revision 2019)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <https://schema.org/url> <https://plato.stanford.edu/entries/gratitude/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, UC Berkeley" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> <http://purl.org/dc/terms/title> "Gratitude: What Is It? (definition, benefits and how to cultivate it)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s2> <https://schema.org/url> <https://greatergood.berkeley.edu/gratitude/definition> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 84(2), 377–389 (Emmons & McCullough, 2003; author PDF hosted by the Greater Good Science Center)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> <http://purl.org/dc/terms/title> "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s3> <https://schema.org/url> <https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> <http://purl.org/dc/terms/publisher> "Journal of Happiness Studies, 22(1), 413–445 (Cregg & Cheavens, 2021; RePEc record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> <http://purl.org/dc/terms/title> "Gratitude Interventions: Effective Self-help? A Meta-analysis of the Impact on Symptoms of Depression and Anxiety" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> <https://schema.org/url> <https://ideas.repec.org/a/spr/jhappi/v22y2021i1d10.1007_s10902-020-00236-6.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> <http://purl.org/dc/terms/publisher> "Ohio State News, The Ohio State University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> <http://purl.org/dc/terms/title> "Gratitude interventions don't help with depression, anxiety" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> <https://schema.org/url> <https://news.osu.edu/gratitude-interventions-dont-help-with-depression-anxiety/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <http://purl.org/dc/terms/publisher> "Project Gutenberg (Bohn's Classical Library translation)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <http://purl.org/dc/terms/title> "L. Annaeus Seneca On Benefits (De Beneficiis), trans. Aubrey Stewart (1887)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://schema.org/url> <https://gutenberg.org/cache/epub/3794/pg3794-images.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 30(3), 278–292 (Cozzolino, Staples, Meyers & Samboceti, 2004)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/title> "Greed, death, and values: From terror management to transcendence management theory" .

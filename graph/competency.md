@@ -27,10 +27,11 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | practice | reach | targets |
 |---|---|---|
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
-| `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
+| `wg:negative-visualization` | 3 | Gratitude, equanimity, hedonic-adaptation |
 | `wg:self-distancing` | 3 | Rumination, solomons-paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
+| `wg:gratitude` | 1 | ingratitude |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:socratic-ignorance` | 1 | intellectual-humility |
 
@@ -52,6 +53,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | node | status | challenger |
 |---|---|---|
 | `wg:compassionate-reappraisal` | mixed |  |
+| `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 
@@ -77,6 +79,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
+| `wg:stoicism` | `wg:gratitude` |
 | `wg:stoicism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:negative-visualization` |
 

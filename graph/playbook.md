@@ -151,6 +151,24 @@ Ask yourself:
 - When the advice differed from my view, did I actually move, or did I explain it away?
 - Have I asked anyone who has already lived through this choice how it felt afterwards?
 
+## meaning-and-the-good-life
+
+### [Gratitude](../articles/meaning-and-the-good-life/gratitude.md) — Virtue
+
+*A teammate quietly stayed late to fix a broken data feed so your quarterly report could go out on time.*
+
+| Before | After |
+|---|---|
+| Good, it's fixed. That's their job anyway; on to the next thing. | I'll tell them specifically what their evening saved, mention it to our manager, and keep an eye out for a chance to help them in turn. |
+
+**Why:** Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget.
+
+Ask yourself:
+- Have I noticed who made this good thing possible, and the effort or intention it took them?
+- Have I actually told them, specifically, rather than only feeling it?
+- Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?
+- Am I using "be grateful" to talk myself, or someone else, out of a legitimate complaint?
+
 ## self-knowledge
 
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice

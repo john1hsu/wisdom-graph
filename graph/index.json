@@ -222,6 +222,99 @@
   ]
  },
  {
+  "id": "wg:gratitude",
+  "title": "Gratitude",
+  "aliases": [
+   "gratefulness",
+   "thankfulness",
+   "grateful disposition"
+  ],
+  "type": "Virtue",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/gratitude.md",
+  "created": "2026-11-12",
+  "summary": "The settled disposition to recognise goods you have received, to see that they came from the goodwill of someone else, and to respond with fitting thanks and goodwill in return, without servility or a ledger of debts.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:appreciation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mental-subtraction"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:ingratitude",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:indebtedness",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:counting-blessings-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:gratitude-interventions-meta-analysis",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Have I noticed who made this good thing possible, and the effort or intention it took them?",
+   "Have I actually told them, specifically, rather than only feeling it?",
+   "Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?",
+   "Am I using \"be grateful\" to talk myself, or someone else, out of a legitimate complaint?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A teammate quietly stayed late to fix a broken data feed so your quarterly report could go out on time.",
+   "before": "Good, it's fixed. That's their job anyway; on to the next thing.",
+   "after": "I'll tell them specifically what their evening saved, mention it to our manager, and keep an eye out for a chance to help them in turn.",
+   "why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/gratitude/",
+   "https://greatergood.berkeley.edu/gratitude/definition",
+   "https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf",
+   "https://ideas.repec.org/a/spr/jhappi/v22y2021i1d10.1007_s10902-020-00236-6.html",
+   "https://news.osu.edu/gratitude-interventions-dont-help-with-depression-anxiety/",
+   "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [
