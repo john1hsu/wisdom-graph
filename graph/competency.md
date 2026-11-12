@@ -26,9 +26,9 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 
 | practice | reach | targets |
 |---|---|---|
-| `wg:compassionate-reappraisal` | 3 | Forgiveness, compassion, rumination |
+| `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
 | `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
-| `wg:forgiveness` | 2 | rumination, vindictiveness |
+| `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
 
 ## Toolkit by life situation
@@ -52,7 +52,9 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 _Which written concepts have no introducedBy / introducedIn edge or rootedIn edge (who named it, where, or which tradition teaches it)?_ — `queries/07-unattributed.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:rumination` | wgo:Vice |
 
 ## Orphan articles (gap)
 

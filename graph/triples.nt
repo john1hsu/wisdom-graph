@@ -280,6 +280,56 @@
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Has this round of thinking produced a new insight or a next step, or am I replaying the same scene?" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I asking how to deal with this, or only why it happened and what it says about me?" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What would I advise a friend in exactly this position, and can I take that advice tonight?" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Have I tested the fear I keep circling, or only rehearsed it?" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"If a colleague told me this, I'd ask what exactly went wrong and what they'd do next. The last three updates slipped because I waited for complete data. I'll propose a short interim update every Friday and check that works for her.\" Then you put it down for the night." .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"Why do I always do this? What does she really think of me? I'm probably the weakest person on the team.\" Two hours later you are still replaying the meeting and have decided nothing." .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "In your annual review, your manager says your project updates are often late. That night you cannot stop thinking about it." .
+<https://github.com/john1hsu/wisdom-graph/id/rumination/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Asking what happened and how to act, from a step back, turns the same worry into a plan, whereas asking why in a self-critical loop keeps the hurt fresh and leaves the problem untouched." .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Vice> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2000/01/rdf-schema#label> "Rumination" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#altLabel> "brooding" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#altLabel> "depressive rumination" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#altLabel> "dwelling" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#altLabel> "mulling over" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#altLabel> "ruminative thinking" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#definition> "The habit of repeatedly and passively turning over your distress, its causes and its consequences, without moving toward a solution or acceptance; it feels like thinking a problem through but tends to deepen low mood and stall action." .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumination" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/worry> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "robust" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/rumination/example> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/response-styles-theory> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/rumination.md" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/problem-solving> .
+<https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adversity, loss and mortality" .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
@@ -460,6 +510,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://schema.org/url> <https://ggia.berkeley.edu/practice/mental_subtraction_positive_events> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> <http://purl.org/dc/terms/publisher> "Perspectives on Psychological Science, 3(5), 400–424 (Nolen-Hoeksema, Wisco & Lyubomirsky, 2008), via UC eScholarship" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> <http://purl.org/dc/terms/title> "Rethinking Rumination" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1> <https://schema.org/url> <https://escholarship.org/uc/item/8544f7w2> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> <http://purl.org/dc/terms/publisher> "Psychological Bulletin, 134(2), 163–206 (Watkins, 2008), author manuscript via University of Exeter" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> <http://purl.org/dc/terms/title> "Constructive and unconstructive repetitive thought" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s2> <https://schema.org/url> <https://ore.exeter.ac.uk/repository/bitstream/10871/11162/2/watkinsconstructiveunconstructiveRT.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> <http://purl.org/dc/terms/publisher> "Psychological Science, 16(9), 709–715 (Kross, Ayduk & Mischel, 2005)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> <http://purl.org/dc/terms/title> "When asking \"why\" does not hurt: Distinguishing rumination from reflective processing of negative emotions" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s3> <https://schema.org/url> <https://rascl.studentorg.berkeley.edu/assets/files/kross_etal_2005_ps.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> <http://purl.org/dc/terms/publisher> "Behaviour Research and Therapy, 106, 71–85 (Spinhoven et al., 2018), via Utrecht University Repository" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> <http://purl.org/dc/terms/title> "The effects of cognitive-behavior therapy for depression on repetitive negative thinking: A meta-analysis" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> <https://schema.org/url> <https://dspace.library.uu.nl/bitstream/1874/369781/1/1_s2.0_S0005796718300561_main.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> <http://purl.org/dc/terms/publisher> "Public-domain transcription of Gummere's 1917 Loeb translation (monadnock.net)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> <http://purl.org/dc/terms/title> "Seneca, Moral Letters to Lucilius, Letter 13 (On Groundless Fears), trans. R. M. Gummere" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> <https://schema.org/url> <https://monadnock.net/seneca/13.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://purl.org/dc/terms/publisher> "Cognitive Therapy and Research, 27, 247–259 (Treynor, Gonzalez & Nolen-Hoeksema, 2003)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://purl.org/dc/terms/title> "Rumination reconsidered: A psychometric analysis" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://schema.org/url> <https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Dirk Baltzly; rev. 2023)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1> <http://purl.org/dc/terms/title> "Stoicism" .

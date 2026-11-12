@@ -433,6 +433,99 @@
   ]
  },
  {
+  "id": "wg:rumination",
+  "title": "Rumination",
+  "aliases": [
+   "brooding",
+   "depressive rumination",
+   "dwelling",
+   "mulling over",
+   "ruminative thinking"
+  ],
+  "type": "Vice",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "robust",
+  "file": "articles/emotions-and-equanimity/rumination.md",
+  "created": "2026-11-12",
+  "summary": "The habit of repeatedly and passively turning over your distress, its causes and its consequences, without moving toward a solution or acceptance; it feels like thinking a problem through but tends to deepen low mood and stall action.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:repetitive-negative-thinking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:worry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:response-styles-theory",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:problem-solving",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:social-support",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:self-reflection",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Has this round of thinking produced a new insight or a next step, or am I replaying the same scene?",
+   "Am I asking how to deal with this, or only why it happened and what it says about me?",
+   "What would I advise a friend in exactly this position, and can I take that advice tonight?",
+   "Have I tested the fear I keep circling, or only rehearsed it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "In your annual review, your manager says your project updates are often late. That night you cannot stop thinking about it.",
+   "before": "\"Why do I always do this? What does she really think of me? I'm probably the weakest person on the team.\" Two hours later you are still replaying the meeting and have decided nothing.",
+   "after": "\"If a colleague told me this, I'd ask what exactly went wrong and what they'd do next. The last three updates slipped because I waited for complete data. I'll propose a short interim update every Friday and check that works for her.\" Then you put it down for the night.",
+   "why": "Asking what happened and how to act, from a step back, turns the same worry into a plan, whereas asking why in a self-critical loop keeps the hurt fresh and leaves the problem untouched."
+  },
+  "source_urls": [
+   "https://escholarship.org/uc/item/8544f7w2",
+   "https://ore.exeter.ac.uk/repository/bitstream/10871/11162/2/watkinsconstructiveunconstructiveRT.pdf",
+   "https://rascl.studentorg.berkeley.edu/assets/files/kross_etal_2005_ps.pdf",
+   "https://dspace.library.uu.nl/bitstream/1874/369781/1/1_s2.0_S0005796718300561_main.pdf",
+   "https://monadnock.net/seneca/13.html",
+   "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf"
+  ]
+ },
+ {
   "id": "wg:stoicism",
   "title": "Stoicism",
   "aliases": [

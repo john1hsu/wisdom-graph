@@ -92,3 +92,19 @@ Ask yourself:
 - After imagining this loss, did I come back to what I still have and what I can do now?
 - Which parts of the outcome I fear are actually up to me?
 
+### [Rumination](../articles/emotions-and-equanimity/rumination.md) — Vice
+
+*In your annual review, your manager says your project updates are often late. That night you cannot stop thinking about it.*
+
+| Before | After |
+|---|---|
+| "Why do I always do this? What does she really think of me? I'm probably the weakest person on the team." Two hours later you are still replaying the meeting and have decided nothing. | "If a colleague told me this, I'd ask what exactly went wrong and what they'd do next. The last three updates slipped because I waited for complete data. I'll propose a short interim update every Friday and check that works for her." Then you put it down for the night. |
+
+**Why:** Asking what happened and how to act, from a step back, turns the same worry into a plan, whereas asking why in a self-critical loop keeps the hurt fresh and leaves the problem untouched.
+
+Ask yourself:
+- Has this round of thinking produced a new insight or a next step, or am I replaying the same scene?
+- Am I asking how to deal with this, or only why it happened and what it says about me?
+- What would I advise a friend in exactly this position, and can I take that advice tonight?
+- Have I tested the fear I keep circling, or only rehearsed it?
+
