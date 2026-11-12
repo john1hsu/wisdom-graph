@@ -251,6 +251,90 @@
    "wgo:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Dirk Baltzly; rev. 2023)",
+   "dcterms:title": "Stoicism",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/stoicism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Massimo Pigliucci)",
+   "dcterms:title": "Stoicism",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/stoicism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Epictetus, The Enchiridion, trans. Elizabeth Carter",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Epictetus/epicench.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 23(7), 3531–3547 (Karl, Verhaeghen, Aikman, Solem, Lassen & Fischer, 2022)",
+   "dcterms:title": "Misunderstood Stoicism: The negative association between Stoic ideology and well-being",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/spr/jhappi/v23y2022i7d10.1007_s10902-022-00563-w.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Discover Psychology, 4, 15 (Dickinson, 2024)",
+   "dcterms:title": "The lineage of positive psychology and cognitive behavioral modalities: How Stoicism inspired modern psychotherapy",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s44202-024-00121-w"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Royal Holloway, University of London (news, 13 October 2020)",
+   "dcterms:title": "Stoicism makes people happy – and it's nothing to do with having a stiff upper lip",
+   "schema:url": {
+    "@id": "https://royalholloway.ac.uk/about-us/news/stoicism-makes-people-happy-and-it-s-nothing-to-do-with-having-a-stiff-upper-lip"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
    "@id": "wg:memento-mori",
    "@type": "wgo:Practice",
    "dcterms:created": {
@@ -334,6 +418,89 @@
      "@id": "wg:stoicism"
     }
    ]
+  },
+  {
+   "@id": "wg:stoicism",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s6"
+    }
+   ],
+   "rdfs:label": "Stoicism",
+   "skos:altLabel": [
+    "Stoic philosophy",
+    "Stoic school",
+    "the Stoa"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:hellenistic-philosophy"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "skos:definition": "A Hellenistic school of philosophy, founded in Athens around 300 BCE by Zeno of Citium, which teaches that virtue is the only true good and that a flourishing life comes from living in agreement with nature and reason, judging wisely what is and is not up to us.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Stoicism",
+   "skos:related": [
+    {
+     "@id": "wg:cardinal-virtues"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:emotional-suppression"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:epicureanism"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/stoicism.md",
+   "wgo:influencedBy": {
+    "@id": "wg:socratic-philosophy"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:zeno-of-citium"
+   },
+   "wgo:level": "introductory"
   }
  ]
 }

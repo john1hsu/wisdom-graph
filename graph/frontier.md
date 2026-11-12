@@ -4,13 +4,21 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `wg:buddhism` | 2.34 | Tradition | `wg:memento-mori` |
-| `wg:death-awareness` | 2.34 | - | `wg:memento-mori` |
-| `wg:equanimity` | 2.34 | - | `wg:memento-mori` |
-| `wg:impermanence` | 2.34 | - | `wg:memento-mori` |
-| `wg:life-review` | 2.34 | - | `wg:memento-mori` |
-| `wg:negative-visualization` | 2.34 | - | `wg:memento-mori` |
-| `wg:stoicism` | 2.34 | Tradition | `wg:memento-mori` |
-| `wg:view-from-above` | 2.34 | - | `wg:memento-mori` |
-| `wg:greed` | 1.84 | - | `wg:memento-mori` |
-| `wg:mortality-salience` | 1.84 | - | `wg:memento-mori` |
+| `wg:negative-visualization` | 3.49 | - | `wg:memento-mori`, `wg:stoicism` |
+| `wg:view-from-above` | 3.49 | - | `wg:memento-mori`, `wg:stoicism` |
+| `wg:cardinal-virtues` | 2.00 | - | `wg:stoicism` |
+| `wg:dichotomy-of-control` | 2.00 | - | `wg:stoicism` |
+| `wg:epicureanism` | 2.00 | - | `wg:stoicism` |
+| `wg:eudaimonia` | 2.00 | - | `wg:stoicism` |
+| `wg:socratic-philosophy` | 2.00 | - | `wg:stoicism` |
+| `wg:buddhism` | 1.99 | Tradition | `wg:memento-mori` |
+| `wg:death-awareness` | 1.99 | - | `wg:memento-mori` |
+| `wg:equanimity` | 1.99 | - | `wg:memento-mori` |
+| `wg:impermanence` | 1.99 | - | `wg:memento-mori` |
+| `wg:life-review` | 1.99 | - | `wg:memento-mori` |
+| `wg:emotional-suppression` | 1.50 | - | `wg:stoicism` |
+| `wg:hellenistic-philosophy` | 1.50 | - | `wg:stoicism` |
+| `wg:virtue-ethics` | 1.50 | - | `wg:stoicism` |
+| `wg:zeno-of-citium` | 1.50 | Person | `wg:stoicism` |
+| `wg:greed` | 1.49 | - | `wg:memento-mori` |
+| `wg:mortality-salience` | 1.49 | - | `wg:memento-mori` |

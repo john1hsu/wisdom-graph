@@ -50,9 +50,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `wg:memento-mori` |
+_No results._
 
 ## Teachings by tradition
 

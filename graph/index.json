@@ -95,5 +95,90 @@
    "https://www.dhammatalks.org/suttas/AN/AN6_19.html",
    "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
   ]
+ },
+ {
+  "id": "wg:stoicism",
+  "title": "Stoicism",
+  "aliases": [
+   "Stoic philosophy",
+   "the Stoa",
+   "Stoic school"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/stoicism.md",
+  "created": "2026-11-12",
+  "summary": "A Hellenistic school of philosophy, founded in Athens around 300 BCE by Zeno of Citium, which teaches that virtue is the only true good and that a flourishing life comes from living in agreement with nature and reason, judging wisely what is and is not up to us.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:hellenistic-philosophy"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:zeno-of-citium",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:socratic-philosophy",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:epicureanism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:emotional-suppression",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/entries/stoicism/",
+   "https://iep.utm.edu/stoicism/",
+   "https://classics.mit.edu/Epictetus/epicench.html",
+   "https://ideas.repec.org/a/spr/jhappi/v23y2022i7d10.1007_s10902-022-00563-w.html",
+   "https://link.springer.com/article/10.1007/s44202-024-00121-w",
+   "https://royalholloway.ac.uk/about-us/news/stoicism-makes-people-happy-and-it-s-nothing-to-do-with-having-a-stiff-upper-lip"
+  ]
  }
 ]
