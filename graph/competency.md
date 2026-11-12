@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:forgiveness` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -28,6 +26,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 
 | practice | reach | targets |
 |---|---|---|
+| `wg:compassionate-reappraisal` | 3 | Forgiveness, compassion, rumination |
 | `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
 | `wg:forgiveness` | 2 | rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
@@ -38,13 +37,16 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 
 ## Myths and contested advice
 
 _Which wisdom claims and popular advice are contested, mixed or failed to replicate, and what challenges them?_ — `queries/06-myths-and-contested-advice.rq`
 
-_No results._
+| node | status | challenger |
+|---|---|---|
+| `wg:compassionate-reappraisal` | mixed |  |
 
 ## Ideas with no recorded origin (gap)
 
@@ -56,9 +58,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `wg:forgiveness` |
+_No results._
 
 ## Teachings by tradition
 

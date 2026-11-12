@@ -4,35 +4,38 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `wg:view-from-above` | 4.38 | - | `wg:memento-mori`, `wg:negative-visualization`, `wg:stoicism` |
-| `wg:equanimity` | 4.34 | - | `wg:forgiveness`, `wg:memento-mori`, `wg:negative-visualization` |
-| `wg:rumination` | 4.30 | - | `wg:forgiveness`, `wg:negative-visualization` |
-| `wg:dichotomy-of-control` | 3.09 | - | `wg:negative-visualization`, `wg:stoicism` |
-| `wg:epicureanism` | 3.09 | - | `wg:negative-visualization`, `wg:stoicism` |
-| `wg:buddhism` | 3.04 | Tradition | `wg:forgiveness`, `wg:memento-mori` |
-| `wg:gratitude` | 1.80 | - | `wg:negative-visualization` |
-| `wg:hedonic-adaptation` | 1.80 | - | `wg:negative-visualization` |
-| `wg:cardinal-virtues` | 1.80 | - | `wg:stoicism` |
-| `wg:eudaimonia` | 1.80 | - | `wg:stoicism` |
-| `wg:socratic-philosophy` | 1.80 | - | `wg:stoicism` |
-| `wg:death-awareness` | 1.79 | - | `wg:memento-mori` |
-| `wg:impermanence` | 1.79 | - | `wg:memento-mori` |
-| `wg:life-review` | 1.79 | - | `wg:memento-mori` |
-| `wg:compassion` | 1.75 | - | `wg:forgiveness` |
-| `wg:perspective-taking` | 1.75 | - | `wg:forgiveness` |
-| `wg:anticipating-ones-troubles-study` | 1.30 | - | `wg:negative-visualization` |
-| `wg:george-bailey-effect` | 1.30 | - | `wg:negative-visualization` |
-| `wg:mental-subtraction` | 1.30 | - | `wg:negative-visualization` |
-| `wg:spiritual-exercises` | 1.30 | - | `wg:negative-visualization` |
-| `wg:emotional-suppression` | 1.30 | - | `wg:stoicism` |
-| `wg:hellenistic-philosophy` | 1.30 | - | `wg:stoicism` |
-| `wg:virtue-ethics` | 1.30 | - | `wg:stoicism` |
-| `wg:zeno-of-citium` | 1.30 | Person | `wg:stoicism` |
-| `wg:greed` | 1.29 | - | `wg:memento-mori` |
-| `wg:mortality-salience` | 1.29 | - | `wg:memento-mori` |
-| `wg:condonation` | 1.25 | - | `wg:forgiveness` |
-| `wg:interpersonal-conflict` | 1.25 | Context | `wg:forgiveness` |
-| `wg:reach-forgiveness` | 1.25 | - | `wg:forgiveness` |
-| `wg:reconciliation` | 1.25 | - | `wg:forgiveness` |
-| `wg:self-forgiveness` | 1.25 | - | `wg:forgiveness` |
-| `wg:vindictiveness` | 1.25 | - | `wg:forgiveness` |
+| `wg:rumination` | 6.73 | - | `wg:compassionate-reappraisal`, `wg:forgiveness`, `wg:negative-visualization` |
+| `wg:view-from-above` | 4.28 | - | `wg:memento-mori`, `wg:negative-visualization`, `wg:stoicism` |
+| `wg:equanimity` | 4.27 | - | `wg:forgiveness`, `wg:memento-mori`, `wg:negative-visualization` |
+| `wg:emotional-suppression` | 3.74 | - | `wg:compassionate-reappraisal`, `wg:stoicism` |
+| `wg:dichotomy-of-control` | 3.03 | - | `wg:negative-visualization`, `wg:stoicism` |
+| `wg:epicureanism` | 3.03 | - | `wg:negative-visualization`, `wg:stoicism` |
+| `wg:buddhism` | 3.00 | Tradition | `wg:forgiveness`, `wg:memento-mori` |
+| `wg:compassion` | 2.98 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
+| `wg:perspective-taking` | 2.98 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
+| `wg:cognitive-reappraisal` | 2.98 | - | `wg:compassionate-reappraisal` |
+| `wg:interpersonal-conflict` | 2.48 | Context | `wg:compassionate-reappraisal`, `wg:forgiveness` |
+| `wg:reach-forgiveness` | 2.48 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
+| `wg:gratitude` | 1.76 | - | `wg:negative-visualization` |
+| `wg:hedonic-adaptation` | 1.76 | - | `wg:negative-visualization` |
+| `wg:cardinal-virtues` | 1.76 | - | `wg:stoicism` |
+| `wg:eudaimonia` | 1.76 | - | `wg:stoicism` |
+| `wg:socratic-philosophy` | 1.76 | - | `wg:stoicism` |
+| `wg:death-awareness` | 1.76 | - | `wg:memento-mori` |
+| `wg:impermanence` | 1.76 | - | `wg:memento-mori` |
+| `wg:life-review` | 1.76 | - | `wg:memento-mori` |
+| `wg:anticipating-ones-troubles-study` | 1.26 | - | `wg:negative-visualization` |
+| `wg:george-bailey-effect` | 1.26 | - | `wg:negative-visualization` |
+| `wg:mental-subtraction` | 1.26 | - | `wg:negative-visualization` |
+| `wg:spiritual-exercises` | 1.26 | - | `wg:negative-visualization` |
+| `wg:hellenistic-philosophy` | 1.26 | - | `wg:stoicism` |
+| `wg:virtue-ethics` | 1.26 | - | `wg:stoicism` |
+| `wg:zeno-of-citium` | 1.26 | Person | `wg:stoicism` |
+| `wg:greed` | 1.26 | - | `wg:memento-mori` |
+| `wg:mortality-salience` | 1.26 | - | `wg:memento-mori` |
+| `wg:condonation` | 1.24 | - | `wg:forgiveness` |
+| `wg:reconciliation` | 1.24 | - | `wg:forgiveness` |
+| `wg:self-forgiveness` | 1.24 | - | `wg:forgiveness` |
+| `wg:vindictiveness` | 1.24 | - | `wg:forgiveness` |
+| `wg:benefit-finding` | 1.24 | - | `wg:compassionate-reappraisal` |
+| `wg:charlotte-witvliet` | 1.24 | Person | `wg:compassionate-reappraisal` |

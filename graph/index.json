@@ -1,5 +1,123 @@
 [
  {
+  "id": "wg:compassionate-reappraisal",
+  "title": "Compassionate reappraisal",
+  "aliases": [
+   "compassion-focused reappraisal",
+   "letting go of anger through compassion"
+  ],
+  "type": "Practice",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/compassionate-reappraisal.md",
+  "created": "2026-11-12",
+  "summary": "A short reflective exercise for someone who has wronged you: you keep the wrong in view but deliberately see the offender as a whole, flawed human being who needs to change, and try to wish them well, instead of replaying the hurt.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reach-forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotional-suppression"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:forgiveness",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:compassion",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:instanceOf",
+    "object": "wg:cognitive-reappraisal",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:emotional-suppression",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:alternativeTo",
+    "object": "wg:benefit-finding",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:charlotte-witvliet",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I wishing this person well, or am I telling myself that what they did was fine?",
+   "Is this wrong still going on and within my power to change, so that action rather than reappraisal is the priority?",
+   "After the exercise, what concrete step, if any, does fairness to me or others still require?",
+   "Am I trying this because I'm ready, or because I feel I ought to have moved on by now?"
+  ],
+  "steps": [
+   "Sit somewhere quiet and settle your breathing for a minute or two before you start.",
+   "Recall one specific time a particular person hurt or wronged you, and name plainly what they did and what it cost you.",
+   "Picture the offender as a whole person with a history, fears and other sides to them, not only as the author of this act.",
+   "Treat the wrong as a sign that this person needs to grow or change, without telling yourself it was acceptable.",
+   "Try, for about two minutes, to sincerely wish them something good, such as healing or becoming someone who would not do this again.",
+   "Notice your thoughts, feelings and body as you do this, and repeat the exercise when you catch yourself replaying the hurt.",
+   "Decide separately, on the facts, what boundary, conversation or accountability the situation still needs."
+  ],
+  "example": {
+   "situation": "A teammate missed a handover deadline and then told your manager the delay was your fault, and you lie awake replaying it.",
+   "before": "I keep going over every word they said to the manager. They're two-faced, that's all there is to it, and I'll be cold to them from now on.",
+   "after": "They were wrong to blame me, and I'll correct the record with the manager tomorrow. They were scared of being blamed, which doesn't excuse it, and I hope they learn to own their mistakes. I can wish them that and still watch my back.",
+   "why": "Replaying the offence keeps anger and arousal high, while seeing the person as flawed and in need of change lets the anger ease without denying the wrong or giving up the practical response."
+  },
+  "source_urls": [
+   "https://digitalcommons.hope.edu/faculty_publications/147",
+   "https://digitalcommons.hope.edu/faculty_publications/1330",
+   "https://digitalcommons.hope.edu/faculty_publications/1430",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714641",
+   "https://ggia.berkeley.edu/practice/letting_go_of_anger_through_compassion",
+   "https://escholarship.org/content/qt5ws5w0h9/qt5ws5w0h9.pdf?t=rufpxh"
+  ]
+ },
+ {
   "id": "wg:forgiveness",
   "title": "Forgiveness",
   "aliases": [
@@ -38,6 +156,10 @@
    {
     "predicate": "skos:related",
     "object": "wg:reach-forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
    },
    {
     "predicate": "wgo:addresses",

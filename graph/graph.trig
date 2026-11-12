@@ -9,6 +9,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/compassionate-reappraisal.md" .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/forgiveness.md" .
@@ -151,6 +160,126 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <https://schema.org/url> <https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I wishing this person well, or am I telling myself that what they did was fine?" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is this wrong still going on and within my power to change, so that action rather than reappraisal is the priority?" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "After the exercise, what concrete step, if any, does fairness to me or others still require?" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I trying this because I'm ready, or because I feel I ought to have moved on by now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "They were wrong to blame me, and I'll correct the record with the manager tomorrow. They were scared of being blamed, which doesn't excuse it, and I hope they learn to own their mistakes. I can wish them that and still watch my back." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I keep going over every word they said to the manager. They're two-faced, that's all there is to it, and I'll be cold to them from now on." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A teammate missed a handover deadline and then told your manager the delay was your fault, and you lie awake replaying it." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Replaying the offence keeps anger and arousal high, while seeing the person as flawed and in need of change lets the anger ease without denying the wrong or giving up the practical response." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/1> <https://schema.org/text> "Sit somewhere quiet and settle your breathing for a minute or two before you start." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/2> <https://schema.org/text> "Recall one specific time a particular person hurt or wronged you, and name plainly what they did and what it cost you." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/3> <https://schema.org/text> "Picture the offender as a whole person with a history, fears and other sides to them, not only as the author of this act." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/4> <https://schema.org/text> "Treat the wrong as a sign that this person needs to grow or change, without telling yourself it was acceptable." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/5> <https://schema.org/text> "Try, for about two minutes, to sincerely wish them something good, such as healing or becoming someone who would not do this again." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/6> <https://schema.org/text> "Notice your thoughts, feelings and body as you do this, and repeat the exercise when you catch yourself replaying the hurt." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/7> <https://schema.org/text> "Decide separately, on the facts, what boundary, conversation or accountability the situation still needs." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/name> "Compassionate reappraisal" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto/7> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2000/01/rdf-schema#label> "Compassionate reappraisal" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#altLabel> "compassion-focused reappraisal" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#altLabel> "letting go of anger through compassion" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#definition> "A short reflective exercise for someone who has wronged you: you keep the wrong in view but deliberately see the offender as a whole, flawed human being who needs to change, and try to wish them well, instead of replaying the hurt." .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#prefLabel> "Compassionate reappraisal" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#alternativeTo> <https://github.com/john1hsu/wisdom-graph/id/benefit-finding> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/compassionate-reappraisal.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#instanceOf> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> <http://purl.org/dc/terms/publisher> "Journal of Positive Psychology, 5(3), 226–242 (vanOyen Witvliet, Knoll, Hinman & DeYoung, 2010), via Hope College Digital Commons" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> <http://purl.org/dc/terms/title> "Compassion-focused reappraisal, benefit-focused reappraisal, and rumination after an interpersonal offense: Emotion-regulation implications for subjective emotion, linguistic responses, and physiology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1> <https://schema.org/url> <https://digitalcommons.hope.edu/faculty_publications/147> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> <http://purl.org/dc/terms/publisher> "Journal of Positive Psychology, 10(3), 248–261 (vanOyen Witvliet, Hofelich Mohr, Hinman & Knoll, 2015), via Hope College Digital Commons" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> <http://purl.org/dc/terms/title> "Transforming or restraining rumination: The impact of compassionate reappraisal versus emotion suppression on empathy, forgiveness, and affective psychophysiology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s2> <https://schema.org/url> <https://digitalcommons.hope.edu/faculty_publications/1330> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> <http://purl.org/dc/terms/publisher> "Journal of Positive Psychology, 12(4), 373–384 (Baker, Williams, Witvliet & Hill, 2017), via Hope College Digital Commons" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> <http://purl.org/dc/terms/title> "Positive reappraisals after an offense: Event-related potentials and emotional effects of benefit-finding and compassion" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s3> <https://schema.org/url> <https://digitalcommons.hope.edu/faculty_publications/1430> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 13, 992768 (Witvliet, Blank & Gall, 2022)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> <http://purl.org/dc/terms/title> "Compassionate reappraisal and rumination impact forgiveness, emotion, sleep, and prosocial accountability" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC9714641> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, UC Berkeley" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> <http://purl.org/dc/terms/title> "Letting Go of Anger Through Compassion" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s5> <https://schema.org/url> <https://ggia.berkeley.edu/practice/letting_go_of_anger_through_compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> <http://purl.org/dc/terms/publisher> "Emotion, 17(1), 141–154 (Troy, Ford, McRae, Zarolia & Mauss, 2017), via eScholarship, University of California" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> <http://purl.org/dc/terms/title> "Change the things you can: Emotion regulation is more beneficial for people from lower than from higher socioeconomic status" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s6> <https://schema.org/url> <https://escholarship.org/content/qt5ws5w0h9/qt5ws5w0h9.pdf?t=rufpxh> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I holding on to this to protect myself or someone else, or mainly to make them pay?" .
@@ -179,6 +308,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#definition> "The settled readiness to give up resentment and the wish for revenge toward someone who wronged you, while still judging that what they did was wrong, without requiring that you forget, excuse or reconcile." .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forgiveness" .
+  <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> .
@@ -440,20 +570,38 @@
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
   <https://github.com/john1hsu/wisdom-graph/id/anticipating-ones-troubles-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/benefit-finding> <https://github.com/john1hsu/wisdom-graph/ontology#alternativeTo> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#hasInstance> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/condonation> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -468,6 +616,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -478,6 +627,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/life-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -498,11 +648,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/reconciliation> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/self-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .

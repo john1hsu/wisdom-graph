@@ -10,7 +10,7 @@ summary: >-
 level: introductory
 evidenceStatus: normative
 broader: [wg:compassion]
-related: [wg:self-forgiveness, wg:rumination, wg:equanimity, wg:perspective-taking, wg:reach-forgiveness]
+related: [wg:self-forgiveness, wg:rumination, wg:equanimity, wg:perspective-taking, wg:reach-forgiveness, wg:compassionate-reappraisal]
 requires: []
 relations:
   - {predicate: addresses, object: wg:vindictiveness, source: s1, confidence: high}

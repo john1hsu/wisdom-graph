@@ -28,6 +28,30 @@ Ask yourself:
 
 ## compassion-and-relationships
 
+### [Compassionate reappraisal](../articles/compassion-and-relationships/compassionate-reappraisal.md) — Practice
+
+1. Sit somewhere quiet and settle your breathing for a minute or two before you start.
+2. Recall one specific time a particular person hurt or wronged you, and name plainly what they did and what it cost you.
+3. Picture the offender as a whole person with a history, fears and other sides to them, not only as the author of this act.
+4. Treat the wrong as a sign that this person needs to grow or change, without telling yourself it was acceptable.
+5. Try, for about two minutes, to sincerely wish them something good, such as healing or becoming someone who would not do this again.
+6. Notice your thoughts, feelings and body as you do this, and repeat the exercise when you catch yourself replaying the hurt.
+7. Decide separately, on the facts, what boundary, conversation or accountability the situation still needs.
+
+*A teammate missed a handover deadline and then told your manager the delay was your fault, and you lie awake replaying it.*
+
+| Before | After |
+|---|---|
+| I keep going over every word they said to the manager. They're two-faced, that's all there is to it, and I'll be cold to them from now on. | They were wrong to blame me, and I'll correct the record with the manager tomorrow. They were scared of being blamed, which doesn't excuse it, and I hope they learn to own their mistakes. I can wish them that and still watch my back. |
+
+**Why:** Replaying the offence keeps anger and arousal high, while seeing the person as flawed and in need of change lets the anger ease without denying the wrong or giving up the practical response.
+
+Ask yourself:
+- Am I wishing this person well, or am I telling myself that what they did was fine?
+- Is this wrong still going on and within my power to change, so that action rather than reappraisal is the priority?
+- After the exercise, what concrete step, if any, does fairness to me or others still require?
+- Am I trying this because I'm ready, or because I feel I ought to have moved on by now?
+
 ### [Forgiveness](../articles/compassion-and-relationships/forgiveness.md) — Virtue
 
 *A colleague presented your analysis as their own to a client, later admitted it and apologised, and you still have to work together on the account.*
