@@ -1,0 +1,7 @@
+# title: Orphan articles
+# question: Which written articles does nothing else in the graph point to (after inference)?
+# gap: true
+SELECT ?node WHERE {
+  ?node wgo:file ?f .
+  FILTER NOT EXISTS { ?other ?p ?node . ?other wgo:file ?g . FILTER(?other != ?node) }
+} ORDER BY ?node

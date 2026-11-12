@@ -1,0 +1,12 @@
+# title: Ideas with no recorded origin
+# question: Which written concepts have no introducedBy / introducedIn edge or rootedIn edge (who named it, where, or which tradition teaches it)?
+# gap: true
+SELECT ?node ?type WHERE {
+  ?node wgo:file ?f ; a ?type .
+  ?type rdfs:subClassOf* wgo:Concept .
+  FILTER(STRSTARTS(STR(?type), STR(wgo:)))
+  FILTER NOT EXISTS { ?node wgo:introducedBy ?p }
+  FILTER NOT EXISTS { ?node wgo:introducedIn ?w }
+  FILTER NOT EXISTS { ?node wgo:rootedIn ?r }
+  FILTER NOT EXISTS { ?node a ?sub . ?sub rdfs:subClassOf ?type . FILTER(?sub != ?type) }
+} ORDER BY ?node

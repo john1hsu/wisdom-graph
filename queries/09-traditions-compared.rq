@@ -1,0 +1,6 @@
+# title: Teachings by tradition
+# question: Which teachings, practices and virtues in the graph are rooted in each wisdom tradition?
+# gap: false
+SELECT ?tradition ?teaching WHERE {
+  ?teaching wgo:rootedIn ?tradition
+} ORDER BY ?tradition ?teaching

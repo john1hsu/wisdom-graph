@@ -1,0 +1,8 @@
+# title: Obstacles and vices with no remedy
+# question: Which written obstacles or vices have nothing in the graph that addresses them?
+# gap: true
+SELECT ?node ?type WHERE {
+  ?node wgo:file ?f ; a ?type .
+  VALUES ?type { wgo:Obstacle wgo:Vice }
+  FILTER NOT EXISTS { ?node wgo:addressedBy ?x }
+} ORDER BY ?node

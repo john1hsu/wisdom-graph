@@ -1,0 +1,8 @@
+# title: Myths and contested advice
+# question: Which wisdom claims and popular advice are contested, mixed or failed to replicate, and what challenges them?
+# gap: false
+SELECT ?node ?status ?challenger WHERE {
+  ?node wgo:evidenceStatus ?status .
+  FILTER(?status IN ("contested", "failed-replication", "mixed"))
+  OPTIONAL { ?node wgo:challengedBy ?challenger }
+} ORDER BY ?status ?node ?challenger

@@ -1,0 +1,181 @@
+@prefix wg:      <https://github.com/john1hsu/wisdom-graph/id/> .
+@prefix wgo:     <https://github.com/john1hsu/wisdom-graph/ontology#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix schema:  <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# =============================================================================
+# Wisdom Graph ontology (OWL 2 RL profile)
+#
+#  * Every article is a node; its class comes from frontmatter `type`.
+#  * `broader` / `related`         -> skos:broader / skos:related
+#  * `relations[].predicate`       -> the typed object properties below
+#  * `requires`                    -> wgo:requires (transitive; learning paths)
+#  * `steps`                       -> schema:HowTo / schema:HowToStep
+#  * `example`                     -> wgo:Rewrite (situation / before / after / why)
+#  * `selfCheck`                   -> wgo:SelfCheckQuestion nodes
+#  * provenance                    -> PROV-O; edge evidence -> RDF-star
+#
+# Property characteristics (inverse, symmetric, transitive) and class
+# disjointness drive OWL-RL reasoning and contradiction detection in
+# `scripts/kg.py build`. Domain/range is enforced for written targets.
+# Add a class or property here BEFORE using it. Reuse first.
+# =============================================================================
+
+wgo: a owl:Ontology ;
+    rdfs:label "Wisdom Graph ontology" ;
+    dcterms:description "Classes and typed relations for a citation-backed knowledge graph of wisdom: practical wisdom, the psychology of wise reasoning, self-knowledge, judgment under uncertainty, virtues and character, emotional equanimity, compassion, meaning, adversity and mortality, wise leadership, and the world's wisdom traditions." ;
+    owl:versionInfo "1.0.0" .
+
+# ---- Upper classes ------------------------------------------------------------
+wgo:Entity  a owl:Class ; rdfs:label "Entity" .
+wgo:Concept a owl:Class ; rdfs:subClassOf wgo:Entity , skos:Concept ; rdfs:label "Concept" ;
+    rdfs:comment "A general idea about wisdom: practical wisdom (phronesis), theoretical wisdom (sophia), eudaimonia, self-knowledge, meaning in life." .
+
+# ---- What you cultivate -------------------------------------------------------
+wgo:Skill a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Skill / capacity" ;
+    rdfs:comment "A learnable capacity of wise reasoning: perspective-taking, recognising the limits of one's knowledge, considering change and uncertainty, integrating viewpoints, emotional regulation." .
+wgo:Practice a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Practice / exercise" ;
+    rdfs:comment "A concrete, repeatable exercise with steps: self-distancing, the evening review, negative visualization, the view from above, a virtue journal, loving-kindness meditation, a premortem on a life decision." .
+wgo:Framework a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Framework / model" ;
+    rdfs:comment "A structuring model of wisdom or the good life: the Berlin wisdom paradigm, the balance theory of wisdom, the three-dimensional wisdom model, the Noble Eightfold Path, the VIA classification of character strengths." .
+wgo:Principle a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Principle / maxim" ;
+    rdfs:comment "A guiding teaching or maxim: know thyself, the dichotomy of control, the doctrine of the mean, the Golden Rule, impermanence, nothing in excess." .
+wgo:Virtue a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Virtue / character strength" ;
+    rdfs:comment "A trait of character behind wise action: prudence, intellectual humility, temperance, courage, justice, patience, equanimity, compassion, gratitude." .
+
+# ---- What gets in the way -----------------------------------------------------
+wgo:Obstacle a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Obstacle" ;
+    rdfs:comment "A psychological or situational obstacle to wisdom: Solomon's paradox, egocentric bias, the end-of-history illusion, hedonic adaptation, self-deception, attachment." .
+wgo:Vice a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Vice / folly" ;
+    rdfs:comment "A recognisable unwise habit or character failing: hubris, rashness, dogmatism, rumination, cynicism, cowardice, intemperance." .
+
+# ---- Where it is lived, and where it comes from -------------------------------
+wgo:Context a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Context / life situation" ;
+    rdfs:comment "A recurring situation that calls for wisdom: interpersonal conflict, a major life decision, grief and loss, failure, uncertainty, ageing, leading others, giving advice." .
+wgo:Tradition a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Wisdom tradition" ;
+    rdfs:comment "A philosophical or religious tradition with a body of wisdom teaching: Stoicism, Aristotelian virtue ethics, Confucianism, Daoism, Buddhism, Epicureanism, Hebrew wisdom literature, Vedanta." .
+
+# ---- Understanding it ---------------------------------------------------------
+wgo:Theory a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Theory" ;
+    rdfs:comment "An academic theory: socioemotional selectivity theory, Erikson's psychosocial stages, construal level theory, the dual-process account of wise reasoning." .
+wgo:Phenomenon a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Phenomenon" ;
+    rdfs:comment "An observed pattern: the positivity effect in ageing, post-traumatic growth, the wisdom of crowds, hedonic adaptation." .
+wgo:Field a owl:Class ; rdfs:subClassOf wgo:Concept ; rdfs:label "Field" ;
+    rdfs:comment "A discipline: virtue ethics, positive psychology, lifespan developmental psychology, philosophy of the good life, contemplative science." .
+
+# ---- Things in the world ------------------------------------------------------
+wgo:Person a owl:Class ; rdfs:subClassOf wgo:Entity , schema:Person ; rdfs:label "Person" .
+wgo:Organization a owl:Class ; rdfs:subClassOf wgo:Entity , schema:Organization ; rdfs:label "Organization" ;
+    rdfs:comment "An institution: the Berlin Max Planck Institute for Human Development, the Chicago Center for Practical Wisdom, the VIA Institute on Character." .
+wgo:Work a owl:Class ; rdfs:subClassOf wgo:Entity , schema:CreativeWork ; rdfs:label "Work / text" ;
+    rdfs:comment "A landmark text: the Nicomachean Ethics, Meditations, the Analects, the Tao Te Ching, the Dhammapada, the Book of Proverbs, Man's Search for Meaning." .
+wgo:Study a owl:Class ; rdfs:subClassOf wgo:Entity , schema:ScholarlyArticle ; rdfs:label "Study / experiment" ;
+    rdfs:comment "A landmark empirical study: the Berlin Wisdom Project studies, Grossmann and Kross's Solomon's paradox experiments, the Harvard Study of Adult Development." .
+wgo:Event a owl:Class ; rdfs:subClassOf wgo:Entity , schema:Event ; rdfs:label "Event" .
+
+# ---- Generated (not article types) --------------------------------------------
+wgo:Source a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork ; rdfs:label "Cited source" .
+wgo:SelfCheckQuestion a owl:Class ; rdfs:subClassOf wgo:Entity ; rdfs:label "Self-check question" ;
+    rdfs:comment "A reflection question to ask yourself before or after a real decision or encounter. Generated from frontmatter `selfCheck`." .
+wgo:Rewrite a owl:Class ; rdfs:subClassOf wgo:Entity ; rdfs:label "Before/after response" ;
+    rdfs:comment "A worked example: a less wise response to a situation, a wiser one, and why. Generated from frontmatter `example`." .
+
+# ---- Disjointness (contradiction detection) -----------------------------------
+[] a owl:AllDisjointClasses ; owl:members ( wgo:Obstacle wgo:Vice wgo:Skill wgo:Practice wgo:Principle wgo:Virtue ) .
+[] a owl:AllDisjointClasses ; owl:members ( wgo:Context wgo:Tradition ) .
+[] a owl:AllDisjointClasses ; owl:members ( wgo:Concept wgo:Person wgo:Organization wgo:Work wgo:Study wgo:Event ) .
+
+# ---- SKOS axioms (so the reasoner materialises narrower / symmetric related) --
+skos:broader owl:inverseOf skos:narrower ; rdfs:subPropertyOf skos:broaderTransitive .
+skos:narrower rdfs:subPropertyOf skos:narrowerTransitive .
+skos:broaderTransitive a owl:TransitiveProperty ; owl:inverseOf skos:narrowerTransitive .
+skos:related a owl:SymmetricProperty .
+
+# ---- Typed relations ----------------------------------------------------------
+# Structure and learning
+wgo:partOf a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf wgo:hasPart ; rdfs:label "part of / component of" .
+wgo:hasPart a owl:ObjectProperty ; rdfs:label "has part" .
+wgo:requires a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf wgo:prerequisiteOf ;
+    rdfs:label "requires (learning prerequisite)" .
+wgo:prerequisiteOf a owl:ObjectProperty ; rdfs:label "prerequisite of" .
+wgo:instanceOf a owl:ObjectProperty ; owl:inverseOf wgo:hasInstance ; rdfs:label "instance / variant of" .
+wgo:hasInstance a owl:ObjectProperty ; rdfs:label "has instance / variant" .
+wgo:contrastsWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "contrasts with" .
+wgo:confusedWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "commonly confused with" .
+wgo:alternativeTo a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "alternative to" .
+
+# Cultivating wisdom
+wgo:develops a owl:ObjectProperty ; owl:inverseOf wgo:developedBy ; rdfs:label "develops / cultivates" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( wgo:Practice wgo:Framework wgo:Principle ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( wgo:Skill wgo:Virtue ) ] .
+wgo:developedBy a owl:ObjectProperty ; rdfs:label "developed by (practice / teaching)" .
+wgo:addresses a owl:ObjectProperty ; owl:inverseOf wgo:addressedBy ; rdfs:label "addresses / counters" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( wgo:Practice wgo:Framework wgo:Principle wgo:Skill wgo:Virtue ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( wgo:Obstacle wgo:Vice ) ] .
+wgo:addressedBy a owl:ObjectProperty ; rdfs:label "addressed by" .
+wgo:appliedIn a owl:ObjectProperty ; owl:inverseOf wgo:benefitsFrom ; rdfs:label "applied in (life situation)" ;
+    rdfs:range wgo:Context .
+wgo:benefitsFrom a owl:ObjectProperty ; rdfs:label "benefits from" .
+wgo:rootedIn a owl:ObjectProperty ; owl:inverseOf wgo:teaches ; rdfs:label "rooted in / taught by (tradition)" ;
+    rdfs:range wgo:Tradition .
+wgo:teaches a owl:ObjectProperty ; rdfs:label "teaches (tradition)" .
+wgo:complements a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "works well together with" .
+
+# The doctrine of the mean: a vice as too much or too little of a virtue
+wgo:excessOf a owl:ObjectProperty ; owl:inverseOf wgo:hasExcess ; rdfs:label "excess of (virtue)" ;
+    rdfs:domain wgo:Vice ; rdfs:range wgo:Virtue .
+wgo:hasExcess a owl:ObjectProperty ; rdfs:label "has excess (vice)" .
+wgo:deficiencyOf a owl:ObjectProperty ; owl:inverseOf wgo:hasDeficiency ; rdfs:label "deficiency of (virtue)" ;
+    rdfs:domain wgo:Vice ; rdfs:range wgo:Virtue .
+wgo:hasDeficiency a owl:ObjectProperty ; rdfs:label "has deficiency (vice)" .
+
+# What goes wrong
+wgo:causes a owl:ObjectProperty ; owl:inverseOf wgo:causedBy ; rdfs:label "causes / leads to" .
+wgo:causedBy a owl:ObjectProperty ; rdfs:label "caused by" .
+wgo:undermines a owl:ObjectProperty ; owl:inverseOf wgo:underminedBy ; rdfs:label "undermines (judgment, well-being, relationships…)" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( wgo:Obstacle wgo:Vice ) ] .
+wgo:underminedBy a owl:ObjectProperty ; rdfs:label "undermined by" .
+wgo:explainedBy a owl:ObjectProperty ; owl:inverseOf wgo:explains ; rdfs:label "explained by (mechanism / theory)" .
+wgo:explains a owl:ObjectProperty ; rdfs:label "explains" .
+
+# Evidence
+wgo:demonstratedBy a owl:ObjectProperty ; rdfs:range wgo:Study ; owl:inverseOf wgo:demonstrates ; rdfs:label "demonstrated by (study)" .
+wgo:demonstrates a owl:ObjectProperty ; rdfs:label "demonstrates" .
+wgo:supportedBy a owl:ObjectProperty ; owl:inverseOf wgo:supports ; rdfs:label "supported by (evidence)" .
+wgo:supports a owl:ObjectProperty ; rdfs:label "supports" .
+wgo:challengedBy a owl:ObjectProperty ; owl:inverseOf wgo:challenges ; rdfs:label "challenged by (critique, failed replication, myth-busting)" .
+wgo:challenges a owl:ObjectProperty ; rdfs:label "challenges" .
+
+# History and attribution
+wgo:introducedBy a owl:ObjectProperty ; rdfs:range wgo:Person ; owl:inverseOf wgo:introduced ; rdfs:label "introduced / popularised by" .
+wgo:introduced a owl:ObjectProperty ; rdfs:label "introduced" .
+wgo:introducedIn a owl:ObjectProperty ; rdfs:range wgo:Work ; owl:inverseOf wgo:introduces ; rdfs:label "introduced in (work)" .
+wgo:introduces a owl:ObjectProperty ; rdfs:label "introduces" .
+wgo:authoredBy a owl:ObjectProperty ; rdfs:domain wgo:Work ; rdfs:range wgo:Person ; owl:inverseOf wgo:authored ; rdfs:label "authored by" .
+wgo:authored a owl:ObjectProperty ; rdfs:label "authored" .
+wgo:influencedBy a owl:ObjectProperty ; owl:inverseOf wgo:influenced ; rdfs:label "influenced by" .
+wgo:influenced a owl:ObjectProperty ; rdfs:label "influenced" .
+wgo:studiedIn a owl:ObjectProperty ; rdfs:range wgo:Field ; rdfs:label "studied in (field)" .
+
+# ---- Datatype / internal properties written by scripts/kg.py ------------------
+wgo:domain a owl:DatatypeProperty ; rdfs:label "domain" .
+wgo:level a owl:DatatypeProperty ; rdfs:label "learning level: introductory, intermediate, advanced" .
+wgo:evidenceStatus a owl:DatatypeProperty ;
+    rdfs:label "evidence status: robust, mixed, contested, failed-replication, practitioner, theoretical, normative, historical" .
+wgo:sourceType a owl:DatatypeProperty ; rdfs:label "source type" .
+wgo:confidence a owl:DatatypeProperty ; rdfs:label "edge confidence: high, medium, low" .
+wgo:evidence a owl:ObjectProperty ; rdfs:label "edge evidence (source), used on RDF-star quoted triples" .
+wgo:file a owl:DatatypeProperty ; rdfs:label "source file in the repo" .
+wgo:questionFor a owl:ObjectProperty ; rdfs:domain wgo:SelfCheckQuestion ; rdfs:label "self-check question for" .
+wgo:example a owl:ObjectProperty ; rdfs:range wgo:Rewrite ; rdfs:label "worked before/after example" .
+wgo:howTo a owl:ObjectProperty ; rdfs:label "step-by-step procedure (schema:HowTo)" .
+wgo:situation a owl:DatatypeProperty ; rdfs:label "situation of the example" .
+wgo:before a owl:DatatypeProperty ; rdfs:label "less wise response" .
+wgo:after a owl:DatatypeProperty ; rdfs:label "wiser response" .
+wgo:why a owl:DatatypeProperty ; rdfs:label "why the wiser response works" .

@@ -1,0 +1,8 @@
+# title: Life situations with no guidance
+# question: Which written life situations have no practice, principle, skill or virtue applied in them?
+# gap: true
+SELECT ?node ?type WHERE {
+  ?node wgo:file ?f ; a ?type .
+  VALUES ?type { wgo:Context }
+  FILTER NOT EXISTS { ?node wgo:benefitsFrom ?x }
+} ORDER BY ?node

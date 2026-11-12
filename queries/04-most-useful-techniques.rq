@@ -1,0 +1,8 @@
+# title: Highest-leverage practices and teachings
+# question: Which practices, frameworks, principles, skills and virtues counter the most obstacles or cultivate the most capacities?
+# gap: false
+SELECT ?practice (COUNT(DISTINCT ?target) AS ?reach) (GROUP_CONCAT(DISTINCT STR(?label); separator=", ") AS ?targets) WHERE {
+  { ?practice wgo:addresses ?target } UNION { ?practice wgo:develops ?target }
+  OPTIONAL { ?target skos:prefLabel ?l }
+  BIND(COALESCE(?l, REPLACE(STR(?target), "^.*/", "")) AS ?label)
+} GROUP BY ?practice ORDER BY DESC(?reach) ?practice

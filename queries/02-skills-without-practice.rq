@@ -1,0 +1,8 @@
+# title: Skills and virtues with no practice
+# question: Which written skills or virtues have no practice, framework or principle that cultivates them?
+# gap: true
+SELECT ?skill ?type WHERE {
+  ?skill wgo:file ?f ; a ?type .
+  VALUES ?type { wgo:Skill wgo:Virtue }
+  FILTER NOT EXISTS { ?skill wgo:developedBy ?t }
+} ORDER BY ?skill

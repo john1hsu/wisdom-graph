@@ -1,0 +1,80 @@
+@prefix sh:      <http://www.w3.org/ns/shacl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix schema:  <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix wgo:     <https://github.com/john1hsu/wisdom-graph/ontology#> .
+@prefix wgs:     <https://github.com/john1hsu/wisdom-graph/shapes#> .
+
+# =============================================================================
+# SHACL shapes: the semantic contract for the exported RDF graph.
+# `scripts/kg.py build` runs these with pySHACL against the asserted graph plus
+# the ontology (RDFS inference on), so subclass membership counts.
+# =============================================================================
+
+wgs:NodeShape a sh:NodeShape ;
+    sh:targetSubjectsOf wgo:file ;
+    sh:property [ sh:path skos:prefLabel ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:string ] ;
+    sh:property [ sh:path skos:definition ; sh:minCount 1 ; sh:maxCount 1 ; sh:minLength 40 ] ;
+    sh:property [ sh:path dcterms:created ; sh:minCount 1 ; sh:datatype xsd:date ] ;
+    sh:property [ sh:path dcterms:modified ; sh:maxCount 1 ; sh:datatype xsd:date ] ;
+    sh:property [ sh:path wgo:domain ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path wgo:level ; sh:minCount 1 ; sh:in ( "introductory" "intermediate" "advanced" ) ] ;
+    sh:property [ sh:path wgo:evidenceStatus ; sh:minCount 1 ; sh:maxCount 1 ;
+                  sh:in ( "robust" "mixed" "contested" "failed-replication" "practitioner" "theoretical" "normative" "historical" ) ] ;
+    sh:property [ sh:path prov:wasDerivedFrom ; sh:minCount 3 ; sh:class wgo:Source ] ;
+    sh:property [ sh:path skos:inScheme ; sh:minCount 1 ] .
+
+wgs:SourceShape a sh:NodeShape ;
+    sh:targetClass wgo:Source ;
+    sh:property [ sh:path dcterms:title ; sh:minCount 1 ] ;
+    sh:property [ sh:path dcterms:publisher ; sh:minCount 1 ] ;
+    sh:property [ sh:path schema:url ; sh:minCount 1 ; sh:nodeKind sh:IRI ; sh:pattern "^https://" ] ;
+    sh:property [ sh:path wgo:sourceType ; sh:minCount 1 ] ;
+    sh:property [ sh:path dcterms:date ; sh:minCount 1 ; sh:datatype xsd:date ] .
+
+# Practice-oriented completeness: what makes the graph useful for actually
+# acting more wisely, not just well-formed.
+wgs:PracticeShape a sh:NodeShape ;
+    sh:targetClass wgo:Practice ;
+    sh:property [ sh:path ( wgo:howTo schema:step ) ; sh:minCount 3 ;
+                  sh:message "A practice needs at least 3 steps." ] ;
+    sh:property [ sh:path wgo:example ; sh:minCount 1 ; sh:class wgo:Rewrite ;
+                  sh:message "A practice needs a before/after example." ] .
+
+wgs:ViceShape a sh:NodeShape ;
+    sh:targetClass wgo:Vice ;
+    sh:property [ sh:path wgo:example ; sh:minCount 1 ; sh:class wgo:Rewrite ;
+                  sh:message "A vice needs a before/after example showing the wiser response." ] .
+
+# Targets only written articles (subjects of wgo:file): an unwritten frontier
+# node typed by a property range (e.g. excessOf -> Virtue) has no article yet.
+wgs:SelfCheckTargets a sh:NodeShape ;
+    sh:targetSubjectsOf wgo:file ;
+    sh:or (
+        [ sh:not [ sh:or ( [ sh:class wgo:Skill ] [ sh:class wgo:Practice ] [ sh:class wgo:Virtue ]
+                           [ sh:class wgo:Vice ] [ sh:class wgo:Obstacle ] ) ] ]
+        [ sh:property [ sh:path [ sh:inversePath wgo:questionFor ] ; sh:minCount 2 ] ]
+    ) ;
+    sh:message "Skills, practices, virtues, vices and obstacles need at least 2 selfCheck questions." .
+
+wgs:RewriteShape a sh:NodeShape ;
+    sh:targetClass wgo:Rewrite ;
+    sh:property [ sh:path wgo:situation ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path wgo:before ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path wgo:after ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path wgo:why ; sh:minCount 1 ; sh:minLength 20 ] .
+
+wgs:SelfCheckShape a sh:NodeShape ;
+    sh:targetClass wgo:SelfCheckQuestion ;
+    sh:property [ sh:path rdfs:label ; sh:minCount 1 ; sh:pattern "\\?$" ;
+                  sh:message "Self-check items must be phrased as questions." ] ;
+    sh:property [ sh:path wgo:questionFor ; sh:minCount 1 ; sh:maxCount 1 ] .
+
+wgs:HowToStepShape a sh:NodeShape ;
+    sh:targetClass schema:HowToStep ;
+    sh:property [ sh:path schema:position ; sh:minCount 1 ; sh:datatype xsd:integer ] ;
+    sh:property [ sh:path schema:text ; sh:minCount 1 ; sh:minLength 10 ] .

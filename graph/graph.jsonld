@@ -1,0 +1,77 @@
+{
+ "@context": {
+  "dcterms": "http://purl.org/dc/terms/",
+  "owl": "http://www.w3.org/2002/07/owl#",
+  "prov": "http://www.w3.org/ns/prov#",
+  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "schema": "https://schema.org/",
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "wd": "http://www.wikidata.org/entity/",
+  "wg": "https://github.com/john1hsu/wisdom-graph/id/",
+  "wgo": "https://github.com/john1hsu/wisdom-graph/ontology#",
+  "xsd": "http://www.w3.org/2001/XMLSchema#"
+ },
+ "@graph": [
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Adversity, loss and mortality"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Compassion and wisdom with others"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Emotional wisdom and equanimity"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "What wisdom is"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Judgment and decisions under uncertainty"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Meaning, purpose and the good life"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "The science of wisdom"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Self-knowledge and reflection"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Thinkers, texts and studies"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Virtues and character"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Wisdom in work and leadership"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Wisdom traditions"
+  }
+ ]
+}

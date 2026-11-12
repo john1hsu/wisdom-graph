@@ -1,0 +1,58 @@
+# Settings for the GitHub Pages site built by site/build.py.
+title: Wisdom Graph
+repo: john1hsu/wisdom-graph
+repo_url: https://github.com/john1hsu/wisdom-graph
+prefix: wg
+headline: Think it through, live it well
+intro: >-
+  Evidence-checked practices, virtues and teachings for judging, deciding and
+  living more wisely, drawn from the science of wisdom and the world's wisdom
+  traditions. Each article gives you something to try, a before-and-after
+  response, questions to ask yourself, and the sources behind every claim.
+search_example: self-distancing
+tagline: Practices, virtues and teachings for living and deciding more wisely, from the science of wisdom and the world's wisdom traditions.
+footer: A new article is researched, checked and added every hour.
+fonts_url: https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500..700;1,500..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&family=Inter:wght@400..600&display=swap
+evidence:
+  normative: Philosophical teaching
+  historical: Historical record
+  mixed: Mixed evidence
+  robust: Robust evidence
+  contested: Contested
+  failed-replication: Failed to replicate
+  practitioner: Practitioner advice
+  theoretical: Theoretical
+domains: {}
+theme:
+  font_body: "'Source Serif 4', Georgia, serif"
+  font_display: "'Cormorant Garamond', Georgia, serif"
+  font_ui: "'Inter', system-ui, sans-serif"
+  hue_start: 35
+  light:
+    paper: "#F5F0E6"
+    panel: "#FCF9F3"
+    ink: "#261F17"
+    ink-soft: "#43392D"
+    muted: "#6B5F50"
+    rule: "#E2D8C6"
+    rule-strong: "#C4B49B"
+    accent: "#8A5A12"
+    accent-wash: "#F0E2C8"
+    warn: "#7A3B5C"
+    warn-wash: "#F0DEE7"
+    good: "#3F6B3A"
+    good-wash: "#DFEAD9"
+  dark:
+    paper: "#15120E"
+    panel: "#1E1A15"
+    ink: "#EEE6D8"
+    ink-soft: "#D0C5B3"
+    muted: "#9C9080"
+    rule: "#2E2820"
+    rule-strong: "#4A4033"
+    accent: "#E0B261"
+    accent-wash: "#3A2F1C"
+    warn: "#DFA0C0"
+    warn-wash: "#3A2230"
+    good: "#9CC891"
+    good-wash: "#22301F"

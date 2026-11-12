@@ -1,0 +1,6 @@
+# title: The doctrine of the mean
+# question: For each virtue, which vices lie on either side of it (deficiency and excess)?
+# gap: false
+SELECT ?virtue ?deficiency ?excess WHERE {
+  { ?deficiency wgo:deficiencyOf ?virtue } UNION { ?excess wgo:excessOf ?virtue }
+} ORDER BY ?virtue ?deficiency ?excess

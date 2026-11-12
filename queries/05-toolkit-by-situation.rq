@@ -1,0 +1,6 @@
+# title: Toolkit by life situation
+# question: For each life situation, which practices, principles, skills and virtues apply?
+# gap: false
+SELECT ?situation ?practice WHERE {
+  ?practice wgo:appliedIn ?situation
+} ORDER BY ?situation ?practice

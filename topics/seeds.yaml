@@ -1,0 +1,47 @@
+# Domains the hourly run draws from. Edit freely: add domains, remove ones you
+# don't want, or add seed slugs to steer what gets written next. Seeds are
+# suggestions, not a queue: skip any that already exist.
+# Each domain becomes a SKOS ConceptScheme (wg:scheme/<domain>) in the graph.
+#
+# Goal: practical, evidence-aware help for living and deciding more wisely —
+# bringing together the empirical science of wisdom (Baltes, Sternberg, Ardelt,
+# Grossmann, Jeste) and the world's wisdom traditions, with every claim cited
+# and every practice something a reader can actually try.
+
+domains:
+  foundations:
+    label: What wisdom is
+    seeds: [practical-wisdom, phronesis, sophia, wisdom-vs-intelligence, wisdom-vs-knowledge, socratic-ignorance, common-wisdom-model, wisdom-and-well-being, folk-conceptions-of-wisdom, personal-vs-general-wisdom]
+  science-of-wisdom:
+    label: The science of wisdom
+    seeds: [berlin-wisdom-paradigm, balance-theory-of-wisdom, three-dimensional-wisdom-model, wise-reasoning, situated-wisdom, san-diego-wisdom-scale, solomons-paradox, dialectical-thinking, postformal-thought, wisdom-and-age]
+  self-knowledge:
+    label: Self-knowledge and reflection
+    seeds: [know-thyself, evening-review, reflective-journaling, values-clarification, introspection-illusion, self-deception, life-review, learning-from-regret, end-of-history-illusion, self-distancing]
+  judgment-and-decisions:
+    label: Judgment and decisions under uncertainty
+    seeds: [deliberation, seeking-counsel, second-order-thinking, reversible-and-irreversible-decisions, satisficing, knowing-when-to-quit, kairos, moral-dilemmas, epistemic-humility-in-decisions, premortem-for-life-decisions]
+  virtues-and-character:
+    label: Virtues and character
+    seeds: [cardinal-virtues, prudence, temperance, courage, justice-as-a-virtue, intellectual-humility, patience, honesty, doctrine-of-the-mean, hubris, rashness, via-character-strengths, virtue-journal]
+  emotions-and-equanimity:
+    label: Emotional wisdom and equanimity
+    seeds: [equanimity, dichotomy-of-control, negative-visualization, cognitive-reappraisal, acceptance, anger, rumination, impermanence, hedonic-adaptation, view-from-above]
+  compassion-and-relationships:
+    label: Compassion and wisdom with others
+    seeds: [compassion, self-compassion, forgiveness, loving-kindness-meditation, golden-rule, perspective-taking, generosity, mentorship, giving-advice, moral-humility]
+  meaning-and-the-good-life:
+    label: Meaning, purpose and the good life
+    seeds: [eudaimonia, meaning-in-life, purpose-in-life, logotherapy, hedonic-and-eudaimonic-well-being, flourishing, ikigai, simplicity, contentment, gratitude]
+  adversity-and-mortality:
+    label: Adversity, loss and mortality
+    seeds: [memento-mori, amor-fati, resilience, post-traumatic-growth, grief-and-loss, socioemotional-selectivity-theory, positivity-effect-in-ageing, death-awareness, suffering-and-meaning, failure]
+  wisdom-at-work:
+    label: Wisdom in work and leadership
+    seeds: [wise-leadership, practical-wisdom-in-organizations, servant-leadership, humble-leadership, stewardship, long-term-thinking, ethical-decision-making, wise-dissent, wisdom-in-professions, power-and-hubris]
+  wisdom-traditions:
+    label: Wisdom traditions
+    seeds: [stoicism, aristotelian-virtue-ethics, confucianism, daoism, buddhism, epicureanism, socratic-philosophy, hebrew-wisdom-literature, bhagavad-gita-tradition, ubuntu-philosophy]
+  thinkers-and-works:
+    label: Thinkers, texts and studies
+    seeds: [socrates, aristotle, confucius, laozi, marcus-aurelius, epictetus, seneca, paul-baltes, robert-sternberg, monika-ardelt, igor-grossmann, nicomachean-ethics, meditations, analects, tao-te-ching, dhammapada, harvard-study-of-adult-development]
