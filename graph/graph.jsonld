@@ -450,6 +450,38 @@
    "skos:prefLabel": "Wisdom traditions"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do I actually know this, or am I only confident about it?",
+   "wgo:questionFor": {
+    "@id": "wg:socratic-ignorance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If someone questioned me closely here, where would my account run out?",
+   "wgo:questionFor": {
+    "@id": "wg:socratic-ignorance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating skill in my own field as if it made me an authority on this question too?",
+   "wgo:questionFor": {
+    "@id": "wg:socratic-ignorance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I've only skimmed it, so I don't actually know. Here's what I'd need to check, and who has worked with them before?",
+   "wgo:before": "Yes, they're solid, I'm sure of it. Let's lock them in.",
+   "wgo:situation": "A team lead is asked in a planning meeting whether a new supplier can deliver on time, and has only skimmed their proposal.",
+   "wgo:why": "Separating what you know from what you merely feel sure of keeps a confident guess from becoming the team's decision, and invites the people who do know to speak."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -896,6 +928,62 @@
     "@id": "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Plato, Apology, trans. Benjamin Jowett",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Plato/apology.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (S. Sara Monoson; rev. 2022)",
+   "dcterms:title": "Socrates",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRiES/socrates/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Nature Reviews Psychology, 1(9), 524–536 (Porter, Elnakouri, Meyers, Shibayama, Jayawickreme & Grossmann, 2022)",
+   "dcterms:title": "Predictors and consequences of intellectual humility",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Association for Psychological Science, APS Observer (17 April 2017)",
+   "dcterms:title": "The Factors That Foster Wise Reasoning",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+   },
+   "wgo:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1",
@@ -1435,6 +1523,76 @@
      "@id": "wg:social-support"
     }
    ]
+  },
+  {
+   "@id": "wg:socratic-ignorance",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s4"
+    }
+   ],
+   "rdfs:label": "Socratic ignorance",
+   "skos:altLabel": [
+    "Socrates' disavowal of knowledge",
+    "Socratic wisdom",
+    "human wisdom",
+    "knowing that one does not know"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "The teaching, drawn from Plato's Apology, that the beginning of human wisdom is not thinking you know what you do not know: an honest awareness of the limits of your own understanding, especially about the most important questions of how to live.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Socratic ignorance",
+   "skos:related": [
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:socratic-method"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:develops": {
+    "@id": "wg:intellectual-humility"
+   },
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/example"
+   },
+   "wgo:file": "articles/foundations/socratic-ignorance.md",
+   "wgo:introducedBy": {
+    "@id": "wg:socrates"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:apology-of-socrates"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:socratic-philosophy"
+   }
   },
   {
    "@id": "wg:stoicism",

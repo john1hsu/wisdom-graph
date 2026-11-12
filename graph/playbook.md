@@ -108,3 +108,20 @@ Ask yourself:
 - What would I advise a friend in exactly this position, and can I take that advice tonight?
 - Have I tested the fear I keep circling, or only rehearsed it?
 
+## foundations
+
+### [Socratic ignorance](../articles/foundations/socratic-ignorance.md) — Principle
+
+*A team lead is asked in a planning meeting whether a new supplier can deliver on time, and has only skimmed their proposal.*
+
+| Before | After |
+|---|---|
+| Yes, they're solid, I'm sure of it. Let's lock them in. | I've only skimmed it, so I don't actually know. Here's what I'd need to check, and who has worked with them before? |
+
+**Why:** Separating what you know from what you merely feel sure of keeps a confident guess from becoming the team's decision, and invites the people who do know to speak.
+
+Ask yourself:
+- Do I actually know this, or am I only confident about it?
+- If someone questioned me closely here, where would my account run out?
+- Am I treating skill in my own field as if it made me an authority on this question too?
+

@@ -30,6 +30,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
+| `wg:socratic-ignorance` | 1 | intellectual-humility |
 
 ## Toolkit by life situation
 
@@ -60,7 +61,9 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `wg:socratic-ignorance` |
 
 ## Teachings by tradition
 
@@ -70,6 +73,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 |---|---|
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
+| `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:negative-visualization` |
 

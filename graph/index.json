@@ -526,6 +526,87 @@
   ]
  },
  {
+  "id": "wg:socratic-ignorance",
+  "title": "Socratic ignorance",
+  "aliases": [
+   "Socratic wisdom",
+   "human wisdom",
+   "Socrates' disavowal of knowledge",
+   "knowing that one does not know"
+  ],
+  "type": "Principle",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/foundations/socratic-ignorance.md",
+  "created": "2026-11-12",
+  "summary": "The teaching, drawn from Plato's Apology, that the beginning of human wisdom is not thinking you know what you do not know: an honest awareness of the limits of your own understanding, especially about the most important questions of how to live.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-method"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:socrates",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:apology-of-socrates",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:socratic-philosophy",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:intellectual-humility",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Do I actually know this, or am I only confident about it?",
+   "If someone questioned me closely here, where would my account run out?",
+   "Am I treating skill in my own field as if it made me an authority on this question too?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead is asked in a planning meeting whether a new supplier can deliver on time, and has only skimmed their proposal.",
+   "before": "Yes, they're solid, I'm sure of it. Let's lock them in.",
+   "after": "I've only skimmed it, so I don't actually know. Here's what I'd need to check, and who has worked with them before?",
+   "why": "Separating what you know from what you merely feel sure of keeps a confident guess from becoming the team's decision, and invites the people who do know to speak."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Plato/apology.html",
+   "https://plato.stanford.edu/ENTRiES/socrates/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574",
+   "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+  ]
+ },
+ {
   "id": "wg:stoicism",
   "title": "Stoicism",
   "aliases": [
