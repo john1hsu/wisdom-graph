@@ -24,7 +24,9 @@ _No results._
 
 _Which practices, frameworks, principles, skills and virtues counter the most obstacles or cultivate the most capacities?_ — `queries/04-most-useful-techniques.rq`
 
-_No results._
+| practice | reach | targets |
+|---|---|---|
+| `wg:memento-mori` | 2 | equanimity, greed |
 
 ## Toolkit by life situation
 
@@ -48,13 +50,18 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `wg:memento-mori` |
 
 ## Teachings by tradition
 
 _Which teachings, practices and virtues in the graph are rooted in each wisdom tradition?_ — `queries/09-traditions-compared.rq`
 
-_No results._
+| tradition | teaching |
+|---|---|
+| `wg:buddhism` | `wg:memento-mori` |
+| `wg:stoicism` | `wg:memento-mori` |
 
 ## The doctrine of the mean
 

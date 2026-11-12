@@ -1,5 +1,150 @@
 # Per-article named graphs. Default graph holds provenance about each named graph.
 
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/adversity-and-mortality/memento-mori.md" .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> .
+
+<https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If my time were shorter than I assume, would this still be worth my anger or effort?" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using the thought of death to clarify what matters, or to feed dread or reckless indulgence?" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What would I want to have said or done for the people involved here?" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "If my time were shorter than I assume, this exchange would not be worth another evening. I'll send a short, civil reply tomorrow and spend tonight with the people in the next room." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'll send a reply that puts them in their place, then keep going through my inbox until midnight." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "You have spent a week stewing over a curt email from a colleague and are drafting a sharp reply late in the evening while your family is in the next room." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Remembering that time is limited and uncertain shifts attention from winning a minor status contest to the relationships and values you would actually want to have served." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/1> <https://schema.org/text> "Pick a fixed cue for the reflection, such as waking up, a commute, or the last few minutes before sleep." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/2> <https://schema.org/text> "Bring to mind, concretely and in your own case, that your life will end and that you do not know when." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/3> <https://schema.org/text> "Look back over the last day or week and ask how you actually spent your time and attention." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/4> <https://schema.org/text> "Ask what you would regret leaving undone or unsaid, and whom you would think of first." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/5> <https://schema.org/text> "Choose one concrete action for today that reflects what matters, and let go of one petty grievance or craving." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/6> <https://schema.org/text> "Return your attention to the task in front of you; if the reflection leaves you more anxious than clear, shorten it or stop." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/name> "Memento mori" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2000/01/rdf-schema#label> "Memento mori" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#altLabel> "death contemplation" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#altLabel> "maranasati" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#altLabel> "maraṇasati" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#altLabel> "mindfulness of death" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#altLabel> "remembering death" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#definition> "The deliberate, regular practice of remembering that you will die and do not know when, used not to dwell on death but to see more clearly what deserves your time, attention and care today." .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#prefLabel> "Memento mori" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "adversity-and-mortality" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/adversity-and-mortality/memento-mori.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 30(3), 278–292 (Cozzolino, Staples, Meyers & Samboceti, 2004)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/title> "Greed, death, and values: From terror management to transcendence management theory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <https://schema.org/url> <https://selfdeterminationtheory.org/SDT/documents/2004_CozzolinoStaplesMeyersSamoceti_PSPB.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> <http://purl.org/dc/terms/publisher> "Perseus Digital Library via Perseids (Tufts University)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> <http://purl.org/dc/terms/title> "Epictetus, The Handbook (Enchiridion) 21, trans. T. W. Higginson" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/21> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> <http://purl.org/dc/terms/title> "Marcus Aurelius, Meditations, Book II, trans. George Long" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> <https://schema.org/url> <https://classics.mit.edu/Antoninus/meditations.2.two.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Rachana Kamtekar; rev. 2025)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> <http://purl.org/dc/terms/title> "Marcus Aurelius" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> <https://schema.org/url> <https://plato.stanford.edu/entries/marcus-aurelius/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> <http://purl.org/dc/terms/publisher> "dhammatalks.org" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> <http://purl.org/dc/terms/title> "Maraṇassati Sutta: Mindfulness of Death (1), AN 6:19, trans. Thanissaro Bhikkhu" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> <https://schema.org/url> <https://www.dhammatalks.org/suttas/AN/AN6_19.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <http://purl.org/dc/terms/publisher> "Center for Open Science" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <http://purl.org/dc/terms/title> "Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <https://schema.org/url> <https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/> .
+}
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
+  <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/life-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
+  <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
 }

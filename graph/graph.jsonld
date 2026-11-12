@@ -14,6 +14,99 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
+   "wgo:questionFor": {
+    "@id": "wg:memento-mori"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using the thought of death to clarify what matters, or to feed dread or reckless indulgence?",
+   "wgo:questionFor": {
+    "@id": "wg:memento-mori"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What would I want to have said or done for the people involved here?",
+   "wgo:questionFor": {
+    "@id": "wg:memento-mori"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "If my time were shorter than I assume, this exchange would not be worth another evening. I'll send a short, civil reply tomorrow and spend tonight with the people in the next room.",
+   "wgo:before": "I'll send a reply that puts them in their place, then keep going through my inbox until midnight.",
+   "wgo:situation": "You have spent a week stewing over a curt email from a colleague and are drafting a sharp reply late in the evening while your family is in the next room.",
+   "wgo:why": "Remembering that time is limited and uncertain shifts attention from winning a minor status contest to the relationships and values you would actually want to have served."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Memento mori",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Pick a fixed cue for the reflection, such as waking up, a commute, or the last few minutes before sleep."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Bring to mind, concretely and in your own case, that your life will end and that you do not know when."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Look back over the last day or week and ask how you actually spent your time and attention."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Ask what you would regret leaving undone or unsaid, and whom you would think of first."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Choose one concrete action for today that reflects what matters, and let go of one petty grievance or craving."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Return your attention to the task in front of you; if the reflection leaves you more anxious than clear, shorten it or stop."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Adversity, loss and mortality"
@@ -72,6 +165,175 @@
    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Wisdom traditions"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 30(3), 278–292 (Cozzolino, Staples, Meyers & Samboceti, 2004)",
+   "dcterms:title": "Greed, death, and values: From terror management to transcendence management theory",
+   "schema:url": {
+    "@id": "https://selfdeterminationtheory.org/SDT/documents/2004_CozzolinoStaplesMeyersSamoceti_PSPB.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Perseus Digital Library via Perseids (Tufts University)",
+   "dcterms:title": "Epictetus, The Handbook (Enchiridion) 21, trans. T. W. Higginson",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/21"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Marcus Aurelius, Meditations, Book II, trans. George Long",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Antoninus/meditations.2.two.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Rachana Kamtekar; rev. 2025)",
+   "dcterms:title": "Marcus Aurelius",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/marcus-aurelius/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "dhammatalks.org",
+   "dcterms:title": "Maraṇassati Sutta: Mindfulness of Death (1), AN 6:19, trans. Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://www.dhammatalks.org/suttas/AN/AN6_19.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Center for Open Science",
+   "dcterms:title": "Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement",
+   "schema:url": {
+    "@id": "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "wg:memento-mori",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6"
+    }
+   ],
+   "rdfs:label": "Memento mori",
+   "skos:altLabel": [
+    "death contemplation",
+    "maraṇasati",
+    "maranasati",
+    "mindfulness of death",
+    "remembering death"
+   ],
+   "skos:broader": {
+    "@id": "wg:death-awareness"
+   },
+   "skos:definition": "The deliberate, regular practice of remembering that you will die and do not know when, used not to dwell on death but to see more clearly what deserves your time, attention and care today.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Memento mori",
+   "skos:related": [
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:life-review"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:greed"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:mortality-salience"
+   },
+   "wgo:develops": {
+    "@id": "wg:equanimity"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/example"
+   },
+   "wgo:file": "articles/adversity-and-mortality/memento-mori.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ]
   }
  ]
 }

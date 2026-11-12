@@ -2,4 +2,8 @@
 @prefix wgo: <https://github.com/john1hsu/wisdom-graph/ontology#> .
 @prefix wg: <https://github.com/john1hsu/wisdom-graph/id/> .
 
-
+<< <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/greed> >> wgo:evidence <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> ; wgo:confidence "low" .
+<< <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> >> wgo:evidence <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> ; wgo:confidence "medium" .
+<< <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> >> wgo:evidence <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s3> ; wgo:confidence "medium" .
+<< <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> >> wgo:evidence <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> ; wgo:confidence "high" .
+<< <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> >> wgo:evidence <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s2> ; wgo:confidence "high" .

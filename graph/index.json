@@ -1,1 +1,99 @@
-[]
+[
+ {
+  "id": "wg:memento-mori",
+  "title": "Memento mori",
+  "aliases": [
+   "remembering death",
+   "mindfulness of death",
+   "maranasati",
+   "maraṇasati",
+   "death contemplation"
+  ],
+  "type": "Practice",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/adversity-and-mortality/memento-mori.md",
+  "created": "2026-11-12",
+  "summary": "The deliberate, regular practice of remembering that you will die and do not know when, used not to dwell on death but to see more clearly what deserves your time, attention and care today.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:life-review"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:equanimity",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:greed",
+    "source": "s1",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:mortality-salience",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "If my time were shorter than I assume, would this still be worth my anger or effort?",
+   "Am I using the thought of death to clarify what matters, or to feed dread or reckless indulgence?",
+   "What would I want to have said or done for the people involved here?"
+  ],
+  "steps": [
+   "Pick a fixed cue for the reflection, such as waking up, a commute, or the last few minutes before sleep.",
+   "Bring to mind, concretely and in your own case, that your life will end and that you do not know when.",
+   "Look back over the last day or week and ask how you actually spent your time and attention.",
+   "Ask what you would regret leaving undone or unsaid, and whom you would think of first.",
+   "Choose one concrete action for today that reflects what matters, and let go of one petty grievance or craving.",
+   "Return your attention to the task in front of you; if the reflection leaves you more anxious than clear, shorten it or stop."
+  ],
+  "example": {
+   "situation": "You have spent a week stewing over a curt email from a colleague and are drafting a sharp reply late in the evening while your family is in the next room.",
+   "before": "I'll send a reply that puts them in their place, then keep going through my inbox until midnight.",
+   "after": "If my time were shorter than I assume, this exchange would not be worth another evening. I'll send a short, civil reply tomorrow and spend tonight with the people in the next room.",
+   "why": "Remembering that time is limited and uncertain shifts attention from winning a minor status contest to the relationships and values you would actually want to have served."
+  },
+  "source_urls": [
+   "https://selfdeterminationtheory.org/SDT/documents/2004_CozzolinoStaplesMeyersSamoceti_PSPB.pdf",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/21",
+   "https://classics.mit.edu/Antoninus/meditations.2.two.html",
+   "https://plato.stanford.edu/entries/marcus-aurelius/",
+   "https://www.dhammatalks.org/suttas/AN/AN6_19.html",
+   "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
+  ]
+ }
+]
