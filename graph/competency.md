@@ -53,9 +53,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 _Which written concepts have no introducedBy / introducedIn edge or rootedIn edge (who named it, where, or which tradition teaches it)?_ — `queries/07-unattributed.rq`
 
-| node | type |
-|---|---|
-| `wg:rumination` | wgo:Vice |
+_No results._
 
 ## Orphan articles (gap)
 

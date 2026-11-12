@@ -8,7 +8,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
 | 1.44 | `wg:rumination` | `wg:socratic-ignorance` | `wg:self-distancing` |
 | 1.44 | `wg:socratic-ignorance` | `wg:stoicism` | `wg:socratic-philosophy` |
-| 1.14 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:rumination` |
+| 1.12 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:rumination` |
 | 1.11 | `wg:memento-mori` | `wg:rumination` | `wg:equanimity`, `wg:negative-visualization` |
-| 0.42 | `wg:compassionate-reappraisal` | `wg:negative-visualization` | `wg:rumination` |
+| 0.40 | `wg:compassionate-reappraisal` | `wg:negative-visualization` | `wg:rumination` |
+| 0.40 | `wg:compassionate-reappraisal` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
+| 0.40 | `wg:forgiveness` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
+| 0.40 | `wg:negative-visualization` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
 | 0.39 | `wg:rumination` | `wg:stoicism` | `wg:negative-visualization` |

@@ -501,6 +501,12 @@
     "object": "wg:self-reflection",
     "source": "s3",
     "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:susan-nolen-hoeksema",
+    "source": "s1",
+    "confidence": "high"
    }
   ],
   "selfCheck": [
@@ -689,6 +695,67 @@
    "https://ideas.repec.org/a/spr/jhappi/v23y2022i7d10.1007_s10902-022-00563-w.html",
    "https://link.springer.com/article/10.1007/s44202-024-00121-w",
    "https://royalholloway.ac.uk/about-us/news/stoicism-makes-people-happy-and-it-s-nothing-to-do-with-having-a-stiff-upper-lip"
+  ]
+ },
+ {
+  "id": "wg:susan-nolen-hoeksema",
+  "title": "Susan Nolen-Hoeksema",
+  "aliases": [
+   "Susan K. Nolen-Hoeksema",
+   "Nolen-Hoeksema"
+  ],
+  "type": "Person",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/susan-nolen-hoeksema.md",
+  "created": "2026-11-12",
+  "summary": "American clinical psychologist (1959–2013) at Stanford, Michigan and Yale who developed response styles theory and showed how rumination, passively dwelling on distress, deepens and prolongs depression and helps explain why women are more often depressed than men.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:clinical-psychologists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:response-styles-theory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:worry"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:martin-seligman",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:robert-sternberg",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://news.yale.edu/2013/01/07/memoriam-susan-nolen-hoeksema",
+   "https://pubmed.ncbi.nlm.nih.gov/23895616/",
+   "https://pubmed.ncbi.nlm.nih.gov/1757671/",
+   "https://escholarship.org/uc/item/8544f7w2",
+   "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf",
+   "https://collaborate.princeton.edu/en/publications/the-emergence-of-gender-differences-in-depression-during-adolesce/",
+   "https://news.umich.edu/?p=4891"
   ]
  }
 ]

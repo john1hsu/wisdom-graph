@@ -18,6 +18,7 @@ relations:
   - {predicate: undermines, object: wg:problem-solving, source: s1, confidence: high}
   - {predicate: undermines, object: wg:social-support, source: s1, confidence: medium}
   - {predicate: confusedWith, object: wg:self-reflection, source: s3, confidence: high}
+  - {predicate: introducedBy, object: wg:susan-nolen-hoeksema, source: s1, confidence: high}
 example:
   situation: In your annual review, your manager says your project updates are often late. That night you cannot stop thinking about it.
   before: >-
@@ -72,6 +73,7 @@ sources:
     type: peer-reviewed
     accessed: 2026-11-12
 created: 2026-11-12
+modified: 2026-11-12
 ---
 
 # Rumination

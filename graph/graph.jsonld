@@ -1070,6 +1070,104 @@
    "wgo:sourceType": "news"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "YaleNews, Yale University (7 January 2013)",
+   "dcterms:title": "In memoriam: Susan Nolen-Hoeksema",
+   "schema:url": {
+    "@id": "https://news.yale.edu/2013/01/07/memoriam-susan-nolen-hoeksema"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "American Psychologist, 68(5), 404 (Kaslow, Hilt, Wisco & Brownell, 2013), via PubMed",
+   "dcterms:title": "Susan Nolen-Hoeksema (1959–2013)",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/23895616/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Abnormal Psychology, 100(4), 569–582 (Nolen-Hoeksema, 1991), via PubMed",
+   "dcterms:title": "Responses to depression and their effects on the duration of depressive episodes",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/1757671/"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Perspectives on Psychological Science, 3(5), 400–424 (Nolen-Hoeksema, Wisco & Lyubomirsky, 2008), via UC eScholarship",
+   "dcterms:title": "Rethinking Rumination",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/8544f7w2"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Cognitive Therapy and Research, 27, 247–259 (Treynor, Gonzalez & Nolen-Hoeksema, 2003)",
+   "dcterms:title": "Rumination reconsidered: A psychometric analysis",
+   "schema:url": {
+    "@id": "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 115(3), 424–443 (Nolen-Hoeksema & Girgus, 1994), via Princeton University research portal",
+   "dcterms:title": "The emergence of gender differences in depression during adolescence",
+   "schema:url": {
+    "@id": "https://collaborate.princeton.edu/en/publications/the-emergence-of-gender-differences-in-depression-during-adolesce/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "University of Michigan News (4 February 2003)",
+   "dcterms:title": "Most women think too much, overthinkers often drink too much",
+   "schema:url": {
+    "@id": "https://news.umich.edu/?p=4891"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "wg:compassionate-reappraisal",
    "@type": "wgo:Practice",
    "dcterms:created": {
@@ -1446,6 +1544,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-12"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1"
@@ -1514,6 +1616,9 @@
     "@id": "wg:response-styles-theory"
    },
    "wgo:file": "articles/emotions-and-equanimity/rumination.md",
+   "wgo:introducedBy": {
+    "@id": "wg:susan-nolen-hoeksema"
+   },
    "wgo:level": "introductory",
    "wgo:undermines": [
     {
@@ -1675,6 +1780,76 @@
    "wgo:introducedBy": {
     "@id": "wg:zeno-of-citium"
    },
+   "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:susan-nolen-hoeksema",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s7"
+    }
+   ],
+   "rdfs:label": "Susan Nolen-Hoeksema",
+   "skos:altLabel": [
+    "Nolen-Hoeksema",
+    "Susan K. Nolen-Hoeksema"
+   ],
+   "skos:broader": {
+    "@id": "wg:clinical-psychologists"
+   },
+   "skos:definition": "American clinical psychologist (1959–2013) at Stanford, Michigan and Yale who developed response styles theory and showed how rumination, passively dwelling on distress, deepens and prolongs depression and helps explain why women are more often depressed than men.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Susan Nolen-Hoeksema",
+   "skos:related": [
+    {
+     "@id": "wg:response-styles-theory"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:worry"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/susan-nolen-hoeksema.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:martin-seligman"
+    },
+    {
+     "@id": "wg:robert-sternberg"
+    }
+   ],
    "wgo:level": "introductory"
   }
  ]
