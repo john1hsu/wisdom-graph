@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:forgiveness` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -27,13 +29,16 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | practice | reach | targets |
 |---|---|---|
 | `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
+| `wg:forgiveness` | 2 | rumination, vindictiveness |
 | `wg:memento-mori` | 2 | equanimity, greed |
 
 ## Toolkit by life situation
 
 _For each life situation, which practices, principles, skills and virtues apply?_ — `queries/05-toolkit-by-situation.rq`
 
-_No results._
+| situation | practice |
+|---|---|
+| `wg:interpersonal-conflict` | `wg:forgiveness` |
 
 ## Myths and contested advice
 
@@ -51,7 +56,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `wg:forgiveness` |
 
 ## Teachings by tradition
 
@@ -59,6 +66,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 
 | tradition | teaching |
 |---|---|
+| `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:negative-visualization` |

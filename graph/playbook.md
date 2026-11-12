@@ -26,6 +26,24 @@ Ask yourself:
 - Am I using the thought of death to clarify what matters, or to feed dread or reckless indulgence?
 - What would I want to have said or done for the people involved here?
 
+## compassion-and-relationships
+
+### [Forgiveness](../articles/compassion-and-relationships/forgiveness.md) — Virtue
+
+*A colleague presented your analysis as their own to a client, later admitted it and apologised, and you still have to work together on the account.*
+
+| Before | After |
+|---|---|
+| I'll be polite, but I'm keeping score, and I'll make sure the client finds out what they're really like. | I'll tell them plainly that it was wrong and that I'll put my name on my own work from now on. Then I'll stop rehearsing it and treat them fairly on this project. |
+
+**Why:** Forgiving here means dropping the campaign of payback while keeping the judgement that it was wrong and the safeguards that protect you; it is neither pretending nothing happened nor trusting blindly.
+
+Ask yourself:
+- Am I holding on to this to protect myself or someone else, or mainly to make them pay?
+- Have I separated forgiving from excusing, forgetting and reconciling, so I know which of these I'm actually being asked to do?
+- If they keep doing this, what boundary would self-respect require alongside any forgiveness?
+- Have I given myself time to name the hurt before deciding whether, and how, to forgive?
+
 ## emotions-and-equanimity
 
 ### [Negative visualization](../articles/emotions-and-equanimity/negative-visualization.md) — Practice

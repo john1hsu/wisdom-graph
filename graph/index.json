@@ -1,5 +1,105 @@
 [
  {
+  "id": "wg:forgiveness",
+  "title": "Forgiveness",
+  "aliases": [
+   "forgivingness",
+   "forgiving",
+   "letting go of resentment"
+  ],
+  "type": "Virtue",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/compassion-and-relationships/forgiveness.md",
+  "created": "2026-11-12",
+  "summary": "The settled readiness to give up resentment and the wish for revenge toward someone who wronged you, while still judging that what they did was wrong, without requiring that you forget, excuse or reconcile.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reach-forgiveness"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:vindictiveness",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:reconciliation",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:condonation",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I holding on to this to protect myself or someone else, or mainly to make them pay?",
+   "Have I separated forgiving from excusing, forgetting and reconciling, so I know which of these I'm actually being asked to do?",
+   "If they keep doing this, what boundary would self-respect require alongside any forgiveness?",
+   "Have I given myself time to name the hurt before deciding whether, and how, to forgive?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A colleague presented your analysis as their own to a client, later admitted it and apologised, and you still have to work together on the account.",
+   "before": "I'll be polite, but I'm keeping score, and I'll make sure the client finds out what they're really like.",
+   "after": "I'll tell them plainly that it was wrong and that I'll put my name on my own work from now on. Then I'll stop rehearsing it and treat them fairly on this project.",
+   "why": "Forgiving here means dropping the campaign of payback while keeping the judgement that it was wrong and the safeguards that protect you; it is neither pretending nothing happened nor trusting blindly."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/forgiveness/",
+   "https://greatergood.berkeley.edu/topic/forgiveness/definition",
+   "https://ora.ox.ac.uk/objects/uuid:c4f1e260-c0e9-4ff1-b858-030826eeefbd",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7177025",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112753",
+   "https://ggie.berkeley.edu/practice/nine-steps-to-forgiveness",
+   "https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [

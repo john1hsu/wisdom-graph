@@ -14,6 +14,46 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I holding on to this to protect myself or someone else, or mainly to make them pay?",
+   "wgo:questionFor": {
+    "@id": "wg:forgiveness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I separated forgiving from excusing, forgetting and reconciling, so I know which of these I'm actually being asked to do?",
+   "wgo:questionFor": {
+    "@id": "wg:forgiveness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If they keep doing this, what boundary would self-respect require alongside any forgiveness?",
+   "wgo:questionFor": {
+    "@id": "wg:forgiveness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I given myself time to name the hurt before deciding whether, and how, to forgive?",
+   "wgo:questionFor": {
+    "@id": "wg:forgiveness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll tell them plainly that it was wrong and that I'll put my name on my own work from now on. Then I'll stop rehearsing it and treat them fairly on this project.",
+   "wgo:before": "I'll be polite, but I'm keeping score, and I'll make sure the client finds out what they're really like.",
+   "wgo:situation": "A colleague presented your analysis as their own to a client, later admitted it and apologised, and you still have to work together on the account.",
+   "wgo:why": "Forgiving here means dropping the campaign of payback while keeping the judgement that it was wrong and the safeguards that protect you; it is neither pretending nothing happened nor trusting blindly."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
@@ -258,6 +298,104 @@
    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Wisdom traditions"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Forgiveness (Warmke, substantive revision 2026), with supplement on its history in Western philosophy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/forgiveness/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Forgiveness: What Is It? (definition, benefits and how to cultivate it)",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/topic/forgiveness/definition"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Trauma, Violence, & Abuse (Akhtar & Barlow; Oxford University Research Archive record)",
+   "dcterms:title": "Forgiveness therapy for the promotion of wellbeing: A systematic review and meta-analysis",
+   "schema:url": {
+    "@id": "https://ora.ox.ac.uk/objects/uuid:c4f1e260-c0e9-4ff1-b858-030826eeefbd"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 11, 671 (Toussaint, Worthington, Cheadle, Marigoudar, Kamble & Büssing, 2020)",
+   "dcterms:title": "Efficacy of the REACH Forgiveness Intervention in Indian College Students",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7177025"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "American Psychologist, 67(2), 101–110 (McNulty & Fincham, 2012)",
+   "dcterms:title": "Beyond positive psychology? Toward a contextual view of psychological processes and well-being",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112753"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Greater Good in Education, Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Nine Steps to Forgiveness",
+   "schema:url": {
+    "@id": "https://ggie.berkeley.edu/practice/nine-steps-to-forgiveness"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Access to Insight (Buddhist Publication Society translation)",
+   "dcterms:title": "Dhammapada I, Yamakavagga: Pairs, verses 3–5, trans. Acharya Buddharakkhita",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1",
@@ -524,6 +662,97 @@
     "@id": "https://royalholloway.ac.uk/about-us/news/stoicism-makes-people-happy-and-it-s-nothing-to-do-with-having-a-stiff-upper-lip"
    },
    "wgo:sourceType": "news"
+  },
+  {
+   "@id": "wg:forgiveness",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7"
+    }
+   ],
+   "rdfs:label": "Forgiveness",
+   "skos:altLabel": [
+    "forgiving",
+    "forgivingness",
+    "letting go of resentment"
+   ],
+   "skos:broader": {
+    "@id": "wg:compassion"
+   },
+   "skos:definition": "The settled readiness to give up resentment and the wish for revenge toward someone who wronged you, while still judging that what they did was wrong, without requiring that you forget, excuse or reconcile.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Forgiveness",
+   "skos:related": [
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:reach-forgiveness"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-forgiveness"
+    }
+   ],
+   "wgo:addresses": [
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:vindictiveness"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:interpersonal-conflict"
+   },
+   "wgo:confusedWith": [
+    {
+     "@id": "wg:condonation"
+    },
+    {
+     "@id": "wg:reconciliation"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/forgiveness.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:buddhism"
+   }
   },
   {
    "@id": "wg:memento-mori",
