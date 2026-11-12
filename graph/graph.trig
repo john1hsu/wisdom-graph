@@ -9,6 +9,16 @@
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/emotions-and-equanimity/negative-visualization.md" .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> .
 <https://github.com/john1hsu/wisdom-graph/id/stoicism#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/stoicism#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/stoicism#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-traditions/stoicism.md" .
@@ -131,6 +141,128 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <https://schema.org/url> <https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I rehearsing a possible loss in order to prepare and appreciate, or am I just worrying?" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "After imagining this loss, did I come back to what I still have and what I can do now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Which parts of the outcome I fear are actually up to me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Once, I'll list what could go wrong in the presentation, prepare for the questions I can foresee, and accept that the reaction isn't fully up to me. And I'll take a minute to picture not having this job at all, then notice what I'd miss." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'll keep replaying how badly the presentation could go every night until then, and keep grumbling about this job." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Your manager asks you to present to senior leadership next week, and you also have a job you mostly enjoy but have started to complain about." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "A brief, bounded rehearsal turns vague fear into preparation and restores appreciation, whereas dwelling on the worst only adds suffering before anything has happened." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/1> <https://schema.org/text> "Choose one thing you value and tend to take for granted, such as a relationship, your health, your job or an ordinary comfort." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/2> <https://schema.org/text> "Remind yourself plainly of its nature, starting small, for example that this mug can break and that the people you love are mortal." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/3> <https://schema.org/text> "For a minute or two, imagine concretely what your life would be like without it, or how it might never have come about." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/4> <https://schema.org/text> "Return to the present and notice that you do still have it; name one way you will use or appreciate it today." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/5> <https://schema.org/text> "Before a risky plan, list what could go wrong, separate what is up to you from what is not, and prepare for the parts you can influence." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/6> <https://schema.org/text> "Stop if the exercise turns into dread or repetitive worry, and shorten it or set it aside." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/name> "Negative visualization" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2000/01/rdf-schema#label> "Negative visualization" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "praemeditatio malorum" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "premeditatio malorum" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "premeditation of evils" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "premeditation of future evils" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "rehearsal of misfortune" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#definition> "A Stoic exercise of deliberately imagining that you could lose what you value, or that a setback could happen, so that you hold good things with more appreciation and meet misfortune with less shock." .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Negative visualization" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mental-subtraction> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/anticipating-ones-troubles-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/negative-visualization.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> <http://purl.org/dc/terms/publisher> "Perseus Digital Library via Perseids (Tufts University)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> <http://purl.org/dc/terms/title> "Epictetus, The Handbook (Enchiridion) 3, trans. T. W. Higginson" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> <http://purl.org/dc/terms/publisher> "Standard Ebooks (public-domain edition of Yonge's 1877 translation)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> <http://purl.org/dc/terms/title> "Cicero, Tusculan Disputations, Book III, trans. C. D. Yonge" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2> <https://schema.org/url> <https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/text/chapter-3> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> <http://purl.org/dc/terms/publisher> "Dialogues in Philosophy, Mental and Neuro Sciences, 12(1), 10–24 (Cavanna, 2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> <http://purl.org/dc/terms/title> "Stoic philosophy and psychotherapy: Implications for neuropsychiatric conditions" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3> <https://schema.org/url> <https://www.crossingdialogues.it/wp-content/uploads/2024/02/Ms-A19-02.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 95(5), 1217–1224 (Koo, Algoe, Wilson & Gilbert, 2008)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> <http://purl.org/dc/terms/title> "It's a wonderful life: Mentally subtracting positive events improves people's affective states, contrary to their affective forecasts" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC2746912> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> <http://purl.org/dc/terms/publisher> "Emotion, 9(2), 277–281 (Golub, Gilbert & Wilson, 2009)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> <http://purl.org/dc/terms/title> "Anticipating one's troubles: The costs and benefits of negative expectations" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> <https://schema.org/url> <https://dash.harvard.edu/server/api/core/bitstreams/7312037c-63f4-6bd4-e053-0100007fdf3b/content> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> <http://purl.org/dc/terms/publisher> "Journal of Personality (Kalokerinos, Moeck, Rummens, Meers & Mestdagh, 2022)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> <http://purl.org/dc/terms/title> "Ready for the worst? Negative affect in anticipation of a stressor does not protect against affective reactivity" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> <https://schema.org/url> <https://boris.unibe.ch/174014/1/Journal_of_Personality_-_2022_-_Kalokerinos_-_Ready_for_the_Worst_Negative_Affect_in_Anticipation_of_a_Stressor_Does_Not.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, UC Berkeley" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://purl.org/dc/terms/title> "Mental Subtraction of Positive Events" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://schema.org/url> <https://ggia.berkeley.edu/practice/mental_subtraction_positive_events> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/stoicism#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Dirk Baltzly; rev. 2023)" .
@@ -202,6 +334,7 @@
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
+  <https://github.com/john1hsu/wisdom-graph/id/anticipating-ones-troubles-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
@@ -209,12 +342,18 @@
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -227,16 +366,28 @@
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/mental-subtraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
-  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .

@@ -4,21 +4,27 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `wg:negative-visualization` | 3.49 | - | `wg:memento-mori`, `wg:stoicism` |
-| `wg:view-from-above` | 3.49 | - | `wg:memento-mori`, `wg:stoicism` |
-| `wg:cardinal-virtues` | 2.00 | - | `wg:stoicism` |
-| `wg:dichotomy-of-control` | 2.00 | - | `wg:stoicism` |
-| `wg:epicureanism` | 2.00 | - | `wg:stoicism` |
-| `wg:eudaimonia` | 2.00 | - | `wg:stoicism` |
-| `wg:socratic-philosophy` | 2.00 | - | `wg:stoicism` |
-| `wg:buddhism` | 1.99 | Tradition | `wg:memento-mori` |
-| `wg:death-awareness` | 1.99 | - | `wg:memento-mori` |
-| `wg:equanimity` | 1.99 | - | `wg:memento-mori` |
-| `wg:impermanence` | 1.99 | - | `wg:memento-mori` |
-| `wg:life-review` | 1.99 | - | `wg:memento-mori` |
-| `wg:emotional-suppression` | 1.50 | - | `wg:stoicism` |
-| `wg:hellenistic-philosophy` | 1.50 | - | `wg:stoicism` |
-| `wg:virtue-ethics` | 1.50 | - | `wg:stoicism` |
-| `wg:zeno-of-citium` | 1.50 | Person | `wg:stoicism` |
-| `wg:greed` | 1.49 | - | `wg:memento-mori` |
-| `wg:mortality-salience` | 1.49 | - | `wg:memento-mori` |
+| `wg:view-from-above` | 4.67 | - | `wg:memento-mori`, `wg:negative-visualization`, `wg:stoicism` |
+| `wg:dichotomy-of-control` | 3.29 | - | `wg:negative-visualization`, `wg:stoicism` |
+| `wg:epicureanism` | 3.29 | - | `wg:negative-visualization`, `wg:stoicism` |
+| `wg:equanimity` | 3.28 | - | `wg:memento-mori`, `wg:negative-visualization` |
+| `wg:gratitude` | 1.89 | - | `wg:negative-visualization` |
+| `wg:hedonic-adaptation` | 1.89 | - | `wg:negative-visualization` |
+| `wg:rumination` | 1.89 | - | `wg:negative-visualization` |
+| `wg:cardinal-virtues` | 1.89 | - | `wg:stoicism` |
+| `wg:eudaimonia` | 1.89 | - | `wg:stoicism` |
+| `wg:socratic-philosophy` | 1.89 | - | `wg:stoicism` |
+| `wg:buddhism` | 1.89 | Tradition | `wg:memento-mori` |
+| `wg:death-awareness` | 1.89 | - | `wg:memento-mori` |
+| `wg:impermanence` | 1.89 | - | `wg:memento-mori` |
+| `wg:life-review` | 1.89 | - | `wg:memento-mori` |
+| `wg:anticipating-ones-troubles-study` | 1.39 | - | `wg:negative-visualization` |
+| `wg:george-bailey-effect` | 1.39 | - | `wg:negative-visualization` |
+| `wg:mental-subtraction` | 1.39 | - | `wg:negative-visualization` |
+| `wg:spiritual-exercises` | 1.39 | - | `wg:negative-visualization` |
+| `wg:emotional-suppression` | 1.39 | - | `wg:stoicism` |
+| `wg:hellenistic-philosophy` | 1.39 | - | `wg:stoicism` |
+| `wg:virtue-ethics` | 1.39 | - | `wg:stoicism` |
+| `wg:zeno-of-citium` | 1.39 | Person | `wg:stoicism` |
+| `wg:greed` | 1.39 | - | `wg:memento-mori` |
+| `wg:mortality-salience` | 1.39 | - | `wg:memento-mori` |

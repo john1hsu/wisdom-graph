@@ -107,6 +107,99 @@
    "schema:text": "Return your attention to the task in front of you; if the reflection leaves you more anxious than clear, shorten it or stop."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I rehearsing a possible loss in order to prepare and appreciate, or am I just worrying?",
+   "wgo:questionFor": {
+    "@id": "wg:negative-visualization"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "After imagining this loss, did I come back to what I still have and what I can do now?",
+   "wgo:questionFor": {
+    "@id": "wg:negative-visualization"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which parts of the outcome I fear are actually up to me?",
+   "wgo:questionFor": {
+    "@id": "wg:negative-visualization"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Once, I'll list what could go wrong in the presentation, prepare for the questions I can foresee, and accept that the reaction isn't fully up to me. And I'll take a minute to picture not having this job at all, then notice what I'd miss.",
+   "wgo:before": "I'll keep replaying how badly the presentation could go every night until then, and keep grumbling about this job.",
+   "wgo:situation": "Your manager asks you to present to senior leadership next week, and you also have a job you mostly enjoy but have started to complain about.",
+   "wgo:why": "A brief, bounded rehearsal turns vague fear into preparation and restores appreciation, whereas dwelling on the worst only adds suffering before anything has happened."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Negative visualization",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Choose one thing you value and tend to take for granted, such as a relationship, your health, your job or an ordinary comfort."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Remind yourself plainly of its nature, starting small, for example that this mug can break and that the people you love are mortal."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "For a minute or two, imagine concretely what your life would be like without it, or how it might never have come about."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Return to the present and notice that you do still have it; name one way you will use or appreciate it today."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Before a risky plan, list what could go wrong, separate what is up to you from what is not, and prepare for the parts you can influence."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Stop if the exercise turns into dread or repetitive worry, and shorten it or set it aside."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Adversity, loss and mortality"
@@ -249,6 +342,104 @@
     "@id": "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Perseus Digital Library via Perseids (Tufts University)",
+   "dcterms:title": "Epictetus, The Handbook (Enchiridion) 3, trans. T. W. Higginson",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/3"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Standard Ebooks (public-domain edition of Yonge's 1877 translation)",
+   "dcterms:title": "Cicero, Tusculan Disputations, Book III, trans. C. D. Yonge",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/cicero/tusculan-disputations/c-d-yonge/text/chapter-3"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Dialogues in Philosophy, Mental and Neuro Sciences, 12(1), 10–24 (Cavanna, 2019)",
+   "dcterms:title": "Stoic philosophy and psychotherapy: Implications for neuropsychiatric conditions",
+   "schema:url": {
+    "@id": "https://www.crossingdialogues.it/wp-content/uploads/2024/02/Ms-A19-02.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 95(5), 1217–1224 (Koo, Algoe, Wilson & Gilbert, 2008)",
+   "dcterms:title": "It's a wonderful life: Mentally subtracting positive events improves people's affective states, contrary to their affective forecasts",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2746912"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Emotion, 9(2), 277–281 (Golub, Gilbert & Wilson, 2009)",
+   "dcterms:title": "Anticipating one's troubles: The costs and benefits of negative expectations",
+   "schema:url": {
+    "@id": "https://dash.harvard.edu/server/api/core/bitstreams/7312037c-63f4-6bd4-e053-0100007fdf3b/content"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Journal of Personality (Kalokerinos, Moeck, Rummens, Meers & Mestdagh, 2022)",
+   "dcterms:title": "Ready for the worst? Negative affect in anticipation of a stressor does not protect against affective reactivity",
+   "schema:url": {
+    "@id": "https://boris.unibe.ch/174014/1/Journal_of_Personality_-_2022_-_Kalokerinos_-_Ready_for_the_Worst_Negative_Affect_in_Anticipation_of_a_Stressor_Does_Not.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Greater Good in Action, Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Mental Subtraction of Positive Events",
+   "schema:url": {
+    "@id": "https://ggia.berkeley.edu/practice/mental_subtraction_positive_events"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1",
@@ -418,6 +609,103 @@
      "@id": "wg:stoicism"
     }
    ]
+  },
+  {
+   "@id": "wg:negative-visualization",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7"
+    }
+   ],
+   "rdfs:label": "Negative visualization",
+   "skos:altLabel": [
+    "praemeditatio malorum",
+    "premeditatio malorum",
+    "premeditation of evils",
+    "premeditation of future evils",
+    "rehearsal of misfortune"
+   ],
+   "skos:broader": {
+    "@id": "wg:spiritual-exercises"
+   },
+   "skos:definition": "A Stoic exercise of deliberately imagining that you could lose what you value, or that a setback could happen, so that you hold good things with more appreciation and meet misfortune with less shock.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Negative visualization",
+   "skos:related": [
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:mental-subtraction"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:hedonic-adaptation"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:anticipating-ones-troubles-study"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:epicureanism"
+   },
+   "wgo:develops": [
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:gratitude"
+    }
+   ],
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/negative-visualization.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:stoicism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:george-bailey-effect"
+   }
   },
   {
    "@id": "wg:stoicism",

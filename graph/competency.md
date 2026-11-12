@@ -26,6 +26,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 
 | practice | reach | targets |
 |---|---|---|
+| `wg:negative-visualization` | 3 | equanimity, gratitude, hedonic-adaptation |
 | `wg:memento-mori` | 2 | equanimity, greed |
 
 ## Toolkit by life situation
@@ -60,6 +61,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 |---|---|
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:memento-mori` |
+| `wg:stoicism` | `wg:negative-visualization` |
 
 ## The doctrine of the mean
 

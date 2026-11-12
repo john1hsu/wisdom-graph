@@ -26,3 +26,27 @@ Ask yourself:
 - Am I using the thought of death to clarify what matters, or to feed dread or reckless indulgence?
 - What would I want to have said or done for the people involved here?
 
+## emotions-and-equanimity
+
+### [Negative visualization](../articles/emotions-and-equanimity/negative-visualization.md) — Practice
+
+1. Choose one thing you value and tend to take for granted, such as a relationship, your health, your job or an ordinary comfort.
+2. Remind yourself plainly of its nature, starting small, for example that this mug can break and that the people you love are mortal.
+3. For a minute or two, imagine concretely what your life would be like without it, or how it might never have come about.
+4. Return to the present and notice that you do still have it; name one way you will use or appreciate it today.
+5. Before a risky plan, list what could go wrong, separate what is up to you from what is not, and prepare for the parts you can influence.
+6. Stop if the exercise turns into dread or repetitive worry, and shorten it or set it aside.
+
+*Your manager asks you to present to senior leadership next week, and you also have a job you mostly enjoy but have started to complain about.*
+
+| Before | After |
+|---|---|
+| I'll keep replaying how badly the presentation could go every night until then, and keep grumbling about this job. | Once, I'll list what could go wrong in the presentation, prepare for the questions I can foresee, and accept that the reaction isn't fully up to me. And I'll take a minute to picture not having this job at all, then notice what I'd miss. |
+
+**Why:** A brief, bounded rehearsal turns vague fear into preparation and restores appreciation, whereas dwelling on the worst only adds suffering before anything has happened.
+
+Ask yourself:
+- Am I rehearsing a possible loss in order to prepare and appreciate, or am I just worrying?
+- After imagining this loss, did I come back to what I still have and what I can do now?
+- Which parts of the outcome I fear are actually up to me?
+
