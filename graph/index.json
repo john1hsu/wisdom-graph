@@ -1866,6 +1866,128 @@
   ]
  },
  {
+  "id": "wg:perspective-taking",
+  "title": "Perspective-taking",
+  "aliases": [
+   "taking another's perspective",
+   "imagine-other perspective taking",
+   "putting yourself in someone else's shoes"
+  ],
+  "type": "Practice",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/perspective-taking.md",
+  "created": "2026-11-13",
+  "summary": "Deliberately imagining a situation from another person's point of view, including what they know, want and feel, as a way to understand them and connect with them; best paired with simply asking them.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:social-cognition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:empathy",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:wise-reasoning",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:egocentric-bias",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:negotiation",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:perspective-taking-in-negotiations-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:perspective-mistaking-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:perspective-taking-empathic-concern-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I imagining how they feel, or how I would feel in their place?",
+   "Which of my beliefs about their view have I actually checked with them?",
+   "Have I asked a question I don't already know the answer to?",
+   "Is there an option that meets what they want as well as what I want?"
+  ],
+  "steps": [
+   "Before you respond, name your own first reading of the situation so you can set it aside for a moment.",
+   "Imagine the other person's day, constraints and goals, and ask what they know that you don't and what they want from this.",
+   "Write down two or three guesses about how they see it, and mark each one as a guess.",
+   "Check the guesses by asking open questions (\"How does this look from where you sit?\") and listen without rebutting.",
+   "Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you."
+  ],
+  "example": {
+   "situation": "A team lead notices that a usually reliable colleague has missed two deadlines in a row and seems curt in meetings.",
+   "before": "I decide they've stopped caring, picture how I'd feel if I were slacking, and send a sharp message about accountability.",
+   "after": "I sketch what their fortnight probably looked like, note that I'm guessing, then ask privately how the project is going from their side. It turns out a second project landed on them without my knowing; we reprioritise together.",
+   "why": "Imagining their side softened my reaction, but only asking told me what was actually going on; taking and getting perspective together led to a fair and workable fix."
+  },
+  "source_urls": [
+   "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cbe54fb71c10bbdc16e0dbc/1555977471661/eyal.steffel.epley.2018.pdf",
+   "https://escholarship.org/uc/item/5j86s6m6",
+   "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2019/01/Psych-Science-PT-Negotiations.pdf",
+   "https://core.ac.uk/download/322934596.pdf",
+   "https://ggie.berkeley.edu/practice/checking-your-perspective",
+   "https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire",
+   "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+  ]
+ },
+ {
   "id": "wg:post-traumatic-growth",
   "title": "Post-traumatic growth",
   "aliases": [

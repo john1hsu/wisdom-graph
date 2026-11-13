@@ -84,6 +84,28 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Perspective-taking](../articles/compassion-and-relationships/perspective-taking.md) — Practice
+
+1. Before you respond, name your own first reading of the situation so you can set it aside for a moment.
+2. Imagine the other person's day, constraints and goals, and ask what they know that you don't and what they want from this.
+3. Write down two or three guesses about how they see it, and mark each one as a guess.
+4. Check the guesses by asking open questions ("How does this look from where you sit?") and listen without rebutting.
+5. Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you.
+
+*A team lead notices that a usually reliable colleague has missed two deadlines in a row and seems curt in meetings.*
+
+| Before | After |
+|---|---|
+| I decide they've stopped caring, picture how I'd feel if I were slacking, and send a sharp message about accountability. | I sketch what their fortnight probably looked like, note that I'm guessing, then ask privately how the project is going from their side. It turns out a second project landed on them without my knowing; we reprioritise together. |
+
+**Why:** Imagining their side softened my reaction, but only asking told me what was actually going on; taking and getting perspective together led to a fair and workable fix.
+
+Ask yourself:
+- Am I imagining how they feel, or how I would feel in their place?
+- Which of my beliefs about their view have I actually checked with them?
+- Have I asked a question I don't already know the answer to?
+- Is there an option that meets what they want as well as what I want?
+
 ## emotions-and-equanimity
 
 ### [Equanimity](../articles/emotions-and-equanimity/equanimity.md) — Virtue

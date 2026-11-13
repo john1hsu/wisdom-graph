@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:empathy` | wgo:Skill |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -30,6 +28,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 |---|---|---|
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
+| `wg:perspective-taking` | 3 | Empathy, egocentric-bias, wise-reasoning |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
@@ -57,12 +56,14 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
+| `wg:interpersonal-conflict` | `wg:perspective-taking` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
+| `wg:negotiation` | `wg:perspective-taking` |
 | `wg:serious-illness` | `wg:logotherapy` |
 
 ## Myths and contested advice
@@ -84,6 +85,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:intellectual-humility` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
+| `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
+| `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:purpose-in-life` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
@@ -97,6 +100,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:hubris` | wgo:Vice |
+| `wg:perspective-taking` | wgo:Practice |
 | `wg:virtue-ethics` | wgo:Field |
 
 ## Orphan articles (gap)

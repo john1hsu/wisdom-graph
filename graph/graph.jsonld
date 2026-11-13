@@ -1074,6 +1074,98 @@
    "schema:text": "Stop if the exercise turns into dread or repetitive worry, and shorten it or set it aside."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I imagining how they feel, or how I would feel in their place?",
+   "wgo:questionFor": {
+    "@id": "wg:perspective-taking"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which of my beliefs about their view have I actually checked with them?",
+   "wgo:questionFor": {
+    "@id": "wg:perspective-taking"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I asked a question I don't already know the answer to?",
+   "wgo:questionFor": {
+    "@id": "wg:perspective-taking"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there an option that meets what they want as well as what I want?",
+   "wgo:questionFor": {
+    "@id": "wg:perspective-taking"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I sketch what their fortnight probably looked like, note that I'm guessing, then ask privately how the project is going from their side. It turns out a second project landed on them without my knowing; we reprioritise together.",
+   "wgo:before": "I decide they've stopped caring, picture how I'd feel if I were slacking, and send a sharp message about accountability.",
+   "wgo:situation": "A team lead notices that a usually reliable colleague has missed two deadlines in a row and seems curt in meetings.",
+   "wgo:why": "Imagining their side softened my reaction, but only asking told me what was actually going on; taking and getting perspective together led to a fair and workable fix."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Perspective-taking",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/5"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Before you respond, name your own first reading of the situation so you can set it aside for a moment."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Imagine the other person's day, constraints and goals, and ask what they know that you don't and what they want from this."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Write down two or three guesses about how they see it, and mark each one as a guess."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Check the guesses by asking open questions (\"How does this look from where you sit?\") and listen without rebutting."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/rumination/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Has this round of thinking produced a new insight or a next step, or am I replaying the same scene?",
@@ -3004,6 +3096,104 @@
     "@id": "https://ggia.berkeley.edu/practice/mental_subtraction_positive_events"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 114(4), 547–571 (Eyal, Steffel & Epley, 2018), full-text PDF",
+   "dcterms:title": "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective",
+   "schema:url": {
+    "@id": "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cbe54fb71c10bbdc16e0dbc/1555977471661/eyal.steffel.epley.2018.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Review, 24(2), 141–162 (McAuliffe, Carter, Berhane, Snihur & McCullough, 2020), via eScholarship, University of California",
+   "dcterms:title": "Is empathy the default response to suffering? A meta-analytic evaluation of perspective taking's effect on empathic concern",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/5j86s6m6"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Science, 19(4), 378–384 (Galinsky, Maddux, Gilin & White, 2008), author copy, University of North Carolina",
+   "dcterms:title": "Why it pays to get inside the head of your opponent: The differential effects of perspective taking and empathy in negotiations",
+   "schema:url": {
+    "@id": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2019/01/Psych-Science-PT-Negotiations.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Current Opinion in Psychology (Grossmann, Dorfman & Oakes, 2019), accepted manuscript via CORE",
+   "dcterms:title": "Wisdom is a social-ecological rather than person-centric phenomenon",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/322934596.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Greater Good in Education, Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Checking Your Perspective",
+   "schema:url": {
+    "@id": "https://ggie.berkeley.edu/practice/checking-your-perspective"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Greater Good Magazine, Greater Good Science Center, UC Berkeley (Jill Suttie, 22 May 2018)",
+   "dcterms:title": "How Putting Yourself in Someone Else's Shoes May Backfire",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "APS Observer, Association for Psychological Science (17 April 2017)",
+   "dcterms:title": "The Factors That Foster Wise Reasoning",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+   },
+   "wgo:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1",
@@ -5587,6 +5777,111 @@
    "wgo:supportedBy": {
     "@id": "wg:george-bailey-effect"
    }
+  },
+  {
+   "@id": "wg:perspective-taking",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7"
+    }
+   ],
+   "rdfs:label": "Perspective-taking",
+   "skos:altLabel": [
+    "imagine-other perspective taking",
+    "putting yourself in someone else's shoes",
+    "taking another's perspective"
+   ],
+   "skos:broader": {
+    "@id": "wg:social-cognition"
+   },
+   "skos:definition": "Deliberately imagining a situation from another person's point of view, including what they know, want and feel, as a way to understand them and connect with them; best paired with simply asking them.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Perspective-taking",
+   "skos:related": [
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:egocentric-bias"
+   },
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:negotiation"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:perspective-mistaking-study"
+    },
+    {
+     "@id": "wg:perspective-taking-empathic-concern-meta-analysis"
+    }
+   ],
+   "wgo:demonstratedBy": {
+    "@id": "wg:perspective-taking-in-negotiations-study"
+   },
+   "wgo:develops": [
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/perspective-taking.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:post-traumatic-growth",

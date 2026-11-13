@@ -1057,6 +1057,82 @@
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I imagining how they feel, or how I would feel in their place?" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Which of my beliefs about their view have I actually checked with them?" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I asked a question I don't already know the answer to?" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is there an option that meets what they want as well as what I want?" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I sketch what their fortnight probably looked like, note that I'm guessing, then ask privately how the project is going from their side. It turns out a second project landed on them without my knowing; we reprioritise together." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I decide they've stopped caring, picture how I'd feel if I were slacking, and send a sharp message about accountability." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead notices that a usually reliable colleague has missed two deadlines in a row and seems curt in meetings." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Imagining their side softened my reaction, but only asking told me what was actually going on; taking and getting perspective together led to a fair and workable fix." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/1> <https://schema.org/text> "Before you respond, name your own first reading of the situation so you can set it aside for a moment." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/2> <https://schema.org/text> "Imagine the other person's day, constraints and goals, and ask what they know that you don't and what they want from this." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/3> <https://schema.org/text> "Write down two or three guesses about how they see it, and mark each one as a guess." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/4> <https://schema.org/text> "Check the guesses by asking open questions (\"How does this look from where you sit?\") and listen without rebutting." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/5> <https://schema.org/text> "Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <https://schema.org/name> "Perspective-taking" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2000/01/rdf-schema#label> "Perspective-taking" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#altLabel> "imagine-other perspective taking" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#altLabel> "putting yourself in someone else's shoes" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#altLabel> "taking another's perspective" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#definition> "Deliberately imagining a situation from another person's point of view, including what they know, want and feel, as a way to understand them and connect with them; best paired with simply asking them." .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perspective-taking" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/egocentric-bias> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/negotiation> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-mistaking-study> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking-empathic-concern-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking-in-negotiations-study> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/example> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/perspective-taking.md" .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Phenomenon> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/2000/01/rdf-schema#label> "Post-traumatic growth" .
@@ -2169,6 +2245,48 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://schema.org/url> <https://ggia.berkeley.edu/practice/mental_subtraction_positive_events> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 114(4), 547–571 (Eyal, Steffel & Epley, 2018), full-text PDF" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://purl.org/dc/terms/title> "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <https://schema.org/url> <https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cbe54fb71c10bbdc16e0dbc/1555977471661/eyal.steffel.epley.2018.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Review, 24(2), 141–162 (McAuliffe, Carter, Berhane, Snihur & McCullough, 2020), via eScholarship, University of California" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> <http://purl.org/dc/terms/title> "Is empathy the default response to suffering? A meta-analytic evaluation of perspective taking's effect on empathic concern" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s2> <https://schema.org/url> <https://escholarship.org/uc/item/5j86s6m6> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> <http://purl.org/dc/terms/publisher> "Psychological Science, 19(4), 378–384 (Galinsky, Maddux, Gilin & White, 2008), author copy, University of North Carolina" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> <http://purl.org/dc/terms/title> "Why it pays to get inside the head of your opponent: The differential effects of perspective taking and empathy in negotiations" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s3> <https://schema.org/url> <https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2019/01/Psych-Science-PT-Negotiations.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> <http://purl.org/dc/terms/publisher> "Current Opinion in Psychology (Grossmann, Dorfman & Oakes, 2019), accepted manuscript via CORE" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> <http://purl.org/dc/terms/title> "Wisdom is a social-ecological rather than person-centric phenomenon" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s4> <https://schema.org/url> <https://core.ac.uk/download/322934596.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> <http://purl.org/dc/terms/publisher> "Greater Good in Education, Greater Good Science Center, UC Berkeley" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> <http://purl.org/dc/terms/title> "Checking Your Perspective" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s5> <https://schema.org/url> <https://ggie.berkeley.edu/practice/checking-your-perspective> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> <http://purl.org/dc/terms/publisher> "Greater Good Magazine, Greater Good Science Center, UC Berkeley (Jill Suttie, 22 May 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> <http://purl.org/dc/terms/title> "How Putting Yourself in Someone Else's Shoes May Backfire" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s6> <https://schema.org/url> <https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> <http://purl.org/dc/terms/publisher> "APS Observer, Association for Psychological Science (17 April 2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> <http://purl.org/dc/terms/title> "The Factors That Foster Wise Reasoning" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7> <https://schema.org/url> <https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1> <http://purl.org/dc/terms/publisher> "Journal of Traumatic Stress, 9(3), 455–471 (Tedeschi & Calhoun, 1996); hosted by the PTG Research Group, UNC Charlotte" .
 <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1> <http://purl.org/dc/terms/title> "The Posttraumatic Growth Inventory: Measuring the positive legacy of trauma" .
