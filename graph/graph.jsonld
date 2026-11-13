@@ -2412,6 +2412,20 @@
    "wgo:sourceType": "practitioner-journal"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hubris/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Cambridge University Press (ed. and trans. Michael Gagarin & Paul Woodruff, 1995; doi:10.1017/CBO9780511805479.010)",
+   "dcterms:title": "Solon (chapter), in Early Greek Political Thought from Homer to the Sophists",
+   "schema:url": {
+    "@id": "https://core-prod.cambridgecore.org/core/books/early-greek-political-thought-from-homer-to-the-sophists/solon/8E6C750DA57CE1D775100197DE75FA4D"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -2746,6 +2760,20 @@
     "@id": "https://www.psychologicalscience.org/journals/current-directions/0963721411402478/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Patricia O'Grady, Flinders University)",
+   "dcterms:title": "Thales of Miletus",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/thales/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1",
@@ -3712,6 +3740,104 @@
     "@id": "https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "LacusCurtius, University of Chicago (Bill Thayer)",
+   "dcterms:title": "Diogenes Laertius, Lives of Eminent Philosophers, Book I: Thales, trans. R. D. Hicks (Loeb Classical Library, 1925)",
+   "schema:url": {
+    "@id": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Thales*.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "LacusCurtius, University of Chicago (Bill Thayer)",
+   "dcterms:title": "Diogenes Laertius, Lives of Eminent Philosophers, Book I: Solon, trans. R. D. Hicks (Loeb Classical Library, 1925)",
+   "schema:url": {
+    "@id": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Solon*.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Perseus Digital Library (Perseids CTS reader)",
+   "dcterms:title": "Herodotus, Histories 1.32, trans. A. D. Godley",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/1.32.2-1.32.9"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Cambridge University Press (ed. and trans. Michael Gagarin & Paul Woodruff, 1995; doi:10.1017/CBO9780511805479.010)",
+   "dcterms:title": "Solon (chapter), in Early Greek Political Thought from Homer to the Sophists",
+   "schema:url": {
+    "@id": "https://core-prod.cambridgecore.org/core/books/early-greek-political-thought-from-homer-to-the-sophists/solon/8E6C750DA57CE1D775100197DE75FA4D"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Patricia O'Grady, Flinders University)",
+   "dcterms:title": "Thales of Miletus",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/thales/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Bryn Mawr Classical Review 2011.05.49 (Håkan Tell, Dartmouth College)",
+   "dcterms:title": "Review of Johannes Engels, Die sieben Weisen: Leben, Lehren und Legenden (Munich: C. H. Beck, 2010)",
+   "schema:url": {
+    "@id": "https://bmcr.brynmawr.edu/?p=39098"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Science, 25(8), 1571–1580 (Grossmann & Kross, 2014; doi:10.1177/0956797614535400; PubMed record)",
+   "dcterms:title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/24916084/"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1",
@@ -5273,6 +5399,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-13"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1"
@@ -5291,6 +5421,9 @@
     },
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hubris/s7"
     }
    ],
    "rdfs:label": "Hubris",
@@ -5346,6 +5479,9 @@
    },
    "wgo:file": "articles/wisdom-at-work/hubris.md",
    "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:seven-sages-of-greece"
+   },
    "wgo:undermines": [
     {
      "@id": "wg:leading-others"
@@ -5619,6 +5755,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-13"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1"
@@ -5637,6 +5777,9 @@
     },
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7"
     }
    ],
    "rdfs:label": "Know thyself",
@@ -5694,9 +5837,14 @@
    "wgo:partOf": {
     "@id": "wg:delphic-maxims"
    },
-   "wgo:rootedIn": {
-    "@id": "wg:socratic-philosophy"
-   }
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:seven-sages-of-greece"
+    },
+    {
+     "@id": "wg:socratic-philosophy"
+    }
+   ]
   },
   {
    "@id": "wg:logotherapy",
@@ -6685,6 +6833,90 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:seven-sages-of-greece",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s7"
+    }
+   ],
+   "rdfs:label": "Seven Sages of Greece",
+   "skos:altLabel": [
+    "Seven Wise Men of Greece",
+    "ἑπτὰ σοφοί",
+    "hepta sophoi",
+    "the Seven Wise Men"
+   ],
+   "skos:broader": {
+    "@id": "wg:ancient-greek-philosophy"
+   },
+   "skos:definition": "An ancient Greek tradition, taking shape in the sixth and fifth centuries BCE, that honoured a changing list of seven practical sages of the archaic age (usually including Thales, Solon, Bias, Pittacus, Chilon and Cleobulus) and credited them with short maxims such as \"Know thyself\" and \"Nothing in excess\".",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Seven Sages of Greece",
+   "skos:related": [
+    {
+     "@id": "wg:delphic-maxims"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:socratic-philosophy"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/seven-sages-of-greece.md",
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:solon"
+    },
+    {
+     "@id": "wg:thales"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:exploring-solomons-paradox-study"
+   }
   },
   {
    "@id": "wg:socioemotional-selectivity-theory",

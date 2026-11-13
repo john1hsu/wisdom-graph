@@ -16,6 +16,7 @@ requires: []
 relations:
   - {predicate: partOf, object: wg:delphic-maxims, source: s1, confidence: high}
   - {predicate: rootedIn, object: wg:socratic-philosophy, source: s3, confidence: high}
+  - {predicate: rootedIn, object: wg:seven-sages-of-greece, source: s7, confidence: medium}
   - {predicate: addresses, object: wg:hubris, source: s4, confidence: medium}
   - {predicate: develops, object: wg:intellectual-humility, source: s4, confidence: medium}
   - {predicate: complements, object: wg:seeking-counsel, source: s6, confidence: medium}
@@ -66,7 +67,14 @@ sources:
     url: https://www.psychologicalscience.org/journals/current-directions/0963721411402478/
     type: peer-reviewed
     accessed: 2026-11-13
+  - id: s7
+    title: "Thales of Miletus"
+    publisher: Internet Encyclopedia of Philosophy (Patricia O'Grady, Flinders University)
+    url: https://iep.utm.edu/thales/
+    type: scholarly-encyclopedia
+    accessed: 2026-11-13
 created: 2026-11-13
+modified: 2026-11-13
 ---
 
 # Know thyself
@@ -101,7 +109,7 @@ As a maxim, "know thyself" is a philosophical teaching judged by argument and lo
 
 ## Connections
 
-"Know thyself" is **part of the Delphic maxims**, the sayings Pausanias describes in the temple's forecourt beside "Nothing in excess".[^s1] It sits under the broader topic of **self-knowledge** and is **rooted in Socratic philosophy**, which made the precept central to its method.[^s3] Read as a reminder of human limits, it **addresses hubris** and **develops intellectual humility**.[^s4] Because others can see traits we misjudge, it **complements seeking counsel**.[^s6] It is closely related to **Socratic ignorance**, its best-known interpretation; to **self-reflection** and **self-distancing**, which offer ways of looking inward without brooding; and to the **introspection illusion**, the limits of looking inward that Wilson and Dunn describe.[^s2][^s5]
+"Know thyself" is **part of the Delphic maxims**, the sayings Pausanias describes in the temple's forecourt beside "Nothing in excess".[^s1] Plato reports that the **Seven Sages** dedicated it at Delphi, so it is **rooted in** their tradition as well.[^s7] It sits under the broader topic of **self-knowledge** and is **rooted in Socratic philosophy**, which made the precept central to its method.[^s3] Read as a reminder of human limits, it **addresses hubris** and **develops intellectual humility**.[^s4] Because others can see traits we misjudge, it **complements seeking counsel**.[^s6] It is closely related to **Socratic ignorance**, its best-known interpretation; to **self-reflection** and **self-distancing**, which offer ways of looking inward without brooding; and to the **introspection illusion**, the limits of looking inward that Wilson and Dunn describe.[^s2][^s5]
 
 ## Sources
 
@@ -111,3 +119,4 @@ As a maxim, "know thyself" is a philosophical teaching judged by argument and lo
 [^s4]: Pigliucci, M. "The Delphic Injunctions." *Philosophy Now*, issue 174. https://philosophynow.org/issues/174/The_Delphic_Injunctions (accessed 2026-11-13)
 [^s5]: Wilson, T. D., & Dunn, E. W. (2004). "Self-knowledge: Its limits, value, and potential for improvement." *Annual Review of Psychology*, 55, 493–518, doi:10.1146/annurev.psych.55.090902.141954. https://www.its.caltech.edu/~squartz/selfknowledge.pdf (accessed 2026-11-13)
 [^s6]: Vazire, S., & Carlson, E. N. (2011). "Others sometimes know us better than we know ourselves." *Current Directions in Psychological Science*. Association for Psychological Science. https://www.psychologicalscience.org/journals/current-directions/0963721411402478/ (accessed 2026-11-13)
+[^s7]: O'Grady, P. "Thales of Miletus." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/thales/ (accessed 2026-11-13)

@@ -19,6 +19,7 @@ relations:
   - {predicate: contrastsWith, object: wg:humility, source: s6, confidence: medium}
   - {predicate: demonstratedBy, object: wg:ceo-hubris-acquisition-premiums-study, source: s4, confidence: high}
   - {predicate: challengedBy, object: wg:many-labs-3, source: s5, confidence: medium}
+  - {predicate: rootedIn, object: wg:seven-sages-of-greece, source: s7, confidence: medium}
 example:
   situation: >-
     A department head has delivered three strong years in a row and been praised in the trade press. A senior
@@ -76,7 +77,14 @@ sources:
     url: https://www.hks.harvard.edu/publications/dont-let-power-corrupt-you
     type: practitioner-journal
     accessed: 2026-11-13
+  - id: s7
+    title: "Solon (chapter), in Early Greek Political Thought from Homer to the Sophists"
+    publisher: Cambridge University Press (ed. and trans. Michael Gagarin & Paul Woodruff, 1995; doi:10.1017/CBO9780511805479.010)
+    url: https://core-prod.cambridgecore.org/core/books/early-greek-political-thought-from-homer-to-the-sophists/solon/8E6C750DA57CE1D775100197DE75FA4D
+    type: primary
+    accessed: 2026-11-13
 created: 2026-11-13
+modified: 2026-11-13
 ---
 
 # Hubris
@@ -85,7 +93,7 @@ Hubris, as the word is used today, is the overconfidence that success and power 
 
 ## Origin
 
-The Greek *hybris* meant something narrower and uglier than the modern word. In the *Rhetoric* (Book II, Part 2), Aristotle treats it as a form of slighting: doing or saying things that shame another person, not for any gain or in revenge, but for the pleasure of feeling superior. He adds that the young and the rich are prone to it for that reason.[^s1] The modern sense keeps the core of that picture, a self-image swollen by advantage, but shifts the emphasis from insulting others to misjudging oneself.[^s1][^s2]
+The Greek *hybris* meant something narrower and uglier than the modern word. In the *Rhetoric* (Book II, Part 2), Aristotle treats it as a form of slighting: doing or saying things that shame another person, not for any gain or in revenge, but for the pleasure of feeling superior. He adds that the young and the rich are prone to it for that reason.[^s1] Earlier still, Solon of Athens, counted among the Seven Sages, warned in his poem on good order that the people's leaders, lured by wealth and unable to keep excess in check, would bring much grief through their great hubris.[^s7] The modern sense keeps the core of that picture, a self-image swollen by advantage, but shifts the emphasis from insulting others to misjudging oneself.[^s1][^s2]
 
 In leadership research the idea took two paths. Management scholars study hubris as a pattern of exaggerated self-confidence that can be measured indirectly and linked to company decisions.[^s2][^s4] In 2009 the physician and former politician David Owen and the psychiatrist Jonathan Davidson proposed a "hubris syndrome": 14 features, among them speaking of oneself in the royal "we", identifying oneself with the nation or organisation, restless recklessness, and letting a broad vision override practical detail, said to appear in some people only after they have held substantial power for a while.[^s3]
 
@@ -121,7 +129,7 @@ The popular claim that power by itself erodes people's ability to see others' pe
 
 ## Connections
 
-Hubris **undermines wise leadership** by cutting a leader off from criticism and advice, and **undermines leading others** by turning attention from the people led toward oneself.[^s2][^s6] It **contrasts with humility**, the counterweight that management writers recommend cultivating.[^s6] Its effects in business are **demonstrated by** Hayward and Hambrick's study of acquisition premiums, and the broader idea that power quickly destroys perspective-taking is **challenged by** the failed replication in Many Labs 3.[^s4][^s5] It is related to **humble leadership**, the practice most directly aimed against it; to **intellectual humility** and **know thyself**, ancient and modern reminders of one's limits; to **seeking counsel**, which keeps outside views in play; and to **intellectual arrogance** and **escalation of commitment**, its cousins in belief and in decision-making.[^s1][^s2][^s6] The cognitive bias of overconfidence, treated in the sibling critical-thinking graph, is one ingredient of hubris but not the whole of it.[^s2]
+As a warning against the excess of the powerful, it is **rooted in** the archaic Greek tradition of the **Seven Sages**, through Solon's poetry.[^s7] Hubris **undermines wise leadership** by cutting a leader off from criticism and advice, and **undermines leading others** by turning attention from the people led toward oneself.[^s2][^s6] It **contrasts with humility**, the counterweight that management writers recommend cultivating.[^s6] Its effects in business are **demonstrated by** Hayward and Hambrick's study of acquisition premiums, and the broader idea that power quickly destroys perspective-taking is **challenged by** the failed replication in Many Labs 3.[^s4][^s5] It is related to **humble leadership**, the practice most directly aimed against it; to **intellectual humility** and **know thyself**, ancient and modern reminders of one's limits; to **seeking counsel**, which keeps outside views in play; and to **intellectual arrogance** and **escalation of commitment**, its cousins in belief and in decision-making.[^s1][^s2][^s6] The cognitive bias of overconfidence, treated in the sibling critical-thinking graph, is one ingredient of hubris but not the whole of it.[^s2]
 
 ## Sources
 
@@ -131,3 +139,4 @@ Hubris **undermines wise leadership** by cutting a leader off from criticism and
 [^s4]: Hayward, M. L. A., & Hambrick, D. C. (1997). "Explaining the premiums paid for large acquisitions: Evidence of CEO hubris." *Administrative Science Quarterly*, 42(1), 103–127, doi:10.2307/2393810. https://scilit.com/publications/9e9420e6b4ae64d8f3cc90ff72f352f3 (accessed 2026-11-13)
 [^s5]: Ebersole, C. R., et al. (2016). "Many Labs 3: Evaluating participant pool quality across the academic semester via replication." *Journal of Experimental Social Psychology*, 67, 68–82 (replication of Galinsky et al., 2006, Study 2a). https://psychology.unt.edu/system/files/Many%20labs%203.pdf (accessed 2026-11-13)
 [^s6]: Battilana, J., & Casciaro, T. (2021). "Don't Let Power Corrupt You." *Harvard Business Review*, September–October 2021. https://www.hks.harvard.edu/publications/dont-let-power-corrupt-you (accessed 2026-11-13)
+[^s7]: Gagarin, M., & Woodruff, P. (eds. and trans.) (1995). "Solon," fragment 4 West, in *Early Greek Political Thought from Homer to the Sophists*. Cambridge University Press, doi:10.1017/CBO9780511805479.010. https://core-prod.cambridgecore.org/core/books/early-greek-political-thought-from-homer-to-the-sophists/solon/8E6C750DA57CE1D775100197DE75FA4D (accessed 2026-11-13)

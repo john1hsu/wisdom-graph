@@ -103,7 +103,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:hubris` | wgo:Vice |
 | `wg:perspective-taking` | wgo:Practice |
 | `wg:virtue-ethics` | wgo:Field |
 
@@ -127,6 +126,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
+| `wg:seven-sages-of-greece` | `wg:hubris` |
+| `wg:seven-sages-of-greece` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:equanimity` |

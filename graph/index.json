@@ -1017,6 +1017,12 @@
     "object": "wg:many-labs-3",
     "source": "s5",
     "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:seven-sages-of-greece",
+    "source": "s7",
+    "confidence": "medium"
    }
   ],
   "selfCheck": [
@@ -1038,7 +1044,8 @@
    "https://www.cambridge.org/core/product/2BD9CCD92BE816A808C356EF8BCC4D63/core-reader",
    "https://scilit.com/publications/9e9420e6b4ae64d8f3cc90ff72f352f3",
    "https://psychology.unt.edu/system/files/Many%20labs%203.pdf",
-   "https://www.hks.harvard.edu/publications/dont-let-power-corrupt-you"
+   "https://www.hks.harvard.edu/publications/dont-let-power-corrupt-you",
+   "https://core-prod.cambridgecore.org/core/books/early-greek-political-thought-from-homer-to-the-sophists/solon/8E6C750DA57CE1D775100197DE75FA4D"
   ]
  },
  {
@@ -1394,6 +1401,12 @@
     "confidence": "high"
    },
    {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:seven-sages-of-greece",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
     "predicate": "wgo:addresses",
     "object": "wg:hubris",
     "source": "s4",
@@ -1430,7 +1443,8 @@
    "https://assets.cambridge.org/97811071/23304/excerpt/9781107123304_excerpt.pdf",
    "https://philosophynow.org/issues/174/The_Delphic_Injunctions",
    "https://www.its.caltech.edu/~squartz/selfknowledge.pdf",
-   "https://www.psychologicalscience.org/journals/current-directions/0963721411402478/"
+   "https://www.psychologicalscience.org/journals/current-directions/0963721411402478/",
+   "https://iep.utm.edu/thales/"
   ]
  },
  {
@@ -2551,6 +2565,87 @@
    "https://researchers.mq.edu.au/en/publications/the-effectiveness-of-self-distanced-versus-self-immersed-reflecti/",
    "https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2023/01/An-Event-Related-Potential-Investigation-of-Distanced-Self-Talk-Replication-and-Comparison-to-Detached-Reappraisal.pdf",
    "https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events"
+  ]
+ },
+ {
+  "id": "wg:seven-sages-of-greece",
+  "title": "Seven Sages of Greece",
+  "aliases": [
+   "Seven Wise Men of Greece",
+   "the Seven Wise Men",
+   "hepta sophoi",
+   "ἑπτὰ σοφοί"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/seven-sages-of-greece.md",
+  "created": "2026-11-13",
+  "summary": "An ancient Greek tradition, taking shape in the sixth and fifth centuries BCE, that honoured a changing list of seven practical sages of the archaic age (usually including Thales, Solon, Bias, Pittacus, Chilon and Cleobulus) and credited them with short maxims such as \"Know thyself\" and \"Nothing in excess\".",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:ancient-greek-philosophy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:delphic-maxims"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-philosophy"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:thales",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:solon",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:exploring-solomons-paradox-study",
+    "source": "s7",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Thales*.html",
+   "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Solon*.html",
+   "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/1.32.2-1.32.9",
+   "https://core-prod.cambridgecore.org/core/books/early-greek-political-thought-from-homer-to-the-sophists/solon/8E6C750DA57CE1D775100197DE75FA4D",
+   "https://iep.utm.edu/thales/",
+   "https://bmcr.brynmawr.edu/?p=39098",
+   "https://pubmed.ncbi.nlm.nih.gov/24916084/"
   ]
  },
  {
