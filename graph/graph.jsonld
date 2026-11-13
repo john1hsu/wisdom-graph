@@ -228,6 +228,107 @@
    "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When did I last tell my team, in so many words, that I was wrong about something?",
+   "wgo:questionFor": {
+    "@id": "wg:humble-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who did the real work on this result, and have the people above me heard their names?",
+   "wgo:questionFor": {
+    "@id": "wg:humble-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I asking for input because I will use it, or to look open?",
+   "wgo:questionFor": {
+    "@id": "wg:humble-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?",
+   "wgo:questionFor": {
+    "@id": "wg:humble-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I under-estimated testing, and Priya flagged it in March; I should have listened. Here's the revised plan. Priya, can you walk me through how you sized it so I get it right next time?",
+   "wgo:before": "The vendors let us down and testing turned out harder than anyone could have predicted. We'll push harder.",
+   "wgo:situation": "A project lead's schedule for a product launch slips by three weeks, partly because she under-estimated the testing work, and an analyst on the team had flagged the risk early.",
+   "wgo:why": "Owning the error, crediting the person who saw it and asking to learn from her makes it safe for others to raise risks early, and it fixes the estimating method rather than just the date."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Humble leadership",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "When you get something wrong or don't know the answer, say so plainly and early, and say what you will do about it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Name specific contributions by specific people, in their hearing and when reporting upward; say \"we\" for shared wins and \"I\" for your own errors."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Ask the team for feedback on one concrete thing you did, listen without defending, and tell them later what you changed."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Let people with more expertise on a task teach you, in front of others if possible."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Keep making clear decisions; in a crisis or under tight deadlines, act first and invite reflection afterwards."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Which part of my view have I actually checked, and which part am I only sure of?",
@@ -1262,6 +1363,90 @@
    "dcterms:title": "L. Annaeus Seneca On Benefits (De Beneficiis), trans. Aubrey Stewart (1887)",
    "schema:url": {
     "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Academy of Management Journal, 55(4), 787–818 (Owens & Hekman, 2012; author copy, University of Colorado Leeds School of Business)",
+   "dcterms:title": "Modeling How to Grow: An Inductive Examination of Humble Leader Behaviors, Contingencies, and Outcomes",
+   "schema:url": {
+    "@id": "https://leeds-faculty.colorado.edu/dahe7472/Owens%20and%20Hekman%20Leader%20Humility%202012.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 13 (Luo, Zhang, Chen, Zhang, Wang & Peng, 2022; doi:10.3389/fpsyg.2022.980322)",
+   "dcterms:title": "Humble leadership and its outcomes: A meta-analysis",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.980322/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Personality and Individual Differences, 242, 113196 (Silard, Miao, Rego, Akkan, Yoon & Qian, 2025; Iscte repository copy)",
+   "dcterms:title": "Leader expressed humility: A meta-analysis and an agenda for future research",
+   "schema:url": {
+    "@id": "https://repositorio.iscte-iul.pt/bitstream/10071/34319/1/article_111190.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 105(7), 693–712 (2020; doi:10.1037/apl0000456; PubMed record)",
+   "dcterms:title": "The double-edged sword of leader humility: Investigating when and why leader humility promotes versus inhibits subordinate deviance",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/31670527/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Leadership & Organizational Studies, 30(4), 381–396 (Bahmannia, van Knippenberg, Lowe et al., 2023; Erasmus University research portal)",
+   "dcterms:title": "Even nectar is poisonous in excess: The impact of leader humility on pride, entitlement, and organizational citizenship behavior",
+   "schema:url": {
+    "@id": "https://pure.eur.nl/en/publications/even-nectar-is-poisonous-in-excess-the-impact-of-leader-humility-/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Standard Ebooks (from Legge's translation in The Sacred Books of the East)",
+   "dcterms:title": "Tao Te Ching, trans. James Legge",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/text/single-page"
    },
    "wgo:sourceType": "primary"
   },
@@ -2530,6 +2715,87 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:counting-blessings-study"
+   }
+  },
+  {
+   "@id": "wg:humble-leadership",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6"
+    }
+   ],
+   "rdfs:label": "Humble leadership",
+   "skos:altLabel": [
+    "leader expressed humility",
+    "leader humility",
+    "leading by modelling how to grow"
+   ],
+   "skos:broader": {
+    "@id": "wg:wise-leadership"
+   },
+   "skos:definition": "A way of leading in which the person in charge openly admits their own limits and mistakes, gives visible credit for others' strengths and contributions, and shows they are still learning, so that the team treats growth and honest uncertainty as normal.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Humble leadership",
+   "skos:related": [
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:escalation-of-commitment"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:leader-humility-double-edged-sword-study"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/humble-leadership.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:bradley-owens"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:daoism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:leader-expressed-humility-meta-analysis"
    }
   },
   {

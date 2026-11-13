@@ -238,3 +238,28 @@ Ask yourself:
 - When I was shown a mistake just now, did I feel curiosity or did I feel attacked?
 - Am I underselling a strength I really do have, out of false modesty or fear of conflict?
 
+## wisdom-at-work
+
+### [Humble leadership](../articles/wisdom-at-work/humble-leadership.md) — Practice
+
+1. When you get something wrong or don't know the answer, say so plainly and early, and say what you will do about it.
+2. Name specific contributions by specific people, in their hearing and when reporting upward; say "we" for shared wins and "I" for your own errors.
+3. Ask the team for feedback on one concrete thing you did, listen without defending, and tell them later what you changed.
+4. Let people with more expertise on a task teach you, in front of others if possible.
+5. Keep making clear decisions; in a crisis or under tight deadlines, act first and invite reflection afterwards.
+6. Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings.
+
+*A project lead's schedule for a product launch slips by three weeks, partly because she under-estimated the testing work, and an analyst on the team had flagged the risk early.*
+
+| Before | After |
+|---|---|
+| The vendors let us down and testing turned out harder than anyone could have predicted. We'll push harder. | I under-estimated testing, and Priya flagged it in March; I should have listened. Here's the revised plan. Priya, can you walk me through how you sized it so I get it right next time? |
+
+**Why:** Owning the error, crediting the person who saw it and asking to learn from her makes it safe for others to raise risks early, and it fixes the estimating method rather than just the date.
+
+Ask yourself:
+- When did I last tell my team, in so many words, that I was wrong about something?
+- Who did the real work on this result, and have the people above me heard their names?
+- Am I asking for input because I will use it, or to look open?
+- Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?
+

@@ -33,6 +33,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:memento-mori` | 2 | equanimity, greed |
 | `wg:gratitude` | 1 | ingratitude |
+| `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:socratic-ignorance` | 1 | Intellectual humility |
 
@@ -48,6 +49,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
+| `wg:leading-others` | `wg:humble-leadership` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 
 ## Myths and contested advice
@@ -59,6 +61,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
+| `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
@@ -85,6 +88,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:confucianism` | `wg:intellectual-humility` |
+| `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:gratitude` |

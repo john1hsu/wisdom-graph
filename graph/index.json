@@ -487,6 +487,104 @@
   ]
  },
  {
+  "id": "wg:humble-leadership",
+  "title": "Humble leadership",
+  "aliases": [
+   "leader humility",
+   "leader expressed humility",
+   "leading by modelling how to grow"
+  ],
+  "type": "Practice",
+  "domain": "wisdom-at-work",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/humble-leadership.md",
+  "created": "2026-11-13",
+  "summary": "A way of leading in which the person in charge openly admits their own limits and mistakes, gives visible credit for others' strengths and contributions, and shows they are still learning, so that the team treats growth and honest uncertainty as normal.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humility"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:bradley-owens",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:escalation-of-commitment",
+    "source": "s1",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:leader-expressed-humility-meta-analysis",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:leader-humility-double-edged-sword-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:daoism",
+    "source": "s6",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "When did I last tell my team, in so many words, that I was wrong about something?",
+   "Who did the real work on this result, and have the people above me heard their names?",
+   "Am I asking for input because I will use it, or to look open?",
+   "Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?"
+  ],
+  "steps": [
+   "When you get something wrong or don't know the answer, say so plainly and early, and say what you will do about it.",
+   "Name specific contributions by specific people, in their hearing and when reporting upward; say \"we\" for shared wins and \"I\" for your own errors.",
+   "Ask the team for feedback on one concrete thing you did, listen without defending, and tell them later what you changed.",
+   "Let people with more expertise on a task teach you, in front of others if possible.",
+   "Keep making clear decisions; in a crisis or under tight deadlines, act first and invite reflection afterwards.",
+   "Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings."
+  ],
+  "example": {
+   "situation": "A project lead's schedule for a product launch slips by three weeks, partly because she under-estimated the testing work, and an analyst on the team had flagged the risk early.",
+   "before": "The vendors let us down and testing turned out harder than anyone could have predicted. We'll push harder.",
+   "after": "I under-estimated testing, and Priya flagged it in March; I should have listened. Here's the revised plan. Priya, can you walk me through how you sized it so I get it right next time?",
+   "why": "Owning the error, crediting the person who saw it and asking to learn from her makes it safe for others to raise risks early, and it fixes the estimating method rather than just the date."
+  },
+  "source_urls": [
+   "https://leeds-faculty.colorado.edu/dahe7472/Owens%20and%20Hekman%20Leader%20Humility%202012.pdf",
+   "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.980322/full",
+   "https://repositorio.iscte-iul.pt/bitstream/10071/34319/1/article_111190.pdf",
+   "https://pubmed.ncbi.nlm.nih.gov/31670527/",
+   "https://pure.eur.nl/en/publications/even-nectar-is-poisonous-in-excess-the-impact-of-leader-humility-/",
+   "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/text/single-page"
+  ]
+ },
+ {
   "id": "wg:intellectual-humility",
   "title": "Intellectual humility",
   "aliases": [

@@ -117,6 +117,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/humble-leadership.md" .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-traditions/buddhism.md" .
@@ -1395,6 +1404,119 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://schema.org/url> <https://bps.org.uk/research-digest/something-we-could-use-little-more> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "When did I last tell my team, in so many words, that I was wrong about something?" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Who did the real work on this result, and have the people above me heard their names?" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I asking for input because I will use it, or to look open?" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I under-estimated testing, and Priya flagged it in March; I should have listened. Here's the revised plan. Priya, can you walk me through how you sized it so I get it right next time?" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "The vendors let us down and testing turned out harder than anyone could have predicted. We'll push harder." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A project lead's schedule for a product launch slips by three weeks, partly because she under-estimated the testing work, and an analyst on the team had flagged the risk early." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Owning the error, crediting the person who saw it and asking to learn from her makes it safe for others to raise risks early, and it fixes the estimating method rather than just the date." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/1> <https://schema.org/text> "When you get something wrong or don't know the answer, say so plainly and early, and say what you will do about it." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/2> <https://schema.org/text> "Name specific contributions by specific people, in their hearing and when reporting upward; say \"we\" for shared wins and \"I\" for your own errors." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/3> <https://schema.org/text> "Ask the team for feedback on one concrete thing you did, listen without defending, and tell them later what you changed." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/4> <https://schema.org/text> "Let people with more expertise on a task teach you, in front of others if possible." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/5> <https://schema.org/text> "Keep making clear decisions; in a crisis or under tight deadlines, act first and invite reflection afterwards." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/6> <https://schema.org/text> "Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/name> "Humble leadership" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Humble leadership" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "leader expressed humility" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "leader humility" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "leading by modelling how to grow" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#definition> "A way of leading in which the person in charge openly admits their own limits and mistakes, gives visible credit for others' strengths and contributions, and shows they are still learning, so that the team treats growth and honest uncertainty as normal." .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humble leadership" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/escalation-of-commitment> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/leader-humility-double-edged-sword-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/humble-leadership.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/bradley-owens> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/daoism> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/leader-expressed-humility-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://purl.org/dc/terms/publisher> "Academy of Management Journal, 55(4), 787–818 (Owens & Hekman, 2012; author copy, University of Colorado Leeds School of Business)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://purl.org/dc/terms/title> "Modeling How to Grow: An Inductive Examination of Humble Leader Behaviors, Contingencies, and Outcomes" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <https://schema.org/url> <https://leeds-faculty.colorado.edu/dahe7472/Owens%20and%20Hekman%20Leader%20Humility%202012.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 13 (Luo, Zhang, Chen, Zhang, Wang & Peng, 2022; doi:10.3389/fpsyg.2022.980322)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> <http://purl.org/dc/terms/title> "Humble leadership and its outcomes: A meta-analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s2> <https://schema.org/url> <https://www.frontiersin.org/articles/10.3389/fpsyg.2022.980322/full> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> <http://purl.org/dc/terms/publisher> "Personality and Individual Differences, 242, 113196 (Silard, Miao, Rego, Akkan, Yoon & Qian, 2025; Iscte repository copy)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> <http://purl.org/dc/terms/title> "Leader expressed humility: A meta-analysis and an agenda for future research" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s3> <https://schema.org/url> <https://repositorio.iscte-iul.pt/bitstream/10071/34319/1/article_111190.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology, 105(7), 693–712 (2020; doi:10.1037/apl0000456; PubMed record)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> <http://purl.org/dc/terms/title> "The double-edged sword of leader humility: Investigating when and why leader humility promotes versus inhibits subordinate deviance" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s4> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/31670527/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> <http://purl.org/dc/terms/publisher> "Journal of Leadership & Organizational Studies, 30(4), 381–396 (Bahmannia, van Knippenberg, Lowe et al., 2023; Erasmus University research portal)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> <http://purl.org/dc/terms/title> "Even nectar is poisonous in excess: The impact of leader humility on pride, entitlement, and organizational citizenship behavior" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s5> <https://schema.org/url> <https://pure.eur.nl/en/publications/even-nectar-is-poisonous-in-excess-the-impact-of-leader-humility-/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <http://purl.org/dc/terms/publisher> "Standard Ebooks (from Legge's translation in The Sacred Books of the East)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <http://purl.org/dc/terms/title> "Tao Te Ching, trans. James Legge" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <https://schema.org/url> <https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/text/single-page> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/buddhism#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
@@ -1550,6 +1672,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/bradley-owens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/bradley-owens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/bradley-owens> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/indian-philosophy> .
@@ -1585,6 +1710,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/construal-level-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/counting-blessings-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/daoism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/daoism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/daoism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/daoism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
@@ -1606,6 +1735,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/escalation-of-commitment> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
@@ -1649,8 +1779,17 @@
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
@@ -1672,6 +1811,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
@@ -1690,6 +1830,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+  <https://github.com/john1hsu/wisdom-graph/id/leader-expressed-humility-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/leader-humility-double-edged-sword-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/life-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -1769,6 +1915,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -1849,6 +1996,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-of-crowds> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
