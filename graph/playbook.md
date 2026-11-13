@@ -347,6 +347,13 @@ Ask yourself:
 - Have I admitted what I don't know about their motives and about how this could unfold?
 - Am I treating any compromise as a defeat?
 
+### [Three-dimensional model of wisdom](../articles/science-of-wisdom/three-dimensional-wisdom-model.md) — Framework
+
+Ask yourself:
+- Am I trying to understand what is really going on here, including what I cannot know, or only looking for facts that confirm my first reaction?
+- Have I looked at this situation, and my own part in it, from at least one other person's point of view?
+- Is my response moved by concern for the people affected, or mainly by protecting my ego?
+
 ## self-knowledge
 
 ### [Know thyself](../articles/self-knowledge/know-thyself.md) — Principle

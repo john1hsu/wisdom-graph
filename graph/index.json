@@ -2969,6 +2969,108 @@
   ]
  },
  {
+  "id": "wg:three-dimensional-wisdom-model",
+  "title": "Three-dimensional model of wisdom",
+  "aliases": [
+   "Ardelt's three-dimensional wisdom model",
+   "3D wisdom model",
+   "3D-WM",
+   "Three-Dimensional Wisdom Scale",
+   "3D-WS",
+   "3D-WS-12"
+  ],
+  "type": "Framework",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/three-dimensional-wisdom-model.md",
+  "created": "2026-11-13",
+  "summary": "Monika Ardelt's model of personal wisdom as the integration of three personality qualities: a cognitive desire to understand life deeply, a reflective habit of seeing events and oneself from many perspectives, and compassionate concern for others; it is measured by the self-report Three-Dimensional Wisdom Scale (3D-WS).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implicit-theories-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:monika-ardelt",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:vivian-clayton",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:how-to-measure-wisdom-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wisdom-and-hard-times-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:spanish-short-3d-ws-validation-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:ageing",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s6",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Am I trying to understand what is really going on here, including what I cannot know, or only looking for facts that confirm my first reaction?",
+   "Have I looked at this situation, and my own part in it, from at least one other person's point of view?",
+   "Is my response moved by concern for the people affected, or mainly by protecting my ego?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://people.clas.ufl.edu/ardelt/home/the-three-dimensional-wisdom-scale-3d-ws",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full",
+   "https://escholarship.org/content/qt7bh8g2jv/qt7bh8g2jv.pdf?t=qejfcc",
+   "https://escholarship.org/uc/item/6p02d3qw",
+   "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00692/pdf",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/essential-components-wisdom-and-ways-measure-trait"
+  ]
+ },
+ {
   "id": "wg:view-from-above",
   "title": "The view from above",
   "aliases": [

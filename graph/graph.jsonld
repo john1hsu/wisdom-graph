@@ -4106,6 +4106,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Monika Ardelt, Department of Sociology and Criminology & Law, University of Florida",
+   "dcterms:title": "The Three-Dimensional Wisdom Scale (3D-WS)",
+   "schema:url": {
+    "@id": "https://people.clas.ufl.edu/ardelt/home/the-three-dimensional-wisdom-scale-3d-ws"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng et al., 2013)",
+   "dcterms:title": "How to measure wisdom: Content, reliability, and validity of five measures",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Journals of Gerontology, Series B, 73(8), 1374–1383 (Ardelt & Jeste), eScholarship, University of California",
+   "dcterms:title": "Wisdom and hard times: The ameliorating effect of wisdom on the negative association between adverse life events and well-being",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt7bh8g2jv/qt7bh8g2jv.pdf?t=qejfcc"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Assessment, 24(1), 71–82 (Thomas, Bangen, Ardelt & Jeste, 2017), eScholarship, University of California",
+   "dcterms:title": "Development of a 12-item abbreviated Three-Dimensional Wisdom Scale (3D-WS-12): Item selection and psychometric properties",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/6p02d3qw"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 9, 692 (García-Campayo, del Hoyo, Barceló-Soler et al., 2018)",
+   "dcterms:title": "Exploring the wisdom structure: Validation of the Spanish new short Three-Dimensional Wisdom Scale (3D-WS) and its explanatory power on psychological health-related variables",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00692/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Chicago Center for Practical Wisdom, University of Chicago (reposted from University of Florida News, 2023)",
+   "dcterms:title": "Essential components of wisdom and ways to measure the trait",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/essential-components-wisdom-and-ways-measure-trait"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -4258,6 +4342,30 @@
     "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4836053"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I trying to understand what is really going on here, including what I cannot know, or only looking for facts that confirm my first reaction?",
+   "wgo:questionFor": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I looked at this situation, and my own part in it, from at least one other person's point of view?",
+   "wgo:questionFor": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my response moved by concern for the people affected, or mainly by protecting my ego?",
+   "wgo:questionFor": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/check/1",
@@ -6963,6 +7071,97 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:three-dimensional-wisdom-model",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s6"
+    }
+   ],
+   "rdfs:label": "Three-dimensional model of wisdom",
+   "skos:altLabel": [
+    "3D wisdom model",
+    "3D-WM",
+    "3D-WS",
+    "3D-WS-12",
+    "Ardelt's three-dimensional wisdom model",
+    "Three-Dimensional Wisdom Scale"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "skos:definition": "Monika Ardelt's model of personal wisdom as the integration of three personality qualities: a cognitive desire to understand life deeply, a reflective habit of seeing events and oneself from many perspectives, and compassionate concern for others; it is measured by the self-report Three-Dimensional Wisdom Scale (3D-WS).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Three-dimensional model of wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:implicit-theories-of-wisdom"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:leading-others"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:spanish-short-3d-ws-validation-study"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/science-of-wisdom/three-dimensional-wisdom-model.md",
+   "wgo:influencedBy": {
+    "@id": "wg:vivian-clayton"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:monika-ardelt"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:how-to-measure-wisdom-study"
+    },
+    {
+     "@id": "wg:wisdom-and-hard-times-study"
+    }
+   ]
   },
   {
    "@id": "wg:view-from-above",

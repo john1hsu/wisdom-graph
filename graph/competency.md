@@ -52,6 +52,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | situation | practice |
 |---|---|
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
+| `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
@@ -61,6 +62,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
+| `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
@@ -93,6 +95,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:self-distancing` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
+| `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
 
 ## Ideas with no recorded origin (gap)
 
