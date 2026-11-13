@@ -585,6 +585,95 @@
   ]
  },
  {
+  "id": "wg:implicit-theories-of-wisdom",
+  "title": "Implicit theories of wisdom",
+  "aliases": [
+   "folk conceptions of wisdom",
+   "lay conceptions of wisdom",
+   "folk theories of wisdom",
+   "laypeople's conceptions of wisdom",
+   "everyday conceptions of wisdom"
+  ],
+  "type": "Concept",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/foundations/implicit-theories-of-wisdom.md",
+  "created": "2026-11-13",
+  "summary": "The ideas about what wisdom is, who is wise and how wisdom grows that ordinary people carry around, usually without having spelled them out; psychologists study them by asking laypeople to describe, rate or nominate wise people, and contrast them with the explicit theories built by researchers.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:balance-theory-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:sternberg-implicit-theories-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:cognitive-and-integrative-conceptions-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:concept-of-wisdom-cross-cultural-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:berlin-wisdom-paradigm",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "When I call someone wise, am I responding to their judgment and care for others, or mainly to their intelligence, confidence or age?",
+   "Whose advice am I about to rely on here, and what picture of wisdom made me choose them?",
+   "Would someone raised with a different idea of wisdom see this choice as wise, and what would they weigh that I am leaving out?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://faculty.weber.edu/eamsel/Research%20Groups/Dual%20PRocess%20Research/Papers/Sternberg%20(1985).pdf",
+   "https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/gluck-bluck-2011-wisdom-full.pdf",
+   "https://researchportalplus.anu.edu.au/en/publications/the-concept-of-wisdom-a-cross-cultural-comparison/",
+   "https://www.cambridge.org/core/product/6AFAF40EB39664ED2796496584054233/core-reader",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01378/pdf",
+   "https://www.cambridge.org/core/books/psychology-of-wisdom/folk-conceptions-of-wisdom-around-the-world/70AE60F18895C49146408CE162477914"
+  ]
+ },
+ {
   "id": "wg:intellectual-humility",
   "title": "Intellectual humility",
   "aliases": [

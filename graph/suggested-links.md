@@ -4,18 +4,19 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 3.35 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
-| 2.33 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
+| 3.34 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
+| 2.32 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
 | 2.19 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 1.99 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
-| 1.80 | `wg:post-traumatic-growth` | `wg:socratic-ignorance` | `wg:self-distancing`, `wg:wisdom` |
-| 1.71 | `wg:socratic-ignorance` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 1.70 | `wg:socratic-ignorance` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 1.67 | `wg:implicit-theories-of-wisdom` | `wg:socratic-ignorance` | `wg:berlin-wisdom-paradigm`, `wg:seeking-counsel`, `wg:wisdom` |
 | 1.53 | `wg:compassionate-reappraisal` | `wg:solomons-paradox` | `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:self-distancing` |
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
 | 1.43 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:gratitude`, `wg:rumination` |
 | 1.30 | `wg:buddhism` | `wg:compassionate-reappraisal` | `wg:compassion`, `wg:forgiveness` |
+| 1.26 | `wg:post-traumatic-growth` | `wg:socratic-ignorance` | `wg:self-distancing`, `wg:wisdom` |
 | 1.18 | `wg:forgiveness` | `wg:solomons-paradox` | `wg:interpersonal-conflict`, `wg:perspective-taking` |
-| 1.15 | `wg:berlin-wisdom-paradigm` | `wg:know-thyself` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
+| 1.14 | `wg:berlin-wisdom-paradigm` | `wg:know-thyself` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
 | 1.11 | `wg:negative-visualization` | `wg:self-distancing` | `wg:rumination`, `wg:view-from-above` |
 | 1.08 | `wg:know-thyself` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing` |
 | 1.06 | `wg:buddhism` | `wg:negative-visualization` | `wg:equanimity`, `wg:memento-mori` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 0.97 | `wg:know-thyself` | `wg:post-traumatic-growth` | `wg:self-distancing`, `wg:self-reflection` |
 | 0.97 | `wg:know-thyself` | `wg:rumination` | `wg:self-distancing`, `wg:self-reflection` |
 | 0.91 | `wg:compassionate-reappraisal` | `wg:intellectual-humility` | `wg:interpersonal-conflict`, `wg:self-distancing` |
-| 0.91 | `wg:know-thyself` | `wg:stoicism` | `wg:socratic-philosophy` |

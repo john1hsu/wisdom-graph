@@ -329,6 +329,30 @@
    "schema:text": "Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I call someone wise, am I responding to their judgment and care for others, or mainly to their intelligence, confidence or age?",
+   "wgo:questionFor": {
+    "@id": "wg:implicit-theories-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose advice am I about to rely on here, and what picture of wisdom made me choose them?",
+   "wgo:questionFor": {
+    "@id": "wg:implicit-theories-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would someone raised with a different idea of wisdom see this choice as wise, and what would they weigh that I am leaving out?",
+   "wgo:questionFor": {
+    "@id": "wg:implicit-theories-of-wisdom"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Which part of my view have I actually checked, and which part am I only sure of?",
@@ -1481,6 +1505,90 @@
     "@id": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/text/single-page"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 49(3), 607–627 (Sternberg, 1985), Weber State University course copy",
+   "dcterms:title": "Implicit theories of intelligence, creativity, and wisdom",
+   "schema:url": {
+    "@id": "https://faculty.weber.edu/eamsel/Research%20Groups/Dual%20PRocess%20Research/Papers/Sternberg%20(1985).pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journals of Gerontology, Series B, Psychological Sciences (Glück & Bluck, 2011), University of Florida Life Story Lab",
+   "dcterms:title": "Laypeople's conceptions of wisdom and its development: Cognitive and integrative views",
+   "schema:url": {
+    "@id": "https://lifestorylab.psych.ufl.edu/wp-content/uploads/sites/84/gluck-bluck-2011-wisdom-full.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "International Journal of Psychology, 35(1), 1–9 (Takahashi & Bordia), Australian National University research portal",
+   "dcterms:title": "The concept of wisdom: A cross-cultural comparison",
+   "schema:url": {
+    "@id": "https://researchportalplus.anu.edu.au/en/publications/the-concept-of-wisdom-a-cross-cultural-comparison/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "International Psychogeriatrics, 29(8), 1231–1234 (Mitchell, Knight & Pachana, 2017), Cambridge University Press",
+   "dcterms:title": "Wisdom across the ages and its modern day relevance",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/product/6AFAF40EB39664ED2796496584054233/core-reader"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 8, 1378 (Hu, Ferrari, Wang & Woodruff, 2017)",
+   "dcterms:title": "Thin-slice measurement of wisdom",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01378/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Cambridge University Press, in R. J. Sternberg & J. Glück (eds.), The Psychology of Wisdom: An Introduction (Weststrate & Bluck, 2022), ch. 3",
+   "dcterms:title": "Folk conceptions of wisdom around the world",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/books/psychology-of-wisdom/folk-conceptions-of-wisdom-around-the-world/70AE60F18895C49146408CE162477914"
+   },
+   "wgo:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s1",
@@ -2982,6 +3090,88 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:leader-expressed-humility-meta-analysis"
+   }
+  },
+  {
+   "@id": "wg:implicit-theories-of-wisdom",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s6"
+    }
+   ],
+   "rdfs:label": "Implicit theories of wisdom",
+   "skos:altLabel": [
+    "everyday conceptions of wisdom",
+    "folk conceptions of wisdom",
+    "folk theories of wisdom",
+    "lay conceptions of wisdom",
+    "laypeople's conceptions of wisdom"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "skos:definition": "The ideas about what wisdom is, who is wise and how wisdom grows that ordinary people carry around, usually without having spelled them out; psychologists study them by asking laypeople to describe, rate or nominate wise people, and contrast them with the explicit theories built by researchers.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Implicit theories of wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:balance-theory-of-wisdom"
+    },
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wisdom"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:berlin-wisdom-paradigm"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:cognitive-and-integrative-conceptions-study"
+    },
+    {
+     "@id": "wg:concept-of-wisdom-cross-cultural-study"
+    },
+    {
+     "@id": "wg:sternberg-implicit-theories-study"
+    }
+   ],
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/foundations/implicit-theories-of-wisdom.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
    }
   },
   {

@@ -64,6 +64,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
+| `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
@@ -73,7 +74,9 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 _Which written concepts have no introducedBy / introducedIn edge or rootedIn edge (who named it, where, or which tradition teaches it)?_ — `queries/07-unattributed.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:implicit-theories-of-wisdom` | wgo:Concept |
 
 ## Orphan articles (gap)
 

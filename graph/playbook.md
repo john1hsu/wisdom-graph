@@ -110,6 +110,13 @@ Ask yourself:
 
 ## foundations
 
+### [Implicit theories of wisdom](../articles/foundations/implicit-theories-of-wisdom.md) — Concept
+
+Ask yourself:
+- When I call someone wise, am I responding to their judgment and care for others, or mainly to their intelligence, confidence or age?
+- Whose advice am I about to rely on here, and what picture of wisdom made me choose them?
+- Would someone raised with a different idea of wisdom see this choice as wise, and what would they weigh that I am leaving out?
+
 ### [Socratic ignorance](../articles/foundations/socratic-ignorance.md) — Principle
 
 *A team lead is asked in a planning meeting whether a new supplier can deliver on time, and has only skimmed their proposal.*
