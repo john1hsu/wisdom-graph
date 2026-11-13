@@ -196,6 +196,21 @@ Ask yourself:
 
 ## self-knowledge
 
+### [Know thyself](../articles/self-knowledge/know-thyself.md) — Principle
+
+*After a project review, a manager is told by two team members that her meetings run long because she rarely lets others finish a point.*
+
+| Before | After |
+|---|---|
+| That's not me. I know how I come across, and I'm a good listener. | I don't experience myself that way, but two people saw the same thing. I'll ask a colleague to watch the next meeting and tell me what they notice. |
+
+**Why:** Self-views are least reliable on flattering or unflattering traits, so treating others' observations as evidence rather than an attack is how the maxim is actually followed.
+
+Ask yourself:
+- What would someone who knows me well say about me here that I would rather not hear?
+- Am I judging myself by my intentions while others can only see my behaviour?
+- Have I mistaken a confident story about my motives for real knowledge of them?
+
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice
 
 1. Notice the signs that you are immersed in an upsetting experience, such as replaying the same scene, rehearsing the same sentence or feeling the original anger or shame rise again.

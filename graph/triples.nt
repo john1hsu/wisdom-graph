@@ -373,6 +373,53 @@
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What would someone who knows me well say about me here that I would rather not hear?" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I judging myself by my intentions while others can only see my behaviour?" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I mistaken a confident story about my motives for real knowledge of them?" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I don't experience myself that way, but two people saw the same thing. I'll ask a colleague to watch the next meeting and tell me what they notice." .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "That's not me. I know how I come across, and I'm a good listener." .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "After a project review, a manager is told by two team members that her meetings run long because she rarely lets others finish a point." .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Self-views are least reliable on flattering or unflattering traits, so treating others' observations as evidence rather than an attack is how the maxim is actually followed." .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2000/01/rdf-schema#label> "Know thyself" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#altLabel> "gnothi seauton" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#altLabel> "gnōthi seauton" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#altLabel> "know yourself" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#altLabel> "the Delphic injunction" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#altLabel> "the Delphic maxim" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#definition> "The ancient Greek maxim inscribed at Apollo's temple at Delphi, read first as a reminder of human limits and later, through Socrates and Plato, as a call to examine one's own character, beliefs and ignorance; modern psychology adds that this is best done with the help of other people's views." .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#prefLabel> "Know thyself" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/introspection-illusion> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/know-thyself/example> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/know-thyself.md" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/delphic-maxims> .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If my time were shorter than I assume, would this still be worth my anger or effort?" .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -1136,6 +1183,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://schema.org/url> <https://bps.org.uk/research-digest/something-we-could-use-little-more> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/publisher> "Perseus Digital Library (Perseids CTS reader)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/title> "Pausanias, Description of Greece 10.24.1, trans. W. H. S. Jones and H. A. Ormerod" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0525/tlg001/perseus-eng2/10.24.1-10.24.7> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> <http://purl.org/dc/terms/title> "Plato, Phaedrus, trans. Benjamin Jowett" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2> <https://schema.org/url> <https://classics.mit.edu/Plato/phaedrus.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> <http://purl.org/dc/terms/publisher> "Cambridge University Press (Christopher Moore, 2015)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> <http://purl.org/dc/terms/title> "Socrates and Self-Knowledge (Introduction and opening chapter, excerpt)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3> <https://schema.org/url> <https://assets.cambridge.org/97811071/23304/excerpt/9781107123304_excerpt.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> <http://purl.org/dc/terms/publisher> "Philosophy Now, issue 174 (Massimo Pigliucci, City College of New York)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> <http://purl.org/dc/terms/title> "The Delphic Injunctions" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4> <https://schema.org/url> <https://philosophynow.org/issues/174/The_Delphic_Injunctions> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> <http://purl.org/dc/terms/publisher> "Annual Review of Psychology, 55, 493–518 (Wilson & Dunn, 2004), author copy hosted at Caltech" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> <http://purl.org/dc/terms/title> "Self-knowledge: Its limits, value, and potential for improvement" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5> <https://schema.org/url> <https://www.its.caltech.edu/~squartz/selfknowledge.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> <http://purl.org/dc/terms/publisher> "Current Directions in Psychological Science (Vazire & Carlson, 2011), Association for Psychological Science" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> <http://purl.org/dc/terms/title> "Others sometimes know us better than we know ourselves" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6> <https://schema.org/url> <https://www.psychologicalscience.org/journals/current-directions/0963721411402478/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 30(3), 278–292 (Cozzolino, Staples, Meyers & Samboceti, 2004)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/title> "Greed, death, and values: From terror management to transcendence management theory" .

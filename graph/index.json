@@ -688,6 +688,100 @@
   ]
  },
  {
+  "id": "wg:know-thyself",
+  "title": "Know thyself",
+  "aliases": [
+   "know yourself",
+   "gnothi seauton",
+   "gnōthi seauton",
+   "the Delphic maxim",
+   "the Delphic injunction"
+  ],
+  "type": "Principle",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/self-knowledge/know-thyself.md",
+  "created": "2026-11-13",
+  "summary": "The ancient Greek maxim inscribed at Apollo's temple at Delphi, read first as a reminder of human limits and later, through Socrates and Plato, as a call to examine one's own character, beliefs and ignorance; modern psychology adds that this is best done with the help of other people's views.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:introspection-illusion"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:delphic-maxims",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:socratic-philosophy",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:hubris",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:intellectual-humility",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:seeking-counsel",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "What would someone who knows me well say about me here that I would rather not hear?",
+   "Am I judging myself by my intentions while others can only see my behaviour?",
+   "Have I mistaken a confident story about my motives for real knowledge of them?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "After a project review, a manager is told by two team members that her meetings run long because she rarely lets others finish a point.",
+   "before": "That's not me. I know how I come across, and I'm a good listener.",
+   "after": "I don't experience myself that way, but two people saw the same thing. I'll ask a colleague to watch the next meeting and tell me what they notice.",
+   "why": "Self-views are least reliable on flattering or unflattering traits, so treating others' observations as evidence rather than an attack is how the maxim is actually followed."
+  },
+  "source_urls": [
+   "https://cts.perseids.org/read/greekLit/tlg0525/tlg001/perseus-eng2/10.24.1-10.24.7",
+   "https://classics.mit.edu/Plato/phaedrus.html",
+   "https://assets.cambridge.org/97811071/23304/excerpt/9781107123304_excerpt.pdf",
+   "https://philosophynow.org/issues/174/The_Delphic_Injunctions",
+   "https://www.its.caltech.edu/~squartz/selfknowledge.pdf",
+   "https://www.psychologicalscience.org/journals/current-directions/0963721411402478/"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [

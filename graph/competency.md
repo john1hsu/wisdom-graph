@@ -31,6 +31,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
+| `wg:know-thyself` | 2 | Intellectual humility, hubris |
 | `wg:memento-mori` | 2 | equanimity, greed |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
@@ -91,6 +92,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
+| `wg:socratic-philosophy` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:gratitude` |
 | `wg:stoicism` | `wg:memento-mori` |

@@ -369,6 +369,38 @@
    "wgo:why": "Owning the gap, rather than blaming circumstances or brushing it off, fixes the forecast, shows the team that errors can be raised safely, and treats the critic as an ally in getting it right."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What would someone who knows me well say about me here that I would rather not hear?",
+   "wgo:questionFor": {
+    "@id": "wg:know-thyself"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I judging myself by my intentions while others can only see my behaviour?",
+   "wgo:questionFor": {
+    "@id": "wg:know-thyself"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I mistaken a confident story about my motives for real knowledge of them?",
+   "wgo:questionFor": {
+    "@id": "wg:know-thyself"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I don't experience myself that way, but two people saw the same thing. I'll ask a colleague to watch the next meeting and tell me what they notice.",
+   "wgo:before": "That's not me. I know how I come across, and I'm a good listener.",
+   "wgo:situation": "After a project review, a manager is told by two team members that her meetings run long because she rarely lets others finish a point.",
+   "wgo:why": "Self-views are least reliable on flattering or unflattering traits, so treating others' observations as evidence rather than an attack is how the maxim is actually followed."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
@@ -1533,6 +1565,90 @@
     "@id": "https://bps.org.uk/research-digest/something-we-could-use-little-more"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Perseus Digital Library (Perseids CTS reader)",
+   "dcterms:title": "Pausanias, Description of Greece 10.24.1, trans. W. H. S. Jones and H. A. Ormerod",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0525/tlg001/perseus-eng2/10.24.1-10.24.7"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Plato, Phaedrus, trans. Benjamin Jowett",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Plato/phaedrus.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Cambridge University Press (Christopher Moore, 2015)",
+   "dcterms:title": "Socrates and Self-Knowledge (Introduction and opening chapter, excerpt)",
+   "schema:url": {
+    "@id": "https://assets.cambridge.org/97811071/23304/excerpt/9781107123304_excerpt.pdf"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Philosophy Now, issue 174 (Massimo Pigliucci, City College of New York)",
+   "dcterms:title": "The Delphic Injunctions",
+   "schema:url": {
+    "@id": "https://philosophynow.org/issues/174/The_Delphic_Injunctions"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Annual Review of Psychology, 55, 493–518 (Wilson & Dunn, 2004), author copy hosted at Caltech",
+   "dcterms:title": "Self-knowledge: Its limits, value, and potential for improvement",
+   "schema:url": {
+    "@id": "https://www.its.caltech.edu/~squartz/selfknowledge.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Current Directions in Psychological Science (Vazire & Carlson, 2011), Association for Psychological Science",
+   "dcterms:title": "Others sometimes know us better than we know ourselves",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/current-directions/0963721411402478/"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1",
@@ -2957,6 +3073,89 @@
    },
    "wgo:studiedIn": {
     "@id": "wg:virtue-epistemology"
+   }
+  },
+  {
+   "@id": "wg:know-thyself",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s6"
+    }
+   ],
+   "rdfs:label": "Know thyself",
+   "skos:altLabel": [
+    "gnōthi seauton",
+    "gnothi seauton",
+    "know yourself",
+    "the Delphic injunction",
+    "the Delphic maxim"
+   ],
+   "skos:broader": {
+    "@id": "wg:self-knowledge"
+   },
+   "skos:definition": "The ancient Greek maxim inscribed at Apollo's temple at Delphi, read first as a reminder of human limits and later, through Socrates and Plato, as a call to examine one's own character, beliefs and ignorance; modern psychology adds that this is best done with the help of other people's views.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Know thyself",
+   "skos:related": [
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:introspection-illusion"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:hubris"
+   },
+   "wgo:complements": {
+    "@id": "wg:seeking-counsel"
+   },
+   "wgo:develops": {
+    "@id": "wg:intellectual-humility"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/example"
+   },
+   "wgo:file": "articles/self-knowledge/know-thyself.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:delphic-maxims"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:socratic-philosophy"
    }
   },
   {
