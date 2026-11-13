@@ -17,6 +17,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s3> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/adversity-and-mortality/socioemotional-selectivity-theory.md" .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
 <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/compassionate-reappraisal.md" .
@@ -410,6 +418,68 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
   <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Socioemotional selectivity theory" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "SST" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "socio-emotional selectivity theory" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "time-horizon theory of motivation" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#definition> "Laura Carstensen's lifespan theory that people's goals depend on how much time they feel they have left: when the future seems open, they favour exploration and new information; when it feels limited, they prioritise emotionally meaningful relationships and experiences." .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Socioemotional selectivity theory" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/strength-of-weaker-ties-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/strength-and-vulnerability-integration-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "adversity-and-mortality" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/adversity-and-mortality/socioemotional-selectivity-theory.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/laura-carstensen> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/age-related-positivity-effect-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/publisher> "GeroPsych, 31(3), 163–167 (Liao & Carstensen, 2018), via PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/title> "Future time perspective: Time horizons and beyond" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC6438163/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> <http://purl.org/dc/terms/publisher> "Life-span Development Laboratory, Stanford University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> <http://purl.org/dc/terms/title> "Research overview" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2> <https://schema.org/url> <https://lifespan.stanford.edu/research> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> <http://purl.org/dc/terms/publisher> "Psychology and Aging, 29(1), 1–15 (Reed, Chan & Mikels, 2014)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> <http://purl.org/dc/terms/title> "Meta-analysis of the age-related positivity effect: Age differences in preferences for positive over negative information" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3> <https://schema.org/url> <https://emocoglab.depaul.edu/publications/journals/Reed_Chan&Mikels_2014.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> <http://purl.org/dc/terms/publisher> "The Journals of Gerontology, Series B, 75(7), 1433–1442 (Huxhold, Fiori, Webster & Antonucci, 2020), via PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> <http://purl.org/dc/terms/title> "The strength of weaker ties: An underexplored resource for maintaining emotional well-being in later life" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC7424273> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> <http://purl.org/dc/terms/publisher> "Frontiers in Aging Neuroscience, 7, 120 (Lim & Yu, 2015)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> <http://purl.org/dc/terms/title> "Aging and wisdom: Age-related changes in economic and social decision making" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5> <https://schema.org/url> <https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2015.00120/pdf> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal#graph> {
@@ -2651,6 +2721,11 @@
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/age-related-positivity-effect-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/ageing> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/anticipating-ones-troubles-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/apology-of-socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/apology-of-socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
@@ -2746,6 +2821,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/daoism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/decisional-balance-and-ambivalence-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -2941,6 +3017,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+  <https://github.com/john1hsu/wisdom-graph/id/laura-carstensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/laura-carstensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/laura-carstensen> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/lawrence-calhoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/lawrence-calhoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/lawrence-calhoun> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
@@ -2977,6 +3056,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/mental-subtraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/mental-subtraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
@@ -3023,6 +3103,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-growth> .
@@ -3045,6 +3126,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/purpose-and-mortality-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/reconciliation> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -3122,6 +3204,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/shattered-assumptions-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/socrates> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
@@ -3167,6 +3252,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/strength-and-vulnerability-integration-theory> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/strength-of-weaker-ties-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
@@ -3175,6 +3262,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/the-buddha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/the-buddha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/the-buddha> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/thinking-too-much-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .

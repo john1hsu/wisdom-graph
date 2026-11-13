@@ -48,6 +48,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
@@ -79,6 +80,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:purpose-in-life` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
+| `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
 
 ## Ideas with no recorded origin (gap)

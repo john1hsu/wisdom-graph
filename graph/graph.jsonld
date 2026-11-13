@@ -3227,6 +3227,76 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "GeroPsych, 31(3), 163–167 (Liao & Carstensen, 2018), via PubMed Central",
+   "dcterms:title": "Future time perspective: Time horizons and beyond",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438163/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Life-span Development Laboratory, Stanford University",
+   "dcterms:title": "Research overview",
+   "schema:url": {
+    "@id": "https://lifespan.stanford.edu/research"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychology and Aging, 29(1), 1–15 (Reed, Chan & Mikels, 2014)",
+   "dcterms:title": "Meta-analysis of the age-related positivity effect: Age differences in preferences for positive over negative information",
+   "schema:url": {
+    "@id": "https://emocoglab.depaul.edu/publications/journals/Reed_Chan&Mikels_2014.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Journals of Gerontology, Series B, 75(7), 1433–1442 (Huxhold, Fiori, Webster & Antonucci, 2020), via PubMed Central",
+   "dcterms:title": "The strength of weaker ties: An underexplored resource for maintaining emotional well-being in later life",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7424273"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Aging Neuroscience, 7, 120 (Lim & Yu, 2015)",
+   "dcterms:title": "Aging and wisdom: Age-related changes in economic and social decision making",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2015.00120/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-ignorance/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -5473,6 +5543,81 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:socioemotional-selectivity-theory",
+   "@type": "wgo:Theory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s5"
+    }
+   ],
+   "rdfs:label": "Socioemotional selectivity theory",
+   "skos:altLabel": [
+    "SST",
+    "socio-emotional selectivity theory",
+    "time-horizon theory of motivation"
+   ],
+   "skos:broader": {
+    "@id": "wg:theories-of-ageing"
+   },
+   "skos:definition": "Laura Carstensen's lifespan theory that people's goals depend on how much time they feel they have left: when the future seems open, they favour exploration and new information; when it feels limited, they prioritise emotionally meaningful relationships and experiences.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Socioemotional selectivity theory",
+   "skos:related": [
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:ageing"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:strength-of-weaker-ties-study"
+   },
+   "wgo:complements": {
+    "@id": "wg:strength-and-vulnerability-integration-theory"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:explains": {
+    "@id": "wg:positivity-effect-in-ageing"
+   },
+   "wgo:file": "articles/adversity-and-mortality/socioemotional-selectivity-theory.md",
+   "wgo:introducedBy": {
+    "@id": "wg:laura-carstensen"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:lifespan-developmental-psychology"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:age-related-positivity-effect-meta-analysis"
+   }
   },
   {
    "@id": "wg:socratic-ignorance",

@@ -2199,6 +2199,92 @@
   ]
  },
  {
+  "id": "wg:socioemotional-selectivity-theory",
+  "title": "Socioemotional selectivity theory",
+  "aliases": [
+   "SST",
+   "socio-emotional selectivity theory",
+   "time-horizon theory of motivation"
+  ],
+  "type": "Theory",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/socioemotional-selectivity-theory.md",
+  "created": "2026-11-13",
+  "summary": "Laura Carstensen's lifespan theory that people's goals depend on how much time they feel they have left: when the future seems open, they favour exploration and new information; when it feels limited, they prioritise emotionally meaningful relationships and experiences.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:theories-of-ageing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:laura-carstensen",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:lifespan-developmental-psychology",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explains",
+    "object": "wg:positivity-effect-in-ageing",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:age-related-positivity-effect-meta-analysis",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:strength-of-weaker-ties-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:strength-and-vulnerability-integration-theory",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:ageing",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438163/",
+   "https://lifespan.stanford.edu/research",
+   "https://emocoglab.depaul.edu/publications/journals/Reed_Chan&Mikels_2014.pdf",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7424273",
+   "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2015.00120/pdf"
+  ]
+ },
+ {
   "id": "wg:socratic-ignorance",
   "title": "Socratic ignorance",
   "aliases": [
