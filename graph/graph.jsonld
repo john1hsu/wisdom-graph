@@ -742,6 +742,90 @@
    "wgo:why": "Separating what you know from what you merely feel sure of keeps a confident guess from becoming the team's decision, and invites the people who do know to speak."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Mark Siderits; rev. 2023)",
+   "dcterms:title": "Buddha",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/buddha/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Abraham Vélez, Eastern Kentucky University)",
+   "dcterms:title": "Buddha (c. 500s B.C.E.)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/buddha/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "dhammatalks.org (Metta Forest Monastery)",
+   "dcterms:title": "Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion (SN 56.11), trans. Ṭhānissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://www.dhammatalks.org/suttas/SN/SN56_11.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Charles Goodman and Aaron Schultz; rev. 2024)",
+   "dcterms:title": "Ethics in Indian Buddhism",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/ethics-indian-buddhism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Mindfulness, 6, 57–62 (Lindahl, 2015)",
+   "dcterms:title": "Why right mindfulness might not be right for mindfulness",
+   "schema:url": {
+    "@id": "https://link.springer.com/doi/10.1007/s12671-014-0380-5"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Buddhist Studies Review, 24(1), 91–107 (Evans, 2007)",
+   "dcterms:title": "Doubting the Kālāma-Sutta: Epistemology, ethics, and the 'sacred'",
+   "schema:url": {
+    "@id": "https://journal.equinoxpub.com/BSR/article/view/8856"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -1678,6 +1762,83 @@
     "@id": "https://news.umich.edu/?p=4891"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "wg:buddhism",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s6"
+    }
+   ],
+   "rdfs:label": "Buddhism",
+   "skos:altLabel": [
+    "Buddha Dharma",
+    "Buddha-sāsana",
+    "Buddhadharma",
+    "Buddhist tradition",
+    "the Dharma"
+   ],
+   "skos:broader": {
+    "@id": "wg:indian-philosophy"
+   },
+   "skos:definition": "A religious and philosophical tradition that began with the teaching of Siddhārtha Gautama, the Buddha, in northern India around the fifth century BCE, which diagnoses suffering as arising from craving and ignorance and sets out a path of ethics, meditation and wisdom to bring it to an end.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Buddhism",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:memento-mori"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:mindfulness-based-interventions"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:vedic-ritualism"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/buddhism.md",
+   "wgo:influencedBy": {
+    "@id": "wg:sramana-movement"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:the-buddha"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:compassionate-reappraisal",

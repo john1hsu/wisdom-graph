@@ -1,5 +1,84 @@
 [
  {
+  "id": "wg:buddhism",
+  "title": "Buddhism",
+  "aliases": [
+   "Buddhadharma",
+   "Buddha Dharma",
+   "the Dharma",
+   "Buddhist tradition",
+   "Buddha-sāsana"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/buddhism.md",
+  "created": "2026-11-13",
+  "summary": "A religious and philosophical tradition that began with the teaching of Siddhārtha Gautama, the Buddha, in northern India around the fifth century BCE, which diagnoses suffering as arising from craving and ignorance and sets out a path of ethics, meditation and wisdom to bring it to an end.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:indian-philosophy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:the-buddha",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:sramana-movement",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:vedic-ritualism",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:mindfulness-based-interventions",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/entries/buddha/",
+   "https://iep.utm.edu/buddha/",
+   "https://www.dhammatalks.org/suttas/SN/SN56_11.html",
+   "https://plato.stanford.edu/entries/ethics-indian-buddhism/",
+   "https://link.springer.com/doi/10.1007/s12671-014-0380-5",
+   "https://journal.equinoxpub.com/BSR/article/view/8856"
+  ]
+ },
+ {
   "id": "wg:compassionate-reappraisal",
   "title": "Compassionate reappraisal",
   "aliases": [
