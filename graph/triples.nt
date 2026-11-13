@@ -436,6 +436,58 @@
 <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/counting-blessings-study> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I dismissing this objection because of its evidence, or because of who raised it and how well things have gone for me lately?" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "When did someone last change my mind on something important, and did I make it easy or costly for them?" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Who, if anyone, can still stop me from making this decision, and have I given them what they need to do so?" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating my organisation's success as proof of my own judgment?" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"My recent wins are a reason to check myself, not to skip the check. Walk me through your demand figures, and let's have finance stress-test both versions before the board sees either.\" The plan is approved a quarter later at a smaller scale, with a review point." .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"I've called it right every time so far, and the numbers will catch up with the vision. We're not slowing down for a spreadsheet.\" The analyst stops raising concerns, and the plan goes ahead unchanged." .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A department head has delivered three strong years in a row and been praised in the trade press. A senior analyst warns that a proposed expansion rests on optimistic demand figures." .
+<https://github.com/john1hsu/wisdom-graph/id/hubris/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Recent success and praise are exactly the conditions under which leaders overpay and overreach; deliberately inviting the dissenting case and an independent check restores the feedback that power tends to cut off." .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Vice> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2000/01/rdf-schema#label> "Hubris" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#altLabel> "CEO hubris" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#altLabel> "executive hubris" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#altLabel> "hubris syndrome" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#altLabel> "hubristic leadership" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#altLabel> "overweening pride" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#altLabel> "ὕβρις" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/arrogance> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#definition> "An inflated, success-fed self-confidence that leads a person with power to overrate their own judgment, brush aside advice and criticism, and take overambitious risks; in ancient Greek the word named something narrower, the deliberate humiliation of others for the pleasure of feeling superior." .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hubris" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/escalation-of-commitment> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-arrogance> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/many-labs-3> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/humility> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/ceo-hubris-acquisition-premiums-study> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/hubris/example> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/hubris.md" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "When did I last tell my team, in so many words, that I was wrong about something?" .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
@@ -489,6 +541,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#definition> "A way of leading in which the person in charge openly admits their own limits and mistakes, gives visible credit for others' strengths and contributions, and shows they are still learning, so that the team treats growth and honest uncertainty as normal." .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humble leadership" .
+<https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humility> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
@@ -1593,6 +1646,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://schema.org/url> <https://gutenberg.org/cache/epub/3794/pg3794-images.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> <http://purl.org/dc/terms/title> "Rhetoric, Book II, Part 2, trans. W. Rhys Roberts" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/rhetoric.2.ii.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> <http://purl.org/dc/terms/publisher> "Leadership, 13(5), 525–548 (Sadler-Smith, Akstinaite, Robinson & Wray, 2017; doi:10.1177/1742715016680666; Murdoch University research portal)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> <http://purl.org/dc/terms/title> "Hubristic leadership: A review" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s2> <https://schema.org/url> <https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Hubristic-leadership-A-review/991005540124107891> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> <http://purl.org/dc/terms/publisher> "Psychological Medicine, 53(13), 5889–5891 (Selten, 2023; editorial; Cambridge University Press)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> <http://purl.org/dc/terms/title> "Consider the hubris syndrome for inclusion in our classification systems" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s3> <https://schema.org/url> <https://www.cambridge.org/core/product/2BD9CCD92BE816A808C356EF8BCC4D63/core-reader> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly, 42(1), 103–127 (Hayward & Hambrick, 1997; doi:10.2307/2393810; Scilit record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> <http://purl.org/dc/terms/title> "Explaining the Premiums Paid for Large Acquisitions: Evidence of CEO Hubris" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s4> <https://schema.org/url> <https://scilit.com/publications/9e9420e6b4ae64d8f3cc90ff72f352f3> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> <http://purl.org/dc/terms/publisher> "Journal of Experimental Social Psychology, 67, 68–82 (Ebersole et al., 2016; University of North Texas copy)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> <http://purl.org/dc/terms/title> "Many Labs 3: Evaluating participant pool quality across the academic semester via replication" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s5> <https://schema.org/url> <https://psychology.unt.edu/system/files/Many%20labs%203.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review, September–October 2021 (Battilana & Casciaro; Harvard Kennedy School publication page)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> <http://purl.org/dc/terms/title> "Don't Let Power Corrupt You" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hubris/s6> <https://schema.org/url> <https://www.hks.harvard.edu/publications/dont-let-power-corrupt-you> .
 <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://purl.org/dc/terms/publisher> "Academy of Management Journal, 55(4), 787–818 (Owens & Hekman, 2012; author copy, University of Colorado Leeds School of Business)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s1> <http://purl.org/dc/terms/title> "Modeling How to Grow: An Inductive Examination of Humble Leader Behaviors, Contingencies, and Outcomes" .

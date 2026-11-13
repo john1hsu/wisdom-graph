@@ -343,6 +343,22 @@ Ask yourself:
 
 ## wisdom-at-work
 
+### [Hubris](../articles/wisdom-at-work/hubris.md) — Vice
+
+*A department head has delivered three strong years in a row and been praised in the trade press. A senior analyst warns that a proposed expansion rests on optimistic demand figures.*
+
+| Before | After |
+|---|---|
+| "I've called it right every time so far, and the numbers will catch up with the vision. We're not slowing down for a spreadsheet." The analyst stops raising concerns, and the plan goes ahead unchanged. | "My recent wins are a reason to check myself, not to skip the check. Walk me through your demand figures, and let's have finance stress-test both versions before the board sees either." The plan is approved a quarter later at a smaller scale, with a review point. |
+
+**Why:** Recent success and praise are exactly the conditions under which leaders overpay and overreach; deliberately inviting the dissenting case and an independent check restores the feedback that power tends to cut off.
+
+Ask yourself:
+- Am I dismissing this objection because of its evidence, or because of who raised it and how well things have gone for me lately?
+- When did someone last change my mind on something important, and did I make it easy or costly for them?
+- Who, if anyone, can still stop me from making this decision, and have I given them what they need to do so?
+- Am I treating my organisation's success as proof of my own judgment?
+
 ### [Humble leadership](../articles/wisdom-at-work/humble-leadership.md) — Practice
 
 1. When you get something wrong or don't know the answer, say so plainly and early, and say what you will do about it.

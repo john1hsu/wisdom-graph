@@ -31,7 +31,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
-| `wg:know-thyself` | 2 | Intellectual humility, hubris |
+| `wg:know-thyself` | 2 | Hubris, Intellectual humility |
 | `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:deliberation` | 1 | impetuosity |
@@ -71,6 +71,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:equanimity` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
+| `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
@@ -84,7 +85,9 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 _Which written concepts have no introducedBy / introducedIn edge or rootedIn edge (who named it, where, or which tradition teaches it)?_ — `queries/07-unattributed.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:hubris` | wgo:Vice |
 
 ## Orphan articles (gap)
 
