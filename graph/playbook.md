@@ -178,6 +178,22 @@ Ask yourself:
 - Have I named what I do not know about this situation, and what I would do if things turn out differently than I expect?
 - Am I judging this choice by my own values only, or have I tried to understand the values and priorities behind it?
 
+### [Solomon's paradox](../articles/science-of-wisdom/solomons-paradox.md) — Obstacle
+
+*You recently helped a teammate think calmly through a clash with another department. This week a peer quietly reassigns part of your own project without asking you.*
+
+| Before | After |
+|---|---|
+| This is a power grab, plain and simple. I know exactly what they're up to, and I'm escalating to our director today. | If my teammate described this to me, I'd ask what they actually know about the peer's reasons, what a fair split could look like, and how it might look in a month. I'll ask the peer for ten minutes first. |
+
+**Why:** Treating your own conflict as you would a colleague's brings back the habits you already use as an adviser, namely admitting what you don't know, looking for compromise and expecting the situation to change.
+
+Ask yourself:
+- If a friend brought me this exact problem, what would I tell them, and am I following that advice myself?
+- Could I state the other person's view in words they would accept as fair?
+- Have I admitted what I don't know about their motives and about how this could unfold?
+- Am I treating any compromise as a defeat?
+
 ## self-knowledge
 
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice

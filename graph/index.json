@@ -1200,6 +1200,108 @@
   ]
  },
  {
+  "id": "wg:solomons-paradox",
+  "title": "Solomon's paradox",
+  "aliases": [
+   "Solomon paradox",
+   "self-other asymmetry in wise reasoning"
+  ],
+  "type": "Obstacle",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/solomons-paradox.md",
+  "created": "2026-11-13",
+  "summary": "The tendency to reason more wisely about other people's problems than about our own: people facing a friend's conflict more readily admit what they do not know, seek compromise, weigh other viewpoints and expect change than they do when the same conflict is theirs.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:egocentric-bias"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:wise-reasoning",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:exploring-solomons-paradox-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:solomons-paradox-meta-analysis",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:self-transcendence",
+    "source": "s3",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:igor-grossmann",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:ethan-kross",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "If a friend brought me this exact problem, what would I tell them, and am I following that advice myself?",
+   "Could I state the other person's view in words they would accept as fair?",
+   "Have I admitted what I don't know about their motives and about how this could unfold?",
+   "Am I treating any compromise as a defeat?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "You recently helped a teammate think calmly through a clash with another department. This week a peer quietly reassigns part of your own project without asking you.",
+   "before": "This is a power grab, plain and simple. I know exactly what they're up to, and I'm escalating to our director today.",
+   "after": "If my teammate described this to me, I'd ask what they actually know about the peer's reasons, what a fair split could look like, and how it might look in a month. I'll ask the peer for ten minutes first.",
+   "why": "Treating your own conflict as you would a colleague's brings back the habits you already use as an adviser, namely admitting what you don't know, looking for compromise and expecting the situation to change."
+  },
+  "source_urls": [
+   "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf",
+   "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1181187",
+   "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.901012/full",
+   "https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2021-psci-training-wisdom.pdf",
+   "https://uwaterloo.ca/news/news/distance-comes-greater-wisdom-research-finds",
+   "https://wisdomcenter.uchicago.edu/publications/exploring-solomons-paradox-self-distancing-eliminates-self-other-asymmetry-wise"
+  ]
+ },
+ {
   "id": "wg:stoicism",
   "title": "Stoicism",
   "aliases": [

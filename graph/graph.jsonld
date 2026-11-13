@@ -806,6 +806,46 @@
    "wgo:why": "Separating what you know from what you merely feel sure of keeps a confident guess from becoming the team's decision, and invites the people who do know to speak."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/solomons-paradox/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If a friend brought me this exact problem, what would I tell them, and am I following that advice myself?",
+   "wgo:questionFor": {
+    "@id": "wg:solomons-paradox"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/solomons-paradox/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Could I state the other person's view in words they would accept as fair?",
+   "wgo:questionFor": {
+    "@id": "wg:solomons-paradox"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/solomons-paradox/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I admitted what I don't know about their motives and about how this could unfold?",
+   "wgo:questionFor": {
+    "@id": "wg:solomons-paradox"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/solomons-paradox/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating any compromise as a defeat?",
+   "wgo:questionFor": {
+    "@id": "wg:solomons-paradox"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/solomons-paradox/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "If my teammate described this to me, I'd ask what they actually know about the peer's reasons, what a fair split could look like, and how it might look in a month. I'll ask the peer for ten minutes first.",
+   "wgo:before": "This is a power grab, plain and simple. I know exactly what they're up to, and I'm escalating to our director today.",
+   "wgo:situation": "You recently helped a teammate think calmly through a clash with another department. This week a peer quietly reassigns part of your own project without asking you.",
+   "wgo:why": "Treating your own conflict as you would a colleague's brings back the habits you already use as an adviser, namely admitting what you don't know, looking for compromise and expecting the situation to change."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -1798,6 +1838,90 @@
     "@id": "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Science (Association for Psychological Science; author proof hosted by the University of Waterloo Wisdom and Culture Lab)",
+   "dcterms:title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 14, 1181187 (Lin, Zheng & Wang, 2023)",
+   "dcterms:title": "Do bystanders always see more than the players? Exploring Solomon's paradox through meta-analysis",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1181187"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 13, 901012 (Xu, Zhang & Wang, 2022)",
+   "dcterms:title": "The psychological mechanisms underlying Solomon's paradox: Impact of mood and self-transcendence",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.901012/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Science, 32(3), 381–394 (Grossmann, Dorfman, Oakes, Santos, Vohs & Scholer, 2021), author copy, University of Minnesota Carlson School of Management",
+   "dcterms:title": "Training for wisdom: The distanced-self-reflection diary method",
+   "schema:url": {
+    "@id": "https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2021-psci-training-wisdom.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "University of Waterloo News (9 June 2014)",
+   "dcterms:title": "With distance comes greater wisdom, research finds",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/news/news/distance-comes-greater-wisdom-research-finds"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom",
+   "dcterms:title": "Exploring Solomon's paradox (publication summary)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/exploring-solomons-paradox-self-distancing-eliminates-self-other-asymmetry-wise"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1",
@@ -3022,6 +3146,94 @@
    "wgo:level": "introductory",
    "wgo:rootedIn": {
     "@id": "wg:socratic-philosophy"
+   }
+  },
+  {
+   "@id": "wg:solomons-paradox",
+   "@type": "wgo:Obstacle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s6"
+    }
+   ],
+   "rdfs:label": "Solomon's paradox",
+   "skos:altLabel": [
+    "Solomon paradox",
+    "self-other asymmetry in wise reasoning"
+   ],
+   "skos:broader": {
+    "@id": "wg:egocentric-bias"
+   },
+   "skos:definition": "The tendency to reason more wisely about other people's problems than about our own: people facing a friend's conflict more readily admit what they do not know, seek compromise, weigh other viewpoints and expect change than they do when the same conflict is theirs.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Solomon's paradox",
+   "skos:related": [
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    }
+   ],
+   "wgo:demonstratedBy": {
+    "@id": "wg:exploring-solomons-paradox-study"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/solomons-paradox/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:self-transcendence"
+   },
+   "wgo:file": "articles/science-of-wisdom/solomons-paradox.md",
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:ethan-kross"
+    },
+    {
+     "@id": "wg:igor-grossmann"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:solomons-paradox-meta-analysis"
+   },
+   "wgo:undermines": {
+    "@id": "wg:wise-reasoning"
    }
   },
   {

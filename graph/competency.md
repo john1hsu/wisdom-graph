@@ -28,7 +28,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 |---|---|---|
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
 | `wg:negative-visualization` | 3 | Gratitude, equanimity, hedonic-adaptation |
-| `wg:self-distancing` | 3 | Rumination, solomons-paradox, wise-reasoning |
+| `wg:self-distancing` | 3 | Rumination, Solomon's paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:memento-mori` | 2 | equanimity, greed |
@@ -62,6 +62,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:intellectual-humility` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
+| `wg:solomons-paradox` | mixed |  |
 
 ## Ideas with no recorded origin (gap)
 
