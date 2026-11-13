@@ -2213,6 +2213,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychosomatic Medicine, 78(2), 122–133 (Cohen, Bavishi & Rozanski, 2016; PDF hosted by MIDUS, University of Wisconsin–Madison)",
+   "dcterms:title": "Purpose in Life and Its Relationship to All-Cause Mortality and Cardiovascular Events: A Meta-Analysis",
+   "schema:url": {
+    "@id": "https://www.midus.wisc.edu/findings/pdfs/2243.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Review of General Psychology, 13(3), 242–251 (McKnight & Kashdan, 2009; author PDF)",
+   "dcterms:title": "Purpose in Life as a System That Creates and Sustains Health and Well-Being: An Integrative, Testable Theory",
+   "schema:url": {
+    "@id": "https://cdn2.psychologytoday.com/assets/attachments/3382/mcknight-kashdan-2009-purpose-in-life-rev-gen-psy.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Applied Developmental Science, 7(3), 119–128 (Damon, Menon & Bronk, 2003; Stanford Center on Adolescence)",
+   "dcterms:title": "The development of purpose during adolescence",
+   "schema:url": {
+    "@id": "https://coa.stanford.edu/sites/default/files/devofpurpose_0.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Positive Psychology, 11(5) (Martela & Steger, 2016; University of Helsinki research portal)",
+   "dcterms:title": "The three meanings of meaning in life: Distinguishing coherence, purpose, and significance",
+   "schema:url": {
+    "@id": "https://researchportal.helsinki.fi/en/publications/the-three-meanings-of-meaning-in-life-distinguishing-coherence-pu/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "European Journal of Personality (Cherecheș, Gudmundsdottir & Olaru, 2025; Tilburg University research portal)",
+   "dcterms:title": "Linking sense of purpose and multiple markers of health in older adulthood: A bidirectional approach",
+   "schema:url": {
+    "@id": "https://research.tilburguniversity.edu/en/publications/linking-sense-of-purpose-and-multiple-markers-of-health-in-older-/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "The Meaning of Life (Metz; first published 2007, substantive revision 2026)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/robert-sternberg/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -4015,6 +4099,87 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:purpose-in-life",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s6"
+    }
+   ],
+   "rdfs:label": "Purpose in life",
+   "skos:altLabel": [
+    "life aim",
+    "life purpose",
+    "purposefulness",
+    "sense of purpose"
+   ],
+   "skos:broader": {
+    "@id": "wg:meaning-in-life"
+   },
+   "skos:definition": "A lasting, central aim that organises a person's goals and daily choices, feels personally meaningful and, on most accounts, reaches beyond the self; psychologists treat it as one facet of meaning in life and a predictor, though not a proven cause, of better health and longer survival.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Purpose in life",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:gratitude"
+    },
+    {
+     "@id": "wg:ikigai"
+    },
+    {
+     "@id": "wg:memento-mori"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:life-goals"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/meaning-and-the-good-life/purpose-in-life.md",
+   "wgo:introducedBy": {
+    "@id": "wg:william-damon"
+   },
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:meaning-in-life"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:purpose-and-health-bidirectional-study"
+    },
+    {
+     "@id": "wg:purpose-and-mortality-meta-analysis"
+    }
+   ]
   },
   {
    "@id": "wg:robert-sternberg",

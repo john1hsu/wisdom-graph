@@ -71,6 +71,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
+| `wg:purpose-in-life` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 | `wg:solomons-paradox` | mixed |  |

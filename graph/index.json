@@ -1284,6 +1284,90 @@
   ]
  },
  {
+  "id": "wg:purpose-in-life",
+  "title": "Purpose in life",
+  "aliases": [
+   "sense of purpose",
+   "life purpose",
+   "purposefulness",
+   "life aim"
+  ],
+  "type": "Concept",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/purpose-in-life.md",
+  "created": "2026-11-13",
+  "summary": "A lasting, central aim that organises a person's goals and daily choices, feels personally meaningful and, on most accounts, reaches beyond the self; psychologists treat it as one facet of meaning in life and a predictor, though not a proven cause, of better health and longer survival.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ikigai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:meaning-in-life",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:life-goals",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:william-damon",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:purpose-and-mortality-meta-analysis",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:purpose-and-health-bidirectional-study",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.midus.wisc.edu/findings/pdfs/2243.pdf",
+   "https://cdn2.psychologytoday.com/assets/attachments/3382/mcknight-kashdan-2009-purpose-in-life-rev-gen-psy.pdf",
+   "https://coa.stanford.edu/sites/default/files/devofpurpose_0.pdf",
+   "https://researchportal.helsinki.fi/en/publications/the-three-meanings-of-meaning-in-life-distinguishing-coherence-pu/",
+   "https://research.tilburguniversity.edu/en/publications/linking-sense-of-purpose-and-multiple-markers-of-health-in-older-/",
+   "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/"
+  ]
+ },
+ {
   "id": "wg:robert-sternberg",
   "title": "Robert J. Sternberg",
   "aliases": [
