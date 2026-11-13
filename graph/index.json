@@ -405,6 +405,115 @@
   ]
  },
  {
+  "id": "wg:equanimity",
+  "title": "Equanimity",
+  "aliases": [
+   "upekkhā",
+   "upekṣā",
+   "even-mindedness"
+  ],
+  "type": "Virtue",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/equanimity.md",
+  "created": "2026-11-13",
+  "summary": "An even, balanced state of mind toward whatever happens, pleasant, painful or neutral: still feeling and still caring, but not being swept into craving, aversion or panic, so that you can see clearly and act well.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:four-immeasurables"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:compassion",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:indifference",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:acceptance",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s2",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:contemplative-science",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I reacting to what actually happened, or to the story I am telling about it?",
+   "Is my calm here steadiness, or am I simply refusing to feel or to care?",
+   "If this turned out well, or badly, would I still be able to act on my values?",
+   "What part of this is up to me, and am I putting my energy there?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "An hour before you present to leadership, you learn that the client your team spent three months courting has chosen a competitor.",
+   "before": "This is a disaster. I'll open with who dropped the ball, and frankly I'm not sure this team can win anything.",
+   "after": "That hurts, and I'll let myself feel it. What's in my hands now is an honest account of what we learned and what we'll try differently, so that's what I'll present.",
+   "why": "The loss is still felt, but it no longer chooses your words; attention moves from blame and panic to the part of the situation you can actually shape."
+  },
+  "source_urls": [
+   "https://link.springer.com/doi/10.1007/s12671-013-0269-8",
+   "https://peerj.com/articles/9405",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6565510",
+   "https://dhammatalks.org/suttas/AN/AN10_196.html",
+   "https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html",
+   "https://iep.utm.edu/epictetu/"
+  ]
+ },
+ {
   "id": "wg:forgiveness",
   "title": "Forgiveness",
   "aliases": [

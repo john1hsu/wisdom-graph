@@ -27,14 +27,15 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | practice | reach | targets |
 |---|---|---|
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
-| `wg:negative-visualization` | 3 | Gratitude, equanimity, hedonic-adaptation |
+| `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:know-thyself` | 2 | Intellectual humility, hubris |
-| `wg:memento-mori` | 2 | equanimity, greed |
+| `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:deliberation` | 1 | impetuosity |
+| `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
@@ -67,6 +68,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
+| `wg:equanimity` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
@@ -96,6 +98,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | tradition | teaching |
 |---|---|
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
+| `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:confucianism` | `wg:intellectual-humility` |
@@ -103,6 +106,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:socratic-philosophy` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
+| `wg:stoicism` | `wg:equanimity` |
 | `wg:stoicism` | `wg:gratitude` |
 | `wg:stoicism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:negative-visualization` |

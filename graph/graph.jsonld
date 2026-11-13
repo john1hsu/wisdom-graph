@@ -266,6 +266,46 @@
    "schema:text": "Set a point at which deliberation ends, then choose and act promptly, without reopening the question unless new facts appear."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I reacting to what actually happened, or to the story I am telling about it?",
+   "wgo:questionFor": {
+    "@id": "wg:equanimity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my calm here steadiness, or am I simply refusing to feel or to care?",
+   "wgo:questionFor": {
+    "@id": "wg:equanimity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If this turned out well, or badly, would I still be able to act on my values?",
+   "wgo:questionFor": {
+    "@id": "wg:equanimity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What part of this is up to me, and am I putting my energy there?",
+   "wgo:questionFor": {
+    "@id": "wg:equanimity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "That hurts, and I'll let myself feel it. What's in my hands now is an honest account of what we learned and what we'll try differently, so that's what I'll present.",
+   "wgo:before": "This is a disaster. I'll open with who dropped the ball, and frankly I'm not sure this team can win anything.",
+   "wgo:situation": "An hour before you present to leadership, you learn that the client your team spent three months courting has chosen a competitor.",
+   "wgo:why": "The loss is still felt, but it no longer chooses your words; attention moves from blame and panic to the part of the situation you can actually shape."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I holding on to this to protect myself or someone else, or mainly to make them pay?",
@@ -1559,6 +1599,90 @@
     "@id": "https://pubmed.ncbi.nlm.nih.gov/19739881/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Mindfulness, 6(2), 356–372 (Springer; Desbordes, Gard, Hoge, Hölzel, Kerr, Lazar, Olendzki & Vago, 2015; doi:10.1007/s12671-013-0269-8)",
+   "dcterms:title": "Moving Beyond Mindfulness: Defining Equanimity as an Outcome Measure in Meditation and Contemplative Research",
+   "schema:url": {
+    "@id": "https://link.springer.com/doi/10.1007/s12671-013-0269-8"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "PeerJ, 8, e9405 (Juneau et al., 2020)",
+   "dcterms:title": "Reliability and validity of an equanimity questionnaire: the two-factor equanimity scale (EQUA-S)",
+   "schema:url": {
+    "@id": "https://peerj.com/articles/9405"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Current Opinion in Psychology, 28, 120–125 (Lindsay & Creswell, 2019; author manuscript on PubMed Central)",
+   "dcterms:title": "Mindfulness, acceptance, and emotion regulation: Perspectives from Monitor and Acceptance Theory (MAT)",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6565510"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "dhammatalks.org (Metta Forest Monastery), translation of the Aṅguttara Nikāya",
+   "dcterms:title": "Brahmavihāra Sutta: The Sublime Attitudes (AN 10.196)",
+   "schema:url": {
+    "@id": "https://dhammatalks.org/suttas/AN/AN10_196.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Nyanaponika Thera, Buddhist Publication Society, The Wheel No. 6 (Access to Insight edition)",
+   "dcterms:title": "The Four Sublime States: Contemplations on Love, Compassion, Sympathetic Joy and Equanimity",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Keith H. Seddon)",
+   "dcterms:title": "Epictetus (55–135 C.E.)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/epictetu/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s1",
@@ -3525,6 +3649,102 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:unconscious-thought-advantage-replication"
+   }
+  },
+  {
+   "@id": "wg:equanimity",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s6"
+    }
+   ],
+   "rdfs:label": "Equanimity",
+   "skos:altLabel": [
+    "even-mindedness",
+    "upekṣā",
+    "upekkhā"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:emotion-regulation"
+    },
+    {
+     "@id": "wg:four-immeasurables"
+    }
+   ],
+   "skos:definition": "An even, balanced state of mind toward whatever happens, pleasant, painful or neutral: still feeling and still caring, but not being swept into craving, aversion or panic, so that you can see clearly and act well.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Equanimity",
+   "skos:related": [
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:rumination"
+   },
+   "wgo:complements": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:compassion"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:indifference"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/equanimity.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:studiedIn": {
+    "@id": "wg:contemplative-science"
    }
   },
   {

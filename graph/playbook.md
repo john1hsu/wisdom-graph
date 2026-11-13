@@ -70,6 +70,22 @@ Ask yourself:
 
 ## emotions-and-equanimity
 
+### [Equanimity](../articles/emotions-and-equanimity/equanimity.md) — Virtue
+
+*An hour before you present to leadership, you learn that the client your team spent three months courting has chosen a competitor.*
+
+| Before | After |
+|---|---|
+| This is a disaster. I'll open with who dropped the ball, and frankly I'm not sure this team can win anything. | That hurts, and I'll let myself feel it. What's in my hands now is an honest account of what we learned and what we'll try differently, so that's what I'll present. |
+
+**Why:** The loss is still felt, but it no longer chooses your words; attention moves from blame and panic to the part of the situation you can actually shape.
+
+Ask yourself:
+- Am I reacting to what actually happened, or to the story I am telling about it?
+- Is my calm here steadiness, or am I simply refusing to feel or to care?
+- If this turned out well, or badly, would I still be able to act on my values?
+- What part of this is up to me, and am I putting my energy there?
+
 ### [Negative visualization](../articles/emotions-and-equanimity/negative-visualization.md) — Practice
 
 1. Choose one thing you value and tend to take for granted, such as a relationship, your health, your job or an ordinary comfort.

@@ -15,17 +15,17 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.60 | `wg:deliberation` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
 | 1.60 | `wg:socratic-ignorance` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
 | 1.52 | `wg:compassionate-reappraisal` | `wg:solomons-paradox` | `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:self-distancing` |
+| 1.48 | `wg:compassionate-reappraisal` | `wg:equanimity` | `wg:compassion`, `wg:forgiveness`, `wg:rumination` |
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
-| 1.39 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:gratitude`, `wg:rumination` |
-| 1.30 | `wg:buddhism` | `wg:compassionate-reappraisal` | `wg:compassion`, `wg:forgiveness` |
 | 1.26 | `wg:berlin-wisdom-paradigm` | `wg:deliberation` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 1.25 | `wg:post-traumatic-growth` | `wg:socratic-ignorance` | `wg:self-distancing`, `wg:wisdom` |
-| 1.21 | `wg:gratitude` | `wg:memento-mori` | `wg:negative-visualization`, `wg:purpose-in-life`, `wg:stoicism` |
+| 1.20 | `wg:gratitude` | `wg:memento-mori` | `wg:negative-visualization`, `wg:purpose-in-life`, `wg:stoicism` |
 | 1.19 | `wg:implicit-theories-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:robert-sternberg`, `wg:seeking-counsel` |
 | 1.18 | `wg:forgiveness` | `wg:solomons-paradox` | `wg:interpersonal-conflict`, `wg:perspective-taking` |
+| 1.16 | `wg:equanimity` | `wg:gratitude` | `wg:forgiveness`, `wg:negative-visualization`, `wg:stoicism` |
 | 1.15 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
 | 1.15 | `wg:rumination` | `wg:seeking-counsel` | `wg:deliberation`, `wg:moral-algebra`, `wg:self-distancing` |
+| 1.15 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:gratitude`, `wg:rumination` |
 | 1.12 | `wg:berlin-wisdom-paradigm` | `wg:know-thyself` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
+| 1.11 | `wg:buddhism` | `wg:compassionate-reappraisal` | `wg:compassion`, `wg:forgiveness` |
 | 1.09 | `wg:negative-visualization` | `wg:self-distancing` | `wg:rumination`, `wg:view-from-above` |
-| 1.08 | `wg:intellectual-humility` | `wg:moral-algebra` | `wg:deliberation`, `wg:seeking-counsel`, `wg:self-distancing` |
-| 1.06 | `wg:forgiveness` | `wg:memento-mori` | `wg:buddhism`, `wg:equanimity` |
