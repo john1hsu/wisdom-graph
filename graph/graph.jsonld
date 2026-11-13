@@ -695,6 +695,81 @@
    "wgo:why": "Self-views are least reliable on flattering or unflattering traits, so treating others' observations as evidence rather than an attack is how the maxim is actually followed."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I asking what I want from life, or what this situation is asking of me?",
+   "wgo:questionFor": {
+    "@id": "wg:logotherapy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there anything left for me to create, experience or stand for here, even if the outcome is out of my hands?",
+   "wgo:questionFor": {
+    "@id": "wg:logotherapy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I watching myself so closely that it is getting in the way of what I'm trying to do?",
+   "wgo:questionFor": {
+    "@id": "wg:logotherapy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The project is gone, but the people I trained and what we learned stay. What do I want to build next, and how do I want to carry this?",
+   "wgo:before": "None of it mattered. I'll keep my head down and stop caring about the work.",
+   "wgo:situation": "A team's long-running project is cancelled after a reorganisation, and a project lead feels the past year was wasted.",
+   "wgo:why": "Looking for meaning in contribution, relationships and chosen attitude, rather than only in outcomes you control, keeps a setback from emptying out the whole effort."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Logotherapy",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/4"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name one thing you are creating or contributing right now, however small, and who it serves."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Name one experience or person you value that you could give more attention to this week."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "For a hardship you cannot change, decide what stance toward it you want to be able to look back on."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Turn your attention from monitoring yourself to the task or person in front of you."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
@@ -2579,6 +2654,90 @@
     "@id": "https://www.psychologicalscience.org/journals/current-directions/0963721411402478/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Social Sci LibreTexts (Lansing Community College open textbook, Psychology of Adjustment course)",
+   "dcterms:title": "Viktor Frankl and Logotherapy (from Introduction to Personality, Kelland)",
+   "schema:url": {
+    "@id": "https://socialsci.libretexts.org/Courses/Santa_Ana_College/Psychology_of_Adjustment/04%3A_Existential_Psychology/4.05%3A_Viktor_Frankl_and_Logotherapy"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Viktor Frankl Institut, Vienna",
+   "dcterms:title": "Viktor Emil Frankl: Biography",
+   "schema:url": {
+    "@id": "https://viktorfrankl.org/biography.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Clinical Oncology, 33(7), 749–754 (Breitbart et al., 2015; Memorial Sloan Kettering repository)",
+   "dcterms:title": "Meaning-centered group psychotherapy: An effective intervention for improving psychological well-being in patients with advanced cancer",
+   "schema:url": {
+    "@id": "https://synapse.mskcc.org/synapse/works/70729"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Memorial Sloan Kettering Cancer Center, via ClinicalTrials.gov",
+   "dcterms:title": "A Randomized Controlled Trial of Individual Psychosocial Interventions for Cancer Patients (protocol NCT01323309)",
+   "schema:url": {
+    "@id": "https://cdn.clinicaltrials.gov/large-docs/09/NCT01323309/Prot_SAP_001.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Consulting and Clinical Psychology, 83(1), 115–128 (Vos, Craig & Cooper, 2015)",
+   "dcterms:title": "Existential therapies: A meta-analysis of their effects on psychological outcomes",
+   "schema:url": {
+    "@id": "https://clinica.ispa.pt/sites/default/files/22._vos_et_al_2015.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Viktor Frankl Institut, Vienna",
+   "dcterms:title": "Alleged quote",
+   "schema:url": {
+    "@id": "https://viktorfrankl.org/quote_stimulus.html"
+   },
+   "wgo:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1",
@@ -5063,6 +5222,104 @@
    "wgo:rootedIn": {
     "@id": "wg:socratic-philosophy"
    }
+  },
+  {
+   "@id": "wg:logotherapy",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6"
+    }
+   ],
+   "rdfs:label": "Logotherapy",
+   "skos:altLabel": [
+    "Frankl's logotherapy",
+    "Logotherapie",
+    "logotherapy and existential analysis",
+    "third Viennese school of psychotherapy"
+   ],
+   "skos:broader": {
+    "@id": "wg:existential-psychotherapy"
+   },
+   "skos:definition": "Viktor Frankl's meaning-centred approach to psychotherapy and to life, which holds that the search for meaning is a basic human motive and that meaning can be found through what we create, what and whom we experience, and the attitude we take toward suffering we cannot avoid.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Logotherapy",
+   "skos:related": [
+    {
+     "@id": "wg:meaning-centered-psychotherapy"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:post-traumatic-growth"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    },
+    {
+     "@id": "wg:self-transcendence"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:addresses": [
+    {
+     "@id": "wg:existential-vacuum"
+    },
+    {
+     "@id": "wg:hyper-reflection"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:serious-illness"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:psychoanalysis"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/logotherapy.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:viktor-frankl"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:existential-therapies-meta-analysis"
+    },
+    {
+     "@id": "wg:meaning-centered-group-psychotherapy-trial"
+    }
+   ]
   },
   {
    "@id": "wg:memento-mori",

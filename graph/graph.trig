@@ -142,6 +142,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/gratitude#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/logotherapy.md" .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/purpose-in-life.md" .
@@ -1786,6 +1795,113 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://schema.org/url> <https://gutenberg.org/cache/epub/3794/pg3794-images.html> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I asking what I want from life, or what this situation is asking of me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is there anything left for me to create, experience or stand for here, even if the outcome is out of my hands?" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I watching myself so closely that it is getting in the way of what I'm trying to do?" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The project is gone, but the people I trained and what we learned stay. What do I want to build next, and how do I want to carry this?" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "None of it mattered. I'll keep my head down and stop caring about the work." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team's long-running project is cancelled after a reorganisation, and a project lead feels the past year was wasted." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Looking for meaning in contribution, relationships and chosen attitude, rather than only in outcomes you control, keeps a setback from emptying out the whole effort." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/1> <https://schema.org/text> "Name one thing you are creating or contributing right now, however small, and who it serves." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/2> <https://schema.org/text> "Name one experience or person you value that you could give more attention to this week." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/3> <https://schema.org/text> "For a hardship you cannot change, decide what stance toward it you want to be able to look back on." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/4> <https://schema.org/text> "Turn your attention from monitoring yourself to the task or person in front of you." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> <https://schema.org/name> "Logotherapy" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2000/01/rdf-schema#label> "Logotherapy" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#altLabel> "Frankl's logotherapy" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#altLabel> "Logotherapie" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#altLabel> "logotherapy and existential analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#altLabel> "third Viennese school of psychotherapy" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#definition> "Viktor Frankl's meaning-centred approach to psychotherapy and to life, which holds that the search for meaning is a basic human motive and that meaning can be found through what we create, what and whom we experience, and the attitude we take toward suffering we cannot avoid." .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Logotherapy" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-psychotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/hyper-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/serious-illness> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/logotherapy.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/logotherapy/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/existential-therapies-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-group-psychotherapy-trial> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://purl.org/dc/terms/publisher> "Social Sci LibreTexts (Lansing Community College open textbook, Psychology of Adjustment course)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://purl.org/dc/terms/title> "Viktor Frankl and Logotherapy (from Introduction to Personality, Kelland)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <https://schema.org/url> <https://socialsci.libretexts.org/Courses/Santa_Ana_College/Psychology_of_Adjustment/04%3A_Existential_Psychology/4.05%3A_Viktor_Frankl_and_Logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> <http://purl.org/dc/terms/publisher> "Viktor Frankl Institut, Vienna" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> <http://purl.org/dc/terms/title> "Viktor Emil Frankl: Biography" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s2> <https://schema.org/url> <https://viktorfrankl.org/biography.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> <http://purl.org/dc/terms/publisher> "Journal of Clinical Oncology, 33(7), 749–754 (Breitbart et al., 2015; Memorial Sloan Kettering repository)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> <http://purl.org/dc/terms/title> "Meaning-centered group psychotherapy: An effective intervention for improving psychological well-being in patients with advanced cancer" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s3> <https://schema.org/url> <https://synapse.mskcc.org/synapse/works/70729> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> <http://purl.org/dc/terms/publisher> "Memorial Sloan Kettering Cancer Center, via ClinicalTrials.gov" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> <http://purl.org/dc/terms/title> "A Randomized Controlled Trial of Individual Psychosocial Interventions for Cancer Patients (protocol NCT01323309)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> <https://schema.org/url> <https://cdn.clinicaltrials.gov/large-docs/09/NCT01323309/Prot_SAP_001.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> <http://purl.org/dc/terms/publisher> "Journal of Consulting and Clinical Psychology, 83(1), 115–128 (Vos, Craig & Cooper, 2015)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> <http://purl.org/dc/terms/title> "Existential therapies: A meta-analysis of their effects on psychological outcomes" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> <https://schema.org/url> <https://clinica.ispa.pt/sites/default/files/22._vos_et_al_2015.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <http://purl.org/dc/terms/publisher> "Viktor Frankl Institut, Vienna" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <http://purl.org/dc/terms/title> "Alleged quote" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <https://schema.org/url> <https://viktorfrankl.org/quote_stimulus.html> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -3101,6 +3217,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-therapies-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
@@ -3165,6 +3285,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+  <https://github.com/john1hsu/wisdom-graph/id/hyper-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
@@ -3254,6 +3375,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -3262,8 +3390,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/many-labs-3> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-seligman> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-group-psychotherapy-trial> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-psychotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -3332,6 +3463,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
@@ -3340,6 +3472,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/problem-solving> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -3352,6 +3485,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/purpose-and-mortality-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -3427,7 +3561,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/serious-illness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/serious-illness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/serious-illness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/serious-illness> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/shattered-assumptions-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
@@ -3480,6 +3619,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -3508,6 +3648,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/vindictiveness> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

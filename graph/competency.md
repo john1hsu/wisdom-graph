@@ -34,6 +34,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
+| `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
 | `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:deliberation` | 1 | impetuosity |
@@ -62,6 +63,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
+| `wg:serious-illness` | `wg:logotherapy` |
 
 ## Myths and contested advice
 
@@ -80,6 +82,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
+| `wg:logotherapy` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:purpose-in-life` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |

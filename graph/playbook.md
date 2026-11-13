@@ -258,6 +258,26 @@ Ask yourself:
 - Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?
 - Am I using "be grateful" to talk myself, or someone else, out of a legitimate complaint?
 
+### [Logotherapy](../articles/meaning-and-the-good-life/logotherapy.md) — Framework
+
+1. Name one thing you are creating or contributing right now, however small, and who it serves.
+2. Name one experience or person you value that you could give more attention to this week.
+3. For a hardship you cannot change, decide what stance toward it you want to be able to look back on.
+4. Turn your attention from monitoring yourself to the task or person in front of you.
+
+*A team's long-running project is cancelled after a reorganisation, and a project lead feels the past year was wasted.*
+
+| Before | After |
+|---|---|
+| None of it mattered. I'll keep my head down and stop caring about the work. | The project is gone, but the people I trained and what we learned stay. What do I want to build next, and how do I want to carry this? |
+
+**Why:** Looking for meaning in contribution, relationships and chosen attitude, rather than only in outcomes you control, keeps a setback from emptying out the whole effort.
+
+Ask yourself:
+- Am I asking what I want from life, or what this situation is asking of me?
+- Is there anything left for me to create, experience or stand for here, even if the outcome is out of my hands?
+- Am I watching myself so closely that it is getting in the way of what I'm trying to do?
+
 ## science-of-wisdom
 
 ### [Berlin wisdom paradigm](../articles/science-of-wisdom/berlin-wisdom-paradigm.md) — Framework

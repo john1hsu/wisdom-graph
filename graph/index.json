@@ -1434,6 +1434,120 @@
   ]
  },
  {
+  "id": "wg:logotherapy",
+  "title": "Logotherapy",
+  "aliases": [
+   "Frankl's logotherapy",
+   "logotherapy and existential analysis",
+   "third Viennese school of psychotherapy",
+   "Logotherapie"
+  ],
+  "type": "Framework",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/logotherapy.md",
+  "created": "2026-11-13",
+  "summary": "Viktor Frankl's meaning-centred approach to psychotherapy and to life, which holds that the search for meaning is a basic human motive and that meaning can be found through what we create, what and whom we experience, and the attitude we take toward suffering we cannot avoid.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:existential-psychotherapy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-transcendence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:post-traumatic-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-centered-psychotherapy"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:viktor-frankl",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:existential-vacuum",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:hyper-reflection",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:psychoanalysis",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:serious-illness",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:existential-therapies-meta-analysis",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:meaning-centered-group-psychotherapy-trial",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I asking what I want from life, or what this situation is asking of me?",
+   "Is there anything left for me to create, experience or stand for here, even if the outcome is out of my hands?",
+   "Am I watching myself so closely that it is getting in the way of what I'm trying to do?"
+  ],
+  "steps": [
+   "Name one thing you are creating or contributing right now, however small, and who it serves.",
+   "Name one experience or person you value that you could give more attention to this week.",
+   "For a hardship you cannot change, decide what stance toward it you want to be able to look back on.",
+   "Turn your attention from monitoring yourself to the task or person in front of you."
+  ],
+  "example": {
+   "situation": "A team's long-running project is cancelled after a reorganisation, and a project lead feels the past year was wasted.",
+   "before": "None of it mattered. I'll keep my head down and stop caring about the work.",
+   "after": "The project is gone, but the people I trained and what we learned stay. What do I want to build next, and how do I want to carry this?",
+   "why": "Looking for meaning in contribution, relationships and chosen attitude, rather than only in outcomes you control, keeps a setback from emptying out the whole effort."
+  },
+  "source_urls": [
+   "https://socialsci.libretexts.org/Courses/Santa_Ana_College/Psychology_of_Adjustment/04%3A_Existential_Psychology/4.05%3A_Viktor_Frankl_and_Logotherapy",
+   "https://viktorfrankl.org/biography.html",
+   "https://synapse.mskcc.org/synapse/works/70729",
+   "https://cdn.clinicaltrials.gov/large-docs/09/NCT01323309/Prot_SAP_001.pdf",
+   "https://clinica.ispa.pt/sites/default/files/22._vos_et_al_2015.pdf",
+   "https://viktorfrankl.org/quote_stimulus.html"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [
