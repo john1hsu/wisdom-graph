@@ -4,7 +4,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 2.45 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
+| 2.47 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
+| 2.26 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
 | 1.44 | `wg:socratic-ignorance` | `wg:stoicism` | `wg:socratic-philosophy` |
 | 1.44 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:gratitude`, `wg:rumination` |
@@ -18,6 +19,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.01 | `wg:memento-mori` | `wg:rumination` | `wg:equanimity`, `wg:negative-visualization` |
 | 0.78 | `wg:gratitude` | `wg:memento-mori` | `wg:negative-visualization`, `wg:stoicism` |
 | 0.78 | `wg:gratitude` | `wg:rumination` | `wg:forgiveness`, `wg:negative-visualization` |
+| 0.72 | `wg:berlin-wisdom-paradigm` | `wg:compassionate-reappraisal` | `wg:interpersonal-conflict` |
+| 0.72 | `wg:berlin-wisdom-paradigm` | `wg:forgiveness` | `wg:interpersonal-conflict` |
 | 0.72 | `wg:forgiveness` | `wg:seeking-counsel` | `wg:perspective-taking` |
 | 0.72 | `wg:memento-mori` | `wg:self-distancing` | `wg:view-from-above` |
 | 0.72 | `wg:self-distancing` | `wg:stoicism` | `wg:view-from-above` |
@@ -26,6 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 0.40 | `wg:compassionate-reappraisal` | `wg:negative-visualization` | `wg:rumination` |
 | 0.40 | `wg:compassionate-reappraisal` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
 | 0.40 | `wg:forgiveness` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
-| 0.40 | `wg:negative-visualization` | `wg:susan-nolen-hoeksema` | `wg:rumination` |
-| 0.39 | `wg:buddhism` | `wg:gratitude` | `wg:forgiveness` |
-| 0.39 | `wg:compassionate-reappraisal` | `wg:gratitude` | `wg:forgiveness` |

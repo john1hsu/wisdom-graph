@@ -41,6 +41,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
+| `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
@@ -52,6 +54,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 | node | status | challenger |
 |---|---|---|
+| `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:seeking-counsel` | mixed |  |

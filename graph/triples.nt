@@ -1,3 +1,43 @@
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I considered how this problem looks across the person's whole life, past and future, and not only today?" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I named what I do not know about this situation, and what I would do if things turn out differently than I expect?" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I judging this choice by my own values only, or have I tried to understand the values and priorities behind it?" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2000/01/rdf-schema#label> "Berlin wisdom paradigm" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#altLabel> "Berlin Wisdom Project" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#altLabel> "Berlin wisdom model" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#altLabel> "wisdom as expertise in the fundamental pragmatics of life" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#altLabel> "wisdom-related knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#definition> "A research model, developed by Paul Baltes and colleagues in Berlin, that treats wisdom as expert knowledge and judgment about the conduct and meaning of life, measured by rating people's think-aloud answers to hard life dilemmas against five criteria." .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#prefLabel> "Berlin wisdom paradigm" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "science-of-wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/science-of-wisdom/berlin-wisdom-paradigm.md" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/2000/01/rdf-schema#label> "Buddhism" .
@@ -640,6 +680,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/apology-of-socrates> .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society PuRe repository" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/title> "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <https://schema.org/url> <https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng et al., 2013)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> <http://purl.org/dc/terms/title> "How to measure wisdom: Content, reliability, and validity of five measures" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2> <https://schema.org/url> <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 29(9), 1104–1119 (Kunzmann & Baltes, 2003), Scilit record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> <http://purl.org/dc/terms/title> "Wisdom-related knowledge: Affective, motivational, and interpersonal correlates" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> <https://schema.org/url> <https://scilit.com/publications/e58de4494c2d4001850d989e1e92e37b> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> <http://purl.org/dc/terms/publisher> "Chicago Center for Practical Wisdom, University of Chicago (Grossmann, Weststrate, Ardelt et al., Psychological Inquiry, 2020)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> <http://purl.org/dc/terms/title> "The science of wisdom in a polarized world: Knowns and unknowns" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <http://purl.org/dc/terms/publisher> "Wisdom Through Adversity program, University of Virginia School of Medicine" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <http://purl.org/dc/terms/title> "Monika Ardelt, PhD: Publications" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <https://schema.org/url> <https://med.virginia.edu/wisdom/publications/ardelt/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Mark Siderits; rev. 2023)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1> <http://purl.org/dc/terms/title> "Buddha" .

@@ -1,5 +1,98 @@
 [
  {
+  "id": "wg:berlin-wisdom-paradigm",
+  "title": "Berlin wisdom paradigm",
+  "aliases": [
+   "Berlin wisdom model",
+   "Berlin Wisdom Project",
+   "wisdom as expertise in the fundamental pragmatics of life",
+   "wisdom-related knowledge"
+  ],
+  "type": "Framework",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/berlin-wisdom-paradigm.md",
+  "created": "2026-11-13",
+  "summary": "A research model, developed by Paul Baltes and colleagues in Berlin, that treats wisdom as expert knowledge and judgment about the conduct and meaning of life, measured by rating people's think-aloud answers to hard life dilemmas against five criteria.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:balance-theory-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:paul-baltes",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:interactive-minds-study",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:giving-advice",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:three-dimensional-wisdom-model",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:lifespan-developmental-psychology",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Have I considered how this problem looks across the person's whole life, past and future, and not only today?",
+   "Have I named what I do not know about this situation, and what I would do if things turn out differently than I expect?",
+   "Am I judging this choice by my own values only, or have I tried to understand the values and priorities behind it?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full",
+   "https://scilit.com/publications/e58de4494c2d4001850d989e1e92e37b",
+   "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns",
+   "https://med.virginia.edu/wisdom/publications/ardelt/"
+  ]
+ },
+ {
   "id": "wg:buddhism",
   "title": "Buddhism",
   "aliases": [

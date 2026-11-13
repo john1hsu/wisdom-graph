@@ -169,6 +169,15 @@ Ask yourself:
 - Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?
 - Am I using "be grateful" to talk myself, or someone else, out of a legitimate complaint?
 
+## science-of-wisdom
+
+### [Berlin wisdom paradigm](../articles/science-of-wisdom/berlin-wisdom-paradigm.md) — Framework
+
+Ask yourself:
+- Have I considered how this problem looks across the person's whole life, past and future, and not only today?
+- Have I named what I do not know about this situation, and what I would do if things turn out differently than I expect?
+- Am I judging this choice by my own values only, or have I tried to understand the values and priorities behind it?
+
 ## self-knowledge
 
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice

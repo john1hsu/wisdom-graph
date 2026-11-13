@@ -14,6 +14,30 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I considered how this problem looks across the person's whole life, past and future, and not only today?",
+   "wgo:questionFor": {
+    "@id": "wg:berlin-wisdom-paradigm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I named what I do not know about this situation, and what I would do if things turn out differently than I expect?",
+   "wgo:questionFor": {
+    "@id": "wg:berlin-wisdom-paradigm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I judging this choice by my own values only, or have I tried to understand the values and priorities behind it?",
+   "wgo:questionFor": {
+    "@id": "wg:berlin-wisdom-paradigm"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I wishing this person well, or am I telling myself that what they did was fine?",
@@ -740,6 +764,76 @@
    "wgo:before": "Yes, they're solid, I'm sure of it. Let's lock them in.",
    "wgo:situation": "A team lead is asked in a planning meeting whether a new supplier can deliver on time, and has only skimmed their proposal.",
    "wgo:why": "Separating what you know from what you merely feel sure of keeps a confident guess from becoming the team's decision, and invites the people who do know to speak."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society PuRe repository",
+   "dcterms:title": "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng et al., 2013)",
+   "dcterms:title": "How to measure wisdom: Content, reliability, and validity of five measures",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 29(9), 1104–1119 (Kunzmann & Baltes, 2003), Scilit record",
+   "dcterms:title": "Wisdom-related knowledge: Affective, motivational, and interpersonal correlates",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/e58de4494c2d4001850d989e1e92e37b"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Chicago Center for Practical Wisdom, University of Chicago (Grossmann, Weststrate, Ardelt et al., Psychological Inquiry, 2020)",
+   "dcterms:title": "The science of wisdom in a polarized world: Knowns and unknowns",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Wisdom Through Adversity program, University of Virginia School of Medicine",
+   "dcterms:title": "Monika Ardelt, PhD: Publications",
+   "schema:url": {
+    "@id": "https://med.virginia.edu/wisdom/publications/ardelt/"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1",
@@ -1762,6 +1856,87 @@
     "@id": "https://news.umich.edu/?p=4891"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "wg:berlin-wisdom-paradigm",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5"
+    }
+   ],
+   "rdfs:label": "Berlin wisdom paradigm",
+   "skos:altLabel": [
+    "Berlin Wisdom Project",
+    "Berlin wisdom model",
+    "wisdom as expertise in the fundamental pragmatics of life",
+    "wisdom-related knowledge"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "skos:definition": "A research model, developed by Paul Baltes and colleagues in Berlin, that treats wisdom as expert knowledge and judgment about the conduct and meaning of life, measured by rating people's think-aloud answers to hard life dilemmas against five criteria.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Berlin wisdom paradigm",
+   "skos:related": [
+    {
+     "@id": "wg:balance-theory-of-wisdom"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:interactive-minds-study"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/science-of-wisdom/berlin-wisdom-paradigm.md",
+   "wgo:introducedBy": {
+    "@id": "wg:paul-baltes"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:lifespan-developmental-psychology"
+   }
   },
   {
    "@id": "wg:buddhism",
