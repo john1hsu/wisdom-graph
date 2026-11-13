@@ -235,6 +235,57 @@
 <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/unconscious-thought-advantage-replication> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I calling a choice \"balanced\" just because it sits halfway between two options, rather than because it fits the situation?" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is the strength of my reaction proportionate to how serious this actually is?" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I tend to avoid conflict, so I'll lean a little firmer than feels natural: a private conversation, the specific facts, what I need by when, and a real question about what is getting in his way." .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Either I let it slide to keep the peace, or I lay it all out bluntly in front of the team so nobody can say I'm soft." .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A newly promoted team lead has to tell a long-serving colleague that his reports keep arriving late and incomplete." .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The right degree of firmness depends on this person and this problem, and knowing which way you usually err tells you which way to correct, as Aristotle advised." .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2000/01/rdf-schema#label> "Aristotle's doctrine of the mean" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#altLabel> "Aristotelian golden mean" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#altLabel> "doctrine of the mean" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#altLabel> "mesotes" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#altLabel> "mesotēs" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#altLabel> "the mean relative to us" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#definition> "Aristotle's teaching that each virtue of character is a settled disposition to feel and act at the intermediate point between a vice of excess and a vice of deficiency, where that point is fixed not by arithmetic but by what the situation and the person call for, as a practically wise person would judge." .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aristotle's doctrine of the mean" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/delphic-maxims> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/doctrine-of-the-mean.md" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/too-much-of-a-good-thing-effect> .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reacting to what actually happened, or to the story I am telling about it?" .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -576,6 +627,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#definition> "The ancient Greek maxim inscribed at Apollo's temple at Delphi, read first as a reminder of human limits and later, through Socrates and Plato, as a call to examine one's own character, beliefs and ignorance; modern psychology adds that this is best done with the help of other people's views." .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#prefLabel> "Know thyself" .
+<https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/introspection-illusion> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
@@ -1391,6 +1443,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/19739881/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://purl.org/dc/terms/title> "Aristotle, Nicomachean Ethics, Book II (chapters 1 and 6–9), trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Richard Kraut)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> <http://purl.org/dc/terms/title> "Aristotle's Ethics (§5 The Doctrine of the Mean)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/aristotle-ethics/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Stephen Eldridge)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> <http://purl.org/dc/terms/title> "Golden mean" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3> <https://schema.org/url> <https://www.britannica.com/topic/golden-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> <http://purl.org/dc/terms/publisher> "Perspectives on Psychological Science, 6(1), 61–76 (Grant & Schwartz, 2011), record at Swarthmore College" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> <http://purl.org/dc/terms/title> "Too much of a good thing: The challenge and opportunity of the inverted U" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4> <https://schema.org/url> <https://works.swarthmore.edu/fac-psychology/107> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> <http://purl.org/dc/terms/publisher> "Journal of Management, 39(2), 313–338 (Pierce & Aguinis, 2013), author copy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> <http://purl.org/dc/terms/title> "The too-much-of-a-good-thing effect in management" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5> <https://schema.org/url> <https://www.hermanaguinis.com/pdf/JOMinpress2.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <http://purl.org/dc/terms/publisher> "Advances in Methods and Practices in Psychological Science, 1(4) (Simonsohn, 2018), Association for Psychological Science" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <http://purl.org/dc/terms/title> "Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <https://schema.org/url> <https://www.psychologicalscience.org/journals/ampps/2515245918805755/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/publisher> "Mindfulness, 6(2), 356–372 (Springer; Desbordes, Gard, Hoge, Hölzel, Kerr, Lazar, Olendzki & Vago, 2015; doi:10.1007/s12671-013-0269-8)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/title> "Moving Beyond Mindfulness: Defining Equanimity as an Outcome Measure in Meditation and Contemplative Research" .

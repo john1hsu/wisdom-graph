@@ -405,6 +405,118 @@
   ]
  },
  {
+  "id": "wg:doctrine-of-the-mean",
+  "title": "Aristotle's doctrine of the mean",
+  "aliases": [
+   "doctrine of the mean",
+   "the mean relative to us",
+   "mesotes",
+   "mesotēs",
+   "Aristotelian golden mean"
+  ],
+  "type": "Principle",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/doctrine-of-the-mean.md",
+  "created": "2026-11-13",
+  "summary": "Aristotle's teaching that each virtue of character is a settled disposition to feel and act at the intermediate point between a vice of excess and a vice of deficiency, where that point is fixed not by arithmetic but by what the situation and the person call for, as a practically wise person would judge.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotelian-virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:delphic-maxims"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:confucianism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:nicomachean-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:temperance",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:stoicism",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:too-much-of-a-good-thing-effect",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?",
+   "Am I calling a choice \"balanced\" just because it sits halfway between two options, rather than because it fits the situation?",
+   "Is the strength of my reaction proportionate to how serious this actually is?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A newly promoted team lead has to tell a long-serving colleague that his reports keep arriving late and incomplete.",
+   "before": "Either I let it slide to keep the peace, or I lay it all out bluntly in front of the team so nobody can say I'm soft.",
+   "after": "I tend to avoid conflict, so I'll lean a little firmer than feels natural: a private conversation, the specific facts, what I need by when, and a real question about what is getting in his way.",
+   "why": "The right degree of firmness depends on this person and this problem, and knowing which way you usually err tells you which way to correct, as Aristotle advised."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html",
+   "https://plato.stanford.edu/ENTRIES/aristotle-ethics/",
+   "https://www.britannica.com/topic/golden-mean",
+   "https://works.swarthmore.edu/fac-psychology/107",
+   "https://www.hermanaguinis.com/pdf/JOMinpress2.pdf",
+   "https://www.psychologicalscience.org/journals/ampps/2515245918805755/"
+  ]
+ },
+ {
   "id": "wg:equanimity",
   "title": "Equanimity",
   "aliases": [
@@ -1041,6 +1153,10 @@
    {
     "predicate": "skos:related",
     "object": "wg:introspection-illusion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
    },
    {
     "predicate": "wgo:partOf",

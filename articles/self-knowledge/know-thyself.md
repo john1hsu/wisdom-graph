@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: normative
 broader: [wg:self-knowledge]
-related: [wg:socratic-ignorance, wg:self-reflection, wg:self-distancing, wg:intellectual-humility, wg:introspection-illusion]
+related: [wg:socratic-ignorance, wg:self-reflection, wg:self-distancing, wg:intellectual-humility, wg:introspection-illusion, wg:doctrine-of-the-mean]
 requires: []
 relations:
   - {predicate: partOf, object: wg:delphic-maxims, source: s1, confidence: high}

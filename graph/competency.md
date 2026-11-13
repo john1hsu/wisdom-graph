@@ -35,6 +35,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:deliberation` | 1 | impetuosity |
+| `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
@@ -98,6 +99,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | tradition | teaching |
 |---|---|
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
+| `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |

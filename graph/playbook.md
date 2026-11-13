@@ -310,6 +310,21 @@ Ask yourself:
 
 ## virtues-and-character
 
+### [Aristotle's doctrine of the mean](../articles/virtues-and-character/doctrine-of-the-mean.md) — Principle
+
+*A newly promoted team lead has to tell a long-serving colleague that his reports keep arriving late and incomplete.*
+
+| Before | After |
+|---|---|
+| Either I let it slide to keep the peace, or I lay it all out bluntly in front of the team so nobody can say I'm soft. | I tend to avoid conflict, so I'll lean a little firmer than feels natural: a private conversation, the specific facts, what I need by when, and a real question about what is getting in his way. |
+
+**Why:** The right degree of firmness depends on this person and this problem, and knowing which way you usually err tells you which way to correct, as Aristotle advised.
+
+Ask yourself:
+- Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?
+- Am I calling a choice "balanced" just because it sits halfway between two options, rather than because it fits the situation?
+- Is the strength of my reaction proportionate to how serious this actually is?
+
 ### [Intellectual humility](../articles/virtues-and-character/intellectual-humility.md) — Virtue
 
 *In a project review, a colleague points out that the sales forecast you built last month rests on an assumption you never checked.*

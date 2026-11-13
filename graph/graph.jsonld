@@ -266,6 +266,38 @@
    "schema:text": "Set a point at which deliberation ends, then choose and act promptly, without reopening the question unless new facts appear."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?",
+   "wgo:questionFor": {
+    "@id": "wg:doctrine-of-the-mean"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I calling a choice \"balanced\" just because it sits halfway between two options, rather than because it fits the situation?",
+   "wgo:questionFor": {
+    "@id": "wg:doctrine-of-the-mean"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the strength of my reaction proportionate to how serious this actually is?",
+   "wgo:questionFor": {
+    "@id": "wg:doctrine-of-the-mean"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I tend to avoid conflict, so I'll lean a little firmer than feels natural: a private conversation, the specific facts, what I need by when, and a real question about what is getting in his way.",
+   "wgo:before": "Either I let it slide to keep the peace, or I lay it all out bluntly in front of the team so nobody can say I'm soft.",
+   "wgo:situation": "A newly promoted team lead has to tell a long-serving colleague that his reports keep arriving late and incomplete.",
+   "wgo:why": "The right degree of firmness depends on this person and this problem, and knowing which way you usually err tells you which way to correct, as Aristotle advised."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reacting to what actually happened, or to the story I am telling about it?",
@@ -1597,6 +1629,90 @@
    "dcterms:title": "Conditions for intuitive expertise: A failure to disagree",
    "schema:url": {
     "@id": "https://pubmed.ncbi.nlm.nih.gov/19739881/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Aristotle, Nicomachean Ethics, Book II (chapters 1 and 6–9), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut)",
+   "dcterms:title": "Aristotle's Ethics (§5 The Doctrine of the Mean)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica (Stephen Eldridge)",
+   "dcterms:title": "Golden mean",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/golden-mean"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Perspectives on Psychological Science, 6(1), 61–76 (Grant & Schwartz, 2011), record at Swarthmore College",
+   "dcterms:title": "Too much of a good thing: The challenge and opportunity of the inverted U",
+   "schema:url": {
+    "@id": "https://works.swarthmore.edu/fac-psychology/107"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Management, 39(2), 313–338 (Pierce & Aguinis, 2013), author copy",
+   "dcterms:title": "The too-much-of-a-good-thing effect in management",
+   "schema:url": {
+    "@id": "https://www.hermanaguinis.com/pdf/JOMinpress2.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Advances in Methods and Practices in Psychological Science, 1(4) (Simonsohn, 2018), Association for Psychological Science",
+   "dcterms:title": "Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/ampps/2515245918805755/"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -3652,6 +3768,101 @@
    }
   },
   {
+   "@id": "wg:doctrine-of-the-mean",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6"
+    }
+   ],
+   "rdfs:label": "Aristotle's doctrine of the mean",
+   "skos:altLabel": [
+    "Aristotelian golden mean",
+    "doctrine of the mean",
+    "mesotēs",
+    "mesotes",
+    "the mean relative to us"
+   ],
+   "skos:broader": {
+    "@id": "wg:virtue-ethics"
+   },
+   "skos:definition": "Aristotle's teaching that each virtue of character is a settled disposition to feel and act at the intermediate point between a vice of excess and a vice of deficiency, where that point is fixed not by arithmetic but by what the situation and the person call for, as a practically wise person would judge.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Aristotle's doctrine of the mean",
+   "skos:related": [
+    {
+     "@id": "wg:aristotelian-virtue-ethics"
+    },
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:cardinal-virtues"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:delphic-maxims"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:stoicism"
+   },
+   "wgo:develops": {
+    "@id": "wg:temperance"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/example"
+   },
+   "wgo:file": "articles/virtues-and-character/doctrine-of-the-mean.md",
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:too-much-of-a-good-thing-effect"
+   }
+  },
+  {
    "@id": "wg:equanimity",
    "@type": "wgo:Virtue",
    "dcterms:created": {
@@ -4220,6 +4431,9 @@
    },
    "skos:prefLabel": "Know thyself",
    "skos:related": [
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
     {
      "@id": "wg:intellectual-humility"
     },
