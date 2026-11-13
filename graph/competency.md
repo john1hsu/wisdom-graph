@@ -58,6 +58,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 | node | status | challenger |
 |---|---|---|
+| `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |

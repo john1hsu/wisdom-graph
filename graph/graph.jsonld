@@ -1717,6 +1717,76 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Traumatic Stress, 9(3), 455–471 (Tedeschi & Calhoun, 1996); hosted by the PTG Research Group, UNC Charlotte",
+   "dcterms:title": "The Posttraumatic Growth Inventory: Measuring the positive legacy of trauma",
+   "schema:url": {
+    "@id": "https://sites.charlotte.edu/ptgi/wp-content/uploads/sites/9/2015/01/The-Posttraumatic-Growth-Inventory-Measuring-the-positive-legacy-of-trauma.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Inquiry, 15(1), 1–18 (Tedeschi & Calhoun, 2004); hosted by the PTG Research Group, UNC Charlotte",
+   "dcterms:title": "Posttraumatic growth: Conceptual foundations and empirical evidence",
+   "schema:url": {
+    "@id": "https://sites.charlotte.edu/ptgi/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Science, 20(7), 912–919 (Frazier, Tennen, Gavian, Park, Tomich & Tashiro, 2009); University of Minnesota Experts record",
+   "dcterms:title": "Does self-reported posttraumatic growth reflect genuine positive change?",
+   "schema:url": {
+    "@id": "https://experts.umn.edu/en/publications/does-self-reported-posttraumatic-growth-reflect-genuine-positive-/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Personality, 89(1), 145–165 (Jayawickreme, Infurna, Alajak, Blackie, Chopik et al., 2021), PubMed Central",
+   "dcterms:title": "Post-traumatic growth as positive personality change: Challenges, opportunities, and recommendations",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8062071"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom",
+   "dcterms:title": "Center for Practical Wisdom Research Forum: Nic M. Weststrate (2017)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/rumination/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -3070,6 +3140,87 @@
    "wgo:supportedBy": {
     "@id": "wg:george-bailey-effect"
    }
+  },
+  {
+   "@id": "wg:post-traumatic-growth",
+   "@type": "wgo:Phenomenon",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5"
+    }
+   ],
+   "rdfs:label": "Post-traumatic growth",
+   "skos:altLabel": [
+    "PTG",
+    "growth after adversity",
+    "posttraumatic growth",
+    "stress-related growth"
+   ],
+   "skos:broader": {
+    "@id": "wg:personal-growth"
+   },
+   "skos:definition": "Positive psychological change that people report after struggling with a highly challenging life event, such as deeper relationships, a stronger sense of personal strength or a greater appreciation of life. How often such reports reflect real change, rather than a hopeful story told afterwards, is disputed.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Post-traumatic growth",
+   "skos:related": [
+    {
+     "@id": "wg:benefit-finding"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:wisdom"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:perceived-versus-actual-growth-study"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:resilience"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "contested",
+   "wgo:explainedBy": {
+    "@id": "wg:shattered-assumptions-theory"
+   },
+   "wgo:file": "articles/adversity-and-mortality/post-traumatic-growth.md",
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:lawrence-calhoun"
+    },
+    {
+     "@id": "wg:richard-tedeschi"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:rumination",

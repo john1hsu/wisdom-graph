@@ -899,6 +899,93 @@
   ]
  },
  {
+  "id": "wg:post-traumatic-growth",
+  "title": "Post-traumatic growth",
+  "aliases": [
+   "posttraumatic growth",
+   "PTG",
+   "growth after adversity",
+   "stress-related growth"
+  ],
+  "type": "Phenomenon",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "contested",
+  "file": "articles/adversity-and-mortality/post-traumatic-growth.md",
+  "created": "2026-11-13",
+  "summary": "Positive psychological change that people report after struggling with a highly challenging life event, such as deeper relationships, a stronger sense of personal strength or a greater appreciation of life. How often such reports reflect real change, rather than a hopeful story told afterwards, is disputed.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:personal-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:benefit-finding"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:richard-tedeschi",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:lawrence-calhoun",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:resilience",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:shattered-assumptions-theory",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:perceived-versus-actual-growth-study",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://sites.charlotte.edu/ptgi/wp-content/uploads/sites/9/2015/01/The-Posttraumatic-Growth-Inventory-Measuring-the-positive-legacy-of-trauma.pdf",
+   "https://sites.charlotte.edu/ptgi/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf",
+   "https://experts.umn.edu/en/publications/does-self-reported-posttraumatic-growth-reflect-genuine-positive-/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8062071",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017"
+  ]
+ },
+ {
   "id": "wg:rumination",
   "title": "Rumination",
   "aliases": [
