@@ -148,6 +148,124 @@
    "schema:text": "Decide separately, on the facts, what boundary, conversation or accountability the situation still needs."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this decision actually within my power, and is the outcome really uncertain, or am I deliberating to put off accepting something?",
+   "wgo:questionFor": {
+    "@id": "wg:deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I checked that the goal itself is a good one, not just how to reach it?",
+   "wgo:questionFor": {
+    "@id": "wg:deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I consider more than one way forward before settling on the first idea I had?",
+   "wgo:questionFor": {
+    "@id": "wg:deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?",
+   "wgo:questionFor": {
+    "@id": "wg:deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I set a point where thinking stops and acting starts?",
+   "wgo:questionFor": {
+    "@id": "wg:deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Is this really my call, and what am I trying to achieve: her success, or a quieter team? Let me list the options, including a coaching plan with a review date, talk it over with HR and her previous lead, and decide by Thursday.",
+   "wgo:before": "My gut says she's not cut out for this. I'll announce the move on Monday and be done with it.",
+   "wgo:situation": "A manager has to decide within a week whether to move a struggling analyst to a different team or keep coaching her in her current role.",
+   "wgo:why": "The wiser response clarifies the goal, widens the options and borrows others' judgment on an important, uncertain matter, but still commits to a decision on time instead of drifting."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Deliberation",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Check that the matter is actually up to you and that its outcome is genuinely uncertain; if not, stop deliberating and either accept it or act on what is known."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Say plainly what you are trying to achieve, and ask whether that end is worth pursuing before you plan how to reach it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "List at least two or three realistic ways of getting there, not just the first one that occurred to you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "For the most promising option, trace backwards from the goal to the very next thing you would have to do, and drop options whose chain hits something impossible."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "If the decision is important, talk it through with someone who knows this kind of situation."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Before trusting a strong gut feeling, ask whether you have had long, well-fed-back experience with situations like this one."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Set a point at which deliberation ends, then choose and act promptly, without reopening the question unless new facts appear."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I holding on to this to protect myself or someone else, or mainly to make them pay?",
@@ -1237,6 +1355,90 @@
    "dcterms:title": "Change the things you can: Emotion regulation is more beneficial for people from lower than from higher socioeconomic status",
    "schema:url": {
     "@id": "https://escholarship.org/content/qt5ws5w0h9/qt5ws5w0h9.pdf?t=rufpxh"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, Massachusetts Institute of Technology",
+   "dcterms:title": "Nicomachean Ethics, Book III (translated by W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, Massachusetts Institute of Technology",
+   "dcterms:title": "Nicomachean Ethics, Book VI (translated by W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut; revised 2026)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRiES/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Judgment and Decision Making, 10(1), 1–17 (Nieuwenstein, Wierenga, Morey, Wicherts, Blom, Wagenmakers & van Rijn, 2015)",
+   "dcterms:title": "On making the right choice: A meta-analysis and large-scale replication attempt of the unconscious thought advantage",
+   "schema:url": {
+    "@id": "https://dlab.sauder.ubc.ca/sjdm/journal/14/14321/jdm14321.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 60(2), 181–192 (Wilson & Schooler, 1991; record on Jonathan Schooler's UCSB lab site)",
+   "dcterms:title": "Thinking too much: Introspection can reduce the quality of preferences and decisions",
+   "schema:url": {
+    "@id": "https://labs.psych.ucsb.edu/schooler/jonathan/node/404"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "American Psychologist, 64(6), 515–526 (Kahneman & Klein, 2009; doi:10.1037/a0016755; PubMed record)",
+   "dcterms:title": "Conditions for intuitive expertise: A failure to disagree",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/19739881/"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -2947,6 +3149,97 @@
     "@id": "wg:charlotte-witvliet"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:deliberation",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6"
+    }
+   ],
+   "rdfs:label": "Deliberation",
+   "skos:altLabel": [
+    "bouleusis",
+    "deliberating well",
+    "euboulia",
+    "good deliberation"
+   ],
+   "skos:broader": {
+    "@id": "wg:practical-wisdom"
+   },
+   "skos:definition": "The capacity to think a choice through before acting: working out, for something that is up to you and whose outcome is uncertain, which available course will best reach a worthwhile end, and then settling on it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Deliberation",
+   "skos:related": [
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:impetuosity"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:major-life-decision"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:thinking-too-much-study"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:intuitive-judgment"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/deliberation.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:unconscious-thought-advantage-replication"
+   }
   },
   {
    "@id": "wg:forgiveness",

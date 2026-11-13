@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:deliberation` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -33,6 +35,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:know-thyself` | 2 | Intellectual humility, hubris |
 | `wg:memento-mori` | 2 | equanimity, greed |
+| `wg:deliberation` | 1 | impetuosity |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
@@ -51,6 +54,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:leading-others` | `wg:humble-leadership` |
+| `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 
 ## Myths and contested advice
@@ -62,6 +66,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
+| `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
@@ -88,6 +93,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 
 | tradition | teaching |
 |---|---|
+| `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:confucianism` | `wg:intellectual-humility` |

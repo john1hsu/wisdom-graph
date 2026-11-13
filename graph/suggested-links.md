@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 3.34 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
-| 2.31 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
-| 2.19 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
-| 1.99 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
-| 1.79 | `wg:humble-leadership` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:wise-leadership` |
-| 1.69 | `wg:socratic-ignorance` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 3.27 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
+| 2.24 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
+| 2.17 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
+| 1.98 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
+| 1.78 | `wg:humble-leadership` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:wise-leadership` |
 | 1.66 | `wg:implicit-theories-of-wisdom` | `wg:socratic-ignorance` | `wg:berlin-wisdom-paradigm`, `wg:seeking-counsel`, `wg:wisdom` |
+| 1.61 | `wg:deliberation` | `wg:socratic-ignorance` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 1.61 | `wg:deliberation` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 1.61 | `wg:socratic-ignorance` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
 | 1.53 | `wg:compassionate-reappraisal` | `wg:solomons-paradox` | `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:self-distancing` |
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
-| 1.43 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:gratitude`, `wg:rumination` |
+| 1.42 | `wg:forgiveness` | `wg:negative-visualization` | `wg:equanimity`, `wg:gratitude`, `wg:rumination` |
 | 1.30 | `wg:buddhism` | `wg:compassionate-reappraisal` | `wg:compassion`, `wg:forgiveness` |
+| 1.27 | `wg:berlin-wisdom-paradigm` | `wg:deliberation` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 1.26 | `wg:post-traumatic-growth` | `wg:socratic-ignorance` | `wg:self-distancing`, `wg:wisdom` |
 | 1.20 | `wg:implicit-theories-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:robert-sternberg`, `wg:seeking-counsel` |
 | 1.18 | `wg:forgiveness` | `wg:solomons-paradox` | `wg:interpersonal-conflict`, `wg:perspective-taking` |
-| 1.16 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
+| 1.15 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
 | 1.13 | `wg:berlin-wisdom-paradigm` | `wg:know-thyself` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
-| 1.11 | `wg:negative-visualization` | `wg:self-distancing` | `wg:rumination`, `wg:view-from-above` |
-| 1.07 | `wg:know-thyself` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing` |
+| 1.10 | `wg:negative-visualization` | `wg:self-distancing` | `wg:rumination`, `wg:view-from-above` |
 | 1.06 | `wg:buddhism` | `wg:negative-visualization` | `wg:equanimity`, `wg:memento-mori` |
 | 1.06 | `wg:forgiveness` | `wg:memento-mori` | `wg:buddhism`, `wg:equanimity` |
+| 1.05 | `wg:deliberation` | `wg:know-thyself` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing` |
+| 1.05 | `wg:know-thyself` | `wg:solomons-paradox` | `wg:intellectual-humility`, `wg:seeking-counsel`, `wg:self-distancing` |
 | 1.01 | `wg:buddhism` | `wg:rumination` | `wg:equanimity`, `wg:forgiveness` |
-| 1.01 | `wg:memento-mori` | `wg:rumination` | `wg:equanimity`, `wg:negative-visualization` |
-| 1.01 | `wg:post-traumatic-growth` | `wg:susan-nolen-hoeksema` | `wg:rumination`, `wg:self-reflection` |
-| 1.01 | `wg:self-distancing` | `wg:susan-nolen-hoeksema` | `wg:rumination`, `wg:self-reflection` |
-| 0.97 | `wg:compassionate-reappraisal` | `wg:seeking-counsel` | `wg:perspective-taking`, `wg:self-distancing` |

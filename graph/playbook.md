@@ -134,6 +134,31 @@ Ask yourself:
 
 ## judgment-and-decisions
 
+### [Deliberation](../articles/judgment-and-decisions/deliberation.md) — Skill
+
+1. Check that the matter is actually up to you and that its outcome is genuinely uncertain; if not, stop deliberating and either accept it or act on what is known.
+2. Say plainly what you are trying to achieve, and ask whether that end is worth pursuing before you plan how to reach it.
+3. List at least two or three realistic ways of getting there, not just the first one that occurred to you.
+4. For the most promising option, trace backwards from the goal to the very next thing you would have to do, and drop options whose chain hits something impossible.
+5. If the decision is important, talk it through with someone who knows this kind of situation.
+6. Before trusting a strong gut feeling, ask whether you have had long, well-fed-back experience with situations like this one.
+7. Set a point at which deliberation ends, then choose and act promptly, without reopening the question unless new facts appear.
+
+*A manager has to decide within a week whether to move a struggling analyst to a different team or keep coaching her in her current role.*
+
+| Before | After |
+|---|---|
+| My gut says she's not cut out for this. I'll announce the move on Monday and be done with it. | Is this really my call, and what am I trying to achieve: her success, or a quieter team? Let me list the options, including a coaching plan with a review date, talk it over with HR and her previous lead, and decide by Thursday. |
+
+**Why:** The wiser response clarifies the goal, widens the options and borrows others' judgment on an important, uncertain matter, but still commits to a decision on time instead of drifting.
+
+Ask yourself:
+- Is this decision actually within my power, and is the outcome really uncertain, or am I deliberating to put off accepting something?
+- Have I checked that the goal itself is a good one, not just how to reach it?
+- Did I consider more than one way forward before settling on the first idea I had?
+- Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?
+- Have I set a point where thinking stops and acting starts?
+
 ### [Seeking counsel](../articles/judgment-and-decisions/seeking-counsel.md) — Practice
 
 1. Name the decision and decide whether it is important and uncertain enough to deserve outside counsel.
