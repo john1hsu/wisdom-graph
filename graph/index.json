@@ -517,6 +517,125 @@
   ]
  },
  {
+  "id": "wg:empathy",
+  "title": "Empathy",
+  "aliases": [
+   "Einfühlung",
+   "affective empathy",
+   "cognitive empathy",
+   "empathic accuracy"
+  ],
+  "type": "Skill",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/empathy.md",
+  "created": "2026-11-13",
+  "summary": "The capacity to sense and share what another person feels, and to understand it from their point of view, while keeping clear that the feeling is theirs and not your own.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:social-cognition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:compassion",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:causes",
+    "object": "wg:empathic-distress",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:emotional-contagion",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:perspective-taking",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:edward-titchener",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:empathy-training-meta-analysis",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:empathy-and-its-discontents",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:social-neuroscience",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Have I actually tried to understand how this looks from their side, or am I assuming I already know?",
+   "Am I feeling with them, or am I now caught up in my own distress about their distress?",
+   "Is my empathy here going only to the person who is closest, most like me or most vivid, while others affected stay invisible?",
+   "After understanding what they feel, what would actually help them, as opposed to what would relieve my discomfort?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A colleague tells you, close to tears, that their project has been cancelled after months of work, and you have your own deadline in an hour.",
+   "before": "I absorb their upset so fully that I feel sick about it too, then I either pile on about how unfair management is or quietly avoid them for the rest of the week because it is too much.",
+   "after": "I take a minute to really listen and say it back: 'Months of work, and it's gone. That's a real loss.' I notice the heaviness in me, remind myself it is their loss, not mine, and ask what would help. Later I check in and offer a concrete hand with the next project.",
+   "why": "Feeling with someone opens the door, but staying clear about whose feeling it is and turning it into warm concern and practical help keeps you from either drowning in their distress or backing away from it."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/empathy/",
+   "https://www.ssnl.stanford.edu/_files/ugd/3ed582_d01d81760c2a4dd68bf15dcc2eeec464.pdf",
+   "https://rune.une.edu.au/web/handle/1959.11/18592",
+   "https://archive-ouverte.unige.ch/unige:41520",
+   "https://pure.mpg.de/pubman/item/item_2036548_8",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00542/full",
+   "https://greatergood.berkeley.edu/topic/empathy/definition"
+  ]
+ },
+ {
   "id": "wg:equanimity",
   "title": "Equanimity",
   "aliases": [

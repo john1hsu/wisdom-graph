@@ -298,6 +298,46 @@
    "wgo:why": "The right degree of firmness depends on this person and this problem, and knowing which way you usually err tells you which way to correct, as Aristotle advised."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I actually tried to understand how this looks from their side, or am I assuming I already know?",
+   "wgo:questionFor": {
+    "@id": "wg:empathy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I feeling with them, or am I now caught up in my own distress about their distress?",
+   "wgo:questionFor": {
+    "@id": "wg:empathy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my empathy here going only to the person who is closest, most like me or most vivid, while others affected stay invisible?",
+   "wgo:questionFor": {
+    "@id": "wg:empathy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "After understanding what they feel, what would actually help them, as opposed to what would relieve my discomfort?",
+   "wgo:questionFor": {
+    "@id": "wg:empathy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I take a minute to really listen and say it back: 'Months of work, and it's gone. That's a real loss.' I notice the heaviness in me, remind myself it is their loss, not mine, and ask what would help. Later I check in and offer a concrete hand with the next project.",
+   "wgo:before": "I absorb their upset so fully that I feel sick about it too, then I either pile on about how unfair management is or quietly avoid them for the rest of the week because it is too much.",
+   "wgo:situation": "A colleague tells you, close to tears, that their project has been cancelled after months of work, and you have your own deadline in an hour.",
+   "wgo:why": "Feeling with someone opens the door, but staying clear about whose feeling it is and turning it into warm concern and practical help keeps you from either drowning in their distress or backing away from it."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reacting to what actually happened, or to the story I am telling about it?",
@@ -1755,6 +1795,104 @@
     "@id": "https://www.psychologicalscience.org/journals/ampps/2515245918805755/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Karsten Stueber; substantive revision 6 October 2025)",
+   "dcterms:title": "Empathy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/empathy/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 140(6), 1608–1647 (Zaki, 2014), via Stanford Social Neuroscience Lab",
+   "dcterms:title": "Empathy: A motivated account",
+   "schema:url": {
+    "@id": "https://www.ssnl.stanford.edu/_files/ugd/3ed582_d01d81760c2a4dd68bf15dcc2eeec464.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Counseling Psychology (Teding van Berkhout & Malouff, 2016), via University of New England Research Repository",
+   "dcterms:title": "The efficacy of empathy training: A meta-analysis of randomized controlled trials",
+   "schema:url": {
+    "@id": "https://rune.une.edu.au/web/handle/1959.11/18592"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Social Cognitive and Affective Neuroscience, 9(6), 873–879 (Klimecki, Leiberg, Ricard & Singer, 2014), via Archive ouverte UNIGE",
+   "dcterms:title": "Differential pattern of functional brain plasticity after compassion and empathy training",
+   "schema:url": {
+    "@id": "https://archive-ouverte.unige.ch/unige:41520"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Current Biology, 24(18), R875–R878 (Singer & Klimecki, 2014), via MPG.PuRe",
+   "dcterms:title": "Empathy and compassion",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2036548_8"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 8, 542 (Västfjäll, Erlandsson, Slovic & Tinghög, 2017)",
+   "dcterms:title": "Commentary: Empathy and its discontents",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00542/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Empathy: What Is It?",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/topic/empathy/definition"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1",
@@ -4054,6 +4192,103 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:too-much-of-a-good-thing-effect"
+   }
+  },
+  {
+   "@id": "wg:empathy",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7"
+    }
+   ],
+   "rdfs:label": "Empathy",
+   "skos:altLabel": [
+    "Einfühlung",
+    "affective empathy",
+    "cognitive empathy",
+    "empathic accuracy"
+   ],
+   "skos:broader": {
+    "@id": "wg:social-cognition"
+   },
+   "skos:definition": "The capacity to sense and share what another person feels, and to understand it from their point of view, while keeping clear that the feeling is theirs and not your own.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Empathy",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:emotion-regulation"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:causes": {
+    "@id": "wg:empathic-distress"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:empathy-and-its-discontents"
+   },
+   "wgo:complements": {
+    "@id": "wg:perspective-taking"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:emotional-contagion"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:compassion"
+   },
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/empathy.md",
+   "wgo:introducedBy": {
+    "@id": "wg:edward-titchener"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:social-neuroscience"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:empathy-training-meta-analysis"
    }
   },
   {

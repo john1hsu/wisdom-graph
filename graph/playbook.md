@@ -52,6 +52,22 @@ Ask yourself:
 - After the exercise, what concrete step, if any, does fairness to me or others still require?
 - Am I trying this because I'm ready, or because I feel I ought to have moved on by now?
 
+### [Empathy](../articles/compassion-and-relationships/empathy.md) — Skill
+
+*A colleague tells you, close to tears, that their project has been cancelled after months of work, and you have your own deadline in an hour.*
+
+| Before | After |
+|---|---|
+| I absorb their upset so fully that I feel sick about it too, then I either pile on about how unfair management is or quietly avoid them for the rest of the week because it is too much. | I take a minute to really listen and say it back: 'Months of work, and it's gone. That's a real loss.' I notice the heaviness in me, remind myself it is their loss, not mine, and ask what would help. Later I check in and offer a concrete hand with the next project. |
+
+**Why:** Feeling with someone opens the door, but staying clear about whose feeling it is and turning it into warm concern and practical help keeps you from either drowning in their distress or backing away from it.
+
+Ask yourself:
+- Have I actually tried to understand how this looks from their side, or am I assuming I already know?
+- Am I feeling with them, or am I now caught up in my own distress about their distress?
+- Is my empathy here going only to the person who is closest, most like me or most vivid, while others affected stay invisible?
+- After understanding what they feel, what would actually help them, as opposed to what would relieve my discomfort?
+
 ### [Forgiveness](../articles/compassion-and-relationships/forgiveness.md) — Virtue
 
 *A colleague presented your analysis as their own to a client, later admitted it and apologised, and you still have to work together on the account.*

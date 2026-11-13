@@ -286,6 +286,60 @@
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/too-much-of-a-good-thing-effect> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I actually tried to understand how this looks from their side, or am I assuming I already know?" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I feeling with them, or am I now caught up in my own distress about their distress?" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is my empathy here going only to the person who is closest, most like me or most vivid, while others affected stay invisible?" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "After understanding what they feel, what would actually help them, as opposed to what would relieve my discomfort?" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I take a minute to really listen and say it back: 'Months of work, and it's gone. That's a real loss.' I notice the heaviness in me, remind myself it is their loss, not mine, and ask what would help. Later I check in and offer a concrete hand with the next project." .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I absorb their upset so fully that I feel sick about it too, then I either pile on about how unfair management is or quietly avoid them for the rest of the week because it is too much." .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A colleague tells you, close to tears, that their project has been cancelled after months of work, and you have your own deadline in an hour." .
+<https://github.com/john1hsu/wisdom-graph/id/empathy/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Feeling with someone opens the door, but staying clear about whose feeling it is and turning it into warm concern and practical help keeps you from either drowning in their distress or backing away from it." .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Skill> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2000/01/rdf-schema#label> "Empathy" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#altLabel> "Einfühlung" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#altLabel> "affective empathy" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#altLabel> "cognitive empathy" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#altLabel> "empathic accuracy" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#definition> "The capacity to sense and share what another person feels, and to understand it from their point of view, while keeping clear that the feeling is theirs and not your own." .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empathy" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#causes> <https://github.com/john1hsu/wisdom-graph/id/empathic-distress> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/empathy-and-its-discontents> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/emotional-contagion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/empathy/example> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/empathy.md" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/social-neuroscience> .
+<https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/empathy-training-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reacting to what actually happened, or to the story I am telling about it?" .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -1561,6 +1615,48 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s6> <https://schema.org/url> <https://www.psychologicalscience.org/journals/ampps/2515245918805755/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Karsten Stueber; substantive revision 6 October 2025)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> <http://purl.org/dc/terms/title> "Empathy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1> <https://schema.org/url> <https://plato.stanford.edu/entries/empathy/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> <http://purl.org/dc/terms/publisher> "Psychological Bulletin, 140(6), 1608–1647 (Zaki, 2014), via Stanford Social Neuroscience Lab" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> <http://purl.org/dc/terms/title> "Empathy: A motivated account" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s2> <https://schema.org/url> <https://www.ssnl.stanford.edu/_files/ugd/3ed582_d01d81760c2a4dd68bf15dcc2eeec464.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> <http://purl.org/dc/terms/publisher> "Journal of Counseling Psychology (Teding van Berkhout & Malouff, 2016), via University of New England Research Repository" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> <http://purl.org/dc/terms/title> "The efficacy of empathy training: A meta-analysis of randomized controlled trials" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s3> <https://schema.org/url> <https://rune.une.edu.au/web/handle/1959.11/18592> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> <http://purl.org/dc/terms/publisher> "Social Cognitive and Affective Neuroscience, 9(6), 873–879 (Klimecki, Leiberg, Ricard & Singer, 2014), via Archive ouverte UNIGE" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> <http://purl.org/dc/terms/title> "Differential pattern of functional brain plasticity after compassion and empathy training" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s4> <https://schema.org/url> <https://archive-ouverte.unige.ch/unige:41520> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> <http://purl.org/dc/terms/publisher> "Current Biology, 24(18), R875–R878 (Singer & Klimecki, 2014), via MPG.PuRe" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> <http://purl.org/dc/terms/title> "Empathy and compassion" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s5> <https://schema.org/url> <https://pure.mpg.de/pubman/item/item_2036548_8> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 8, 542 (Västfjäll, Erlandsson, Slovic & Tinghög, 2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> <http://purl.org/dc/terms/title> "Commentary: Empathy and its discontents" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s6> <https://schema.org/url> <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00542/full> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, UC Berkeley" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <http://purl.org/dc/terms/title> "Empathy: What Is It?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <https://schema.org/url> <https://greatergood.berkeley.edu/topic/empathy/definition> .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/publisher> "Mindfulness, 6(2), 356–372 (Springer; Desbordes, Gard, Hoge, Hölzel, Kerr, Lazar, Olendzki & Vago, 2015; doi:10.1007/s12671-013-0269-8)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/title> "Moving Beyond Mindfulness: Defining Equanimity as an Outcome Measure in Meditation and Contemplative Research" .

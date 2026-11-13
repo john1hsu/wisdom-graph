@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:empathy` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -55,6 +57,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
+| `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
@@ -70,6 +73,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
+| `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:equanimity` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
