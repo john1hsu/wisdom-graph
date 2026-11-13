@@ -159,6 +159,31 @@ Ask yourself:
 - Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?
 - Have I set a point where thinking stops and acting starts?
 
+### [Moral algebra](../articles/judgment-and-decisions/moral-algebra.md) — Practice
+
+1. Use the method only for an important choice that is up to you and genuinely two-sided, not for a matter of taste or a change you have already committed to.
+2. Frame one specific option (for example, "accept the transfer") and divide a page into two columns headed Pro and Con.
+3. Over three or four days, add a short note to either column whenever a reason occurs to you, instead of trying to list everything in one sitting.
+4. Bring all the reasons into view and give each a rough weight, such as 1 to 3.
+5. Strike out pairs of reasons of equal weight on opposite sides, and let one strong reason cancel two or three weaker ones that together equal it.
+6. Ask whether any single remaining reason is decisive on its own, or whether a reason you never wrote down is the one actually driving you.
+7. Wait a day or two; if no important new reason appears, decide by the balance and act on it.
+
+*A project manager is offered a two-year posting to the company's office in another city and has to reply within a week.*
+
+| Before | After |
+|---|---|
+| It sounds exciting and I hate saying no to leadership. I'll accept in tomorrow's one-to-one and sort out the details later. | I'll keep a Pro and Con page on my phone for the next four days, weigh the reasons on Friday, and see what's left after cancelling the equal ones. If the only big thing on the Con side is my partner's job, that's a conversation to have before I answer, not a line to cancel out. |
+
+**Why:** Gathering reasons over several days stops the mood of one meeting from deciding, weighing rather than counting keeps a single heavy reason from being outvoted by trivia, and the final check surfaces the reason that really matters.
+
+Ask yourself:
+- Did I collect reasons over a few days, or only those that occurred to me in one mood?
+- Did I weigh the reasons, or just count which column was longer?
+- Is there one reason so important that it should settle this on its own, whatever the rest of the list says?
+- Am I using the list to choose, or to talk myself out of something I had already decided to do?
+- Now that the balance is clear, have I set a time to act on it?
+
 ### [Seeking counsel](../articles/judgment-and-decisions/seeking-counsel.md) — Practice
 
 1. Name the decision and decide whether it is important and uncertain enough to deserve outside counsel.

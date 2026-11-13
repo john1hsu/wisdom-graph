@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:deliberation` | wgo:Skill |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -35,6 +33,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:know-thyself` | 2 | Intellectual humility, hubris |
 | `wg:memento-mori` | 2 | equanimity, greed |
+| `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
@@ -55,6 +54,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:major-life-decision` | `wg:deliberation` |
+| `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 
 ## Myths and contested advice
@@ -71,6 +71,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
+| `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:purpose-in-life` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |

@@ -636,6 +636,124 @@
    "schema:text": "Return your attention to the task in front of you; if the reflection leaves you more anxious than clear, shorten it or stop."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I collect reasons over a few days, or only those that occurred to me in one mood?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-algebra"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I weigh the reasons, or just count which column was longer?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-algebra"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there one reason so important that it should settle this on its own, whatever the rest of the list says?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-algebra"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using the list to choose, or to talk myself out of something I had already decided to do?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-algebra"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Now that the balance is clear, have I set a time to act on it?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-algebra"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll keep a Pro and Con page on my phone for the next four days, weigh the reasons on Friday, and see what's left after cancelling the equal ones. If the only big thing on the Con side is my partner's job, that's a conversation to have before I answer, not a line to cancel out.",
+   "wgo:before": "It sounds exciting and I hate saying no to leadership. I'll accept in tomorrow's one-to-one and sort out the details later.",
+   "wgo:situation": "A project manager is offered a two-year posting to the company's office in another city and has to reply within a week.",
+   "wgo:why": "Gathering reasons over several days stops the mood of one meeting from deciding, weighing rather than counting keeps a single heavy reason from being outvoted by trivia, and the final check surfaces the reason that really matters."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Moral algebra",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Use the method only for an important choice that is up to you and genuinely two-sided, not for a matter of taste or a change you have already committed to."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Frame one specific option (for example, \"accept the transfer\") and divide a page into two columns headed Pro and Con."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Over three or four days, add a short note to either column whenever a reason occurs to you, instead of trying to list everything in one sitting."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Bring all the reasons into view and give each a rough weight, such as 1 to 3."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Strike out pairs of reasons of equal weight on opposite sides, and let one strong reason cancel two or three weaker ones that together equal it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Ask whether any single remaining reason is decisive on its own, or whether a reason you never wrote down is the one actually driving you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Wait a day or two; if no important new reason appears, decide by the balance and act on it."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I rehearsing a possible loss in order to prepare and appreciate, or am I just worrying?",
@@ -2043,6 +2161,90 @@
     "@id": "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Benjamin Franklin, vol. 19)",
+   "dcterms:title": "Benjamin Franklin to Joseph Priestley, 19 September 1772",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Franklin/01-19-02-0200"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Darwin Correspondence Project, University of Cambridge",
+   "dcterms:title": "Darwin on marriage (with transcriptions of his 1838 notes on whether to marry)",
+   "schema:url": {
+    "@id": "https://darwinproject.ac.uk/tags/about-darwin/family-life/darwin-marriage"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "American Psychologist, 34(7), 571–582 (Dawes, 1979; copy hosted by Carnegie Mellon University)",
+   "dcterms:title": "The robust beauty of improper linear models in decision making",
+   "schema:url": {
+    "@id": "https://www.cmu.edu/dietrich/sds/docs/dawes/the-robust-beauty-of-improper-linear-models-in-decision-making.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Synthese, 187, 243–268 (Gigerenzer & Sturm, 2012; open-access copy via CORE)",
+   "dcterms:title": "How (far) can rationality be naturalized?",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/210693851.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Behavioural and Cognitive Psychotherapy, 43(2), 129–141 (Miller & Rose, 2015; doi:10.1017/S1352465813000878)",
+   "dcterms:title": "Motivational interviewing and decisional balance: Contrasting responses to client ambivalence",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/motivational-interviewing-and-decisional-balance-contrasting-responses-to-client-ambivalence/74496E66A2D5625296F9B2EEE805B359"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stanford Graduate School of Business Insights (on Snyder & Tormala, Journal of Personality and Social Psychology, 2017)",
+   "dcterms:title": "Want to feel more at peace with a decision? Stop dwelling on the negatives",
+   "schema:url": {
+    "@id": "https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1",
@@ -3921,6 +4123,91 @@
      "@id": "wg:stoicism"
     }
    ]
+  },
+  {
+   "@id": "wg:moral-algebra",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6"
+    }
+   ],
+   "rdfs:label": "Moral algebra",
+   "skos:altLabel": [
+    "Franklin's moral algebra",
+    "Franklin's rule",
+    "prudential algebra",
+    "weighted pros-and-cons list"
+   ],
+   "skos:broader": {
+    "@id": "wg:deliberation"
+   },
+   "skos:definition": "Benjamin Franklin's method for a hard choice: list the reasons for and against in two columns over several days, give each a rough weight, strike out reasons of equal weight on opposite sides, and decide by where the balance lies.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Moral algebra",
+   "skos:related": [
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:impetuosity"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:major-life-decision"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:decisional-balance-and-ambivalence-review"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:fast-and-frugal-heuristics"
+   },
+   "wgo:develops": {
+    "@id": "wg:deliberation"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/moral-algebra.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:benjamin-franklin"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:improper-linear-models-study"
+   }
   },
   {
    "@id": "wg:negative-visualization",

@@ -1083,6 +1083,113 @@
   ]
  },
  {
+  "id": "wg:moral-algebra",
+  "title": "Moral algebra",
+  "aliases": [
+   "prudential algebra",
+   "Franklin's moral algebra",
+   "Franklin's rule",
+   "weighted pros-and-cons list"
+  ],
+  "type": "Practice",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/moral-algebra.md",
+  "created": "2026-11-13",
+  "summary": "Benjamin Franklin's method for a hard choice: list the reasons for and against in two columns over several days, give each a rough weight, strike out reasons of equal weight on opposite sides, and decide by where the balance lies.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:deliberation",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:impetuosity",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:benjamin-franklin",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:major-life-decision",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:improper-linear-models-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:fast-and-frugal-heuristics",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:decisional-balance-and-ambivalence-review",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Did I collect reasons over a few days, or only those that occurred to me in one mood?",
+   "Did I weigh the reasons, or just count which column was longer?",
+   "Is there one reason so important that it should settle this on its own, whatever the rest of the list says?",
+   "Am I using the list to choose, or to talk myself out of something I had already decided to do?",
+   "Now that the balance is clear, have I set a time to act on it?"
+  ],
+  "steps": [
+   "Use the method only for an important choice that is up to you and genuinely two-sided, not for a matter of taste or a change you have already committed to.",
+   "Frame one specific option (for example, \"accept the transfer\") and divide a page into two columns headed Pro and Con.",
+   "Over three or four days, add a short note to either column whenever a reason occurs to you, instead of trying to list everything in one sitting.",
+   "Bring all the reasons into view and give each a rough weight, such as 1 to 3.",
+   "Strike out pairs of reasons of equal weight on opposite sides, and let one strong reason cancel two or three weaker ones that together equal it.",
+   "Ask whether any single remaining reason is decisive on its own, or whether a reason you never wrote down is the one actually driving you.",
+   "Wait a day or two; if no important new reason appears, decide by the balance and act on it."
+  ],
+  "example": {
+   "situation": "A project manager is offered a two-year posting to the company's office in another city and has to reply within a week.",
+   "before": "It sounds exciting and I hate saying no to leadership. I'll accept in tomorrow's one-to-one and sort out the details later.",
+   "after": "I'll keep a Pro and Con page on my phone for the next four days, weigh the reasons on Friday, and see what's left after cancelling the equal ones. If the only big thing on the Con side is my partner's job, that's a conversation to have before I answer, not a line to cancel out.",
+   "why": "Gathering reasons over several days stops the mood of one meeting from deciding, weighing rather than counting keeps a single heavy reason from being outvoted by trivia, and the final check surfaces the reason that really matters."
+  },
+  "source_urls": [
+   "https://founders.archives.gov/documents/Franklin/01-19-02-0200",
+   "https://darwinproject.ac.uk/tags/about-darwin/family-life/darwin-marriage",
+   "https://www.cmu.edu/dietrich/sds/docs/dawes/the-robust-beauty-of-improper-linear-models-in-decision-making.pdf",
+   "https://core.ac.uk/download/210693851.pdf",
+   "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/motivational-interviewing-and-decisional-balance-contrasting-responses-to-client-ambivalence/74496E66A2D5625296F9B2EEE805B359",
+   "https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives"
+  ]
+ },
+ {
   "id": "wg:negative-visualization",
   "title": "Negative visualization",
   "aliases": [
