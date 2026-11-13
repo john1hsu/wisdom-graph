@@ -2731,5 +2731,110 @@
    "https://collaborate.princeton.edu/en/publications/the-emergence-of-gender-differences-in-depression-during-adolesce/",
    "https://news.umich.edu/?p=4891"
   ]
+ },
+ {
+  "id": "wg:virtue-ethics",
+  "title": "Virtue ethics",
+  "aliases": [
+   "virtue theory",
+   "character ethics",
+   "ethics of virtue",
+   "aretaic ethics"
+  ],
+  "type": "Field",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/foundations/virtue-ethics.md",
+  "created": "2026-11-13",
+  "summary": "An approach to ethics that puts character at the centre: instead of starting from duties or outcomes, it asks what a good person is like and how to live well, treating virtues such as honesty, courage and practical wisdom as excellent, settled traits that shape how we see, feel, choose and act.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:normative-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotelian-virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:confucianism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:elizabeth-anscombe",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:deontology",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:consequentialism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:situationism",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:eavesdropping-on-character-study",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/entries/ethics-virtue/",
+   "https://iep.utm.edu/?p=2262",
+   "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html",
+   "https://plato.stanford.edu/entries/moral-character-empirical",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4836053"
+  ]
  }
 ]

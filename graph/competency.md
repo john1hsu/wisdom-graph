@@ -94,6 +94,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:hubris` | wgo:Vice |
+| `wg:virtue-ethics` | wgo:Field |
 
 ## Orphan articles (gap)
 
