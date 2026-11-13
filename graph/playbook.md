@@ -204,3 +204,21 @@ Ask yourself:
 - Have I asked what I might not know and how the other person sees this?
 - Is this distance helping me understand the feeling, or helping me avoid it?
 
+## virtues-and-character
+
+### [Intellectual humility](../articles/virtues-and-character/intellectual-humility.md) — Virtue
+
+*In a project review, a colleague points out that the sales forecast you built last month rests on an assumption you never checked.*
+
+| Before | After |
+|---|---|
+| The model is fine. The market just shifted; nobody could have seen that coming. | You're right, I didn't test that assumption. Let's rerun it with your figure and see how much the forecast moves. Thanks for catching it. |
+
+**Why:** Owning the gap, rather than blaming circumstances or brushing it off, fixes the forecast, shows the team that errors can be raised safely, and treats the critic as an ally in getting it right.
+
+Ask yourself:
+- Which part of my view have I actually checked, and which part am I only sure of?
+- What evidence or argument would change my mind here, and have I gone looking for it?
+- When I was shown a mistake just now, did I feel curiosity or did I feel attacked?
+- Am I underselling a strength I really do have, out of false modesty or fear of conflict?
+

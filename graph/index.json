@@ -487,6 +487,109 @@
   ]
  },
  {
+  "id": "wg:intellectual-humility",
+  "title": "Intellectual humility",
+  "aliases": [
+   "epistemic humility",
+   "limitations-owning",
+   "owning one's intellectual limitations"
+  ],
+  "type": "Virtue",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/virtues-and-character/intellectual-humility.md",
+  "created": "2026-11-13",
+  "summary": "The character trait of noticing and owning the limits of what you know and of how well you reason: admitting gaps and possible error to yourself and others, without either inflating your intellectual strengths or collapsing into self-doubt, because you care more about getting things right than about looking right.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:open-mindedness"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:intellectual-arrogance",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:dogmatism",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:intellectual-courage",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:virtue-epistemology",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Which part of my view have I actually checked, and which part am I only sure of?",
+   "What evidence or argument would change my mind here, and have I gone looking for it?",
+   "When I was shown a mistake just now, did I feel curiosity or did I feel attacked?",
+   "Am I underselling a strength I really do have, out of false modesty or fear of conflict?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "In a project review, a colleague points out that the sales forecast you built last month rests on an assumption you never checked.",
+   "before": "The model is fine. The market just shifted; nobody could have seen that coming.",
+   "after": "You're right, I didn't test that assumption. Let's rerun it with your figure and see how much the forecast moves. Thanks for catching it.",
+   "why": "Owning the gap, rather than blaming circumstances or brushing it off, fixes the forecast, shows the team that errors can be raised safely, and treats the critic as an ally in getting it right."
+  },
+  "source_urls": [
+   "https://philarchive.org/archive/WHIIHO-3",
+   "https://today.duke.edu/2017/03/modest-personality-trait-intellectual-humility-packs-punch",
+   "https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research",
+   "https://openresearch.ceu.edu/server/api/core/bitstreams/d63c824c-c85d-468b-98e5-f97408d4aa3f/content",
+   "https://gutenberg.org/cache/epub/3330/pg3330-images.html",
+   "https://bps.org.uk/research-digest/something-we-could-use-little-more"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [

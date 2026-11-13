@@ -30,10 +30,11 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | Gratitude, equanimity, hedonic-adaptation |
 | `wg:self-distancing` | 3 | Rumination, solomons-paradox, wise-reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
+| `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:memento-mori` | 2 | equanimity, greed |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
-| `wg:socratic-ignorance` | 1 | intellectual-humility |
+| `wg:socratic-ignorance` | 1 | Intellectual humility |
 
 ## Toolkit by life situation
 
@@ -45,6 +46,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
+| `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 
@@ -57,6 +59,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
+| `wg:intellectual-humility` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 
@@ -80,6 +83,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 |---|---|
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
+| `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:gratitude` |

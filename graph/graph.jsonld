@@ -228,6 +228,46 @@
    "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which part of my view have I actually checked, and which part am I only sure of?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-humility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What evidence or argument would change my mind here, and have I gone looking for it?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-humility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I was shown a mistake just now, did I feel curiosity or did I feel attacked?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-humility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I underselling a strength I really do have, out of false modesty or fear of conflict?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-humility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "You're right, I didn't test that assumption. Let's rerun it with your figure and see how much the forecast moves. Thanks for catching it.",
+   "wgo:before": "The model is fine. The market just shifted; nobody could have seen that coming.",
+   "wgo:situation": "In a project review, a colleague points out that the sales forecast you built last month rests on an assumption you never checked.",
+   "wgo:why": "Owning the gap, rather than blaming circumstances or brushing it off, fixes the forecast, shows the team that errors can be raised safely, and treats the critic as an ally in getting it right."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
@@ -1184,6 +1224,90 @@
     "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Philosophy and Phenomenological Research (Whitcomb, Battaly, Baehr & Howard-Snyder, 2015; doi:10.1111/phpr.12228; PhilArchive author copy)",
+   "dcterms:title": "Intellectual Humility: Owning Our Limitations",
+   "schema:url": {
+    "@id": "https://philarchive.org/archive/WHIIHO-3"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Duke Today, Duke University",
+   "dcterms:title": "Modest Personality Trait Packs a Punch (on Leary et al., 2017, Personality and Social Psychology Bulletin)",
+   "schema:url": {
+    "@id": "https://today.duke.edu/2017/03/modest-personality-trait-intellectual-humility-packs-punch"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley (Expanding Awareness of the Science of Intellectual Humility)",
+   "dcterms:title": "Introduction to Intellectual Humility Research",
+   "schema:url": {
+    "@id": "https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Current Psychology, 45, article 709 (Musholt, Ronfard, Rottman, Porter, Baehr, Cimpian et al., 2026; Central European University repository)",
+   "dcterms:title": "Developing intellectual humility: questions, dilemmas, and future directions",
+   "schema:url": {
+    "@id": "https://openresearch.ceu.edu/server/api/core/bitstreams/d63c824c-c85d-468b-98e5-f97408d4aa3f/content"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Project Gutenberg (from Legge's The Chinese Classics)",
+   "dcterms:title": "The Analects of Confucius, trans. James Legge",
+   "schema:url": {
+    "@id": "https://gutenberg.org/cache/epub/3330/pg3330-images.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "British Psychological Society, Research Digest",
+   "dcterms:title": "Something we could use a little more of (on Porter & Schumann, 2018, Self and Identity)",
+   "schema:url": {
+    "@id": "https://bps.org.uk/research-digest/something-we-could-use-little-more"
+   },
+   "wgo:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1",
@@ -2282,6 +2406,97 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:counting-blessings-study"
+   }
+  },
+  {
+   "@id": "wg:intellectual-humility",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6"
+    }
+   ],
+   "rdfs:label": "Intellectual humility",
+   "skos:altLabel": [
+    "epistemic humility",
+    "limitations-owning",
+    "owning one's intellectual limitations"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:intellectual-virtues"
+    }
+   ],
+   "skos:definition": "The character trait of noticing and owning the limits of what you know and of how well you reason: admitting gaps and possible error to yourself and others, without either inflating your intellectual strengths or collapsing into self-doubt, because you care more about getting things right than about looking right.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Intellectual humility",
+   "skos:related": [
+    {
+     "@id": "wg:open-mindedness"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:addresses": [
+    {
+     "@id": "wg:dogmatism"
+    },
+    {
+     "@id": "wg:intellectual-arrogance"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:interpersonal-conflict"
+   },
+   "wgo:complements": {
+    "@id": "wg:intellectual-courage"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/example"
+   },
+   "wgo:file": "articles/virtues-and-character/intellectual-humility.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:confucianism"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:virtue-epistemology"
    }
   },
   {
