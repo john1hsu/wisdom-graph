@@ -26,6 +26,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 
 | practice | reach | targets |
 |---|---|---|
+| `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, egocentric-bias, wise-reasoning |
@@ -129,6 +130,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:stoicism` | `wg:gratitude` |
 | `wg:stoicism` | `wg:memento-mori` |
 | `wg:stoicism` | `wg:negative-visualization` |
+| `wg:stoicism` | `wg:view-from-above` |
 
 ## The doctrine of the mean
 

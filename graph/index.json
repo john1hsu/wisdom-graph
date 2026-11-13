@@ -2969,6 +2969,128 @@
   ]
  },
  {
+  "id": "wg:view-from-above",
+  "title": "The view from above",
+  "aliases": [
+   "view from above",
+   "looking down from above",
+   "cosmic perspective exercise",
+   "Plato's view from above"
+  ],
+  "type": "Practice",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/emotions-and-equanimity/view-from-above.md",
+  "created": "2026-11-13",
+  "summary": "A Stoic reflective exercise of imagining yourself raised high above the earth, and stretched across time, so that a present worry, ambition or grievance is seen at its true scale within the whole of human life.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:spiritual-exercises"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:overview-effect"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:awe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:plato",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:equanimity",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:humility",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:hubris",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:self-distancing",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:this-too-shall-pass-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Seen from far above and years from now, how big is this, really?",
+   "Am I using the wider view to act better here, or to stop caring about people who are affected?",
+   "Which part of this is about my reputation, and which part is about what is right to do?"
+  ],
+  "steps": [
+   "Name the specific thing that is gripping you right now, such as a slight, a setback, a rivalry or a wish for praise.",
+   "Picture yourself rising slowly above the room, the building and the city until you can see whole countries and the many lives going on in them at once.",
+   "Widen the view in time as well, recalling the people who lived before you and those who will come after, few of whom will ever know of this moment.",
+   "From that height, look back at your situation and ask how large it really is, and what part of it actually depends on you.",
+   "Come back down deliberately and choose one concrete, decent action for today, so the wider view ends in conduct rather than detachment.",
+   "Stop and set the exercise aside if it leaves you feeling that nothing matters, and talk to someone you trust instead."
+  ],
+  "example": {
+   "situation": "A colleague's proposal is chosen over yours in front of the whole department, and you spend the evening composing a sharp reply-all email.",
+   "before": "Everyone saw that. I'm sending this tonight so they know the decision was wrong and I won't be pushed aside.",
+   "after": "Picture this from far above: one meeting among millions happening today, which few will remember next year. What matters is the project and how I treat people. I'll sleep on it, then ask my manager what would have made my proposal stronger.",
+   "why": "Seeing the slight at its real scale lowers the heat of the moment, and coming back down to one useful action keeps the wider view from turning into either revenge or indifference."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Antoninus/meditations.mb.txt",
+   "https://bmcr.brynmawr.edu/?p=21320",
+   "https://rascl.studentorg.berkeley.edu/assets/files/kross_etal_2005_ps.pdf",
+   "https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf",
+   "https://read.qxmd.com/read/28857578/awe-and-humility",
+   "https://omnia.sas.upenn.edu/node/2523"
+  ]
+ },
+ {
   "id": "wg:virtue-ethics",
   "title": "Virtue ethics",
   "aliases": [

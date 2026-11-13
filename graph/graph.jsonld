@@ -4106,6 +4106,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Marcus Aurelius, Meditations (Books 4, 6, 7, 9 and 12), trans. George Long",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Bryn Mawr Classical Review 1998.11.35 (Rachana Kamtekar)",
+   "dcterms:title": "Review of Pierre Hadot, The Inner Citadel: The Meditations of Marcus Aurelius (trans. Michael Chase)",
+   "schema:url": {
+    "@id": "https://bmcr.brynmawr.edu/?p=21320"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Psychological Science, 16(9), 709–715 (Kross, Ayduk & Mischel, 2005)",
+   "dcterms:title": "When asking 'why' does not hurt: Distinguishing rumination from reflective processing of negative emotions",
+   "schema:url": {
+    "@id": "https://rascl.studentorg.berkeley.edu/assets/files/kross_etal_2005_ps.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 108(2), 356–375 (Bruehlman-Senecal & Ayduk, 2015)",
+   "dcterms:title": "This too shall pass: Temporal distance and the regulation of emotional distress",
+   "schema:url": {
+    "@id": "https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology (Stellar, Gordon, Anderson, Piff, McNeil & Keltner, 2018), abstract via Read by QxMD",
+   "dcterms:title": "Awe and humility",
+   "schema:url": {
+    "@id": "https://read.qxmd.com/read/28857578/awe-and-humility"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Omnia, School of Arts and Sciences, University of Pennsylvania",
+   "dcterms:title": "Intense Awe in Space (on Yaden et al., 'The overview effect: Awe and self-transcendent experience in space flight', Psychology of Consciousness)",
+   "schema:url": {
+    "@id": "https://omnia.sas.upenn.edu/node/2523"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/virtue-ethics/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -4174,6 +4258,99 @@
     "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4836053"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Seen from far above and years from now, how big is this, really?",
+   "wgo:questionFor": {
+    "@id": "wg:view-from-above"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using the wider view to act better here, or to stop caring about people who are affected?",
+   "wgo:questionFor": {
+    "@id": "wg:view-from-above"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which part of this is about my reputation, and which part is about what is right to do?",
+   "wgo:questionFor": {
+    "@id": "wg:view-from-above"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Picture this from far above: one meeting among millions happening today, which few will remember next year. What matters is the project and how I treat people. I'll sleep on it, then ask my manager what would have made my proposal stronger.",
+   "wgo:before": "Everyone saw that. I'm sending this tonight so they know the decision was wrong and I won't be pushed aside.",
+   "wgo:situation": "A colleague's proposal is chosen over yours in front of the whole department, and you spend the evening composing a sharp reply-all email.",
+   "wgo:why": "Seeing the slight at its real scale lowers the heat of the moment, and coming back down to one useful action keeps the wider view from turning into either revenge or indifference."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "The view from above",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the specific thing that is gripping you right now, such as a slight, a setback, a rivalry or a wish for praise."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Picture yourself rising slowly above the room, the building and the city until you can see whole countries and the many lives going on in them at once."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Widen the view in time as well, recalling the people who lived before you and those who will come after, few of whom will ever know of this moment."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "From that height, look back at your situation and ask how large it really is, and what part of it actually depends on you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Come back down deliberately and choose one concrete, decent action for today, so the wider view ends in conduct rather than detachment."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Stop and set the exercise aside if it leaves you feeling that nothing matters, and talk to someone you trust instead."
   },
   {
    "@id": "wg:berlin-wisdom-paradigm",
@@ -6786,6 +6963,107 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:view-from-above",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s6"
+    }
+   ],
+   "rdfs:label": "The view from above",
+   "skos:altLabel": [
+    "Plato's view from above",
+    "cosmic perspective exercise",
+    "looking down from above",
+    "view from above"
+   ],
+   "skos:broader": {
+    "@id": "wg:spiritual-exercises"
+   },
+   "skos:definition": "A Stoic reflective exercise of imagining yourself raised high above the earth, and stretched across time, so that a present worry, ambition or grievance is seen at its true scale within the whole of human life.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "The view from above",
+   "skos:related": [
+    {
+     "@id": "wg:awe"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:overview-effect"
+    }
+   ],
+   "wgo:addresses": [
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:rumination"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:self-distancing"
+   },
+   "wgo:develops": [
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:humility"
+    }
+   ],
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/view-from-above.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/howto"
+   },
+   "wgo:influencedBy": {
+    "@id": "wg:plato"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:stoicism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:this-too-shall-pass-study"
+   }
   },
   {
    "@id": "wg:virtue-ethics",

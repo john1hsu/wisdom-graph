@@ -162,6 +162,28 @@ Ask yourself:
 - What would I advise a friend in exactly this position, and can I take that advice tonight?
 - Have I tested the fear I keep circling, or only rehearsed it?
 
+### [The view from above](../articles/emotions-and-equanimity/view-from-above.md) — Practice
+
+1. Name the specific thing that is gripping you right now, such as a slight, a setback, a rivalry or a wish for praise.
+2. Picture yourself rising slowly above the room, the building and the city until you can see whole countries and the many lives going on in them at once.
+3. Widen the view in time as well, recalling the people who lived before you and those who will come after, few of whom will ever know of this moment.
+4. From that height, look back at your situation and ask how large it really is, and what part of it actually depends on you.
+5. Come back down deliberately and choose one concrete, decent action for today, so the wider view ends in conduct rather than detachment.
+6. Stop and set the exercise aside if it leaves you feeling that nothing matters, and talk to someone you trust instead.
+
+*A colleague's proposal is chosen over yours in front of the whole department, and you spend the evening composing a sharp reply-all email.*
+
+| Before | After |
+|---|---|
+| Everyone saw that. I'm sending this tonight so they know the decision was wrong and I won't be pushed aside. | Picture this from far above: one meeting among millions happening today, which few will remember next year. What matters is the project and how I treat people. I'll sleep on it, then ask my manager what would have made my proposal stronger. |
+
+**Why:** Seeing the slight at its real scale lowers the heat of the moment, and coming back down to one useful action keeps the wider view from turning into either revenge or indifference.
+
+Ask yourself:
+- Seen from far above and years from now, how big is this, really?
+- Am I using the wider view to act better here, or to stop caring about people who are affected?
+- Which part of this is about my reputation, and which part is about what is right to do?
+
 ## foundations
 
 ### [Implicit theories of wisdom](../articles/foundations/implicit-theories-of-wisdom.md) — Concept
