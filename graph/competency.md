@@ -6,9 +6,7 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-| node | type |
-|---|---|
-| `wg:folly` | wgo:Vice |
+_No results._
 
 ## Skills and virtues with no practice (gap)
 
@@ -40,6 +38,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:right-speech` | 2 | Honesty, lying |
+| `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:dichotomy-of-control` | 1 | Equanimity |
 | `wg:doctrine-of-the-mean` | 1 | temperance |
@@ -109,6 +108,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:self-distancing` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
+| `wg:teaching-for-wisdom` | mixed |  |
 | `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
 | `wg:wise-leadership` | mixed |  |
 | `wg:wise-reasoning` | mixed |  |

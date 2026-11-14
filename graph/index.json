@@ -3886,6 +3886,114 @@
   ]
  },
  {
+  "id": "wg:teaching-for-wisdom",
+  "title": "Teaching for wisdom",
+  "aliases": [
+   "teaching for wise thinking",
+   "wisdom-based teaching",
+   "infused wisdom instruction",
+   "educating for wisdom"
+  ],
+  "type": "Practice",
+  "domain": "science-of-wisdom",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/teaching-for-wisdom.md",
+  "created": "2026-11-14",
+  "summary": "An approach to teaching, introduced by Robert Sternberg, that weaves wise thinking into ordinary subjects: learners work through real dilemmas, weigh their own, others' and wider interests over the short and long term, take opposing viewpoints seriously and reflect on their values, so that they learn how to use what they know and not just what to know.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom-interventions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:monika-ardelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:distanced-self-reflection-diary"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:folly",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:robert-sternberg",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:balance-theory-of-wisdom",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:wise-reasoning",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wisdom-can-be-taught-study",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "When I explained this to someone, did I only hand over the right answer, or did I ask whose interests are at stake and over what time span?",
+   "Did I let the other person argue a view I disagree with, from that side, before I judged it?",
+   "Did I show that I can be wrong, or did I present myself as the one who always knows?",
+   "Which did I reward, the quick and clever answer or the balanced one?"
+  ],
+  "steps": [
+   "Pick a real dilemma from material you already teach (a historical episode, a case, a customer complaint) in which people's interests genuinely conflict.",
+   "Have learners list whose interests are at stake (their own, other people's, the wider community's) and what each option does to them in the short and the long run.",
+   "Ask each learner to argue the strongest case for a view they reject, from inside that person's position, then to look for a resolution that takes both sides into account.",
+   "Ask them to name the values behind their choice and to judge whether the means are acceptable, not only the result.",
+   "Lay out the three moves open to them (adapt to the situation, change it, or leave it) and have them say which fits best and why.",
+   "Model the habits yourself by saying what you don't know, changing your mind in front of them when given a good reason, and sharing credit.",
+   "Grade or praise answers for how well they balance interests and perspectives, then close by asking where a similar choice shows up in learners' own lives."
+  ],
+  "example": {
+   "situation": "A manager is training new shift supervisors. The case for the day: two staff members both asked for the same holiday weekend off, and only one can be released.",
+   "before": "The manager explains the leave policy (first to ask gets priority), confirms that the trainees can recite it, and moves on to the next slide.",
+   "after": "The manager has the trainees list everyone affected (both employees, the rest of the team, customers), what each option means this month and next year, and the best case for the person who would lose out. They discuss whether the rule should simply be applied, bent or changed, and the manager describes a time they handled a similar request badly and what they learned.",
+   "why": "Knowing the rule is not the same as judging well when it collides with people's real interests; practising that judgment on the job's actual content builds the habit the trainees will need on the floor."
+  },
+  "source_urls": [
+   "https://jyx.jyu.fi/bitstreams/7db91ed9-3c45-4602-b41f-94f037643e4e/download",
+   "https://eric.ed.gov/?id=EJ816215",
+   "https://researchwith.montclair.edu/en/publications/teaching-for-wisdom-through-history-infusing-wise-thinking-skills/",
+   "https://edweek.org/leadership/opinion-teaching-for-wisdom-in-our-schools/2002/11",
+   "https://commons.emich.edu/fac_sch2018/81",
+   "https://commons.emich.edu/fac_sch2018/85",
+   "https://escholarship.org/content/qt5rt6n0gp/qt5rt6n0gp.pdf?t=qay1vd",
+   "https://wisdomcenter.uchicago.edu/news/discussions/conversations-wisdom-robert-j-sternberg"
+  ]
+ },
+ {
   "id": "wg:theory-of-moral-sentiments",
   "title": "The Theory of Moral Sentiments",
   "aliases": [

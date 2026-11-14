@@ -418,6 +418,30 @@ Ask yourself:
 - Have I admitted what I don't know about their motives and about how this could unfold?
 - Am I treating any compromise as a defeat?
 
+### [Teaching for wisdom](../articles/science-of-wisdom/teaching-for-wisdom.md) — Practice
+
+1. Pick a real dilemma from material you already teach (a historical episode, a case, a customer complaint) in which people's interests genuinely conflict.
+2. Have learners list whose interests are at stake (their own, other people's, the wider community's) and what each option does to them in the short and the long run.
+3. Ask each learner to argue the strongest case for a view they reject, from inside that person's position, then to look for a resolution that takes both sides into account.
+4. Ask them to name the values behind their choice and to judge whether the means are acceptable, not only the result.
+5. Lay out the three moves open to them (adapt to the situation, change it, or leave it) and have them say which fits best and why.
+6. Model the habits yourself by saying what you don't know, changing your mind in front of them when given a good reason, and sharing credit.
+7. Grade or praise answers for how well they balance interests and perspectives, then close by asking where a similar choice shows up in learners' own lives.
+
+*A manager is training new shift supervisors. The case for the day: two staff members both asked for the same holiday weekend off, and only one can be released.*
+
+| Before | After |
+|---|---|
+| The manager explains the leave policy (first to ask gets priority), confirms that the trainees can recite it, and moves on to the next slide. | The manager has the trainees list everyone affected (both employees, the rest of the team, customers), what each option means this month and next year, and the best case for the person who would lose out. They discuss whether the rule should simply be applied, bent or changed, and the manager describes a time they handled a similar request badly and what they learned. |
+
+**Why:** Knowing the rule is not the same as judging well when it collides with people's real interests; practising that judgment on the job's actual content builds the habit the trainees will need on the floor.
+
+Ask yourself:
+- When I explained this to someone, did I only hand over the right answer, or did I ask whose interests are at stake and over what time span?
+- Did I let the other person argue a view I disagree with, from that side, before I judged it?
+- Did I show that I can be wrong, or did I present myself as the one who always knows?
+- Which did I reward, the quick and clever answer or the balanced one?
+
 ### [Three-dimensional model of wisdom](../articles/science-of-wisdom/three-dimensional-wisdom-model.md) — Framework
 
 Ask yourself:
