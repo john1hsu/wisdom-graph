@@ -2582,6 +2582,99 @@
   ]
  },
  {
+  "id": "wg:resilience",
+  "title": "Resilience",
+  "aliases": [
+   "psychological resilience",
+   "resilience after adversity",
+   "resilient trajectory",
+   "bouncing back"
+  ],
+  "type": "Phenomenon",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/resilience.md",
+  "created": "2026-11-14",
+  "summary": "Keeping a fairly stable, healthy level of functioning through and after a loss, trauma or other major stressor, rather than breaking down and later recovering. Researchers treat it mainly as an outcome that many people show, not a fixed trait that a few people have; how common it is depends on how it is measured.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:coping"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:post-traumatic-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:trajectories-of-resilience-review",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:resilience-rates-reanalysis-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:regulatory-flexibility",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:recovery-after-adversity",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:grief-and-loss",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://faculty.uml.edu/darcus/47.375/aversive_exp/bonanno_04.pdf",
+   "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2018_Galtzaer_Levy-Huang--Bonanno_REVIEW.pdf",
+   "https://www.diw.de/de/diw_01.c.772418.de/s_9218.html",
+   "https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2023_Bonanno-et-al._NATURE-REVIEWS-PSYCHOLOGY.pdf",
+   "https://escholarship.org/uc/item/7bh8g2jv",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/how-wisdom-resilience-and-mastery-work-together-boost-well-being-old-age",
+   "https://www.apa.org/topics/resilience/building-your-resilience"
+  ]
+ },
+ {
   "id": "wg:right-speech",
   "title": "Right speech",
   "aliases": [

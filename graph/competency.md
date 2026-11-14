@@ -57,6 +57,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
+| `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
@@ -100,6 +101,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:purpose-in-life` | mixed |  |
 | `wg:regret` | mixed |  |
+| `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
@@ -116,6 +118,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:major-life-decision` | wgo:Context |
 | `wg:regret` | wgo:Phenomenon |
+| `wg:resilience` | wgo:Phenomenon |
 | `wg:virtue-ethics` | wgo:Field |
 
 ## Orphan articles (gap)

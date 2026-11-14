@@ -6,12 +6,12 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 2.89 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 2.65 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:robert-sternberg` |
-| 2.35 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model`, `wg:wisdom` |
 | 2.29 | `wg:empathy` | `wg:equanimity` | `wg:compassion`, `wg:emotion-regulation`, `wg:forgiveness` |
+| 2.24 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model`, `wg:wisdom` |
 | 2.12 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 2.09 | `wg:purpose-in-life` | `wg:stoicism` | `wg:eudaimonia`, `wg:gratitude`, `wg:logotherapy`, `wg:memento-mori` |
-| 2.09 | `wg:implicit-theories-of-wisdom` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model` |
-| 2.08 | `wg:intellectual-humility` | `wg:major-life-decision` | `wg:deliberation`, `wg:intellectual-courage`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 2.08 | `wg:implicit-theories-of-wisdom` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model` |
+| 2.07 | `wg:intellectual-humility` | `wg:major-life-decision` | `wg:deliberation`, `wg:intellectual-courage`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
 | 1.97 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:regret`, `wg:rumination` |
 | 1.85 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
 | 1.82 | `wg:intellectual-humility` | `wg:seven-sages-of-greece` | `wg:doctrine-of-the-mean`, `wg:hubris`, `wg:know-thyself`, `wg:seeking-counsel`, `wg:solomons-paradox` |
@@ -23,9 +23,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.60 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:wise-leadership` |
 | 1.56 | `wg:intellectual-humility` | `wg:right-speech` | `wg:honesty`, `wg:intellectual-courage`, `wg:interpersonal-conflict` |
 | 1.51 | `wg:major-life-decision` | `wg:rumination` | `wg:deliberation`, `wg:moral-algebra`, `wg:regret`, `wg:self-distancing` |
-| 1.51 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:wise-leadership`, `wg:wise-reasoning` |
-| 1.48 | `wg:buddhism` | `wg:view-from-above` | `wg:equanimity`, `wg:impermanence`, `wg:memento-mori` |
+| 1.50 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:wise-leadership`, `wg:wise-reasoning` |
 | 1.48 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:wise-leadership` |
+| 1.48 | `wg:buddhism` | `wg:view-from-above` | `wg:equanimity`, `wg:impermanence`, `wg:memento-mori` |
 | 1.47 | `wg:doctrine-of-the-mean` | `wg:seeking-counsel` | `wg:deliberation`, `wg:intellectual-humility`, `wg:know-thyself`, `wg:seven-sages-of-greece` |
-| 1.47 | `wg:dichotomy-of-control` | `wg:memento-mori` | `wg:equanimity`, `wg:negative-visualization`, `wg:stoicism`, `wg:view-from-above` |
-| 1.45 | `wg:berlin-wisdom-paradigm` | `wg:perspective-taking` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
+| 1.46 | `wg:dichotomy-of-control` | `wg:memento-mori` | `wg:equanimity`, `wg:negative-visualization`, `wg:stoicism`, `wg:view-from-above` |
+| 1.45 | `wg:seven-sages-of-greece` | `wg:socratic-ignorance` | `wg:know-thyself`, `wg:seeking-counsel`, `wg:socratic-philosophy` |

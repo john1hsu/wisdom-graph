@@ -4032,6 +4032,104 @@
    "wgo:sourceType": "practitioner-journal"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "American Psychologist, 59(1), 20–28 (Bonanno, 2004); course copy hosted by the University of Massachusetts Lowell",
+   "dcterms:title": "Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events?",
+   "schema:url": {
+    "@id": "https://faculty.uml.edu/darcus/47.375/aversive_exp/bonanno_04.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Clinical Psychology Review, 63, 41–55 (Galatzer-Levy, Huang & Bonanno, 2018); hosted by Teachers College, Columbia University",
+   "dcterms:title": "Trajectories of resilience and dysfunction following potential trauma: A review and statistical evaluation",
+   "schema:url": {
+    "@id": "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2018_Galtzaer_Levy-Huang--Bonanno_REVIEW.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Perspectives on Psychological Science, 11(2), 175–194 (Infurna & Luthar, 2016); DIW Berlin publication record",
+   "dcterms:title": "Resilience to major life stressors is not as common as thought",
+   "schema:url": {
+    "@id": "https://www.diw.de/de/diw_01.c.772418.de/s_9218.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Nature Reviews Psychology (Bonanno, Chen & Galatzer-Levy, 2023); hosted by Teachers College, Columbia University",
+   "dcterms:title": "Resilience to potential trauma and adversity through regulatory flexibility",
+   "schema:url": {
+    "@id": "https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2023_Bonanno-et-al._NATURE-REVIEWS-PSYCHOLOGY.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Journals of Gerontology, Series B, 73(8), 1374–1383 (Ardelt & Jeste, 2018); eScholarship, University of California",
+   "dcterms:title": "Wisdom and hard times: The ameliorating effect of wisdom on the negative association between adverse life events and well-being",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/7bh8g2jv"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom",
+   "dcterms:title": "How wisdom, resilience and mastery work together to boost well-being in old age",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/how-wisdom-resilience-and-mastery-work-together-boost-well-being-old-age"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "American Psychological Association (updated 2020)",
+   "dcterms:title": "Building your resilience",
+   "schema:url": {
+    "@id": "https://www.apa.org/topics/resilience/building-your-resilience"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -7923,6 +8021,94 @@
    "wgo:studiedIn": {
     "@id": "wg:social-psychology"
    }
+  },
+  {
+   "@id": "wg:resilience",
+   "@type": "wgo:Phenomenon",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s7"
+    }
+   ],
+   "rdfs:label": "Resilience",
+   "skos:altLabel": [
+    "bouncing back",
+    "psychological resilience",
+    "resilience after adversity",
+    "resilient trajectory"
+   ],
+   "skos:broader": {
+    "@id": "wg:coping"
+   },
+   "skos:definition": "Keeping a fairly stable, healthy level of functioning through and after a loss, trauma or other major stressor, rather than breaking down and later recovering. Researchers treat it mainly as an outcome that many people show, not a fixed trait that a few people have; how common it is depends on how it is measured.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Resilience",
+   "skos:related": [
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:post-traumatic-growth"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wisdom"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:grief-and-loss"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:resilience-rates-reanalysis-study"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:recovery-after-adversity"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:trajectories-of-resilience-review"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:explainedBy": {
+    "@id": "wg:regulatory-flexibility"
+   },
+   "wgo:file": "articles/adversity-and-mortality/resilience.md",
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:right-speech",
