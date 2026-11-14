@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: historical
 broader: [wg:wisdom-researchers]
-related: [wg:psychology-of-wisdom, wg:implicit-theories-of-wisdom, wg:berlin-wisdom-paradigm, wg:intellectual-humility, wg:wise-leadership, wg:susan-nolen-hoeksema]
+related: [wg:psychology-of-wisdom, wg:implicit-theories-of-wisdom, wg:berlin-wisdom-paradigm, wg:intellectual-humility, wg:wise-leadership, wg:susan-nolen-hoeksema, wg:folly]
 requires: []
 relations:
   - {predicate: introduced, object: wg:implicit-theories-of-wisdom, source: s1, confidence: medium}

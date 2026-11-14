@@ -410,6 +410,46 @@
    "wgo:why": "The loss is still felt, but it no longer chooses your words; attention moves from blame and panic to the part of the situation you can actually shape."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do I actually have the specific knowledge or skill this action needs, or am I borrowing confidence from success somewhere else?",
+   "wgo:questionFor": {
+    "@id": "wg:folly"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose interests, besides mine, does this decision affect, and how will it look in a year rather than this week?",
+   "wgo:questionFor": {
+    "@id": "wg:folly"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I assuming the consequences won't reach me because of my position, record or cleverness?",
+   "wgo:questionFor": {
+    "@id": "wg:folly"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When someone questioned this plan, did I answer their point or just wave it away?",
+   "wgo:questionFor": {
+    "@id": "wg:folly"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "\"Fair question. My experience is with the old schema, not this one, so I don't actually know. Let's run it against the staging copy and ship on Monday, when people are around if it goes wrong.\" The test exposes a locking problem, which is fixed before release.",
+   "wgo:before": "\"I've done this kind of change a hundred times. Testing it would take all afternoon, and nothing is going to break.\" The change goes out unreviewed, fails over the weekend, and the on-call staff spend two days repairing it.",
+   "wgo:situation": "A senior engineer, the most experienced person on the team, wants to push a database change to the live system late on a Friday. A junior colleague asks whether it has been tested against a copy of the real data.",
+   "wgo:why": "Expertise in one area tempts people to feel knowledgeable and safe everywhere; asking what this particular action requires, who bears the cost if it fails, and whether a dissenting question has been answered brings confidence back into line with what is actually known."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/forgiveness/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I holding on to this to protect myself or someone else, or mainly to make them pay?",
@@ -2504,6 +2544,118 @@
     "@id": "https://iep.utm.edu/epictetu/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Perseus Digital Library texts via the Perseids CTS reader (Tufts University)",
+   "dcterms:title": "Plato, Philebus 48c–49c, trans. Harold N. Fowler (Loeb Classical Library, 1925)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0059/tlg010/perseus-eng2/47-49"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Intelligence, 53, 51–58 (Aczel, Palfi & Kekecs, 2015; doi:10.1016/j.intell.2015.08.010; Lund University research portal)",
+   "dcterms:title": "What is stupid? People's conception of unintelligent behavior",
+   "schema:url": {
+    "@id": "https://lup.lub.lu.se/record/b3f5d3c3-fa19-4217-a66e-b04e0a5c44e5"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Cambridge University Press, in R. J. Sternberg & J. Glück (eds.), The Cambridge Handbook of Wisdom (2019), pp. 483–499 (Aczel; doi:10.1017/9781108568272.023)",
+   "dcterms:title": "Low levels of wisdom: Foolishness",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/books/abs/cambridge-handbook-of-wisdom/low-levels-of-wisdom/1CB19168EEA99E98B4B47D0EB5AAD296"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "European Psychologist, 9(3), 145–150 (Sternberg, 2004; doi:10.1027/1016-9040.9.3.145; Hogrefe)",
+   "dcterms:title": "Why smart people can be so foolish",
+   "schema:url": {
+    "@id": "https://econtent.hogrefe.com/doi/10.1027/1016-9040.9.3.145"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Monitor on Psychology, 34(3), American Psychological Association (Sternberg, President's column, March 2003)",
+   "dcterms:title": "Responsibility: One of the other three Rs",
+   "schema:url": {
+    "@id": "https://www.apa.org/monitor/mar03/pc"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Research Digest, British Psychological Society (report on Aczel, Palfi & Kekecs, 2015)",
+   "dcterms:title": "What kinds of actions do people think are most stupid?",
+   "schema:url": {
+    "@id": "https://bps.org.uk/research-digest/what-kinds-actions-do-people-think-most-stupid"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Psychologist, British Psychological Society (Stanovich & West, 15 February 2014)",
+   "dcterms:title": "What intelligence tests miss",
+   "schema:url": {
+    "@id": "https://bps.org.uk/psychologist/what-intelligence-tests-miss"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906), vol. 5, p. 428 (Kohler & Stolz)",
+   "dcterms:title": "Folly and Fool",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/6220"
+   },
+   "wgo:sourceType": "encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s1",
@@ -6627,6 +6779,106 @@
    }
   },
   {
+   "@id": "wg:folly",
+   "@type": "wgo:Vice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s8"
+    }
+   ],
+   "rdfs:label": "Folly",
+   "skos:altLabel": [
+    "foolish behaviour",
+    "foolishness",
+    "low levels of wisdom",
+    "the fool",
+    "unwise behaviour"
+   ],
+   "skos:broader": {
+    "@id": "wg:poor-judgment"
+   },
+   "skos:definition": "The practical opposite of wisdom: acting with more confidence than one's knowledge, self-knowledge or self-control warrants, and ignoring others' interests and long-term consequences. Psychologists stress that folly is not the same as low intelligence; bright, successful people are often especially prone to it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Folly",
+   "skos:related": [
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:robert-sternberg"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:general-intelligence"
+   },
+   "wgo:contrastsWith": [
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:wisdom"
+    }
+   ],
+   "wgo:demonstratedBy": {
+    "@id": "wg:what-is-stupid-study"
+   },
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:balance-theory-of-wisdom"
+   },
+   "wgo:file": "articles/foundations/folly.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:hebrew-wisdom-literature"
+   }
+  },
+  {
    "@id": "wg:forgiveness",
    "@type": "wgo:Virtue",
    "dcterms:created": {
@@ -8486,6 +8738,9 @@
    "skos:related": [
     {
      "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:folly"
     },
     {
      "@id": "wg:implicit-theories-of-wisdom"

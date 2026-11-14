@@ -849,6 +849,117 @@
   ]
  },
  {
+  "id": "wg:folly",
+  "title": "Folly",
+  "aliases": [
+   "foolishness",
+   "foolish behaviour",
+   "unwise behaviour",
+   "low levels of wisdom",
+   "the fool"
+  ],
+  "type": "Vice",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/foundations/folly.md",
+  "created": "2026-11-14",
+  "summary": "The practical opposite of wisdom: acting with more confidence than one's knowledge, self-knowledge or self-control warrants, and ignoring others' interests and long-term consequences. Psychologists stress that folly is not the same as low intelligence; bright, successful people are often especially prone to it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:poor-judgment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:robert-sternberg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:wisdom",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:general-intelligence",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:know-thyself",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:balance-theory-of-wisdom",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:what-is-stupid-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:hebrew-wisdom-literature",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Do I actually have the specific knowledge or skill this action needs, or am I borrowing confidence from success somewhere else?",
+   "Whose interests, besides mine, does this decision affect, and how will it look in a year rather than this week?",
+   "Am I assuming the consequences won't reach me because of my position, record or cleverness?",
+   "When someone questioned this plan, did I answer their point or just wave it away?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A senior engineer, the most experienced person on the team, wants to push a database change to the live system late on a Friday. A junior colleague asks whether it has been tested against a copy of the real data.",
+   "before": "\"I've done this kind of change a hundred times. Testing it would take all afternoon, and nothing is going to break.\" The change goes out unreviewed, fails over the weekend, and the on-call staff spend two days repairing it.",
+   "after": "\"Fair question. My experience is with the old schema, not this one, so I don't actually know. Let's run it against the staging copy and ship on Monday, when people are around if it goes wrong.\" The test exposes a locking problem, which is fixed before release.",
+   "why": "Expertise in one area tempts people to feel knowledgeable and safe everywhere; asking what this particular action requires, who bears the cost if it fails, and whether a dissenting question has been answered brings confidence back into line with what is actually known."
+  },
+  "source_urls": [
+   "https://cts.perseids.org/read/greekLit/tlg0059/tlg010/perseus-eng2/47-49",
+   "https://lup.lub.lu.se/record/b3f5d3c3-fa19-4217-a66e-b04e0a5c44e5",
+   "https://www.cambridge.org/core/books/abs/cambridge-handbook-of-wisdom/low-levels-of-wisdom/1CB19168EEA99E98B4B47D0EB5AAD296",
+   "https://econtent.hogrefe.com/doi/10.1027/1016-9040.9.3.145",
+   "https://www.apa.org/monitor/mar03/pc",
+   "https://bps.org.uk/research-digest/what-kinds-actions-do-people-think-most-stupid",
+   "https://bps.org.uk/psychologist/what-intelligence-tests-miss",
+   "https://www.jewishencyclopedia.com/articles/6220"
+  ]
+ },
+ {
   "id": "wg:forgiveness",
   "title": "Forgiveness",
   "aliases": [
@@ -2922,6 +3033,10 @@
    {
     "predicate": "skos:related",
     "object": "wg:susan-nolen-hoeksema"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
    },
    {
     "predicate": "wgo:introduced",

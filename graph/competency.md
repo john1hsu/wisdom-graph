@@ -6,7 +6,9 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:folly` | wgo:Vice |
 
 ## Skills and virtues with no practice (gap)
 
@@ -89,6 +91,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:equanimity` | mixed |  |
+| `wg:folly` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
@@ -143,6 +146,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:daoism` | `wg:humble-leadership` |
+| `wg:hebrew-wisdom-literature` | `wg:folly` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:seven-sages-of-greece` | `wg:hubris` |
 | `wg:seven-sages-of-greece` | `wg:know-thyself` |

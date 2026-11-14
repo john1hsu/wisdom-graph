@@ -226,6 +226,22 @@ Ask yourself:
 
 ## foundations
 
+### [Folly](../articles/foundations/folly.md) — Vice
+
+*A senior engineer, the most experienced person on the team, wants to push a database change to the live system late on a Friday. A junior colleague asks whether it has been tested against a copy of the real data.*
+
+| Before | After |
+|---|---|
+| "I've done this kind of change a hundred times. Testing it would take all afternoon, and nothing is going to break." The change goes out unreviewed, fails over the weekend, and the on-call staff spend two days repairing it. | "Fair question. My experience is with the old schema, not this one, so I don't actually know. Let's run it against the staging copy and ship on Monday, when people are around if it goes wrong." The test exposes a locking problem, which is fixed before release. |
+
+**Why:** Expertise in one area tempts people to feel knowledgeable and safe everywhere; asking what this particular action requires, who bears the cost if it fails, and whether a dissenting question has been answered brings confidence back into line with what is actually known.
+
+Ask yourself:
+- Do I actually have the specific knowledge or skill this action needs, or am I borrowing confidence from success somewhere else?
+- Whose interests, besides mine, does this decision affect, and how will it look in a year rather than this week?
+- Am I assuming the consequences won't reach me because of my position, record or cleverness?
+- When someone questioned this plan, did I answer their point or just wave it away?
+
 ### [Implicit theories of wisdom](../articles/foundations/implicit-theories-of-wisdom.md) — Concept
 
 Ask yourself:
