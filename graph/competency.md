@@ -86,6 +86,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 | `wg:negotiation` | `wg:perspective-taking` |
 | `wg:professional-work` | `wg:practical-wisdom` |
+| `wg:reconciliation` | `wg:ubuntu` |
 | `wg:serious-illness` | `wg:logotherapy` |
 | `wg:workplace-feedback` | `wg:honesty` |
 
@@ -138,6 +139,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:major-life-decision` | wgo:Context |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
+| `wg:ubuntu` | wgo:Tradition |
 | `wg:virtue-ethics` | wgo:Field |
 | `wg:weakness-of-will` | wgo:Obstacle |
 

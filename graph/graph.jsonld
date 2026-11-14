@@ -6517,6 +6517,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Fainos Mangena, University of Zimbabwe)",
+   "dcterms:title": "Hunhu/Ubuntu in the Traditional Thought of Southern Africa",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/hunhu/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "African Human Rights Law Journal, 11, 532–559 (Thaddeus Metz, 2011)",
+   "dcterms:title": "Ubuntu as a moral theory and human rights in South Africa",
+   "schema:url": {
+    "@id": "https://philarchive.org/archive/METUAA-2"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopedia of Quality of Life and Well-Being Research, Springer (Thaddeus Metz, 2021)",
+   "dcterms:title": "Ubuntu: The Good Life",
+   "schema:url": {
+    "@id": "https://philarchive.org/archive/METUTG"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "South African Journal of Philosophy, 30(3), 303–329 (Christian B. N. Gade, 2011)",
+   "dcterms:title": "The historical development of the written discourses on ubuntu",
+   "schema:url": {
+    "@id": "https://www.philpapers.org/rec/GADTHD"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "South African Journal of Philosophy, 32(2), 197–205 (Bernard Matolino and Wenceslaus Kwindingwi, 2013)",
+   "dcterms:title": "The end of ubuntu",
+   "schema:url": {
+    "@id": "https://nisc.com/products/abstracts/4576/the-end-of-ubuntu"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Phronimon, 26 (Keolebogile Mbebe, 2025)",
+   "dcterms:title": "Ubuntu does not require forgiveness: A critique of the TRC's pressure on apartheid victims to forgive their perpetrators",
+   "schema:url": {
+    "@id": "https://unisapressjournals.co.za/index.php/Phronimon/article/view/19621"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -11609,6 +11693,85 @@
      "@id": "wg:wisdom-and-hard-times-study"
     }
    ]
+  },
+  {
+   "@id": "wg:ubuntu",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s6"
+    }
+   ],
+   "rdfs:label": "Ubuntu",
+   "skos:altLabel": [
+    "botho",
+    "hunhu",
+    "hunhuism",
+    "ubuntu ethics"
+   ],
+   "skos:broader": {
+    "@id": "wg:african-philosophy"
+   },
+   "skos:definition": "A southern African ethical tradition, named by the Nguni word for \"humanness\", which holds that a person becomes fully human through relationships with others, and that a good life is one of identity with and solidarity towards a community.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Ubuntu",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:reconciliation"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:the-end-of-ubuntu"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:humanism"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/ubuntu.md",
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:view-from-above",

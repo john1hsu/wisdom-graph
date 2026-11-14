@@ -4901,6 +4901,88 @@
   ]
  },
  {
+  "id": "wg:ubuntu",
+  "title": "Ubuntu",
+  "aliases": [
+   "hunhu",
+   "botho",
+   "ubuntu ethics",
+   "hunhuism"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/ubuntu.md",
+  "created": "2026-11-14",
+  "summary": "A southern African ethical tradition, named by the Nguni word for \"humanness\", which holds that a person becomes fully human through relationships with others, and that a good life is one of identity with and solidarity towards a community.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:african-philosophy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:humanism",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:reconciliation",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:the-end-of-ubuntu",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://iep.utm.edu/hunhu/",
+   "https://philarchive.org/archive/METUAA-2",
+   "https://philarchive.org/archive/METUTG",
+   "https://www.philpapers.org/rec/GADTHD",
+   "https://nisc.com/products/abstracts/4576/the-end-of-ubuntu",
+   "https://unisapressjournals.co.za/index.php/Phronimon/article/view/19621"
+  ]
+ },
+ {
   "id": "wg:view-from-above",
   "title": "The view from above",
   "aliases": [
