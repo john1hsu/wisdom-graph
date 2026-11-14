@@ -4919,6 +4919,121 @@
   ]
  },
  {
+  "id": "wg:weakness-of-will",
+  "title": "Weakness of will",
+  "aliases": [
+   "akrasia",
+   "acrasia",
+   "incontinence (Aristotle)",
+   "lack of self-control",
+   "acting against one's better judgment"
+  ],
+  "type": "Obstacle",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/virtues-and-character/weakness-of-will.md",
+  "created": "2026-11-14",
+  "summary": "Freely and knowingly doing something other than what you yourself judge best, or abandoning a resolution you had good reason to keep. Aristotle's name for it, akrasia, marks the gap between knowing what is wise and doing it, a gap that practical wisdom has to close.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-irrationality"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impetuosity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implementation-intentions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socrates"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:practical-wisdom",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:self-control",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:temperance",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:hyperbolic-discounting",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:intention-behavior-gap-meta-analysis",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:ego-depletion-multilab-replication-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:philosophy-of-action",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I changing my plan because I have learned something new, or only because the moment of keeping it has arrived?",
+   "If I asked myself yesterday, when I made this resolution, would I accept the reason I am now giving for dropping it?",
+   "What is the specific cue that usually pulls me off course here, and have I planned what I will do when it appears?",
+   "Am I telling myself a story that makes the easier option look like the wiser one?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "You decided on Sunday, for good reasons, to finish a grant report before answering the week's routine email. On Monday morning the inbox shows forty unread messages.",
+   "before": "\"I'll just clear these quickly so my head is free, then start the report.\" By lunch the report is untouched, and you tell yourself that answering email was the responsible choice after all.",
+   "after": "\"When I sit down at nine, I open the report file before the inbox.\" You close the mail app, work for ninety minutes, and then deal with email in a block you had already scheduled.",
+   "why": "The first response quietly rewrites a sound resolution at the moment temptation is strongest. The second decides in advance when and where the better judgment will be acted on, and removes the cue that would trigger the lapse."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRiES/weakness-will/",
+   "https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html",
+   "https://plato.stanford.edu/ENTRiES/aristotle-ethics/",
+   "https://pubmed.ncbi.nlm.nih.gov/16536643/",
+   "https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f",
+   "https://cris.maastrichtuniversity.nl/en/publications/a-multilab-preregistered-replication-of-the-ego-depletion-effect/"
+  ]
+ },
+ {
   "id": "wg:wise-leadership",
   "title": "Wise leadership",
   "aliases": [

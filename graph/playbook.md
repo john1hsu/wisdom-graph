@@ -620,6 +620,22 @@ Ask yourself:
 - When I was shown a mistake just now, did I feel curiosity or did I feel attacked?
 - Am I underselling a strength I really do have, out of false modesty or fear of conflict?
 
+### [Weakness of will](../articles/virtues-and-character/weakness-of-will.md) — Obstacle
+
+*You decided on Sunday, for good reasons, to finish a grant report before answering the week's routine email. On Monday morning the inbox shows forty unread messages.*
+
+| Before | After |
+|---|---|
+| "I'll just clear these quickly so my head is free, then start the report." By lunch the report is untouched, and you tell yourself that answering email was the responsible choice after all. | "When I sit down at nine, I open the report file before the inbox." You close the mail app, work for ninety minutes, and then deal with email in a block you had already scheduled. |
+
+**Why:** The first response quietly rewrites a sound resolution at the moment temptation is strongest. The second decides in advance when and where the better judgment will be acted on, and removes the cue that would trigger the lapse.
+
+Ask yourself:
+- Am I changing my plan because I have learned something new, or only because the moment of keeping it has arrived?
+- If I asked myself yesterday, when I made this resolution, would I accept the reason I am now giving for dropping it?
+- What is the specific cue that usually pulls me off course here, and have I planned what I will do when it appears?
+- Am I telling myself a story that makes the easier option look like the wiser one?
+
 ## wisdom-at-work
 
 ### [After-action review](../articles/wisdom-at-work/after-action-review.md) — Practice

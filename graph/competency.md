@@ -6,7 +6,9 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:weakness-of-will` | wgo:Obstacle |
 
 ## Skills and virtues with no practice (gap)
 
@@ -125,7 +127,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:teaching-for-wisdom` | mixed |  |
 | `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
 
-…and 2 more.
+…and 3 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -138,6 +140,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:virtue-ethics` | wgo:Field |
+| `wg:weakness-of-will` | wgo:Obstacle |
 
 ## Orphan articles (gap)
 
