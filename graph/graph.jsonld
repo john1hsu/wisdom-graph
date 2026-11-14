@@ -2275,6 +2275,104 @@
    "wgo:sourceType": "practitioner-journal"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Christopher Shields; substantive revision 2020)",
+   "dcterms:title": "Aristotle",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/aristotle/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Justin Humphreys, University of Pennsylvania)",
+   "dcterms:title": "Aristotle (384 B.C.E.—322 B.C.E.)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/aristotle/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book II, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Human Development, 62(3), 101–129 (Darnell, Gulliford, Kristjánsson & Paris, 2019), University of Birmingham accepted manuscript",
+   "dcterms:title": "Phronesis and the knowledge–action gap in moral psychology and moral education: A new synthesis?",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/55826409/Phronesispaper_Human_Development_accepted.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Check Your Fact (Brad Sylvester, 26 June 2019)",
+   "dcterms:title": "FACT CHECK: Did Aristotle say, 'We are what we repeatedly do'?",
+   "schema:url": {
+    "@id": "https://amp.checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -7263,6 +7361,99 @@
    "wgo:supportedBy": {
     "@id": "wg:team-and-individual-debriefs-meta-analysis"
    }
+  },
+  {
+   "@id": "wg:aristotle",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7"
+    }
+   ],
+   "rdfs:label": "Aristotle",
+   "skos:altLabel": [
+    "Aristoteles",
+    "The First Teacher",
+    "the Stagirite"
+   ],
+   "skos:broader": {
+    "@id": "wg:ancient-greek-philosophy"
+   },
+   "skos:definition": "Greek philosopher (384–322 BCE), student of Plato and founder of the Lyceum, whose ethics gave the West its most influential account of practical wisdom (phronesis): the experienced, character-based judgment that sees what a particular situation calls for, built up through habit and aimed at a flourishing life (eudaimonia).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Aristotle",
+   "skos:related": [
+    {
+     "@id": "wg:aristotelian-phronesis-model"
+    },
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:nicomachean-ethics"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:socrates"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/aristotle.md",
+   "wgo:influencedBy": {
+    "@id": "wg:plato"
+   },
+   "wgo:introduced": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:berlin-wisdom-paradigm",
