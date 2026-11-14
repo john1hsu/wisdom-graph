@@ -266,6 +266,38 @@
    "schema:text": "Set a point at which deliberation ends, then choose and act promptly, without reopening the question unless new facts appear."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which part of this situation actually responds to what I decide or do next?",
+   "wgo:questionFor": {
+    "@id": "wg:dichotomy-of-control"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating something I could change as if it were fixed, just to avoid acting?",
+   "wgo:questionFor": {
+    "@id": "wg:dichotomy-of-control"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I staking my peace of mind on an outcome that other people or chance will settle?",
+   "wgo:questionFor": {
+    "@id": "wg:dichotomy-of-control"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The decision isn't mine. What is mine: answering their questions well, briefing my team honestly, and drafting a smaller fallback plan. I'll do those this week and stop checking for news.",
+   "wgo:before": "I keep refreshing my inbox and replaying what the committee might think. If they say no, the whole year was wasted.",
+   "wgo:situation": "A team lead has submitted a strong proposal for next year's budget and now has to wait three weeks for a committee to decide, while rumours suggest cuts.",
+   "wgo:why": "Effort moves to the parts of the situation that respond to it, the outcome is still wanted and planned for, and the waiting no longer decides how the week goes."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?",
@@ -2108,6 +2140,104 @@
     "@id": "https://pubmed.ncbi.nlm.nih.gov/19739881/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Margaret Graver; substantive revision 16 July 2025)",
+   "dcterms:title": "Epictetus",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/epictetus/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Perseus Digital Library (Perseids CTS reader)",
+   "dcterms:title": "Epictetus, The Handbook (Enchiridion), trans. Thomas Wentworth Higginson (1890)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/1-20"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of British Columbia, PHIL 102 course reader",
+   "dcterms:title": "Cicero, De Finibus Book 3 (selections), Loeb Classical Library translation (1931)",
+   "schema:url": {
+    "@id": "https://blogs.ubc.ca/phil102/files/2015/09/Cicero-DeFinibus3-selections.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Modern Stoicism (John Sellars, 23 July 2016)",
+   "dcterms:title": "Stoicism and the Art of Archery",
+   "schema:url": {
+    "@id": "https://modernstoicism.com/stoicism-and-the-art-of-archery/"
+   },
+   "wgo:sourceType": "community"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Psychological Science (Troy, Shallcross & Mauss, 2013), Association for Psychological Science",
+   "dcterms:title": "A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/psychological-science/0956797613496434/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 140(6), 1582–1607 (Cheng, Lau & Chan, 2014), author copy at the University of Hong Kong",
+   "dcterms:title": "Coping flexibility and psychological adjustment to stressful life changes: A meta-analytic review",
+   "schema:url": {
+    "@id": "https://hub.hku.hk/bitstream/10722/204912/1/Content.pdf?accept=1"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Yale Alumni Magazine, Jan/Feb 2010 (Fred Shapiro)",
+   "dcterms:title": "You can quote them",
+   "schema:url": {
+    "@id": "https://yalealumnimagazine.com/articles/2709"
+   },
+   "wgo:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1",
@@ -5752,6 +5882,99 @@
    "wgo:supportedBy": {
     "@id": "wg:unconscious-thought-advantage-replication"
    }
+  },
+  {
+   "@id": "wg:dichotomy-of-control",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7"
+    }
+   ],
+   "rdfs:label": "Dichotomy of control",
+   "skos:altLabel": [
+    "eph' hēmin",
+    "the Stoic dichotomy",
+    "things within our power",
+    "what is up to us"
+   ],
+   "skos:broader": {
+    "@id": "wg:stoic-ethics"
+   },
+   "skos:definition": "The Stoic teaching, set out at the start of Epictetus's Handbook, that some things are up to us (our judgments, intentions, desires and choices) and others are not (body, property, reputation, outcomes), and that peace of mind and good action come from putting our care and effort where our agency actually lies.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Dichotomy of control",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:serenity-prayer"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:develops": {
+    "@id": "wg:equanimity"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/dichotomy-of-control.md",
+   "wgo:introducedBy": {
+    "@id": "wg:epictetus"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:enchiridion"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:stoicism"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:coping-flexibility-meta-analysis"
+    },
+    {
+     "@id": "wg:reappraisal-controllability-study"
+    }
+   ]
   },
   {
    "@id": "wg:doctrine-of-the-mean",

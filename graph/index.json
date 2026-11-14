@@ -405,6 +405,110 @@
   ]
  },
  {
+  "id": "wg:dichotomy-of-control",
+  "title": "Dichotomy of control",
+  "aliases": [
+   "what is up to us",
+   "eph' hēmin",
+   "the Stoic dichotomy",
+   "things within our power"
+  ],
+  "type": "Principle",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/emotions-and-equanimity/dichotomy-of-control.md",
+  "created": "2026-11-14",
+  "summary": "The Stoic teaching, set out at the start of Epictetus's Handbook, that some things are up to us (our judgments, intentions, desires and choices) and others are not (body, property, reputation, outcomes), and that peace of mind and good action come from putting our care and effort where our agency actually lies.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:stoic-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:serenity-prayer"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:epictetus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:enchiridion",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:equanimity",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:reappraisal-controllability-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:coping-flexibility-meta-analysis",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Which part of this situation actually responds to what I decide or do next?",
+   "Am I treating something I could change as if it were fixed, just to avoid acting?",
+   "Am I staking my peace of mind on an outcome that other people or chance will settle?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead has submitted a strong proposal for next year's budget and now has to wait three weeks for a committee to decide, while rumours suggest cuts.",
+   "before": "I keep refreshing my inbox and replaying what the committee might think. If they say no, the whole year was wasted.",
+   "after": "The decision isn't mine. What is mine: answering their questions well, briefing my team honestly, and drafting a smaller fallback plan. I'll do those this week and stop checking for news.",
+   "why": "Effort moves to the parts of the situation that respond to it, the outcome is still wanted and planned for, and the waiting no longer decides how the week goes."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/epictetus/",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/1-20",
+   "https://blogs.ubc.ca/phil102/files/2015/09/Cicero-DeFinibus3-selections.pdf",
+   "https://modernstoicism.com/stoicism-and-the-art-of-archery/",
+   "https://www.psychologicalscience.org/journals/psychological-science/0956797613496434/",
+   "https://hub.hku.hk/bitstream/10722/204912/1/Content.pdf?accept=1",
+   "https://yalealumnimagazine.com/articles/2709"
+  ]
+ },
+ {
   "id": "wg:doctrine-of-the-mean",
   "title": "Aristotle's doctrine of the mean",
   "aliases": [

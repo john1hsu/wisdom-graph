@@ -39,6 +39,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:deliberation` | 1 | impetuosity |
+| `wg:dichotomy-of-control` | 1 | Equanimity |
 | `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
@@ -141,6 +142,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:seven-sages-of-greece` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
+| `wg:stoicism` | `wg:dichotomy-of-control` |
 | `wg:stoicism` | `wg:equanimity` |
 | `wg:stoicism` | `wg:gratitude` |
 | `wg:stoicism` | `wg:memento-mori` |

@@ -19,13 +19,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.52 | `wg:major-life-decision` | `wg:rumination` | `wg:deliberation`, `wg:moral-algebra`, `wg:regret`, `wg:self-distancing` |
 | 1.48 | `wg:buddhism` | `wg:view-from-above` | `wg:equanimity`, `wg:impermanence`, `wg:memento-mori` |
 | 1.48 | `wg:doctrine-of-the-mean` | `wg:seeking-counsel` | `wg:deliberation`, `wg:intellectual-humility`, `wg:know-thyself`, `wg:seven-sages-of-greece` |
+| 1.47 | `wg:dichotomy-of-control` | `wg:memento-mori` | `wg:equanimity`, `wg:negative-visualization`, `wg:stoicism`, `wg:view-from-above` |
 | 1.46 | `wg:berlin-wisdom-paradigm` | `wg:perspective-taking` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 1.45 | `wg:seven-sages-of-greece` | `wg:socratic-ignorance` | `wg:know-thyself`, `wg:seeking-counsel`, `wg:socratic-philosophy` |
 | 1.44 | `wg:berlin-wisdom-paradigm` | `wg:socioemotional-selectivity-theory` | `wg:lifespan-developmental-psychology` |
+| 1.44 | `wg:compassionate-reappraisal` | `wg:dichotomy-of-control` | `wg:cognitive-reappraisal` |
 | 1.44 | `wg:compassionate-reappraisal` | `wg:stoicism` | `wg:emotional-suppression` |
 | 1.44 | `wg:logotherapy` | `wg:solomons-paradox` | `wg:self-transcendence` |
 | 1.44 | `wg:socioemotional-selectivity-theory` | `wg:three-dimensional-wisdom-model` | `wg:ageing` |
 | 1.44 | `wg:implicit-theories-of-wisdom` | `wg:socratic-ignorance` | `wg:berlin-wisdom-paradigm`, `wg:seeking-counsel`, `wg:wisdom` |
 | 1.43 | `wg:robert-sternberg` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:psychology-of-wisdom` |
-| 1.43 | `wg:moral-algebra` | `wg:wise-reasoning` | `wg:deliberation`, `wg:major-life-decision`, `wg:seeking-counsel`, `wg:self-distancing` |
-| 1.42 | `wg:intellectual-humility` | `wg:view-from-above` | `wg:hubris`, `wg:humility`, `wg:self-distancing` |

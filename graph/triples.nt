@@ -235,6 +235,55 @@
 <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/unconscious-thought-advantage-replication> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Which part of this situation actually responds to what I decide or do next?" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating something I could change as if it were fixed, just to avoid acting?" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I staking my peace of mind on an outcome that other people or chance will settle?" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The decision isn't mine. What is mine: answering their questions well, briefing my team honestly, and drafting a smaller fallback plan. I'll do those this week and stop checking for news." .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I keep refreshing my inbox and replaying what the committee might think. If they say no, the whole year was wasted." .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead has submitted a strong proposal for next year's budget and now has to wait three weeks for a committee to decide, while rumours suggest cuts." .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Effort moves to the parts of the situation that respond to it, the outcome is still wanted and planned for, and the waiting no longer decides how the week goes." .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2000/01/rdf-schema#label> "Dichotomy of control" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "eph' hēmin" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "the Stoic dichotomy" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "things within our power" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "what is up to us" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#definition> "The Stoic teaching, set out at the start of Epictetus's Handbook, that some things are up to us (our judgments, intentions, desires and choices) and others are not (body, property, reputation, outcomes), and that peace of mind and good action come from putting our care and effort where our agency actually lies." .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dichotomy of control" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/example> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/dichotomy-of-control.md" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/epictetus> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/enchiridion> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/coping-flexibility-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/reappraisal-controllability-study> .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?" .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
@@ -2000,6 +2049,48 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/19739881/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Margaret Graver; substantive revision 16 July 2025)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> <http://purl.org/dc/terms/title> "Epictetus" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1> <https://schema.org/url> <https://plato.stanford.edu/entries/epictetus/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> <http://purl.org/dc/terms/publisher> "Perseus Digital Library (Perseids CTS reader)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> <http://purl.org/dc/terms/title> "Epictetus, The Handbook (Enchiridion), trans. Thomas Wentworth Higginson (1890)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s2> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/1-20> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> <http://purl.org/dc/terms/publisher> "University of British Columbia, PHIL 102 course reader" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> <http://purl.org/dc/terms/title> "Cicero, De Finibus Book 3 (selections), Loeb Classical Library translation (1931)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s3> <https://schema.org/url> <https://blogs.ubc.ca/phil102/files/2015/09/Cicero-DeFinibus3-selections.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> <http://purl.org/dc/terms/publisher> "Modern Stoicism (John Sellars, 23 July 2016)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> <http://purl.org/dc/terms/title> "Stoicism and the Art of Archery" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s4> <https://schema.org/url> <https://modernstoicism.com/stoicism-and-the-art-of-archery/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> <http://purl.org/dc/terms/publisher> "Psychological Science (Troy, Shallcross & Mauss, 2013), Association for Psychological Science" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> <http://purl.org/dc/terms/title> "A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s5> <https://schema.org/url> <https://www.psychologicalscience.org/journals/psychological-science/0956797613496434/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> <http://purl.org/dc/terms/publisher> "Psychological Bulletin, 140(6), 1582–1607 (Cheng, Lau & Chan, 2014), author copy at the University of Hong Kong" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> <http://purl.org/dc/terms/title> "Coping flexibility and psychological adjustment to stressful life changes: A meta-analytic review" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s6> <https://schema.org/url> <https://hub.hku.hk/bitstream/10722/204912/1/Content.pdf?accept=1> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> <http://purl.org/dc/terms/publisher> "Yale Alumni Magazine, Jan/Feb 2010 (Fred Shapiro)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> <http://purl.org/dc/terms/title> "You can quote them" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s7> <https://schema.org/url> <https://yalealumnimagazine.com/articles/2709> .
 <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/doctrine-of-the-mean/s1> <http://purl.org/dc/terms/title> "Aristotle, Nicomachean Ethics, Book II (chapters 1 and 6–9), trans. W. D. Ross" .

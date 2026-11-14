@@ -133,6 +133,21 @@ Ask yourself:
 
 ## emotions-and-equanimity
 
+### [Dichotomy of control](../articles/emotions-and-equanimity/dichotomy-of-control.md) — Principle
+
+*A team lead has submitted a strong proposal for next year's budget and now has to wait three weeks for a committee to decide, while rumours suggest cuts.*
+
+| Before | After |
+|---|---|
+| I keep refreshing my inbox and replaying what the committee might think. If they say no, the whole year was wasted. | The decision isn't mine. What is mine: answering their questions well, briefing my team honestly, and drafting a smaller fallback plan. I'll do those this week and stop checking for news. |
+
+**Why:** Effort moves to the parts of the situation that respond to it, the outcome is still wanted and planned for, and the waiting no longer decides how the week goes.
+
+Ask yourself:
+- Which part of this situation actually responds to what I decide or do next?
+- Am I treating something I could change as if it were fixed, just to avoid acting?
+- Am I staking my peace of mind on an outcome that other people or chance will settle?
+
 ### [Equanimity](../articles/emotions-and-equanimity/equanimity.md) — Virtue
 
 *An hour before you present to leadership, you learn that the client your team spent three months courting has chosen a competitor.*
