@@ -4822,6 +4822,76 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "APS Observer (Association for Psychological Science), 2017, summarising Grossmann, \"Wisdom in context,\" Perspectives on Psychological Science",
+   "dcterms:title": "The Factors That Foster Wise Reasoning",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 115(6), 1093–1126 (Brienza, Kung, Santos, Bobocel & Grossmann, 2018), author copy, University of Waterloo",
+   "dcterms:title": "Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/fairness-at-work-lab/sites/default/files/uploads/files/wisdom_bias_and_balance_toward_a_process-sensitive_measurement_ofwisdom-related_cognition.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Psychological Science (Grossmann, Karasawa, Izumi, Na, Varnum, Kitayama & Nisbett, 2012), preprint, University of Waterloo Wisdom and Culture Lab",
+   "dcterms:title": "Aging and wisdom: Culture matters",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/Grossmann_culture.wisdom.preprint.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom, summarising Grossmann, Weststrate, Ardelt et al. (2020), Psychological Inquiry, 31(2), 103–133",
+   "dcterms:title": "The science of wisdom in a polarized world: Knowns and unknowns (publication summary)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of Waterloo News (8 February 2021)",
+   "dcterms:title": "New research shows we can train ourselves to be wise",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/news/media/new-research-shows-we-can-train-ourselves-be-wise"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I trying to understand what is really going on here, including what I cannot know, or only looking for facts that confirm my first reaction?",
@@ -4937,6 +5007,54 @@
    "@type": "schema:HowToStep",
    "schema:position": 6,
    "schema:text": "Stop and set the exercise aside if it leaves you feeling that nothing matters, and talk to someone you trust instead."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What don't I know about this situation, and how sure am I really about the other person's motives?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Could I describe the other side's view in words they would accept as fair?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "How might this look in a month or a year, and what else could happen besides the outcome I fear?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there an arrangement that meets the main concerns on both sides, or am I treating any middle ground as losing?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I reason about this differently if a friend had brought it to me?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I don't yet know why this was decided or who pushed for it. I'll ask the lead what problem the merger solves, say plainly what I think would be lost, and propose a handover that keeps the parts that work. This may look different in three months.",
+   "wgo:before": "They have clearly sidelined me on purpose. I'll tell the team the plan is a mistake and refuse to hand anything over.",
+   "wgo:situation": "Your team lead announces that a project you have run for a year will be merged into another group's work. You learn about it in the same meeting as everyone else.",
+   "wgo:why": "The wiser response admits what it does not know, takes the other side's reasons seriously, allows that events can still turn several ways, and looks for an arrangement both sides can live with, which are the four elements researchers score."
   },
   {
    "@id": "wg:berlin-wisdom-paradigm",
@@ -8214,6 +8332,99 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:eavesdropping-on-character-study"
+   }
+  },
+  {
+   "@id": "wg:wise-reasoning",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s5"
+    }
+   ],
+   "rdfs:label": "Wise reasoning",
+   "skos:altLabel": [
+    "perspectival metacognition",
+    "situated wise reasoning",
+    "wise thinking"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "A measurable way of thinking through uncertain, conflict-laden problems that combines intellectual humility, attention to other people's perspectives, recognition that situations can change and unfold in several ways, and a search for compromise or integration of viewpoints.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Wise reasoning",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:interpersonal-conflict"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:general-intelligence"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:aging-and-wisdom-culture-study"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/example"
+   },
+   "wgo:file": "articles/science-of-wisdom/wise-reasoning.md",
+   "wgo:introducedBy": {
+    "@id": "wg:igor-grossmann"
+   },
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:common-wisdom-model"
+   },
+   "wgo:requires": {
+    "@id": "wg:perspective-taking"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
    }
   }
  ]

@@ -3686,5 +3686,120 @@
    "https://plato.stanford.edu/entries/moral-character-empirical",
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4836053"
   ]
+ },
+ {
+  "id": "wg:wise-reasoning",
+  "title": "Wise reasoning",
+  "aliases": [
+   "wise thinking",
+   "perspectival metacognition",
+   "situated wise reasoning"
+  ],
+  "type": "Skill",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/wise-reasoning.md",
+  "created": "2026-11-14",
+  "summary": "A measurable way of thinking through uncertain, conflict-laden problems that combines intellectual humility, attention to other people's perspectives, recognition that situations can change and unfold in several ways, and a search for compromise or integration of viewpoints.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:igor-grossmann",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:aging-and-wisdom-culture-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:common-wisdom-model",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:general-intelligence",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "What don't I know about this situation, and how sure am I really about the other person's motives?",
+   "Could I describe the other side's view in words they would accept as fair?",
+   "How might this look in a month or a year, and what else could happen besides the outcome I fear?",
+   "Is there an arrangement that meets the main concerns on both sides, or am I treating any middle ground as losing?",
+   "Would I reason about this differently if a friend had brought it to me?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Your team lead announces that a project you have run for a year will be merged into another group's work. You learn about it in the same meeting as everyone else.",
+   "before": "They have clearly sidelined me on purpose. I'll tell the team the plan is a mistake and refuse to hand anything over.",
+   "after": "I don't yet know why this was decided or who pushed for it. I'll ask the lead what problem the merger solves, say plainly what I think would be lost, and propose a handover that keeps the parts that work. This may look different in three months.",
+   "why": "The wiser response admits what it does not know, takes the other side's reasons seriously, allows that events can still turn several ways, and looks for an arrangement both sides can live with, which are the four elements researchers score."
+  },
+  "source_urls": [
+   "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html",
+   "https://uwaterloo.ca/fairness-at-work-lab/sites/default/files/uploads/files/wisdom_bias_and_balance_toward_a_process-sensitive_measurement_ofwisdom-related_cognition.pdf",
+   "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/Grossmann_culture.wisdom.preprint.pdf",
+   "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns",
+   "https://uwaterloo.ca/news/media/new-research-shows-we-can-train-ourselves-be-wise"
+  ]
  }
 ]

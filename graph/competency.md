@@ -29,8 +29,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
-| `wg:perspective-taking` | 3 | Empathy, egocentric-bias, wise-reasoning |
-| `wg:self-distancing` | 3 | Rumination, Solomon's paradox, wise-reasoning |
+| `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
+| `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
@@ -60,6 +60,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:perspective-taking` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
+| `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
@@ -98,6 +99,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
 | `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
+| `wg:wise-reasoning` | mixed |  |
 
 ## Ideas with no recorded origin (gap)
 

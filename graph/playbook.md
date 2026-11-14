@@ -369,6 +369,23 @@ Ask yourself:
 - Have I looked at this situation, and my own part in it, from at least one other person's point of view?
 - Is my response moved by concern for the people affected, or mainly by protecting my ego?
 
+### [Wise reasoning](../articles/science-of-wisdom/wise-reasoning.md) — Skill
+
+*Your team lead announces that a project you have run for a year will be merged into another group's work. You learn about it in the same meeting as everyone else.*
+
+| Before | After |
+|---|---|
+| They have clearly sidelined me on purpose. I'll tell the team the plan is a mistake and refuse to hand anything over. | I don't yet know why this was decided or who pushed for it. I'll ask the lead what problem the merger solves, say plainly what I think would be lost, and propose a handover that keeps the parts that work. This may look different in three months. |
+
+**Why:** The wiser response admits what it does not know, takes the other side's reasons seriously, allows that events can still turn several ways, and looks for an arrangement both sides can live with, which are the four elements researchers score.
+
+Ask yourself:
+- What don't I know about this situation, and how sure am I really about the other person's motives?
+- Could I describe the other side's view in words they would accept as fair?
+- How might this look in a month or a year, and what else could happen besides the outcome I fear?
+- Is there an arrangement that meets the main concerns on both sides, or am I treating any middle ground as losing?
+- Would I reason about this differently if a friend had brought it to me?
+
 ## self-knowledge
 
 ### [Know thyself](../articles/self-knowledge/know-thyself.md) — Principle
