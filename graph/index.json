@@ -3390,6 +3390,128 @@
   ]
  },
  {
+  "id": "wg:self-reflection",
+  "title": "Self-reflection",
+  "aliases": [
+   "reflection",
+   "self-examination",
+   "reflective self-attention",
+   "the examined life"
+  ],
+  "type": "Skill",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/self-reflection.md",
+  "created": "2026-11-14",
+  "summary": "The deliberate habit of turning attention to your own thoughts, feelings, motives and conduct in order to understand them and act better next time; done well, it is curious rather than anxious and ends in insight or a changed course, not in replaying the same worry.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:socratic-philosophy",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:insight",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:rumination",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:three-dimensional-wisdom-model",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:self-centeredness",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:wisdom-and-hard-times-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:learning-from-experience",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I examining this out of curiosity about what happened, or out of fear about what it says about me?",
+   "Has this reflection produced an insight or a next step I can name in one sentence?",
+   "Have I looked at the situation from at least one perspective other than my own?",
+   "Is there someone who saw what happened whose view I should hear before I settle on a lesson?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A product launch you led slipped by three weeks, and the team retrospective is tomorrow morning.",
+   "before": "You spend the evening going over the delay again and again, asking what is wrong with you and what your director must think, and arrive at the meeting tired, defensive and with nothing new to say.",
+   "after": "You set aside twenty minutes, write down what you expected, what actually happened and where the gap first appeared, notice that you had dismissed an early warning from a colleague, and bring one change you will make in how you handle risk flags on the next project.",
+   "why": "Reflection driven by curiosity and aimed at a lesson produces insight you can act on, whereas anxious self-scrutiny replays the hurt without improving the next decision."
+  },
+  "source_urls": [
+   "https://www.perseus.tufts.edu/hopper/text%3Fdoc=plat.+apol.+38a",
+   "https://www.sbp-journal.com/index.php/sbp/editors_pick_Dec_2014",
+   "https://acnpsearch.tweb-dev.unibo.it/singlejournalindex/48780115",
+   "https://gwern.net/doc/psychiatry/anxiety/2010-harrington.pdf",
+   "https://escholarship.org/content/qt7bh8g2jv/qt7bh8g2jv.pdf?t=qejfcc",
+   "https://www.library.hbs.edu/working-knowledge/reflecting-on-work-improves-job-performance",
+   "https://papers.ssrn.com/abstract=2414478",
+   "https://archive.news.ufl.edu/articles/2003/06/uf-professor-self-reflection-more-critical-to-wisdom-than-knowledge.html"
+  ]
+ },
+ {
   "id": "wg:seven-sages-of-greece",
   "title": "Seven Sages of Greece",
   "aliases": [

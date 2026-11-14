@@ -1882,6 +1882,62 @@
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I examining this out of curiosity about what happened, or out of fear about what it says about me?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Has this reflection produced an insight or a next step I can name in one sentence?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I looked at the situation from at least one perspective other than my own?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is there someone who saw what happened whose view I should hear before I settle on a lesson?" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "You set aside twenty minutes, write down what you expected, what actually happened and where the gap first appeared, notice that you had dismissed an early warning from a colleague, and bring one change you will make in how you handle risk flags on the next project." .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "You spend the evening going over the delay again and again, asking what is wrong with you and what your director must think, and arrive at the meeting tired, defensive and with nothing new to say." .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A product launch you led slipped by three weeks, and the team retrospective is tomorrow morning." .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Reflection driven by curiosity and aimed at a lesson produces insight you can act on, whereas anxious self-scrutiny replays the hurt without improving the next decision." .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Skill> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2000/01/rdf-schema#label> "Self-reflection" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#altLabel> "reflection" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#altLabel> "reflective self-attention" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#altLabel> "self-examination" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#altLabel> "the examined life" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#definition> "The deliberate habit of turning attention to your own thoughts, feelings, motives and conduct in order to understand them and act better next time; done well, it is curious rather than anxious and ends in insight or a changed course, not in replaying the same worry." .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-reflection" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/self-centeredness> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/insight> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-hard-times-study> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/self-reflection/example> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/self-reflection.md" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/2000/01/rdf-schema#label> "Seven Sages of Greece" .
@@ -3324,6 +3380,54 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <https://schema.org/url> <https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> <http://purl.org/dc/terms/publisher> "Perseus Digital Library, Tufts University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> <http://purl.org/dc/terms/title> "Plato, Apology 38a (English translation)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1> <https://schema.org/url> <https://www.perseus.tufts.edu/hopper/text%3Fdoc=plat.+apol.+38a> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> <http://purl.org/dc/terms/publisher> "Social Behavior and Personality, 30(8), 821–836 (Grant, Franklin & Langford, 2002)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> <http://purl.org/dc/terms/title> "The Self-Reflection and Insight Scale: A new measure of private self-consciousness" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2> <https://schema.org/url> <https://www.sbp-journal.com/index.php/sbp/editors_pick_Dec_2014> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 76(2), 284–304 (Trapnell & Campbell, 1999), bibliographic record and abstract via ACNP, University of Bologna" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> <http://purl.org/dc/terms/title> "Private self-consciousness and the five-factor model of personality: Distinguishing rumination from reflection" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3> <https://schema.org/url> <https://acnpsearch.tweb-dev.unibo.it/singlejournalindex/48780115> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> <http://purl.org/dc/terms/publisher> "The Journal of Psychology, 145(1), 39–57 (Harrington & Loffredo, 2011)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> <http://purl.org/dc/terms/title> "Insight, rumination, and self-reflection as predictors of well-being" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4> <https://schema.org/url> <https://gwern.net/doc/psychiatry/anxiety/2010-harrington.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> <http://purl.org/dc/terms/publisher> "The Journals of Gerontology, Series B, 73(8) (Ardelt & Jeste, 2018), via UC eScholarship" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> <http://purl.org/dc/terms/title> "Wisdom and hard times: The ameliorating effect of wisdom on the negative association between adverse life events and well-being" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5> <https://schema.org/url> <https://escholarship.org/content/qt7bh8g2jv/qt7bh8g2jv.pdf?t=qejfcc> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (Nobel, 5 May 2014)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> <http://purl.org/dc/terms/title> "Reflecting on Work Improves Job Performance" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6> <https://schema.org/url> <https://www.library.hbs.edu/working-knowledge/reflecting-on-work-improves-job-performance> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> <http://purl.org/dc/terms/publisher> "Harvard Business School NOM Unit Working Paper 14-093, SSRN (Di Stefano, Gino, Pisano & Staats; revised 2023)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> <http://purl.org/dc/terms/title> "Learning by Thinking: How Reflection Can Spur Progress Along the Learning Curve" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7> <https://schema.org/url> <https://papers.ssrn.com/abstract=2414478> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> <http://purl.org/dc/terms/publisher> "University of Florida News (11 June 2003, on Ardelt, 2003, Research on Aging)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> <http://purl.org/dc/terms/title> "UF Professor: Self-Reflection More Critical To Wisdom Than Knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8> <https://schema.org/url> <https://archive.news.ufl.edu/articles/2003/06/uf-professor-self-reflection-more-critical-to-wisdom-than-knowledge.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s1> <http://purl.org/dc/terms/publisher> "LacusCurtius, University of Chicago (Bill Thayer)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s1> <http://purl.org/dc/terms/title> "Diogenes Laertius, Lives of Eminent Philosophers, Book I: Thales, trans. R. D. Hicks (Loeb Classical Library, 1925)" .

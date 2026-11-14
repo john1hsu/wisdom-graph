@@ -1788,6 +1788,46 @@
    "schema:text": "Stop if the distance is turning into a way of avoiding the feeling or the problem, and seek support if the distress persists."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I examining this out of curiosity about what happened, or out of fear about what it says about me?",
+   "wgo:questionFor": {
+    "@id": "wg:self-reflection"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Has this reflection produced an insight or a next step I can name in one sentence?",
+   "wgo:questionFor": {
+    "@id": "wg:self-reflection"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I looked at the situation from at least one perspective other than my own?",
+   "wgo:questionFor": {
+    "@id": "wg:self-reflection"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there someone who saw what happened whose view I should hear before I settle on a lesson?",
+   "wgo:questionFor": {
+    "@id": "wg:self-reflection"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "You set aside twenty minutes, write down what you expected, what actually happened and where the gap first appeared, notice that you had dismissed an early warning from a colleague, and bring one change you will make in how you handle risk flags on the next project.",
+   "wgo:before": "You spend the evening going over the delay again and again, asking what is wrong with you and what your director must think, and arrive at the meeting tired, defensive and with nothing new to say.",
+   "wgo:situation": "A product launch you led slipped by three weeks, and the team retrospective is tomorrow morning.",
+   "wgo:why": "Reflection driven by curiosity and aimed at a lesson produces insight you can act on, whereas anxious self-scrutiny replays the hurt without improving the next decision."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Do I actually know this, or am I only confident about it?",
@@ -4866,6 +4906,118 @@
    "dcterms:title": "Gaining Perspective on Negative Events",
    "schema:url": {
     "@id": "https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Perseus Digital Library, Tufts University",
+   "dcterms:title": "Plato, Apology 38a (English translation)",
+   "schema:url": {
+    "@id": "https://www.perseus.tufts.edu/hopper/text%3Fdoc=plat.+apol.+38a"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Social Behavior and Personality, 30(8), 821–836 (Grant, Franklin & Langford, 2002)",
+   "dcterms:title": "The Self-Reflection and Insight Scale: A new measure of private self-consciousness",
+   "schema:url": {
+    "@id": "https://www.sbp-journal.com/index.php/sbp/editors_pick_Dec_2014"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 76(2), 284–304 (Trapnell & Campbell, 1999), bibliographic record and abstract via ACNP, University of Bologna",
+   "dcterms:title": "Private self-consciousness and the five-factor model of personality: Distinguishing rumination from reflection",
+   "schema:url": {
+    "@id": "https://acnpsearch.tweb-dev.unibo.it/singlejournalindex/48780115"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Journal of Psychology, 145(1), 39–57 (Harrington & Loffredo, 2011)",
+   "dcterms:title": "Insight, rumination, and self-reflection as predictors of well-being",
+   "schema:url": {
+    "@id": "https://gwern.net/doc/psychiatry/anxiety/2010-harrington.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Journals of Gerontology, Series B, 73(8) (Ardelt & Jeste, 2018), via UC eScholarship",
+   "dcterms:title": "Wisdom and hard times: The ameliorating effect of wisdom on the negative association between adverse life events and well-being",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt7bh8g2jv/qt7bh8g2jv.pdf?t=qejfcc"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Harvard Business School Working Knowledge (Nobel, 5 May 2014)",
+   "dcterms:title": "Reflecting on Work Improves Job Performance",
+   "schema:url": {
+    "@id": "https://www.library.hbs.edu/working-knowledge/reflecting-on-work-improves-job-performance"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Harvard Business School NOM Unit Working Paper 14-093, SSRN (Di Stefano, Gino, Pisano & Staats; revised 2023)",
+   "dcterms:title": "Learning by Thinking: How Reflection Can Spur Progress Along the Learning Curve",
+   "schema:url": {
+    "@id": "https://papers.ssrn.com/abstract=2414478"
+   },
+   "wgo:sourceType": "preprint"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of Florida News (11 June 2003, on Ardelt, 2003, Research on Aging)",
+   "dcterms:title": "UF Professor: Self-Reflection More Critical To Wisdom Than Knowledge",
+   "schema:url": {
+    "@id": "https://archive.news.ufl.edu/articles/2003/06/uf-professor-self-reflection-more-critical-to-wisdom-than-knowledge.html"
    },
    "wgo:sourceType": "academic"
   },
@@ -9268,6 +9420,111 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:self-reflection",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s8"
+    }
+   ],
+   "rdfs:label": "Self-reflection",
+   "skos:altLabel": [
+    "reflection",
+    "reflective self-attention",
+    "self-examination",
+    "the examined life"
+   ],
+   "skos:broader": {
+    "@id": "wg:self-knowledge"
+   },
+   "skos:definition": "The deliberate habit of turning attention to your own thoughts, feelings, motives and conduct in order to understand them and act better next time; done well, it is curious rather than anxious and ends in insight or a changed course, not in replaying the same worry.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Self-reflection",
+   "skos:related": [
+    {
+     "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:self-centeredness"
+   },
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:insight"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:rumination"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:wisdom-and-hard-times-study"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/example"
+   },
+   "wgo:file": "articles/self-knowledge/self-reflection.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:socratic-philosophy"
+   }
   },
   {
    "@id": "wg:seven-sages-of-greece",

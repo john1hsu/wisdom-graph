@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:self-reflection` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -47,6 +49,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:honesty` | 1 | self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
+| `wg:self-reflection` | 1 | self-centeredness |
 | `wg:socratic-ignorance` | 1 | Intellectual humility |
 
 ## Toolkit by life situation
@@ -55,6 +58,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:adversity` | `wg:self-reflection` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
@@ -71,6 +75,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
+| `wg:learning-from-experience` | `wg:self-reflection` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
@@ -106,6 +111,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
+| `wg:self-reflection` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
 | `wg:teaching-for-wisdom` | mixed |  |
@@ -151,6 +157,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:seven-sages-of-greece` | `wg:hubris` |
 | `wg:seven-sages-of-greece` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:know-thyself` |
+| `wg:socratic-philosophy` | `wg:self-reflection` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:dichotomy-of-control` |
 | `wg:stoicism` | `wg:equanimity` |

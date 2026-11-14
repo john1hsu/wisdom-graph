@@ -523,6 +523,22 @@ Ask yourself:
 - Have I asked what I might not know and how the other person sees this?
 - Is this distance helping me understand the feeling, or helping me avoid it?
 
+### [Self-reflection](../articles/self-knowledge/self-reflection.md) — Skill
+
+*A product launch you led slipped by three weeks, and the team retrospective is tomorrow morning.*
+
+| Before | After |
+|---|---|
+| You spend the evening going over the delay again and again, asking what is wrong with you and what your director must think, and arrive at the meeting tired, defensive and with nothing new to say. | You set aside twenty minutes, write down what you expected, what actually happened and where the gap first appeared, notice that you had dismissed an early warning from a colleague, and bring one change you will make in how you handle risk flags on the next project. |
+
+**Why:** Reflection driven by curiosity and aimed at a lesson produces insight you can act on, whereas anxious self-scrutiny replays the hurt without improving the next decision.
+
+Ask yourself:
+- Am I examining this out of curiosity about what happened, or out of fear about what it says about me?
+- Has this reflection produced an insight or a next step I can name in one sentence?
+- Have I looked at the situation from at least one perspective other than my own?
+- Is there someone who saw what happened whose view I should hear before I settle on a lesson?
+
 ## virtues-and-character
 
 ### [Aristotle's doctrine of the mean](../articles/virtues-and-character/doctrine-of-the-mean.md) — Principle
