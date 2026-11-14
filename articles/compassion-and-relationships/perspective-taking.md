@@ -21,6 +21,7 @@ relations:
   - {predicate: demonstratedBy, object: wg:perspective-taking-in-negotiations-study, source: s3, confidence: high}
   - {predicate: challengedBy, object: wg:perspective-mistaking-study, source: s1, confidence: high}
   - {predicate: challengedBy, object: wg:perspective-taking-empathic-concern-meta-analysis, source: s2, confidence: high}
+  - {predicate: introducedIn, object: wg:theory-of-moral-sentiments, source: s8, confidence: medium}
 steps:
   - Before you respond, name your own first reading of the situation so you can set it aside for a moment.
   - Imagine the other person's day, constraints and goals, and ask what they know that you don't and what they want from this.
@@ -81,7 +82,14 @@ sources:
     url: https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html
     type: institutional
     accessed: 2026-11-13
+  - id: s8
+    title: "Adam Smith's Moral and Political Philosophy"
+    publisher: Stanford Encyclopedia of Philosophy (Samuel Fleischacker; substantive revision 2025)
+    url: https://plato.stanford.edu/ENTRIES/smith-moral-political/
+    type: scholarly-encyclopedia
+    accessed: 2026-11-14
 created: 2026-11-13
+modified: 2026-11-14
 ---
 
 # Perspective-taking
@@ -90,7 +98,7 @@ Perspective-taking is the deliberate attempt to see a situation from another per
 
 ## Origin
 
-The capacity develops early: researchers find that children grasp that other people have different thoughts by about age three or four, and refine their understanding of others' emotions through school and adolescence.[^s5] Social psychologists later turned it into an experimental instruction, typically asking participants to imagine how another person feels or to picture a day in their life, and compared the results with control groups or with instructions to stay objective.[^s2][^s1] That literature spans helping, negotiation, stereotyping and close relationships.[^s1][^s3]
+The idea has a long philosophical history. In *The Theory of Moral Sentiments* (1759), Adam Smith argued that we grasp others' feelings by imagining how we would feel in their circumstances, a projective account he set against David Hume's picture of feelings spreading by contagion.[^s8] The capacity develops early: researchers find that children grasp that other people have different thoughts by about age three or four, and refine their understanding of others' emotions through school and adolescence.[^s5] Social psychologists later turned it into an experimental instruction, typically asking participants to imagine how another person feels or to picture a day in their life, and compared the results with control groups or with instructions to stay objective.[^s2][^s1] That literature spans helping, negotiation, stereotyping and close relationships.[^s1][^s3]
 
 ## Why it matters
 
@@ -116,7 +124,7 @@ The evidence is mixed. Perspective-taking can reduce egocentric bias and is link
 
 ## Connections
 
-Perspective-taking **develops empathy**, particularly its cognitive side, and helps build the bonds its researchers see as its main benefit.[^s1][^s5] It **develops wise reasoning**, in which considering and integrating other viewpoints is a core component, and relates to **Solomon's paradox** and **self-distancing**, both about seeing a problem from beyond one's own vantage point.[^s4][^s7] It can **address egocentric bias**, though without guaranteeing accuracy.[^s1] It is **applied in negotiation**, as **demonstrated by** Galinsky and colleagues' studies, and in **interpersonal conflict**.[^s3][^s5] It is **challenged by** the perspective-mistaking experiments and by the meta-analysis of its effect on empathic concern.[^s1][^s2] Its natural partners are **seeking counsel** and **intellectual humility**: asking, and admitting that your picture of another mind is a draft.[^s1][^s6]
+Perspective-taking **develops empathy**, particularly its cognitive side, and helps build the bonds its researchers see as its main benefit.[^s1][^s5] It **develops wise reasoning**, in which considering and integrating other viewpoints is a core component, and relates to **Solomon's paradox** and **self-distancing**, both about seeing a problem from beyond one's own vantage point.[^s4][^s7] It can **address egocentric bias**, though without guaranteeing accuracy.[^s1] It is **applied in negotiation**, as **demonstrated by** Galinsky and colleagues' studies, and in **interpersonal conflict**.[^s3][^s5] It is **challenged by** the perspective-mistaking experiments and by the meta-analysis of its effect on empathic concern.[^s1][^s2] An early philosophical account of it was **introduced in** Adam Smith's *Theory of Moral Sentiments*.[^s8] Its natural partners are **seeking counsel** and **intellectual humility**: asking, and admitting that your picture of another mind is a draft.[^s1][^s6]
 
 ## Sources
 
@@ -127,3 +135,4 @@ Perspective-taking **develops empathy**, particularly its cognitive side, and he
 [^s5]: Greater Good in Education (n.d.). "Checking Your Perspective." Greater Good Science Center, UC Berkeley. https://ggie.berkeley.edu/practice/checking-your-perspective (accessed 2026-11-13)
 [^s6]: Suttie, J. (2018). "How Putting Yourself in Someone Else's Shoes May Backfire." *Greater Good Magazine*, UC Berkeley. https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire (accessed 2026-11-13)
 [^s7]: Association for Psychological Science (2017). "The Factors That Foster Wise Reasoning." *APS Observer*. https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html (accessed 2026-11-13)
+[^s8]: Fleischacker, S. "Adam Smith's Moral and Political Philosophy." *Stanford Encyclopedia of Philosophy*, §§2–3. https://plato.stanford.edu/ENTRIES/smith-moral-political/ (accessed 2026-11-14)

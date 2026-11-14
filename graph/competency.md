@@ -106,7 +106,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:major-life-decision` | wgo:Context |
-| `wg:perspective-taking` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:virtue-ethics` | wgo:Field |
 

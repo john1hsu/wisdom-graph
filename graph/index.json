@@ -2063,6 +2063,12 @@
     "object": "wg:perspective-taking-empathic-concern-meta-analysis",
     "source": "s2",
     "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:theory-of-moral-sentiments",
+    "source": "s8",
+    "confidence": "medium"
    }
   ],
   "selfCheck": [
@@ -2091,7 +2097,8 @@
    "https://core.ac.uk/download/322934596.pdf",
    "https://ggie.berkeley.edu/practice/checking-your-perspective",
    "https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire",
-   "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+   "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html",
+   "https://plato.stanford.edu/ENTRIES/smith-moral-political/"
   ]
  },
  {
@@ -3253,6 +3260,102 @@
    "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf",
    "https://collaborate.princeton.edu/en/publications/the-emergence-of-gender-differences-in-depression-during-adolesce/",
    "https://news.umich.edu/?p=4891"
+  ]
+ },
+ {
+  "id": "wg:theory-of-moral-sentiments",
+  "title": "The Theory of Moral Sentiments",
+  "aliases": [
+   "Theory of Moral Sentiments",
+   "TMS",
+   "Smith's Moral Sentiments"
+  ],
+  "type": "Work",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/theory-of-moral-sentiments.md",
+  "created": "2026-11-14",
+  "summary": "Adam Smith's first book (1759; sixth, much-revised edition 1790), which explains moral judgment through sympathy, our imaginative placing of ourselves in another's situation, and through the \"impartial spectator\", an imagined fair observer we learn to consult when judging our own conduct.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-sentimentalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impartial-spectator"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "wgo:authoredBy",
+    "object": "wg:adam-smith",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:david-hume",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:francis-hutcheson",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:exploring-solomons-paradox-study",
+    "source": "s5",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:perspective-taking-empathic-concern-meta-analysis",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.econlib.org/library/Smith/smMS3.html",
+   "https://www.gutenberg.org/cache/epub/67363/pg67363.txt",
+   "https://plato.stanford.edu/ENTRIES/smith-moral-political/",
+   "https://plato.stanford.edu/entries/empathy/",
+   "https://www.psychologicalscience.org/journals/psychological-science/0956797614535400/",
+   "https://escholarship.org/uc/item/5j86s6m6",
+   "https://www.econlib.org/library/Smith/smMS.html?chapter_num=5"
   ]
  },
  {

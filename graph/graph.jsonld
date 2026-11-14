@@ -3380,6 +3380,20 @@
    "wgo:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Samuel Fleischacker; substantive revision 2025)",
+   "dcterms:title": "Adam Smith's Moral and Political Philosophy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/smith-moral-political/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -4470,6 +4484,104 @@
     "@id": "https://news.umich.edu/?p=4891"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Economics and Liberty (Econlib), Liberty Fund",
+   "dcterms:title": "The Theory of Moral Sentiments, Part III: Of the Foundation of our Judgments concerning our own Sentiments and Conduct (6th ed., 1790)",
+   "schema:url": {
+    "@id": "https://www.econlib.org/library/Smith/smMS3.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Project Gutenberg (eBook",
+   "dcterms:title": "The Theory of Moral Sentiments (Dublin printing, 1777), Part I, Section I, Chapter I: Of Sympathy",
+   "schema:url": {
+    "@id": "https://www.gutenberg.org/cache/epub/67363/pg67363.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Samuel Fleischacker; substantive revision 2025)",
+   "dcterms:title": "Adam Smith's Moral and Political Philosophy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/smith-moral-political/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Empathy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/empathy/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Psychological Science (Grossmann & Kross, 2014), via Association for Psychological Science",
+   "dcterms:title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/psychological-science/0956797614535400/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Review (McAuliffe, Carter, Berhane, Snihur & McCullough, 2020), via eScholarship, University of California",
+   "dcterms:title": "Is empathy the default response to suffering? A meta-analytic evaluation of perspective taking's effect on empathic concern",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/5j86s6m6"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Economics and Liberty (Econlib), Liberty Fund",
+   "dcterms:title": "The Theory of Moral Sentiments, Part IV: Of the Effect of Utility upon the Sentiment of Approbation, with the Advertisement to the 6th edition (1790)",
+   "schema:url": {
+    "@id": "https://www.econlib.org/library/Smith/smMS.html?chapter_num=5"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/three-dimensional-wisdom-model/s1",
@@ -6543,6 +6655,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-13"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1"
@@ -6564,6 +6680,9 @@
     },
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s8"
     }
    ],
    "rdfs:label": "Perspective-taking",
@@ -6638,6 +6757,9 @@
    "wgo:file": "articles/compassion-and-relationships/perspective-taking.md",
    "wgo:howTo": {
     "@id": "https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:theory-of-moral-sentiments"
    },
    "wgo:level": "introductory"
   },
@@ -7714,6 +7836,98 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:theory-of-moral-sentiments",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s7"
+    }
+   ],
+   "rdfs:label": "The Theory of Moral Sentiments",
+   "skos:altLabel": [
+    "Smith's Moral Sentiments",
+    "TMS",
+    "Theory of Moral Sentiments"
+   ],
+   "skos:broader": {
+    "@id": "wg:moral-sentimentalism"
+   },
+   "skos:definition": "Adam Smith's first book (1759; sixth, much-revised edition 1790), which explains moral judgment through sympathy, our imaginative placing of ourselves in another's situation, and through the \"impartial spectator\", an imagined fair observer we learn to consult when judging our own conduct.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "The Theory of Moral Sentiments",
+   "skos:related": [
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:impartial-spectator"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:self-deception"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:view-from-above"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "wgo:authoredBy": {
+    "@id": "wg:adam-smith"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:perspective-taking-empathic-concern-meta-analysis"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/theory-of-moral-sentiments.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:david-hume"
+    },
+    {
+     "@id": "wg:francis-hutcheson"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:exploring-solomons-paradox-study"
+   }
   },
   {
    "@id": "wg:three-dimensional-wisdom-model",
