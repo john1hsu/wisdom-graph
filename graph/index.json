@@ -4018,6 +4018,125 @@
   ]
  },
  {
+  "id": "wg:wise-leadership",
+  "title": "Wise leadership",
+  "aliases": [
+   "wise leader",
+   "phronetic leadership",
+   "practically wise leadership",
+   "leader wisdom",
+   "executive wisdom"
+  ],
+  "type": "Concept",
+  "domain": "wisdom-at-work",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/wise-leadership.md",
+  "created": "2026-11-14",
+  "summary": "Leading with practical wisdom: judging what is good for the organisation and for the people and society it affects, seeing the particulars of a situation clearly, handling uncertainty openly, and turning that judgment into action and into the judgment of others.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humble-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:robert-sternberg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:wics-model",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:leader-wisdom-and-lmx-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wisdom-narcissism-transformational-leadership-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wise-organizations-and-well-being-study",
+    "source": "s5",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Whose interests does this decision touch, and have I weighed them or only the ones I'm measured on?",
+   "What do I not know here, and have I said so to the people relying on me?",
+   "Is my confidence coming from the facts of this case, or from my position and past success?",
+   "What will the people who watched me decide this learn about how to decide?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead is told to ship a feature by Friday to hit a quarterly target; testing has found that it occasionally shows one customer's order history to another.",
+   "before": "Ship it. The bug is rare, the target is mine, and we'll patch it quietly next sprint.",
+   "after": "Lay out who is affected (customers, the support team, the company's reputation, the people chasing the target), tell my manager plainly what we know and don't know about the bug, propose shipping without the faulty part, and walk the junior engineer who found it through how I'm weighing it.",
+   "why": "The wiser response weighs everyone the decision touches rather than one metric, is honest about uncertainty, and uses the moment to build someone else's judgment."
+  },
+  "source_urls": [
+   "https://wisdomcenter.uchicago.edu/publications/systems-model-leadership-wics",
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://ideas.repec.org/a/kap/jbuset/v121y2014i2p171-187.html",
+   "https://researchers.mq.edu.au/en/publications/wisdom-and-narcissism-as-predictors-of-transformational-leadershi/",
+   "https://www.frontiersin.org/articles/10.3389/fcomm.2021.685850",
+   "https://www.library.hbs.edu/working-knowledge/6-skills-that-wise-companies-harness-for-world-changing-innovation"
+  ]
+ },
+ {
   "id": "wg:wise-reasoning",
   "title": "Wise reasoning",
   "aliases": [

@@ -68,6 +68,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
+| `wg:leading-others` | `wg:wise-leadership` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
@@ -104,6 +105,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
 | `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
+| `wg:wise-leadership` | mixed |  |
 | `wg:wise-reasoning` | mixed |  |
 
 ## Ideas with no recorded origin (gap)
@@ -131,6 +133,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
+| `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |

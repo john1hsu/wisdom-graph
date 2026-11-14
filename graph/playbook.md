@@ -573,3 +573,19 @@ Ask yourself:
 - Am I asking for input because I will use it, or to look open?
 - Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?
 
+### [Wise leadership](../articles/wisdom-at-work/wise-leadership.md) — Concept
+
+*A team lead is told to ship a feature by Friday to hit a quarterly target; testing has found that it occasionally shows one customer's order history to another.*
+
+| Before | After |
+|---|---|
+| Ship it. The bug is rare, the target is mine, and we'll patch it quietly next sprint. | Lay out who is affected (customers, the support team, the company's reputation, the people chasing the target), tell my manager plainly what we know and don't know about the bug, propose shipping without the faulty part, and walk the junior engineer who found it through how I'm weighing it. |
+
+**Why:** The wiser response weighs everyone the decision touches rather than one metric, is honest about uncertainty, and uses the moment to build someone else's judgment.
+
+Ask yourself:
+- Whose interests does this decision touch, and have I weighed them or only the ones I'm measured on?
+- What do I not know here, and have I said so to the people relying on me?
+- Is my confidence coming from the facts of this case, or from my position and past success?
+- What will the people who watched me decide this learn about how to decide?
+

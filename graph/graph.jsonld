@@ -5306,6 +5306,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "American Psychologist, 62(1), 34–42 (Sternberg, 2007), listed by the Chicago Center for Practical Wisdom, University of Chicago",
+   "dcterms:title": "A Systems Model of Leadership: WICS",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/systems-model-leadership-wics"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book VI (trans. W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Business Ethics, 121(2), 171–187 (Zacher, Pearce, Rooney & McKenna, 2014; doi:10.1007/s10551-013-1692-4), RePEc/IDEAS record",
+   "dcterms:title": "Leaders' personal wisdom and leader–member exchange quality: The role of individualized consideration",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/kap/jbuset/v121y2014i2p171-187.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Leadership and Organization Development Journal, 35(4), 335–358 (Greaves, Zacher, McKenna & Rooney, 2014; doi:10.1108/LODJ-07-2012-0092), Macquarie University research record",
+   "dcterms:title": "Wisdom and narcissism as predictors of transformational leadership",
+   "schema:url": {
+    "@id": "https://researchers.mq.edu.au/en/publications/wisdom-and-narcissism-as-predictors-of-transformational-leadershi/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Frontiers in Communication, 6, 685850 (Ardelt & Sharma, 2021; doi:10.3389/fcomm.2021.685850)",
+   "dcterms:title": "Linking Wise Organizations to Wise Leadership, Job Satisfaction, and Well-Being",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fcomm.2021.685850"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Harvard Business School Working Knowledge (Senz, 2019), on Takeuchi & Nonaka's The Wise Company",
+   "dcterms:title": "6 Skills That Wise Companies Harness for World-Changing Innovation",
+   "schema:url": {
+    "@id": "https://www.library.hbs.edu/working-knowledge/6-skills-that-wise-companies-harness-for-world-changing-innovation"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -5491,6 +5575,46 @@
    "@type": "schema:HowToStep",
    "schema:position": 6,
    "schema:text": "Stop and set the exercise aside if it leaves you feeling that nothing matters, and talk to someone you trust instead."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose interests does this decision touch, and have I weighed them or only the ones I'm measured on?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What do I not know here, and have I said so to the people relying on me?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my confidence coming from the facts of this case, or from my position and past success?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What will the people who watched me decide this learn about how to decide?",
+   "wgo:questionFor": {
+    "@id": "wg:wise-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Lay out who is affected (customers, the support team, the company's reputation, the people chasing the target), tell my manager plainly what we know and don't know about the bug, propose shipping without the faulty part, and walk the junior engineer who found it through how I'm weighing it.",
+   "wgo:before": "Ship it. The bug is rare, the target is mine, and we'll patch it quietly next sprint.",
+   "wgo:situation": "A team lead is told to ship a feature by Friday to hit a quarterly target; testing has found that it occasionally shows one customer's order history to another.",
+   "wgo:why": "The wiser response weighs everyone the decision touches rather than one metric, is honest about uncertainty, and uses the moment to build someone else's judgment."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-reasoning/check/1",
@@ -9099,6 +9223,106 @@
    "wgo:supportedBy": {
     "@id": "wg:eavesdropping-on-character-study"
    }
+  },
+  {
+   "@id": "wg:wise-leadership",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s6"
+    }
+   ],
+   "rdfs:label": "Wise leadership",
+   "skos:altLabel": [
+    "executive wisdom",
+    "leader wisdom",
+    "phronetic leadership",
+    "practically wise leadership",
+    "wise leader"
+   ],
+   "skos:broader": {
+    "@id": "wg:practical-wisdom"
+   },
+   "skos:definition": "Leading with practical wisdom: judging what is good for the organisation and for the people and society it affects, seeing the particulars of a situation clearly, handling uncertainty openly, and turning that judgment into action and into the judgment of others.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Wise leadership",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:robert-sternberg"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:wics-model"
+   },
+   "wgo:file": "articles/wisdom-at-work/wise-leadership.md",
+   "wgo:level": "introductory",
+   "wgo:requires": {
+    "@id": "wg:wise-reasoning"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:leader-wisdom-and-lmx-study"
+    },
+    {
+     "@id": "wg:wisdom-narcissism-transformational-leadership-study"
+    },
+    {
+     "@id": "wg:wise-organizations-and-well-being-study"
+    }
+   ]
   },
   {
    "@id": "wg:wise-reasoning",
