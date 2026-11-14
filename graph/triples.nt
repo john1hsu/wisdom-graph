@@ -1546,6 +1546,67 @@
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/lawrence-calhoun> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/richard-tedeschi> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What is the purpose behind the rule or plan I'm about to apply, and does applying it here actually serve that purpose?" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Which particular features of this situation would an experienced, fair-minded person notice that I'm skating over?" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using my cleverness to reach a goal I haven't checked is worth reaching?" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Whose interests, including my own, have I weighed, and whose have I quietly left out?" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Have I asked someone with more experience of situations like this what they would see?" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"The rule exists to keep the books clean and stop sloppy filing, and neither is at stake here. I'll approve it, note the reason on the record, and suggest finance add a hardship clause so the next person isn't left to luck.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Rules are rules. If I make an exception for one person, I'll have to make it for everyone. Rejected." .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead's policy is that expense claims filed more than 30 days late are rejected. A reliable new hire files a claim six weeks late, after spending a month away dealing with a family emergency." .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Practical wisdom serves the purpose behind a rule rather than its letter, notices what is particular about the case, and still protects fairness by making the reasoning visible and fixing the policy for everyone." .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2000/01/rdf-schema#label> "Practical wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "moral wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "phronesis" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "phronêsis" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "prudence" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "prudentia" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#definition> "The virtue, named phronesis by Aristotle and prudentia by medieval philosophers, of seeing what matters in a particular situation and working out well how to act on it for the good of oneself and others: good judgment about how to live, grown from experience and inseparable from good character." .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/foundations> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Practical wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "foundations" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/foundations/practical-wisdom.md" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2000/01/rdf-schema#label> "Purpose in life" .
@@ -3282,6 +3343,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/post-traumatic-growth/s5> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Richard Kraut)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> <http://purl.org/dc/terms/title> "Aristotle's Ethics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1> <https://schema.org/url> <https://plato.stanford.edu/ENTRiES/aristotle-ethics/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VI, trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> <http://purl.org/dc/terms/publisher> "Review of General Psychology, 25(3), 239–257 (Kristjánsson, Fowers, Darnell & Pollard, 2021; doi:10.1177/10892680211023063; University of Birmingham repository)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> <http://purl.org/dc/terms/title> "Phronesis (Practical Wisdom) as a Type of Contextual Integrative Thinking" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3> <https://schema.org/url> <https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> <http://purl.org/dc/terms/publisher> "Research in Organizational Behavior, 31, 3–23 (Barry Schwartz, 2011; doi:10.1016/j.riob.2011.09.001; Swarthmore College author copy)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> <http://purl.org/dc/terms/title> "Practical wisdom and organizations" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4> <https://schema.org/url> <https://www.swarthmore.edu/sites/default/files/assets/documents/user_profiles/bschwar1/Schwartz%20ROB.2011-PracWisOrganizations.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Anthony Celano; Summer 2021 edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> <http://purl.org/dc/terms/title> "Medieval Theories of Practical Reason" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5> <https://schema.org/url> <https://plato.stanford.edu/archives/sum2021/entries/practical-reason-med/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1> <http://purl.org/dc/terms/publisher> "Psychosomatic Medicine, 78(2), 122–133 (Cohen, Bavishi & Rozanski, 2016; PDF hosted by MIDUS, University of Wisconsin–Madison)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1> <http://purl.org/dc/terms/title> "Purpose in Life and Its Relationship to All-Cause Mortality and Cardiovascular Events: A Meta-Analysis" .

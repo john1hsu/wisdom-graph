@@ -1452,6 +1452,54 @@
    "schema:text": "Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What is the purpose behind the rule or plan I'm about to apply, and does applying it here actually serve that purpose?",
+   "wgo:questionFor": {
+    "@id": "wg:practical-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which particular features of this situation would an experienced, fair-minded person notice that I'm skating over?",
+   "wgo:questionFor": {
+    "@id": "wg:practical-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using my cleverness to reach a goal I haven't checked is worth reaching?",
+   "wgo:questionFor": {
+    "@id": "wg:practical-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose interests, including my own, have I weighed, and whose have I quietly left out?",
+   "wgo:questionFor": {
+    "@id": "wg:practical-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I asked someone with more experience of situations like this what they would see?",
+   "wgo:questionFor": {
+    "@id": "wg:practical-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "\"The rule exists to keep the books clean and stop sloppy filing, and neither is at stake here. I'll approve it, note the reason on the record, and suggest finance add a hardship clause so the next person isn't left to luck.\"",
+   "wgo:before": "Rules are rules. If I make an exception for one person, I'll have to make it for everyone. Rejected.",
+   "wgo:situation": "A team lead's policy is that expense claims filed more than 30 days late are rejected. A reliable new hire files a claim six weeks late, after spending a month away dealing with a family emergency.",
+   "wgo:why": "Practical wisdom serves the purpose behind a rule rather than its letter, notices what is particular about the case, and still protects fairness by making the reasoning visible and fixing the policy for everyone."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Is there still something I can do about this, or is it time to let the goal go and invest in another?",
@@ -4504,6 +4552,76 @@
     "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRiES/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Review of General Psychology, 25(3), 239–257 (Kristjánsson, Fowers, Darnell & Pollard, 2021; doi:10.1177/10892680211023063; University of Birmingham repository)",
+   "dcterms:title": "Phronesis (Practical Wisdom) as a Type of Contextual Integrative Thinking",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Research in Organizational Behavior, 31, 3–23 (Barry Schwartz, 2011; doi:10.1016/j.riob.2011.09.001; Swarthmore College author copy)",
+   "dcterms:title": "Practical wisdom and organizations",
+   "schema:url": {
+    "@id": "https://www.swarthmore.edu/sites/default/files/assets/documents/user_profiles/bschwar1/Schwartz%20ROB.2011-PracWisOrganizations.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Anthony Celano; Summer 2021 edition)",
+   "dcterms:title": "Medieval Theories of Practical Reason",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/sum2021/entries/practical-reason-med/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1",
@@ -9222,6 +9340,119 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:practical-wisdom",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/practical-wisdom/s5"
+    }
+   ],
+   "rdfs:label": "Practical wisdom",
+   "skos:altLabel": [
+    "moral wisdom",
+    "phronêsis",
+    "phronesis",
+    "prudence",
+    "prudentia"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:intellectual-virtues"
+    },
+    {
+     "@id": "wg:wisdom"
+    }
+   ],
+   "skos:definition": "The virtue, named phronesis by Aristotle and prudentia by medieval philosophers, of seeing what matters in a particular situation and working out well how to act on it for the good of oneself and others: good judgment about how to live, grown from experience and inseparable from good character.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Practical wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:professional-work"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:common-wisdom-model"
+   },
+   "wgo:contrastsWith": [
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    }
+   ],
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:aristotelian-phronesis-model"
+   },
+   "wgo:file": "articles/foundations/practical-wisdom.md",
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   }
   },
   {
    "@id": "wg:purpose-in-life",

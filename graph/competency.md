@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:practical-wisdom` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -73,6 +75,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:after-action-review` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
+| `wg:leading-others` | `wg:practical-wisdom` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
 | `wg:learning-from-experience` | `wg:after-action-review` |
@@ -81,6 +84,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 | `wg:negotiation` | `wg:perspective-taking` |
+| `wg:professional-work` | `wg:practical-wisdom` |
 | `wg:serious-illness` | `wg:logotherapy` |
 | `wg:workplace-feedback` | `wg:honesty` |
 
@@ -150,6 +154,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
+| `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |

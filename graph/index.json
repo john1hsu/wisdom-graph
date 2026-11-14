@@ -2832,6 +2832,147 @@
   ]
  },
  {
+  "id": "wg:practical-wisdom",
+  "title": "Practical wisdom",
+  "aliases": [
+   "phronesis",
+   "phronêsis",
+   "prudence",
+   "prudentia",
+   "moral wisdom"
+  ],
+  "type": "Virtue",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/foundations/practical-wisdom.md",
+  "created": "2026-11-14",
+  "summary": "The virtue, named phronesis by Aristotle and prudentia by medieval philosophers, of seeing what matters in a particular situation and working out well how to act on it for the good of oneself and others: good judgment about how to live, grown from experience and inseparable from good character.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:aristotle",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:nicomachean-ethics",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:cleverness",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:theoretical-wisdom",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:professional-work",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:aristotelian-phronesis-model",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:common-wisdom-model",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "What is the purpose behind the rule or plan I'm about to apply, and does applying it here actually serve that purpose?",
+   "Which particular features of this situation would an experienced, fair-minded person notice that I'm skating over?",
+   "Am I using my cleverness to reach a goal I haven't checked is worth reaching?",
+   "Whose interests, including my own, have I weighed, and whose have I quietly left out?",
+   "Have I asked someone with more experience of situations like this what they would see?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead's policy is that expense claims filed more than 30 days late are rejected. A reliable new hire files a claim six weeks late, after spending a month away dealing with a family emergency.",
+   "before": "Rules are rules. If I make an exception for one person, I'll have to make it for everyone. Rejected.",
+   "after": "\"The rule exists to keep the books clean and stop sloppy filing, and neither is at stake here. I'll approve it, note the reason on the record, and suggest finance add a hardship clause so the next person isn't left to luck.\"",
+   "why": "Practical wisdom serves the purpose behind a rule rather than its letter, notices what is particular about the case, and still protects fairness by making the reasoning visible and fixing the policy for everyone."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRiES/aristotle-ethics/",
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf",
+   "https://www.swarthmore.edu/sites/default/files/assets/documents/user_profiles/bschwar1/Schwartz%20ROB.2011-PracWisOrganizations.pdf",
+   "https://plato.stanford.edu/archives/sum2021/entries/practical-reason-med/"
+  ]
+ },
+ {
   "id": "wg:purpose-in-life",
   "title": "Purpose in life",
   "aliases": [

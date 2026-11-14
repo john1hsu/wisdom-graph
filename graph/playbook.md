@@ -249,6 +249,23 @@ Ask yourself:
 - Whose advice am I about to rely on here, and what picture of wisdom made me choose them?
 - Would someone raised with a different idea of wisdom see this choice as wise, and what would they weigh that I am leaving out?
 
+### [Practical wisdom](../articles/foundations/practical-wisdom.md) — Virtue
+
+*A team lead's policy is that expense claims filed more than 30 days late are rejected. A reliable new hire files a claim six weeks late, after spending a month away dealing with a family emergency.*
+
+| Before | After |
+|---|---|
+| Rules are rules. If I make an exception for one person, I'll have to make it for everyone. Rejected. | "The rule exists to keep the books clean and stop sloppy filing, and neither is at stake here. I'll approve it, note the reason on the record, and suggest finance add a hardship clause so the next person isn't left to luck." |
+
+**Why:** Practical wisdom serves the purpose behind a rule rather than its letter, notices what is particular about the case, and still protects fairness by making the reasoning visible and fixing the policy for everyone.
+
+Ask yourself:
+- What is the purpose behind the rule or plan I'm about to apply, and does applying it here actually serve that purpose?
+- Which particular features of this situation would an experienced, fair-minded person notice that I'm skating over?
+- Am I using my cleverness to reach a goal I haven't checked is worth reaching?
+- Whose interests, including my own, have I weighed, and whose have I quietly left out?
+- Have I asked someone with more experience of situations like this what they would see?
+
 ### [Socratic ignorance](../articles/foundations/socratic-ignorance.md) — Principle
 
 *A team lead is asked in a planning meeting whether a new supplier can deliver on time, and has only skimmed their proposal.*
