@@ -386,6 +386,22 @@ Ask yourself:
 - Am I judging myself by my intentions while others can only see my behaviour?
 - Have I mistaken a confident story about my motives for real knowledge of them?
 
+### [Regret](../articles/self-knowledge/regret.md) — Phenomenon
+
+*Two years ago you decided not to apply for a team-lead role; a colleague got it and is thriving, and the news of their promotion brings the old decision back.*
+
+| Before | After |
+|---|---|
+| I always bottle it. I keep replaying that week and telling myself what an idiot I was, or I insist I have no regrets at all and change the subject. | I did hold back, and I wish I hadn't. What was I afraid of, and is that still true? The next lead role opens in spring, so this month I'll ask my manager for a stretch project and say plainly that I want to be considered. |
+
+**Why:** The wiser response accepts the regret without self-attack, extracts the lesson and turns it toward an opportunity that is still open, which is when regret is most useful.
+
+Ask yourself:
+- Is there still something I can do about this, or is it time to let the goal go and invest in another?
+- Am I learning a specific lesson from this regret, or replaying the same scene and blaming myself?
+- Would I speak to a friend with this regret the way I am speaking to myself?
+- Which choice in front of me now am I most likely to regret not making?
+
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice
 
 1. Notice the signs that you are immersed in an upsetting experience, such as replaying the same scene, rehearsing the same sentence or feeling the original anger or shame rise again.

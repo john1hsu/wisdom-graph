@@ -92,6 +92,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:purpose-in-life` | mixed |  |
+| `wg:regret` | mixed |  |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
@@ -106,6 +107,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:major-life-decision` | wgo:Context |
 | `wg:perspective-taking` | wgo:Practice |
+| `wg:regret` | wgo:Phenomenon |
 | `wg:virtue-ethics` | wgo:Field |
 
 ## Orphan articles (gap)

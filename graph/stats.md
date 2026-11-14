@@ -1,11 +1,11 @@
 # Graph statistics
 
-- Articles (nodes written): **35**
-- Frontier nodes (referenced, unwritten): **180**
-- Asserted edges: **429** (typed + evidenced: **202**)
-- Asserted triples: **3169**; inferred by OWL-RL: **767**
-- Citations: **214**
-- Self-check questions: **95**; procedures: **11**; before/after examples: **23**
+- Articles (nodes written): **36**
+- Frontier nodes (referenced, unwritten): **186**
+- Asserted edges: **441** (typed + evidenced: **208**)
+- Asserted triples: **3254**; inferred by OWL-RL: **794**
+- Citations: **220**
+- Self-check questions: **99**; procedures: **11**; before/after examples: **24**
 - Weakly connected components: **1**
 - Communities (Louvain): **9**; max k-core: **5**
 
@@ -15,33 +15,33 @@ PageRank = authority; betweenness = bridges between areas.
 
 | Node | PageRank | Betweenness | Written |
 |---|---|---|---|
-| `wg:self-distancing` | 0.0093 | 0.1285 | yes |
-| `wg:intellectual-humility` | 0.0087 | 0.1382 | yes |
-| `wg:seeking-counsel` | 0.0085 | 0.1011 | yes |
-| `wg:rumination` | 0.0084 | 0.1137 | yes |
-| `wg:wise-reasoning` | 0.0079 | 0.0253 | no |
-| `wg:interpersonal-conflict` | 0.0071 | 0.0162 | no |
-| `wg:equanimity` | 0.0070 | 0.0916 | yes |
-| `wg:perspective-taking` | 0.0068 | 0.0843 | yes |
-| `wg:stoicism` | 0.0068 | 0.1158 | yes |
-| `wg:memento-mori` | 0.0067 | 0.0712 | yes |
-| `wg:self-reflection` | 0.0067 | 0.0180 | no |
-| `wg:negative-visualization` | 0.0066 | 0.0517 | yes |
-| `wg:forgiveness` | 0.0065 | 0.0925 | yes |
-| `wg:socratic-ignorance` | 0.0065 | 0.0347 | yes |
-| `wg:compassion` | 0.0063 | 0.0144 | no |
+| `wg:self-distancing` | 0.0094 | 0.1475 | yes |
+| `wg:rumination` | 0.0085 | 0.1211 | yes |
+| `wg:intellectual-humility` | 0.0085 | 0.1329 | yes |
+| `wg:seeking-counsel` | 0.0083 | 0.0978 | yes |
+| `wg:wise-reasoning` | 0.0077 | 0.0223 | no |
+| `wg:interpersonal-conflict` | 0.0070 | 0.0147 | no |
+| `wg:equanimity` | 0.0069 | 0.0858 | yes |
+| `wg:forgiveness` | 0.0067 | 0.1052 | yes |
+| `wg:perspective-taking` | 0.0067 | 0.0794 | yes |
+| `wg:stoicism` | 0.0066 | 0.1087 | yes |
+| `wg:memento-mori` | 0.0065 | 0.0599 | yes |
+| `wg:self-reflection` | 0.0065 | 0.0170 | no |
+| `wg:negative-visualization` | 0.0065 | 0.0493 | yes |
+| `wg:socratic-ignorance` | 0.0063 | 0.0337 | yes |
+| `wg:compassion` | 0.0062 | 0.0127 | no |
 
 ## Communities
 
-1. `wg:ancient-greek-philosophy`, `wg:apology-of-socrates`, `wg:benjamin-franklin`, `wg:coin-toss-life-decisions-study`, `wg:construal-level-theory`, `wg:decision-theory`, `wg:decisional-balance-and-ambivalence-review`, `wg:decisions-under-uncertainty`, `wg:delphic-maxims`, `wg:distraction`, `wg:egocentric-discounting`, `wg:end-of-history-illusion` …
-2. `wg:acceptance`, `wg:anticipating-ones-troubles-study`, `wg:appreciation`, `wg:awe`, `wg:contemplative-science`, `wg:contentment`, `wg:counting-blessings-study`, `wg:dichotomy-of-control`, `wg:epicureanism`, `wg:equanimity`, `wg:four-immeasurables`, `wg:george-bailey-effect` …
-3. `wg:buddhism`, `wg:charlotte-witvliet`, `wg:cognitive-reappraisal`, `wg:compassion`, `wg:compassionate-reappraisal`, `wg:condonation`, `wg:edward-titchener`, `wg:egocentric-bias`, `wg:emotion-regulation`, `wg:emotional-contagion`, `wg:emotional-suppression`, `wg:empathic-distress` …
-4. `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:cognitive-and-integrative-conceptions-study`, `wg:concept-of-wisdom-cross-cultural-study`, `wg:giving-advice`, `wg:how-to-measure-wisdom-study`, `wg:implicit-theories-of-wisdom`, `wg:interactive-minds-study`, `wg:lifespan-developmental-psychology`, `wg:monika-ardelt`, `wg:paul-baltes`, `wg:psychology-of-wisdom` …
-5. `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:consequentialism`, `wg:deliberation`, `wg:deontology`, `wg:doctrine-of-the-mean`, `wg:eavesdropping-on-character-study`, `wg:elizabeth-anscombe`, `wg:intuitive-judgment`, `wg:nicomachean-ethics` …
+1. `wg:acceptance`, `wg:age-related-positivity-effect-meta-analysis`, `wg:anticipating-ones-troubles-study`, `wg:appreciation`, `wg:awe`, `wg:cardinal-virtues`, `wg:contemplative-science`, `wg:contentment`, `wg:counting-blessings-study`, `wg:death-awareness`, `wg:dichotomy-of-control`, `wg:emotional-suppression` …
+2. `wg:buddhism`, `wg:charlotte-witvliet`, `wg:cognitive-reappraisal`, `wg:compassion`, `wg:compassionate-reappraisal`, `wg:condonation`, `wg:edward-titchener`, `wg:egocentric-bias`, `wg:emotion-regulation`, `wg:emotional-contagion`, `wg:empathic-distress`, `wg:empathy` …
+3. `wg:ancient-greek-philosophy`, `wg:apology-of-socrates`, `wg:construal-level-theory`, `wg:delphic-maxims`, `wg:distraction`, `wg:egocentric-discounting`, `wg:ethan-kross`, `wg:exploring-solomons-paradox-study`, `wg:giving-advice`, `wg:hebrew-wisdom-literature`, `wg:igor-grossmann`, `wg:introspection-illusion` …
+4. `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:benjamin-franklin`, `wg:confucianism`, `wg:consequentialism`, `wg:decisional-balance-and-ambivalence-review`, `wg:deliberation`, `wg:deontology`, `wg:doctrine-of-the-mean`, `wg:eavesdropping-on-character-study`, `wg:elizabeth-anscombe`, `wg:fast-and-frugal-heuristics` …
+5. `wg:ageing`, `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:cognitive-and-integrative-conceptions-study`, `wg:concept-of-wisdom-cross-cultural-study`, `wg:how-to-measure-wisdom-study`, `wg:implicit-theories-of-wisdom`, `wg:interactive-minds-study`, `wg:lifespan-developmental-psychology`, `wg:monika-ardelt`, `wg:paul-baltes`, `wg:psychology-of-wisdom` …
 6. `wg:arrogance`, `wg:bradley-owens`, `wg:ceo-hubris-acquisition-premiums-study`, `wg:daoism`, `wg:dogmatism`, `wg:escalation-of-commitment`, `wg:hubris`, `wg:humble-leadership`, `wg:humility`, `wg:intellectual-arrogance`, `wg:intellectual-humility`, `wg:intellectual-virtues` …
 7. `wg:benefit-finding`, `wg:clinical-psychologists`, `wg:lawrence-calhoun`, `wg:martin-seligman`, `wg:perceived-versus-actual-growth-study`, `wg:personal-growth`, `wg:post-traumatic-growth`, `wg:problem-solving`, `wg:repetitive-negative-thinking`, `wg:resilience`, `wg:response-styles-theory`, `wg:richard-tedeschi` …
 8. `wg:eudaimonia`, `wg:existential-psychotherapy`, `wg:existential-therapies-meta-analysis`, `wg:existential-vacuum`, `wg:hyper-reflection`, `wg:ikigai`, `wg:life-goals`, `wg:logotherapy`, `wg:meaning-centered-group-psychotherapy-trial`, `wg:meaning-centered-psychotherapy`, `wg:meaning-in-life`, `wg:psychoanalysis` …
-9. `wg:age-related-positivity-effect-meta-analysis`, `wg:ageing`, `wg:death-awareness`, `wg:laura-carstensen`, `wg:positivity-effect-in-ageing`, `wg:socioemotional-selectivity-theory`, `wg:strength-and-vulnerability-integration-theory`, `wg:strength-of-weaker-ties-study`, `wg:theories-of-ageing`
+9. `wg:coin-toss-life-decisions-study`, `wg:counterfactual-thinking`, `wg:decision-theory`, `wg:decisions-under-uncertainty`, `wg:end-of-history-illusion`, `wg:intellectual-courage`, `wg:major-life-decision`, `wg:opportunity-principle`, `wg:praise-for-regret-study`, `wg:regret`, `wg:self-compassion`, `wg:social-psychology` …
 
 ## By type
 
@@ -51,7 +51,7 @@ PageRank = authority; betweenness = bridges between areas.
 - Framework: 3
 - Obstacle: 1
 - Person: 2
-- Phenomenon: 1
+- Phenomenon: 2
 - Practice: 9
 - Principle: 3
 - Skill: 2
@@ -69,7 +69,7 @@ PageRank = authority; betweenness = bridges between areas.
 - judgment-and-decisions: 4
 - meaning-and-the-good-life: 3
 - science-of-wisdom: 3
-- self-knowledge: 2
+- self-knowledge: 3
 - thinkers-and-works: 2
 - virtues-and-character: 2
 - wisdom-at-work: 2
@@ -77,19 +77,18 @@ PageRank = authority; betweenness = bridges between areas.
 
 ## By level
 
-- introductory: 35
+- introductory: 36
 
 ## By evidence status
 
 - contested: 1
 - historical: 2
-- mixed: 20
+- mixed: 21
 - normative: 11
 - robust: 1
 
 ## Domain coverage (breadth runs pick the lowest)
 
-- self-knowledge: 2
 - thinkers-and-works: 2
 - virtues-and-character: 2
 - wisdom-at-work: 2
@@ -97,6 +96,7 @@ PageRank = authority; betweenness = bridges between areas.
 - foundations: 3
 - meaning-and-the-good-life: 3
 - science-of-wisdom: 3
+- self-knowledge: 3
 - wisdom-traditions: 3
 - compassion-and-relationships: 4
 - emotions-and-equanimity: 4

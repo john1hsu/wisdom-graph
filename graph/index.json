@@ -2266,6 +2266,105 @@
   ]
  },
  {
+  "id": "wg:regret",
+  "title": "Regret",
+  "aliases": [
+   "learning from regret",
+   "life regrets",
+   "regrets of action and inaction"
+  ],
+  "type": "Phenomenon",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/regret.md",
+  "created": "2026-11-14",
+  "summary": "The painful sense, on comparing what happened with what might have been, that a better outcome would have followed had you chosen differently; research finds it is the negative emotion people value most, and that it helps most when something can still be done and it is met with self-compassion rather than rumination.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:counterfactual-thinking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:major-life-decision"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socioemotional-selectivity-theory"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:what-we-regret-most-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:opportunity-principle",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:praise-for-regret-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:temporal-pattern-of-regret-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:self-compassion",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:social-psychology",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Is there still something I can do about this, or is it time to let the goal go and invest in another?",
+   "Am I learning a specific lesson from this regret, or replaying the same scene and blaming myself?",
+   "Would I speak to a friend with this regret the way I am speaking to myself?",
+   "Which choice in front of me now am I most likely to regret not making?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Two years ago you decided not to apply for a team-lead role; a colleague got it and is thriving, and the news of their promotion brings the old decision back.",
+   "before": "I always bottle it. I keep replaying that week and telling myself what an idiot I was, or I insist I have no regrets at all and change the subject.",
+   "after": "I did hold back, and I wish I hadn't. What was I afraid of, and is that still true? The next lead role opens in spring, so this month I'll ask my manager for a stretch project and say plainly that I want to be considered.",
+   "why": "The wiser response accepts the regret without self-attack, extracts the lesson and turns it toward an opportunity that is still open, which is when regret is most useful."
+  },
+  "source_urls": [
+   "https://core.ac.uk/download/235277317.pdf",
+   "https://core.ac.uk/download/235277318.pdf",
+   "https://read.qxmd.com/read/26791595/self-compassion-promotes-personal-improvement-from-regret-experiences-via-acceptance",
+   "https://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1515373/pdf",
+   "https://forrt.org/flora-replication-atlas/doi/10.1037/0022-3514.67.3.357/",
+   "https://insight.kellogg.northwestern.edu/article/learning-to-use-regret"
+  ]
+ },
+ {
   "id": "wg:robert-sternberg",
   "title": "Robert J. Sternberg",
   "aliases": [

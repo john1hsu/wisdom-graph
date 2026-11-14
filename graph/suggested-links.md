@@ -5,16 +5,17 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.08 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
-| 2.94 | `wg:intellectual-humility` | `wg:major-life-decision` | `wg:deliberation`, `wg:intellectual-courage`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
-| 2.38 | `wg:empathy` | `wg:equanimity` | `wg:compassion`, `wg:emotion-regulation`, `wg:forgiveness` |
-| 2.14 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
+| 2.93 | `wg:intellectual-humility` | `wg:major-life-decision` | `wg:deliberation`, `wg:intellectual-courage`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
+| 2.37 | `wg:empathy` | `wg:equanimity` | `wg:compassion`, `wg:emotion-regulation`, `wg:forgiveness` |
+| 2.12 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 2.09 | `wg:purpose-in-life` | `wg:stoicism` | `wg:eudaimonia`, `wg:gratitude`, `wg:logotherapy`, `wg:memento-mori` |
 | 2.05 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:socratic-ignorance`, `wg:wise-reasoning` |
+| 2.04 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:regret`, `wg:rumination` |
 | 1.87 | `wg:intellectual-humility` | `wg:seven-sages-of-greece` | `wg:doctrine-of-the-mean`, `wg:hubris`, `wg:know-thyself`, `wg:seeking-counsel`, `wg:solomons-paradox` |
-| 1.65 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:rumination` |
 | 1.64 | `wg:implicit-theories-of-wisdom` | `wg:socratic-ignorance` | `wg:berlin-wisdom-paradigm`, `wg:seeking-counsel`, `wg:wisdom` |
 | 1.63 | `wg:berlin-wisdom-paradigm` | `wg:perspective-taking` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 1.53 | `wg:robert-sternberg` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:psychology-of-wisdom` |
+| 1.53 | `wg:major-life-decision` | `wg:rumination` | `wg:deliberation`, `wg:moral-algebra`, `wg:regret`, `wg:self-distancing` |
 | 1.50 | `wg:doctrine-of-the-mean` | `wg:seeking-counsel` | `wg:deliberation`, `wg:intellectual-humility`, `wg:know-thyself`, `wg:seven-sages-of-greece` |
 | 1.48 | `wg:buddhism` | `wg:view-from-above` | `wg:equanimity`, `wg:impermanence`, `wg:memento-mori` |
 | 1.47 | `wg:seven-sages-of-greece` | `wg:socratic-ignorance` | `wg:know-thyself`, `wg:seeking-counsel`, `wg:socratic-philosophy` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.44 | `wg:logotherapy` | `wg:solomons-paradox` | `wg:self-transcendence` |
 | 1.44 | `wg:socioemotional-selectivity-theory` | `wg:three-dimensional-wisdom-model` | `wg:ageing` |
 | 1.44 | `wg:hubris` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:know-thyself`, `wg:seeking-counsel`, `wg:view-from-above` |
-| 1.43 | `wg:intellectual-humility` | `wg:view-from-above` | `wg:hubris`, `wg:humility`, `wg:self-distancing` |

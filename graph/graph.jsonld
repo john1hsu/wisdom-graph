@@ -1198,6 +1198,46 @@
    "schema:text": "Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there still something I can do about this, or is it time to let the goal go and invest in another?",
+   "wgo:questionFor": {
+    "@id": "wg:regret"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I learning a specific lesson from this regret, or replaying the same scene and blaming myself?",
+   "wgo:questionFor": {
+    "@id": "wg:regret"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I speak to a friend with this regret the way I am speaking to myself?",
+   "wgo:questionFor": {
+    "@id": "wg:regret"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which choice in front of me now am I most likely to regret not making?",
+   "wgo:questionFor": {
+    "@id": "wg:regret"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I did hold back, and I wish I hadn't. What was I afraid of, and is that still true? The next lead role opens in spring, so this month I'll ask my manager for a stretch project and say plainly that I want to be considered.",
+   "wgo:before": "I always bottle it. I keep replaying that week and telling myself what an idiot I was, or I insist I have no regrets at all and change the subject.",
+   "wgo:situation": "Two years ago you decided not to apply for a team-lead role; a colleague got it and is thriving, and the news of their promotion brings the old decision back.",
+   "wgo:why": "The wiser response accepts the regret without self-attack, extracts the lesson and turns it toward an opportunity that is still open, which is when regret is most useful."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/rumination/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Has this round of thinking produced a new insight or a next step, or am I replaying the same scene?",
@@ -3492,6 +3532,90 @@
     "@id": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 31(9), 1273–1285 (Roese & Summerville, 2005), author copy via CORE",
+   "dcterms:title": "What we regret most . . . and why",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/235277317.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Motivation and Emotion, 32, 46–54 (Saffrey, Summerville & Roese, 2008), author copy via CORE",
+   "dcterms:title": "Praise for regret: People value regret above other negative emotions",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/235277318.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin (Zhang & Chen, 2016), abstract record (PubMed 26791595)",
+   "dcterms:title": "Self-compassion promotes personal improvement from regret experiences via acceptance",
+   "schema:url": {
+    "@id": "https://read.qxmd.com/read/26791595/self-compassion-promotes-personal-improvement-from-regret-experiences-via-acceptance"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 15, 1515373 (Rutledge, Williams & Barlow, 2024)",
+   "dcterms:title": "The relationship between life regrets and well-being: a systematic review",
+   "schema:url": {
+    "@id": "https://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1515373/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "FORRT FLoRA Replication Atlas",
+   "dcterms:title": "The temporal pattern to the experience of regret (Gilovich & Medvec, 1994) — replication record",
+   "schema:url": {
+    "@id": "https://forrt.org/flora-replication-atlas/doi/10.1037/0022-3514.67.3.357/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Kellogg Insight, Northwestern University Kellogg School of Management (2010)",
+   "dcterms:title": "Learning to use regret",
+   "schema:url": {
+    "@id": "https://insight.kellogg.northwestern.edu/article/learning-to-use-regret"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/robert-sternberg/s1",
@@ -6678,6 +6802,92 @@
      "@id": "wg:purpose-and-mortality-meta-analysis"
     }
    ]
+  },
+  {
+   "@id": "wg:regret",
+   "@type": "wgo:Phenomenon",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s6"
+    }
+   ],
+   "rdfs:label": "Regret",
+   "skos:altLabel": [
+    "learning from regret",
+    "life regrets",
+    "regrets of action and inaction"
+   ],
+   "skos:broader": {
+    "@id": "wg:counterfactual-thinking"
+   },
+   "skos:definition": "The painful sense, on comparing what happened with what might have been, that a better outcome would have followed had you chosen differently; research finds it is the negative emotion people value most, and that it helps most when something can still be done and it is met with self-compassion rather than rumination.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Regret",
+   "skos:related": [
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:self-compassion"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:praise-for-regret-study"
+    },
+    {
+     "@id": "wg:temporal-pattern-of-regret-study"
+    },
+    {
+     "@id": "wg:what-we-regret-most-study"
+    }
+   ],
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:opportunity-principle"
+   },
+   "wgo:file": "articles/self-knowledge/regret.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:social-psychology"
+   }
   },
   {
    "@id": "wg:robert-sternberg",
