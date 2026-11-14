@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:honesty` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -41,6 +43,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
+| `wg:honesty` | 1 | self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:socratic-ignorance` | 1 | Intellectual humility |
@@ -69,6 +72,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 | `wg:negotiation` | `wg:perspective-taking` |
 | `wg:serious-illness` | `wg:logotherapy` |
+| `wg:workplace-feedback` | `wg:honesty` |
 
 ## Myths and contested advice
 
@@ -125,6 +129,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 |---|---|
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
+| `wg:aristotelian-virtue-ethics` | `wg:honesty` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |

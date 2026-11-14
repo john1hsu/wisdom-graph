@@ -458,6 +458,46 @@
    "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If the other person later learned everything I know, would they feel I had misled them, even if every word I said was true?",
+   "wgo:questionFor": {
+    "@id": "wg:honesty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I keeping quiet here out of tact, or out of fear of an awkward moment?",
+   "wgo:questionFor": {
+    "@id": "wg:honesty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the kind thing I am about to say also accurate, and is the accurate thing I am about to say also kind?",
+   "wgo:questionFor": {
+    "@id": "wg:honesty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What am I telling myself about my own part in this that I would not want someone else to check?",
+   "wgo:questionFor": {
+    "@id": "wg:honesty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Not for Friday, as things stand. We found a data issue yesterday. I'll have a revised date and options to you by this afternoon.",
+   "wgo:before": "We're in good shape. There are a few loose ends, but nothing to worry about.",
+   "wgo:situation": "Your manager asks, in front of the team, whether the migration you lead is on track for Friday. It is not; a data problem surfaced yesterday and you have not yet told anyone.",
+   "wgo:why": "The first answer contains no outright lie but is built to mislead, and it spends trust the team will need when the slip comes out. The second states the fact plainly, owns the delay, and pairs bad news with a next step."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/hubris/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I dismissing this objection because of its evidence, or because of who raised it and how well things have gone for me lately?",
@@ -2398,6 +2438,118 @@
     "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Blog of the American Philosophical Association",
+   "dcterms:title": "Recently Published Book Spotlight: Honesty: The Philosophy and Psychology of a Neglected Virtue (interview with Christian B. Miller)",
+   "schema:url": {
+    "@id": "https://blog.apaonline.org/2022/01/07/recently-published-book-spotlight-honesty-the-philosophy-and-psychology-of-a-neglected-virtue/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Wake Forest University, Department of Philosophy",
+   "dcterms:title": "Publications: The Honesty Project (Christian B. Miller and collaborators)",
+   "schema:url": {
+    "@id": "https://honestyproject.philosophy.wfu.edu/?p=1206"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Toronto Metropolitan University Pressbooks (public-domain edition)",
+   "dcterms:title": "Nicomachean Ethics, Book IV, chapter 7: Of truthfulness (W. D. Ross translation)",
+   "schema:url": {
+    "@id": "https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/7-of-truthfulness/"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "The Definition of Lying and Deception (James Edwin Mahon)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/lying-definition/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Organizational Behavior and Human Decision Processes, 126, 88-106 (Wharton author copy)",
+   "dcterms:title": "Prosocial lies: When deception breeds trust (Levine & Schweitzer, 2015)",
+   "schema:url": {
+    "@id": "https://faculty.wharton.upenn.edu/wp-content/uploads/2014/12/Prosocial-Lies-OBHDP.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Proceedings of the National Academy of Sciences, 117(13), 7103-7107 (doi:10.1073/pnas.1911695117; Boston University OpenBU record)",
+   "dcterms:title": "Signing at the beginning versus at the end does not decrease dishonesty (Kristal et al., 2020)",
+   "schema:url": {
+    "@id": "https://open.bu.edu/items/55594ce0-bec8-4ca7-852e-5591b1afe529"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of Alabama at Birmingham News",
+   "dcterms:title": "New research shows most people are honest, except for a few (on Levine, Serota & Docan-Morgan, Communication Monographs)",
+   "schema:url": {
+    "@id": "https://www.uab.edu/news/research-innovation/new-research-shows-most-people-are-honest-except-for-a-few"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Harvard Crimson",
+   "dcterms:title": "HBS Professors' Research Submitted for Retraction Following Allegations of Fraudulent Data",
+   "schema:url": {
+    "@id": "https://thecrimson.com/article/2021/9/1/hbs-research-submitted-for-retraction"
+   },
+   "wgo:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hubris/s1",
@@ -5860,6 +6012,100 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:counting-blessings-study"
+   }
+  },
+  {
+   "@id": "wg:honesty",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s8"
+    }
+   ],
+   "rdfs:label": "Honesty",
+   "skos:altLabel": [
+    "aletheia",
+    "being honest",
+    "the virtue of honesty",
+    "truthfulness"
+   ],
+   "skos:broader": {
+    "@id": "wg:moral-virtues"
+   },
+   "skos:definition": "The character trait of reliably not distorting the facts as you understand them, whether by lying, misleading, cheating, stealing or breaking promises, out of care for truth and for the people who depend on it rather than out of fear of being caught; practised wisely, it is joined to tact, timing and kindness rather than to bluntness.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Honesty",
+   "skos:related": [
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:intellectual-courage"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:self-deception"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:workplace-feedback"
+   },
+   "wgo:complements": {
+    "@id": "wg:compassion"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:prosocial-lying"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/example"
+   },
+   "wgo:file": "articles/virtues-and-character/honesty.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:moral-psychology"
    }
   },
   {

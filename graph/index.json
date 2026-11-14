@@ -942,6 +942,112 @@
   ]
  },
  {
+  "id": "wg:honesty",
+  "title": "Honesty",
+  "aliases": [
+   "truthfulness",
+   "being honest",
+   "aletheia",
+   "the virtue of honesty"
+  ],
+  "type": "Virtue",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/honesty.md",
+  "created": "2026-11-14",
+  "summary": "The character trait of reliably not distorting the facts as you understand them, whether by lying, misleading, cheating, stealing or breaking promises, out of care for truth and for the people who depend on it rather than out of fear of being caught; practised wisely, it is joined to tact, timing and kindness rather than to bluntness.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:self-deception",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:prosocial-lying",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:compassion",
+    "source": "s5",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:moral-psychology",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:workplace-feedback",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "If the other person later learned everything I know, would they feel I had misled them, even if every word I said was true?",
+   "Am I keeping quiet here out of tact, or out of fear of an awkward moment?",
+   "Is the kind thing I am about to say also accurate, and is the accurate thing I am about to say also kind?",
+   "What am I telling myself about my own part in this that I would not want someone else to check?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Your manager asks, in front of the team, whether the migration you lead is on track for Friday. It is not; a data problem surfaced yesterday and you have not yet told anyone.",
+   "before": "We're in good shape. There are a few loose ends, but nothing to worry about.",
+   "after": "Not for Friday, as things stand. We found a data issue yesterday. I'll have a revised date and options to you by this afternoon.",
+   "why": "The first answer contains no outright lie but is built to mislead, and it spends trust the team will need when the slip comes out. The second states the fact plainly, owns the delay, and pairs bad news with a next step."
+  },
+  "source_urls": [
+   "https://blog.apaonline.org/2022/01/07/recently-published-book-spotlight-honesty-the-philosophy-and-psychology-of-a-neglected-virtue/",
+   "https://honestyproject.philosophy.wfu.edu/?p=1206",
+   "https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/7-of-truthfulness/",
+   "https://plato.stanford.edu/entries/lying-definition/",
+   "https://faculty.wharton.upenn.edu/wp-content/uploads/2014/12/Prosocial-Lies-OBHDP.pdf",
+   "https://open.bu.edu/items/55594ce0-bec8-4ca7-852e-5591b1afe529",
+   "https://www.uab.edu/news/research-innovation/new-research-shows-most-people-are-honest-except-for-a-few",
+   "https://thecrimson.com/article/2021/9/1/hbs-research-submitted-for-retraction"
+  ]
+ },
+ {
   "id": "wg:hubris",
   "title": "Hubris",
   "aliases": [

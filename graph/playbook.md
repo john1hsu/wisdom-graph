@@ -460,6 +460,22 @@ Ask yourself:
 - Am I calling a choice "balanced" just because it sits halfway between two options, rather than because it fits the situation?
 - Is the strength of my reaction proportionate to how serious this actually is?
 
+### [Honesty](../articles/virtues-and-character/honesty.md) — Virtue
+
+*Your manager asks, in front of the team, whether the migration you lead is on track for Friday. It is not; a data problem surfaced yesterday and you have not yet told anyone.*
+
+| Before | After |
+|---|---|
+| We're in good shape. There are a few loose ends, but nothing to worry about. | Not for Friday, as things stand. We found a data issue yesterday. I'll have a revised date and options to you by this afternoon. |
+
+**Why:** The first answer contains no outright lie but is built to mislead, and it spends trust the team will need when the slip comes out. The second states the fact plainly, owns the delay, and pairs bad news with a next step.
+
+Ask yourself:
+- If the other person later learned everything I know, would they feel I had misled them, even if every word I said was true?
+- Am I keeping quiet here out of tact, or out of fear of an awkward moment?
+- Is the kind thing I am about to say also accurate, and is the accurate thing I am about to say also kind?
+- What am I telling myself about my own part in this that I would not want someone else to check?
+
 ### [Intellectual humility](../articles/virtues-and-character/intellectual-humility.md) — Virtue
 
 *In a project review, a colleague points out that the sales forecast you built last month rests on an assumption you never checked.*
