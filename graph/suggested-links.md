@@ -6,13 +6,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 3.46 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues`, `wg:seeking-counsel` |
 | 3.10 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
-| 2.84 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
-| 2.74 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
+| 2.83 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 2.74 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
+| 2.74 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
 | 2.50 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:robert-sternberg` |
-| 2.26 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
+| 2.25 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
 | 2.24 | `wg:empathy` | `wg:equanimity` | `wg:compassion`, `wg:emotion-regulation`, `wg:forgiveness` |
-| 2.23 | `wg:igor-grossmann` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:wisdom-researchers` |
+| 2.22 | `wg:igor-grossmann` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:wisdom-researchers` |
 | 2.21 | `wg:emulating-moral-exemplars` | `wg:honesty` | `wg:aristotelian-virtue-ethics`, `wg:moral-psychology`, `wg:virtue-ethics` |
 | 2.11 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 2.08 | `wg:seeking-counsel` | `wg:teaching-for-wisdom` | `wg:berlin-wisdom-paradigm`, `wg:emulating-moral-exemplars`, `wg:folly`, `wg:intellectual-humility`, `wg:perspective-taking` |
@@ -23,8 +23,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.94 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:regret`, `wg:rumination` |
 | 1.92 | `wg:implicit-theories-of-wisdom` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model` |
 | 1.86 | `wg:folly` | `wg:implicit-theories-of-wisdom` | `wg:balance-theory-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:wisdom` |
-| 1.82 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:self-distancing`, `wg:socratic-ignorance` |
 | 1.82 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:wise-leadership` |
+| 1.82 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:self-distancing`, `wg:socratic-ignorance` |
 | 1.81 | `wg:hedonic-and-eudaimonic-well-being` | `wg:stoicism` | `wg:epicureanism`, `wg:eudaimonia`, `wg:gratitude` |
 | 1.79 | `wg:aristotle` | `wg:seven-sages-of-greece` | `wg:ancient-greek-philosophy`, `wg:doctrine-of-the-mean` |
 | 1.79 | `wg:grief-and-loss` | `wg:self-reflection` | `wg:adversity`, `wg:rumination` |

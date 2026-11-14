@@ -56,6 +56,12 @@
     "confidence": "medium"
    },
    {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:s-l-a-marshall",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
     "predicate": "wgo:appliedIn",
     "object": "wg:learning-from-experience",
     "source": "s3",
@@ -4093,6 +4099,70 @@
    "https://dspace.library.uu.nl/bitstream/1874/369781/1/1_s2.0_S0005796718300561_main.pdf",
    "https://monadnock.net/seneca/13.html",
    "https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf"
+  ]
+ },
+ {
+  "id": "wg:s-l-a-marshall",
+  "title": "Samuel Lyman Atwood Marshall",
+  "aliases": [
+   "S. L. A. Marshall",
+   "SLA Marshall",
+   "SLAM"
+  ],
+  "type": "Person",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/s-l-a-marshall.md",
+  "created": "2026-11-14",
+  "summary": "American journalist and Army combat historian (1900–1977) who pioneered the group \"interview after combat\", the model for the after-action review, and whose famous claim that only about one infantryman in four fired his weapon was later shown to rest on little or no systematic data.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:military-historians"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:ratio-of-fire-critique-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:new-evidence-on-fire-ratios-study",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://apps.dtic.mil/sti/pdfs/ADA368651.pdf",
+   "https://www.Gwern.net/doc/history/s-l-a-marshall/1988-spiller.pdf",
+   "https://core.ac.uk/download/480760524.pdf",
+   "https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-military-science/chpt/marshall-s-l",
+   "https://www.americanheritage.com/secret-soldiers-who-didnt-shoot"
   ]
  },
  {

@@ -15,6 +15,7 @@ related: [wg:self-reflection, wg:humble-leadership, wg:wise-leadership, wg:more-
 requires: []
 relations:
   - {predicate: develops, object: wg:self-reflection, source: s4, confidence: medium}
+  - {predicate: introducedBy, object: wg:s-l-a-marshall, source: s1, confidence: medium}
   - {predicate: appliedIn, object: wg:learning-from-experience, source: s3, confidence: high}
   - {predicate: appliedIn, object: wg:leading-others, source: s4, confidence: high}
   - {predicate: supportedBy, object: wg:team-and-individual-debriefs-meta-analysis, source: s2, confidence: high}
@@ -93,7 +94,7 @@ An after-action review (AAR), called an after-event review in the research liter
 
 ## Origin
 
-The method comes from the U.S. Army. A review by Morrison and Meliza for the Army Research Institute traces it to the mid-1970s, when it replaced the traditional critique, in which umpires delivered subjective judgments in a one-way lecture that soldiers often resented.[^s1] The AAR turned that lecture into a facilitated discussion, grounded in objective records of what happened, in which unit members reach their own conclusions; it was later adapted for the Army's National Training Center.[^s1] A model for it was S. L. A. Marshall's group interviews of soldiers immediately after combat in the Second World War.[^s1] Other military services and civilian organisations have since adopted the method,[^s1] where it is often reduced to a one-off project "postmortem".[^s6]
+The method comes from the U.S. Army. A review by Morrison and Meliza for the Army Research Institute traces it to the mid-1970s, when it replaced the traditional critique, in which umpires delivered subjective judgments in a one-way lecture that soldiers often resented.[^s1] The AAR turned that lecture into a facilitated discussion, grounded in objective records of what happened, in which unit members reach their own conclusions; it was later adapted for the Army's National Training Center.[^s1] A model for it was S. L. A. Marshall's group interviews of soldiers immediately after combat in the Second World War, so the method's roots go back to him.[^s1] Other military services and civilian organisations have since adopted the method,[^s1] where it is often reduced to a one-off project "postmortem".[^s6]
 
 ## Why it matters
 
@@ -121,7 +122,7 @@ The evidence is **mixed** rather than robust: effects are consistently positive 
 
 ## Connections
 
-The AAR **develops self-reflection**, giving it a fixed time, a structure and an endpoint so it becomes learning rather than replay.[^s4] It is **applied in learning from experience**, where reviewing both success and failure matters, as the **study of after-event reviews with soldiers demonstrates**.[^s3] It is **applied in leading others**, and the **leadership-development study** shows its effect on growing leaders.[^s4] It is **supported by** Tannenbaum and Cerasoli's **meta-analysis of team and individual debriefs**.[^s2] It relates to the **MORE life experience model**, which explains why reflecting on challenges helps some people grow wiser,[^s5] and to **humble leadership** and **wise leadership**, which depend on admitting and learning from mistakes.[^s1]
+Its method was **introduced on the model of S. L. A. Marshall's** group interviews after combat.[^s1] The AAR **develops self-reflection**, giving it a fixed time, a structure and an endpoint so it becomes learning rather than replay.[^s4] It is **applied in learning from experience**, where reviewing both success and failure matters, as the **study of after-event reviews with soldiers demonstrates**.[^s3] It is **applied in leading others**, and the **leadership-development study** shows its effect on growing leaders.[^s4] It is **supported by** Tannenbaum and Cerasoli's **meta-analysis of team and individual debriefs**.[^s2] It relates to the **MORE life experience model**, which explains why reflecting on challenges helps some people grow wiser,[^s5] and to **humble leadership** and **wise leadership**, which depend on admitting and learning from mistakes.[^s1]
 
 ## Sources
 

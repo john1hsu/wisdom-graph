@@ -80,6 +80,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/after-action-review.md" .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/team-and-individual-debriefs-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -2189,6 +2190,32 @@
 <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/problem-solving> .
 <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Lyman Atwood Marshall" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#altLabel> "S. L. A. Marshall" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#altLabel> "SLA Marshall" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#altLabel> "SLAM" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/military-historians> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#definition> "American journalist and Army combat historian (1900–1977) who pioneered the group \"interview after combat\", the model for the after-action review, and whose famous claim that only about one infantryman in four fired his weapon was later shown to rest on little or no systematic data." .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#prefLabel> "Samuel Lyman Atwood Marshall" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/new-evidence-on-fire-ratios-study> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/ratio-of-fire-critique-study> .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "thinkers-and-works" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/thinkers-and-works/s-l-a-marshall.md" .
+<https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adversity, loss and mortality" .
 <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
@@ -4090,6 +4117,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://schema.org/url> <https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> <http://purl.org/dc/terms/publisher> "U.S. Army Research Institute for the Behavioral and Social Sciences, Special Report 42 (Morrison & Meliza, July 1999), via DTIC" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> <http://purl.org/dc/terms/title> "Foundations of the After Action Review Process" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1> <https://schema.org/url> <https://apps.dtic.mil/sti/pdfs/ADA368651.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> <http://purl.org/dc/terms/publisher> "RUSI Journal, Winter 1988, pp. 63–71 (Spiller), archived copy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> <http://purl.org/dc/terms/title> "S. L. A. Marshall and the Ratio of Fire" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2> <https://schema.org/url> <https://www.Gwern.net/doc/history/s-l-a-marshall/1988-spiller.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> <http://purl.org/dc/terms/publisher> "Parameters: The US Army War College Quarterly, 33(3) (Chambers, Autumn 2003; doi:10.55540/0031-1723.2159), via CORE" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> <http://purl.org/dc/terms/title> "S. L. A. Marshall's Men Against Fire: New Evidence Regarding Fire Ratios" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> <https://schema.org/url> <https://core.ac.uk/download/480760524.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> <http://purl.org/dc/terms/publisher> "Encyclopedia of Military Science, SAGE Publications (Jordan, 2013), pp. 823–824, doi:10.4135/9781452276335.n272" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> <http://purl.org/dc/terms/title> "Marshall, S. L. A." .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> <https://schema.org/url> <https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-military-science/chpt/marshall-s-l> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <http://purl.org/dc/terms/publisher> "American Heritage, 40(2) (Smoler, March 1989)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <http://purl.org/dc/terms/title> "The Secret of the Soldiers Who Didn't Shoot" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <https://schema.org/url> <https://www.americanheritage.com/secret-soldiers-who-didnt-shoot> .
 <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://purl.org/dc/terms/publisher> "Organizational Behavior and Human Decision Processes, 83(2), 260–281 (Yaniv & Kleinberger, 2000), Hebrew University of Jerusalem research portal" .
 <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1> <http://purl.org/dc/terms/title> "Advice taking in decision making: Egocentric discounting and reputation formation" .

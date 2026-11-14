@@ -5878,6 +5878,76 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Army Research Institute for the Behavioral and Social Sciences, Special Report 42 (Morrison & Meliza, July 1999), via DTIC",
+   "dcterms:title": "Foundations of the After Action Review Process",
+   "schema:url": {
+    "@id": "https://apps.dtic.mil/sti/pdfs/ADA368651.pdf"
+   },
+   "wgo:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "RUSI Journal, Winter 1988, pp. 63–71 (Spiller), archived copy",
+   "dcterms:title": "S. L. A. Marshall and the Ratio of Fire",
+   "schema:url": {
+    "@id": "https://www.Gwern.net/doc/history/s-l-a-marshall/1988-spiller.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Parameters: The US Army War College Quarterly, 33(3) (Chambers, Autumn 2003; doi:10.55540/0031-1723.2159), via CORE",
+   "dcterms:title": "S. L. A. Marshall's Men Against Fire: New Evidence Regarding Fire Ratios",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/480760524.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopedia of Military Science, SAGE Publications (Jordan, 2013), pp. 823–824, doi:10.4135/9781452276335.n272",
+   "dcterms:title": "Marshall, S. L. A.",
+   "schema:url": {
+    "@id": "https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-military-science/chpt/marshall-s-l"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "American Heritage, 40(2) (Smoler, March 1989)",
+   "dcterms:title": "The Secret of the Soldiers Who Didn't Shoot",
+   "schema:url": {
+    "@id": "https://www.americanheritage.com/secret-soldiers-who-didnt-shoot"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -7865,6 +7935,9 @@
    "wgo:file": "articles/wisdom-at-work/after-action-review.md",
    "wgo:howTo": {
     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:s-l-a-marshall"
    },
    "wgo:level": "introductory",
    "wgo:supportedBy": {
@@ -11375,6 +11448,74 @@
      "@id": "wg:social-support"
     }
    ]
+  },
+  {
+   "@id": "wg:s-l-a-marshall",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5"
+    }
+   ],
+   "rdfs:label": "Samuel Lyman Atwood Marshall",
+   "skos:altLabel": [
+    "S. L. A. Marshall",
+    "SLA Marshall",
+    "SLAM"
+   ],
+   "skos:broader": {
+    "@id": "wg:military-historians"
+   },
+   "skos:definition": "American journalist and Army combat historian (1900–1977) who pioneered the group \"interview after combat\", the model for the after-action review, and whose famous claim that only about one infantryman in four fired his weapon was later shown to rest on little or no systematic data.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Samuel Lyman Atwood Marshall",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:self-deception"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:new-evidence-on-fire-ratios-study"
+    },
+    {
+     "@id": "wg:ratio-of-fire-critique-study"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/s-l-a-marshall.md",
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:seeking-counsel",

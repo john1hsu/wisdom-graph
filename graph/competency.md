@@ -134,7 +134,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:after-action-review` | wgo:Practice |
 | `wg:grief-and-loss` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:meaning-in-life` | wgo:Concept |
