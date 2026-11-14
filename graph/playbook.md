@@ -448,6 +448,21 @@ Ask yourself:
 - Is there anything left for me to create, experience or stand for here, even if the outcome is out of my hands?
 - Am I watching myself so closely that it is getting in the way of what I'm trying to do?
 
+### [Meaning in life](../articles/meaning-and-the-good-life/meaning-in-life.md) — Concept
+
+*After a reorganisation, an analyst's work is folded into another team and she starts to feel that her job, and her weeks, no longer add up to anything.*
+
+| Before | After |
+|---|---|
+| None of this matters, so I'll stop caring, coast, and wait until I feel inspired to find my calling. | Which part is missing: does the work no longer make sense to me, have I lost direction, or do I doubt it is worth doing? Let me fix the piece I can, starting with who actually relies on what I do. |
+
+**Why:** Splitting meaning into coherence, purpose and significance turns a vague sense of emptiness into a specific, workable question, and meaning tends to follow connection and contribution rather than waiting for a revelation.
+
+Ask yourself:
+- Is what feels missing right now coherence, direction, or a sense that this is worth doing?
+- Am I treating a bad week or a low mood as a verdict on my whole life?
+- Would I still judge this pursuit worthwhile if I stopped feeling drawn to it, and would I still care about it if no one else valued it?
+
 ## science-of-wisdom
 
 ### [Berlin wisdom paradigm](../articles/science-of-wisdom/berlin-wisdom-paradigm.md) — Framework

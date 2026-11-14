@@ -2634,6 +2634,114 @@
   ]
  },
  {
+  "id": "wg:meaning-in-life",
+  "title": "Meaning in life",
+  "aliases": [
+   "meaningfulness",
+   "meaningful life",
+   "sense of meaning",
+   "presence of meaning",
+   "life meaning"
+  ],
+  "type": "Concept",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/meaning-in-life.md",
+  "created": "2026-11-14",
+  "summary": "The sense that one's life makes sense, has direction and matters: in psychology, a judgment with three facets (coherence, purpose and significance); in philosophy, the question of what, beyond happiness and morality, makes an individual life worthwhile.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:logotherapy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:existential-vacuum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-transcendence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:meaning-of-life",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:happiness",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:three-facet-model-of-meaning",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:meaning-and-physical-health-meta-analysis",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:meaning-interventions-meta-analysis",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:positive-psychology",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is what feels missing right now coherence, direction, or a sense that this is worth doing?",
+   "Am I treating a bad week or a low mood as a verdict on my whole life?",
+   "Would I still judge this pursuit worthwhile if I stopped feeling drawn to it, and would I still care about it if no one else valued it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "After a reorganisation, an analyst's work is folded into another team and she starts to feel that her job, and her weeks, no longer add up to anything.",
+   "before": "None of this matters, so I'll stop caring, coast, and wait until I feel inspired to find my calling.",
+   "after": "Which part is missing: does the work no longer make sense to me, have I lost direction, or do I doubt it is worth doing? Let me fix the piece I can, starting with who actually relies on what I do.",
+   "why": "Splitting meaning into coherence, purpose and significance turns a vague sense of emptiness into a specific, workable question, and meaning tends to follow connection and contribution rather than waiting for a revelation."
+  },
+  "source_urls": [
+   "https://singteach.nie.edu.sg/wp-content/uploads/2021/12/Steger-et-al-2006_The-meaning-in-life-questionnaire.pdf",
+   "https://research.aalto.fi/en/publications/the-three-meanings-of-meaning-in-life-distinguishing-coherence-pu/",
+   "https://www.its.caltech.edu/~squartz/HKLifeisPrettyMeaningful.pdf",
+   "https://spiritualitymeaningandhealth.uconn.edu/wp-content/uploads/sites/2598/2019/03/Meaning-in-life-and-physical-health-systematic-review-and-meta-analysis.pdf",
+   "https://plato.stanford.edu/archives/sum2026/entries/life-meaning/",
+   "https://eld.bl.uk/catalog/100166534827_0x000001"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [

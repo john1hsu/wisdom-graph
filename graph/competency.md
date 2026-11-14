@@ -114,6 +114,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:intellectual-humility` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:major-life-decision` | mixed |  |
+| `wg:meaning-in-life` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
@@ -124,9 +125,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:self-distancing` | mixed |  |
 | `wg:self-reflection` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
-| `wg:solomons-paradox` | mixed |  |
 
-…and 5 more.
+…and 6 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -136,6 +136,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:after-action-review` | wgo:Practice |
 | `wg:major-life-decision` | wgo:Context |
+| `wg:meaning-in-life` | wgo:Concept |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:ubuntu` | wgo:Tradition |

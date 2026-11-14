@@ -22,9 +22,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.94 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:regret`, `wg:rumination` |
 | 1.92 | `wg:implicit-theories-of-wisdom` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model` |
 | 1.86 | `wg:folly` | `wg:implicit-theories-of-wisdom` | `wg:balance-theory-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:wisdom` |
-| 1.86 | `wg:hedonic-and-eudaimonic-well-being` | `wg:stoicism` | `wg:epicureanism`, `wg:eudaimonia`, `wg:gratitude` |
 | 1.82 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:self-distancing`, `wg:socratic-ignorance` |
 | 1.82 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:wise-leadership` |
+| 1.81 | `wg:hedonic-and-eudaimonic-well-being` | `wg:stoicism` | `wg:epicureanism`, `wg:eudaimonia`, `wg:gratitude` |
 | 1.79 | `wg:aristotle` | `wg:seven-sages-of-greece` | `wg:ancient-greek-philosophy`, `wg:doctrine-of-the-mean` |
 | 1.78 | `wg:berlin-wisdom-paradigm` | `wg:perspective-taking` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:teaching-for-wisdom`, `wg:wise-reasoning` |
 | 1.78 | `wg:honesty` | `wg:theory-of-moral-sentiments` | `wg:self-deception`, `wg:virtue-ethics` |

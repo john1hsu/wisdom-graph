@@ -246,6 +246,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/meaning-in-life.md" .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/purpose-in-life.md" .
@@ -3185,6 +3194,95 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <https://schema.org/url> <https://viktorfrankl.org/quote_stimulus.html> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/meaning-in-life#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is what feels missing right now coherence, direction, or a sense that this is worth doing?" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating a bad week or a low mood as a verdict on my whole life?" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Would I still judge this pursuit worthwhile if I stopped feeling drawn to it, and would I still care about it if no one else valued it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Which part is missing: does the work no longer make sense to me, have I lost direction, or do I doubt it is worth doing? Let me fix the piece I can, starting with who actually relies on what I do." .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "None of this matters, so I'll stop caring, coast, and wait until I feel inspired to find my calling." .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "After a reorganisation, an analyst's work is folded into another team and she starts to feel that her job, and her weeks, no longer add up to anything." .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Splitting meaning into coherence, purpose and significance turns a vague sense of emptiness into a specific, workable question, and meaning tends to follow connection and contribution rather than waiting for a revelation." .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2000/01/rdf-schema#label> "Meaning in life" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#altLabel> "life meaning" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#altLabel> "meaningful life" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#altLabel> "meaningfulness" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#altLabel> "presence of meaning" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#altLabel> "sense of meaning" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#definition> "The sense that one's life makes sense, has direction and matters: in psychology, a judgment with three facets (coherence, purpose and significance); in philosophy, the question of what, beyond happiness and morality, makes an individual life worthwhile." .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meaning in life" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-of-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/happiness> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/three-facet-model-of-meaning> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/meaning-in-life.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/meaning-and-physical-health-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/meaning-interventions-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> <http://purl.org/dc/terms/publisher> "Journal of Counseling Psychology, 53(1), 80–93 (Steger, Frazier, Oishi & Kaler, 2006; PDF hosted by the National Institute of Education, Singapore)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> <http://purl.org/dc/terms/title> "The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s1> <https://schema.org/url> <https://singteach.nie.edu.sg/wp-content/uploads/2021/12/Steger-et-al-2006_The-meaning-in-life-questionnaire.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> <http://purl.org/dc/terms/publisher> "Journal of Positive Psychology, 11(5), 531–545 (Martela & Steger, 2016; Aalto University research portal)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> <http://purl.org/dc/terms/title> "The three meanings of meaning in life: Distinguishing coherence, purpose, and significance" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s2> <https://schema.org/url> <https://research.aalto.fi/en/publications/the-three-meanings-of-meaning-in-life-distinguishing-coherence-pu/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> <http://purl.org/dc/terms/publisher> "American Psychologist (Heintzelman & King, 2014; PDF hosted at Caltech)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> <http://purl.org/dc/terms/title> "Life is pretty meaningful" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s3> <https://schema.org/url> <https://www.its.caltech.edu/~squartz/HKLifeisPrettyMeaningful.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> <http://purl.org/dc/terms/publisher> "Health Psychology Review, 11(4), 387–418 (Czekierda, Banik, Park & Luszczynska, 2017; PDF hosted by the University of Connecticut)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> <http://purl.org/dc/terms/title> "Meaning in life and physical health: systematic review and meta-analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s4> <https://schema.org/url> <https://spiritualitymeaningandhealth.uconn.edu/wp-content/uploads/sites/2598/2019/03/Meaning-in-life-and-physical-health-systematic-review-and-meta-analysis.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Summer 2026 edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> <http://purl.org/dc/terms/title> "The Meaning of Life (Metz; first published 2007, substantive revision 2021)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s5> <https://schema.org/url> <https://plato.stanford.edu/archives/sum2026/entries/life-meaning/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> <http://purl.org/dc/terms/publisher> "American Journal of Health Promotion, 35(6), 866–873 (Manco & Hamby, 2021; British Library catalogue record)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> <http://purl.org/dc/terms/title> "A Meta-Analytic Review of Interventions That Promote Meaning in Life" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/meaning-in-life/s6> <https://schema.org/url> <https://eld.bl.uk/catalog/100166534827_0x000001> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -6095,6 +6193,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
@@ -6105,6 +6204,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-therapies-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -6167,6 +6267,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/happiness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
@@ -6390,13 +6491,20 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/many-labs-3> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-seligman> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-and-physical-health-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-group-psychotherapy-trial> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-psychotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
-  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
-  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-of-life> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -6406,6 +6514,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
@@ -6571,8 +6680,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/purpose-and-mortality-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/pursuing-pleasure-or-virtue-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
@@ -6734,6 +6845,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/serious-illness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -6882,6 +6994,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/three-facet-model-of-meaning> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/too-much-of-a-good-thing-effect> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/trajectories-of-resilience-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/trajectories-of-resilience-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -6933,7 +7046,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/what-is-stupid-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/what-is-stupid-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/what-is-stupid-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/folly> .
