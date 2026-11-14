@@ -605,6 +605,30 @@ Ask yourself:
 
 ## wisdom-at-work
 
+### [After-action review](../articles/wisdom-at-work/after-action-review.md) — Practice
+
+1. Hold the review soon after the event, while memories are fresh, and keep it short; for a long project, review at each milestone rather than only at the end.
+2. Agree at the start that the purpose is learning, not grading or blame, and that what is said will not be used to punish anyone.
+3. Establish what was supposed to happen, using the original plan, goals or standards.
+4. Reconstruct what actually happened from several viewpoints and from any objective records, before anyone explains or defends.
+5. Ask why the gap opened, looking for specific causes you could influence, including your own decisions.
+6. Review what went well and why, not only what went wrong.
+7. Agree on one to three concrete things to sustain or change, name who will apply each, and check at the start of the next similar task that they were applied.
+
+*A small team's bid for a client contract has just been turned down, two weeks after an intense push to finish the proposal.*
+
+| Before | After |
+|---|---|
+| The manager sends a one-line message blaming the client's budget, the team moves straight to the next bid, and nobody mentions that the pricing section was finished in a rush on the last night. | The manager books thirty minutes the next morning, says the aim is to learn rather than to find fault, and asks what the plan was, what actually happened and why. The team notices that the scope was settled late and the pricing was never reviewed, also notes that the client praised the case studies, and agrees that next time pricing gets a review two days before the deadline, with one person responsible. |
+
+**Why:** A specific, blame-free look at both what worked and what failed turns a disappointment into a lesson the team will actually use, instead of a convenient external excuse or a quiet repeat of the same mistake.
+
+Ask yourself:
+- Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?
+- Have I heard how this looked to the other people involved before deciding why it went the way it did?
+- Did I ask what went right and why, or only what went wrong?
+- What is the one concrete thing I will do differently next time, and when will I check that I did it?
+
 ### [Hubris](../articles/wisdom-at-work/hubris.md) — Vice
 
 *A department head has delivered three strong years in a row and been praised in the trade press. A senior analyst warns that a proposed expansion rests on optimistic demand figures.*

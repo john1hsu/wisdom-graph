@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:self-reflection` | wgo:Skill |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -41,6 +39,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
+| `wg:after-action-review` | 1 | Self-reflection |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:dichotomy-of-control` | 1 | Equanimity |
 | `wg:doctrine-of-the-mean` | 1 | temperance |
@@ -71,10 +70,12 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:right-speech` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
+| `wg:leading-others` | `wg:after-action-review` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
+| `wg:learning-from-experience` | `wg:after-action-review` |
 | `wg:learning-from-experience` | `wg:self-reflection` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
@@ -92,6 +93,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:different-types-of-well-being-study` |
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:reconsidering-happiness-critique` |
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
+| `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
@@ -118,9 +120,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:solomons-paradox` | mixed |  |
 | `wg:teaching-for-wisdom` | mixed |  |
 | `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
-| `wg:wise-leadership` | mixed |  |
 
-…and 1 more.
+…and 2 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -128,6 +129,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:after-action-review` | wgo:Practice |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |

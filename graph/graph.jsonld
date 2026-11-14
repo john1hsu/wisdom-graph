@@ -14,6 +14,116 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?",
+   "wgo:questionFor": {
+    "@id": "wg:after-action-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I heard how this looked to the other people involved before deciding why it went the way it did?",
+   "wgo:questionFor": {
+    "@id": "wg:after-action-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I ask what went right and why, or only what went wrong?",
+   "wgo:questionFor": {
+    "@id": "wg:after-action-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What is the one concrete thing I will do differently next time, and when will I check that I did it?",
+   "wgo:questionFor": {
+    "@id": "wg:after-action-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The manager books thirty minutes the next morning, says the aim is to learn rather than to find fault, and asks what the plan was, what actually happened and why. The team notices that the scope was settled late and the pricing was never reviewed, also notes that the client praised the case studies, and agrees that next time pricing gets a review two days before the deadline, with one person responsible.",
+   "wgo:before": "The manager sends a one-line message blaming the client's budget, the team moves straight to the next bid, and nobody mentions that the pricing section was finished in a rush on the last night.",
+   "wgo:situation": "A small team's bid for a client contract has just been turned down, two weeks after an intense push to finish the proposal.",
+   "wgo:why": "A specific, blame-free look at both what worked and what failed turns a disappointment into a lesson the team will actually use, instead of a convenient external excuse or a quiet repeat of the same mistake."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "After-action review",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Hold the review soon after the event, while memories are fresh, and keep it short; for a long project, review at each milestone rather than only at the end."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Agree at the start that the purpose is learning, not grading or blame, and that what is said will not be used to punish anyone."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Establish what was supposed to happen, using the original plan, goals or standards."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Reconstruct what actually happened from several viewpoints and from any objective records, before anyone explains or defends."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Ask why the gap opened, looking for specific causes you could influence, including your own decisions."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Review what went well and why, not only what went wrong."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Agree on one to three concrete things to sustain or change, name who will apply each, and check at the start of the next similar task that they were applied."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I considered how this problem looks across the person's whole life, past and future, and not only today?",
@@ -1930,6 +2040,90 @@
    "wgo:before": "This is a power grab, plain and simple. I know exactly what they're up to, and I'm escalating to our director today.",
    "wgo:situation": "You recently helped a teammate think calmly through a clash with another department. This week a peer quietly reassigns part of your own project without asking you.",
    "wgo:why": "Treating your own conflict as you would a colleague's brings back the habits you already use as an adviser, namely admitting what you don't know, looking for compromise and expecting the situation to change."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Army Research Institute for the Behavioral and Social Sciences, Special Report 42 (Morrison & Meliza, July 1999), via DTIC",
+   "dcterms:title": "Foundations of the After Action Review Process",
+   "schema:url": {
+    "@id": "https://apps.dtic.mil/sti/pdfs/ADA368651.pdf"
+   },
+   "wgo:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Human Factors, 55(1), 231–245 (Tannenbaum & Cerasoli, 2013), copy hosted by the Center for Evidence-Based Management",
+   "dcterms:title": "Do team and individual debriefs enhance performance? A meta-analysis",
+   "schema:url": {
+    "@id": "https://cebma.org/assets/Uploads/Tannenbaum-Cerasoli.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 90(5), 857–871 (Ellis & Davidi, 2005; doi:10.1037/0021-9010.90.5.857; PubMed record)",
+   "dcterms:title": "After-event reviews: Drawing lessons from successful and failed experience",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/16162059/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 97(5), 997–1015 (DeRue, Nahrgang, Hollenbeck & Workman, 2012; doi:10.1037/a0028244; University of Iowa repository record)",
+   "dcterms:title": "A quasi-experimental study of after-event reviews and leadership development",
+   "schema:url": {
+    "@id": "https://iro.uiowa.edu/esploro/outputs/journalArticle/A-Quasi-Experimental-Study-of-After-Event-Reviews/9984403064702771"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Value Inquiry, 53(3), 349–370 (Glück, Bluck & Weststrate, 2019; doi:10.1007/s10790-018-9661-x; PubMed record)",
+   "dcterms:title": "More on the MORE Life Experience Model: What We Have Learned (So Far)",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/31798190/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Harvard Business Review (Darling, Parry & Moore, 2005), as republished by CBS MoneyWatch",
+   "dcterms:title": "Learning in the Thick of It",
+   "schema:url": {
+    "@id": "https://www.cbsnews.com/news/learning-in-the-thick-of-it"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1",
@@ -6543,6 +6737,105 @@
    "wgo:before": "They have clearly sidelined me on purpose. I'll tell the team the plan is a mistake and refuse to hand anything over.",
    "wgo:situation": "Your team lead announces that a project you have run for a year will be merged into another group's work. You learn about it in the same meeting as everyone else.",
    "wgo:why": "The wiser response admits what it does not know, takes the other side's reasons seriously, allows that events can still turn several ways, and looks for an arrangement both sides can live with, which are the four elements researchers score."
+  },
+  {
+   "@id": "wg:after-action-review",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6"
+    }
+   ],
+   "rdfs:label": "After-action review",
+   "skos:altLabel": [
+    "AAR",
+    "AER",
+    "after-event review",
+    "debriefing after action",
+    "structured debrief"
+   ],
+   "skos:broader": {
+    "@id": "wg:reflective-practices"
+   },
+   "skos:definition": "A short, structured, non-punitive conversation held soon after a task or event, in which the people who did the work establish what was supposed to happen, what actually happened, why, and what they will keep or change next time, so that experience turns into judgment instead of blame or forgetting.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "After-action review",
+   "skos:related": [
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:more-life-experience-model"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:after-event-reviews-leadership-development-study"
+    },
+    {
+     "@id": "wg:after-event-reviews-success-and-failure-study"
+    }
+   ],
+   "wgo:develops": {
+    "@id": "wg:self-reflection"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/after-action-review.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:team-and-individual-debriefs-meta-analysis"
+   }
   },
   {
    "@id": "wg:berlin-wisdom-paradigm",

@@ -1,5 +1,122 @@
 [
  {
+  "id": "wg:after-action-review",
+  "title": "After-action review",
+  "aliases": [
+   "AAR",
+   "after-event review",
+   "AER",
+   "structured debrief",
+   "debriefing after action"
+  ],
+  "type": "Practice",
+  "domain": "wisdom-at-work",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/after-action-review.md",
+  "created": "2026-11-14",
+  "summary": "A short, structured, non-punitive conversation held soon after a task or event, in which the people who did the work establish what was supposed to happen, what actually happened, why, and what they will keep or change next time, so that experience turns into judgment instead of blame or forgetting.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:reflective-practices"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humble-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:more-life-experience-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:self-reflection",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:learning-from-experience",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:team-and-individual-debriefs-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:after-event-reviews-success-and-failure-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:after-event-reviews-leadership-development-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?",
+   "Have I heard how this looked to the other people involved before deciding why it went the way it did?",
+   "Did I ask what went right and why, or only what went wrong?",
+   "What is the one concrete thing I will do differently next time, and when will I check that I did it?"
+  ],
+  "steps": [
+   "Hold the review soon after the event, while memories are fresh, and keep it short; for a long project, review at each milestone rather than only at the end.",
+   "Agree at the start that the purpose is learning, not grading or blame, and that what is said will not be used to punish anyone.",
+   "Establish what was supposed to happen, using the original plan, goals or standards.",
+   "Reconstruct what actually happened from several viewpoints and from any objective records, before anyone explains or defends.",
+   "Ask why the gap opened, looking for specific causes you could influence, including your own decisions.",
+   "Review what went well and why, not only what went wrong.",
+   "Agree on one to three concrete things to sustain or change, name who will apply each, and check at the start of the next similar task that they were applied."
+  ],
+  "example": {
+   "situation": "A small team's bid for a client contract has just been turned down, two weeks after an intense push to finish the proposal.",
+   "before": "The manager sends a one-line message blaming the client's budget, the team moves straight to the next bid, and nobody mentions that the pricing section was finished in a rush on the last night.",
+   "after": "The manager books thirty minutes the next morning, says the aim is to learn rather than to find fault, and asks what the plan was, what actually happened and why. The team notices that the scope was settled late and the pricing was never reviewed, also notes that the client praised the case studies, and agrees that next time pricing gets a review two days before the deadline, with one person responsible.",
+   "why": "A specific, blame-free look at both what worked and what failed turns a disappointment into a lesson the team will actually use, instead of a convenient external excuse or a quiet repeat of the same mistake."
+  },
+  "source_urls": [
+   "https://apps.dtic.mil/sti/pdfs/ADA368651.pdf",
+   "https://cebma.org/assets/Uploads/Tannenbaum-Cerasoli.pdf",
+   "https://pubmed.ncbi.nlm.nih.gov/16162059/",
+   "https://iro.uiowa.edu/esploro/outputs/journalArticle/A-Quasi-Experimental-Study-of-After-Event-Reviews/9984403064702771",
+   "https://pubmed.ncbi.nlm.nih.gov/31798190/",
+   "https://www.cbsnews.com/news/learning-in-the-thick-of-it"
+  ]
+ },
+ {
   "id": "wg:berlin-wisdom-paradigm",
   "title": "Berlin wisdom paradigm",
   "aliases": [

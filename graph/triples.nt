@@ -1,3 +1,87 @@
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I heard how this looked to the other people involved before deciding why it went the way it did?" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Did I ask what went right and why, or only what went wrong?" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What is the one concrete thing I will do differently next time, and when will I check that I did it?" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The manager books thirty minutes the next morning, says the aim is to learn rather than to find fault, and asks what the plan was, what actually happened and why. The team notices that the scope was settled late and the pricing was never reviewed, also notes that the client praised the case studies, and agrees that next time pricing gets a review two days before the deadline, with one person responsible." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "The manager sends a one-line message blaming the client's budget, the team moves straight to the next bid, and nobody mentions that the pricing section was finished in a rush on the last night." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A small team's bid for a client contract has just been turned down, two weeks after an intense push to finish the proposal." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "A specific, blame-free look at both what worked and what failed turns a disappointment into a lesson the team will actually use, instead of a convenient external excuse or a quiet repeat of the same mistake." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/1> <https://schema.org/text> "Hold the review soon after the event, while memories are fresh, and keep it short; for a long project, review at each milestone rather than only at the end." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/2> <https://schema.org/text> "Agree at the start that the purpose is learning, not grading or blame, and that what is said will not be used to punish anyone." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/3> <https://schema.org/text> "Establish what was supposed to happen, using the original plan, goals or standards." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/4> <https://schema.org/text> "Reconstruct what actually happened from several viewpoints and from any objective records, before anyone explains or defends." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/5> <https://schema.org/text> "Ask why the gap opened, looking for specific causes you could influence, including your own decisions." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/6> <https://schema.org/text> "Review what went well and why, not only what went wrong." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/7> <https://schema.org/text> "Agree on one to three concrete things to sustain or change, name who will apply each, and check at the start of the next similar task that they were applied." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/name> "After-action review" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto/7> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2000/01/rdf-schema#label> "After-action review" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#altLabel> "AAR" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#altLabel> "AER" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#altLabel> "after-event review" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#altLabel> "debriefing after action" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#altLabel> "structured debrief" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#definition> "A short, structured, non-punitive conversation held soon after a task or event, in which the people who did the work establish what was supposed to happen, what actually happened, why, and what they will keep or change next time, so that experience turns into judgment instead of blame or forgetting." .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#prefLabel> "After-action review" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/after-event-reviews-leadership-development-study> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/after-event-reviews-success-and-failure-study> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/example> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/after-action-review.md" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/after-action-review/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/after-action-review> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/team-and-individual-debriefs-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I considered how this problem looks across the person's whole life, past and future, and not only today?" .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
@@ -2142,6 +2226,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://purl.org/dc/terms/publisher> "U.S. Army Research Institute for the Behavioral and Social Sciences, Special Report 42 (Morrison & Meliza, July 1999), via DTIC" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://purl.org/dc/terms/title> "Foundations of the After Action Review Process" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <https://schema.org/url> <https://apps.dtic.mil/sti/pdfs/ADA368651.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> <http://purl.org/dc/terms/publisher> "Human Factors, 55(1), 231–245 (Tannenbaum & Cerasoli, 2013), copy hosted by the Center for Evidence-Based Management" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> <http://purl.org/dc/terms/title> "Do team and individual debriefs enhance performance? A meta-analysis" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s2> <https://schema.org/url> <https://cebma.org/assets/Uploads/Tannenbaum-Cerasoli.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology, 90(5), 857–871 (Ellis & Davidi, 2005; doi:10.1037/0021-9010.90.5.857; PubMed record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> <http://purl.org/dc/terms/title> "After-event reviews: Drawing lessons from successful and failed experience" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s3> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/16162059/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology, 97(5), 997–1015 (DeRue, Nahrgang, Hollenbeck & Workman, 2012; doi:10.1037/a0028244; University of Iowa repository record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> <http://purl.org/dc/terms/title> "A quasi-experimental study of after-event reviews and leadership development" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> <https://schema.org/url> <https://iro.uiowa.edu/esploro/outputs/journalArticle/A-Quasi-Experimental-Study-of-After-Event-Reviews/9984403064702771> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> <http://purl.org/dc/terms/publisher> "Journal of Value Inquiry, 53(3), 349–370 (Glück, Bluck & Weststrate, 2019; doi:10.1007/s10790-018-9661-x; PubMed record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> <http://purl.org/dc/terms/title> "More on the MORE Life Experience Model: What We Have Learned (So Far)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/31798190/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Darling, Parry & Moore, 2005), as republished by CBS MoneyWatch" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <http://purl.org/dc/terms/title> "Learning in the Thick of It" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <https://schema.org/url> <https://www.cbsnews.com/news/learning-in-the-thick-of-it> .
 <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society PuRe repository" .
 <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/title> "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" .
