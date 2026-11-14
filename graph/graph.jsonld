@@ -480,6 +480,115 @@
    "wgo:why": "Feeling with someone opens the door, but staying clear about whose feeling it is and turning it into warm concern and practical help keeps you from either drowning in their distress or backing away from it."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose judgment would I trust most in exactly this kind of situation, and what would they notice first?",
+   "wgo:questionFor": {
+    "@id": "wg:emulating-moral-exemplars"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I copying what my role model did, or what they were trying to achieve?",
+   "wgo:questionFor": {
+    "@id": "wg:emulating-moral-exemplars"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I compare myself with someone better at this, am I working out my next step or looking for reasons to dismiss them?",
+   "wgo:questionFor": {
+    "@id": "wg:emulating-moral-exemplars"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the person I'm learning from close enough to my own circumstances that their example is one I can actually follow?",
+   "wgo:questionFor": {
+    "@id": "wg:emulating-moral-exemplars"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Are there flaws in my role model I've stopped being willing to see?",
+   "wgo:questionFor": {
+    "@id": "wg:emulating-moral-exemplars"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The lead asks the manager how they handled a similar conversation, learns that they always explain the reason in person, acknowledge what the work achieved and offer the person a real role in what comes next, and plans a face-to-face meeting that does those three things in the lead's own words.",
+   "wgo:before": "The new lead either copies the senior manager's breezy phrases word for word, or quietly decides that the manager is just naturally charismatic and that there's nothing to learn, and sends a short email.",
+   "wgo:situation": "A newly promoted team lead has to tell a long-serving colleague that a project they championed is being cancelled. A senior manager in the next department is known for handling news like this well.",
+   "wgo:why": "Emulation borrows the reasoning and the ideal behind an experienced person's choices, not their surface style, and it turns admiration into a concrete step the learner can actually take."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Emulating moral exemplars",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Pick two or three people whose judgment you trust in a domain that matters to you now (a manager who handles conflict well, a relative who stays fair under pressure), and prefer people close to your own situation over distant heroes."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Watch for a specific moment where they acted well, and write down what they noticed, what they did and what they chose not to do."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Ask them, or work out, the reasons behind it, so that you learn the ideal the action served rather than only the gesture."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "When you feel the sting of falling short, name the specific good you lack and one small step toward it this week, instead of looking for faults in them."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Try the step in a comparable situation of your own, adapted to your circumstances, then compare the result with what they did and why."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Widen and update your set of exemplars over time, and drop any you find yourself copying blindly or defending against all criticism."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reacting to what actually happened, or to the story I am telling about it?",
@@ -2973,6 +3082,90 @@
     "@id": "https://greatergood.berkeley.edu/topic/empathy/definition"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Rhetoric, Book II, trans. W. Rhys Roberts",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/rhetoric.2.ii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "George Mason University course text (Ostwald translation, Library of Liberal Arts)",
+   "dcterms:title": "Nicomachean Ethics, Book VI (selections), trans. Martin Ostwald",
+   "schema:url": {
+    "@id": "https://mason.gmu.edu/~rcherubi/nevi.htm"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Moral Education, 35(1), 37–49 (Kristján Kristjánsson, 2006; doi:10.1080/03057240500495278; University of Birmingham research portal)",
+   "dcterms:title": "Emulation and the use of role models in moral education",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/en/publications/emulation-and-the-use-of-role-models-in-moral-education/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Theory and Research in Education (Emerald Henderson, 2023; doi:10.1177/14778785231203104; University of Birmingham repository)",
+   "dcterms:title": "Entangled phronesis and the four causes of emulation: Developmental insights into role modelling",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/210890079/henderson-2023-entangled-phronesis-and-the-four-causes-of-emulation-developmental-insights-into-role-modelling.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 8, 283 (Han, Kim, Jeong & Cohen, 2017; doi:10.3389/fpsyg.2017.00283; PubMed Central)",
+   "dcterms:title": "Attainable and relevant moral exemplars are more effective than extraordinary exemplars in promoting voluntary service engagement",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5339280"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Philosophical Psychology, 35(7), 943–970 (Han, Workman, May, Scholtens, Dawson, Glenn & Meindl, 2022; doi:10.1080/09515089.2022.2035343; PubMed Central)",
+   "dcterms:title": "Which moral exemplars inspire prosociality?",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9718423"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1",
@@ -8165,6 +8358,109 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:empathy-training-meta-analysis"
+   }
+  },
+  {
+   "@id": "wg:emulating-moral-exemplars",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6"
+    }
+   ],
+   "rdfs:label": "Emulating moral exemplars",
+   "skos:altLabel": [
+    "emulation (zelos)",
+    "exemplar emulation",
+    "learning from moral exemplars",
+    "role-model emulation",
+    "zēlos"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:moral-education"
+    },
+    {
+     "@id": "wg:wisdom-interventions"
+    }
+   ],
+   "skos:definition": "Deliberately learning good judgment and character from people who already show it: noticing what a wiser person does in a particular situation, working out the reasons behind it, and turning the admiring pang of \"I'm not there yet\" into concrete attempts of your own, rather than into envy or hero-worship.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Emulating moral exemplars",
+   "skos:related": [
+    {
+     "@id": "wg:aristotle"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:teaching-for-wisdom"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:which-moral-exemplars-inspire-study"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:envy"
+   },
+   "wgo:develops": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example"
+   },
+   "wgo:file": "articles/virtues-and-character/emulating-moral-exemplars.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:aristotles-rhetoric"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:moral-psychology"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:attainable-moral-exemplars-study"
    }
   },
   {

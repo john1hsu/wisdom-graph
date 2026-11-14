@@ -508,6 +508,91 @@
 <https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/social-neuroscience> .
 <https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/empathy-training-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Whose judgment would I trust most in exactly this kind of situation, and what would they notice first?" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I copying what my role model did, or what they were trying to achieve?" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "When I compare myself with someone better at this, am I working out my next step or looking for reasons to dismiss them?" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is the person I'm learning from close enough to my own circumstances that their example is one I can actually follow?" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Are there flaws in my role model I've stopped being willing to see?" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The lead asks the manager how they handled a similar conversation, learns that they always explain the reason in person, acknowledge what the work achieved and offer the person a real role in what comes next, and plans a face-to-face meeting that does those three things in the lead's own words." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "The new lead either copies the senior manager's breezy phrases word for word, or quietly decides that the manager is just naturally charismatic and that there's nothing to learn, and sends a short email." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A newly promoted team lead has to tell a long-serving colleague that a project they championed is being cancelled. A senior manager in the next department is known for handling news like this well." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Emulation borrows the reasoning and the ideal behind an experienced person's choices, not their surface style, and it turns admiration into a concrete step the learner can actually take." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/1> <https://schema.org/text> "Pick two or three people whose judgment you trust in a domain that matters to you now (a manager who handles conflict well, a relative who stays fair under pressure), and prefer people close to your own situation over distant heroes." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/2> <https://schema.org/text> "Watch for a specific moment where they acted well, and write down what they noticed, what they did and what they chose not to do." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/3> <https://schema.org/text> "Ask them, or work out, the reasons behind it, so that you learn the ideal the action served rather than only the gesture." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/4> <https://schema.org/text> "When you feel the sting of falling short, name the specific good you lack and one small step toward it this week, instead of looking for faults in them." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/5> <https://schema.org/text> "Try the step in a comparable situation of your own, adapted to your circumstances, then compare the result with what they did and why." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/6> <https://schema.org/text> "Widen and update your set of exemplars over time, and drop any you find yourself copying blindly or defending against all criticism." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/name> "Emulating moral exemplars" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2000/01/rdf-schema#label> "Emulating moral exemplars" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#altLabel> "emulation (zelos)" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#altLabel> "exemplar emulation" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#altLabel> "learning from moral exemplars" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#altLabel> "role-model emulation" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#altLabel> "zēlos" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-education> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#definition> "Deliberately learning good judgment and character from people who already show it: noticing what a wiser person does in a particular situation, working out the reasons behind it, and turning the admiring pang of \"I'm not there yet\" into concrete attempts of your own, rather than into envy or hero-worship." .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emulating moral exemplars" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/which-moral-exemplars-inspire-study> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/envy> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/example> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/emulating-moral-exemplars.md" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotles-rhetoric> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/moral-psychology> .
+<https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/attainable-moral-exemplars-study> .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reacting to what actually happened, or to the story I am telling about it?" .
 <https://github.com/john1hsu/wisdom-graph/id/equanimity/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -2736,6 +2821,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/empathy/s7> <https://schema.org/url> <https://greatergood.berkeley.edu/topic/empathy/definition> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> <http://purl.org/dc/terms/title> "Rhetoric, Book II, trans. W. Rhys Roberts" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/rhetoric.2.ii.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> <http://purl.org/dc/terms/publisher> "George Mason University course text (Ostwald translation, Library of Liberal Arts)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VI (selections), trans. Martin Ostwald" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s2> <https://schema.org/url> <https://mason.gmu.edu/~rcherubi/nevi.htm> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> <http://purl.org/dc/terms/publisher> "Journal of Moral Education, 35(1), 37–49 (Kristján Kristjánsson, 2006; doi:10.1080/03057240500495278; University of Birmingham research portal)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> <http://purl.org/dc/terms/title> "Emulation and the use of role models in moral education" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s3> <https://schema.org/url> <https://research.birmingham.ac.uk/en/publications/emulation-and-the-use-of-role-models-in-moral-education/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> <http://purl.org/dc/terms/publisher> "Theory and Research in Education (Emerald Henderson, 2023; doi:10.1177/14778785231203104; University of Birmingham repository)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> <http://purl.org/dc/terms/title> "Entangled phronesis and the four causes of emulation: Developmental insights into role modelling" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s4> <https://schema.org/url> <https://research.birmingham.ac.uk/files/210890079/henderson-2023-entangled-phronesis-and-the-four-causes-of-emulation-developmental-insights-into-role-modelling.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 8, 283 (Han, Kim, Jeong & Cohen, 2017; doi:10.3389/fpsyg.2017.00283; PubMed Central)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> <http://purl.org/dc/terms/title> "Attainable and relevant moral exemplars are more effective than extraordinary exemplars in promoting voluntary service engagement" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s5> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC5339280> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> <http://purl.org/dc/terms/publisher> "Philosophical Psychology, 35(7), 943–970 (Han, Workman, May, Scholtens, Dawson, Glenn & Meindl, 2022; doi:10.1080/09515089.2022.2035343; PubMed Central)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> <http://purl.org/dc/terms/title> "Which moral exemplars inspire prosociality?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/emulating-moral-exemplars/s6> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC9718423> .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/publisher> "Mindfulness, 6(2), 356–372 (Springer; Desbordes, Gard, Hoge, Hölzel, Kerr, Lazar, Olendzki & Vago, 2015; doi:10.1007/s12671-013-0269-8)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1> <http://purl.org/dc/terms/title> "Moving Beyond Mindfulness: Defining Equanimity as an Outcome Measure in Meditation and Contemplative Research" .

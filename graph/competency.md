@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:practical-wisdom` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -46,6 +44,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:dichotomy-of-control` | 1 | Equanimity |
 | `wg:doctrine-of-the-mean` | 1 | temperance |
+| `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:honesty` | 1 | self-deception |
@@ -104,6 +103,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
+| `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:equanimity` | mixed |  |
 | `wg:folly` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
@@ -125,9 +125,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:self-reflection` | mixed |  |
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
-| `wg:teaching-for-wisdom` | mixed |  |
 
-…and 4 more.
+…and 5 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -157,6 +156,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 |---|---|
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
+| `wg:aristotelian-virtue-ethics` | `wg:emulating-moral-exemplars` |
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |

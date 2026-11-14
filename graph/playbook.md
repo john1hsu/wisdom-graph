@@ -611,6 +611,30 @@ Ask yourself:
 - Am I calling a choice "balanced" just because it sits halfway between two options, rather than because it fits the situation?
 - Is the strength of my reaction proportionate to how serious this actually is?
 
+### [Emulating moral exemplars](../articles/virtues-and-character/emulating-moral-exemplars.md) — Practice
+
+1. Pick two or three people whose judgment you trust in a domain that matters to you now (a manager who handles conflict well, a relative who stays fair under pressure), and prefer people close to your own situation over distant heroes.
+2. Watch for a specific moment where they acted well, and write down what they noticed, what they did and what they chose not to do.
+3. Ask them, or work out, the reasons behind it, so that you learn the ideal the action served rather than only the gesture.
+4. When you feel the sting of falling short, name the specific good you lack and one small step toward it this week, instead of looking for faults in them.
+5. Try the step in a comparable situation of your own, adapted to your circumstances, then compare the result with what they did and why.
+6. Widen and update your set of exemplars over time, and drop any you find yourself copying blindly or defending against all criticism.
+
+*A newly promoted team lead has to tell a long-serving colleague that a project they championed is being cancelled. A senior manager in the next department is known for handling news like this well.*
+
+| Before | After |
+|---|---|
+| The new lead either copies the senior manager's breezy phrases word for word, or quietly decides that the manager is just naturally charismatic and that there's nothing to learn, and sends a short email. | The lead asks the manager how they handled a similar conversation, learns that they always explain the reason in person, acknowledge what the work achieved and offer the person a real role in what comes next, and plans a face-to-face meeting that does those three things in the lead's own words. |
+
+**Why:** Emulation borrows the reasoning and the ideal behind an experienced person's choices, not their surface style, and it turns admiration into a concrete step the learner can actually take.
+
+Ask yourself:
+- Whose judgment would I trust most in exactly this kind of situation, and what would they notice first?
+- Am I copying what my role model did, or what they were trying to achieve?
+- When I compare myself with someone better at this, am I working out my next step or looking for reasons to dismiss them?
+- Is the person I'm learning from close enough to my own circumstances that their example is one I can actually follow?
+- Are there flaws in my role model I've stopped being willing to see?
+
 ### [Honesty](../articles/virtues-and-character/honesty.md) — Virtue
 
 *Your manager asks, in front of the team, whether the migration you lead is on track for Friday. It is not; a data problem surfaced yesterday and you have not yet told anyone.*
