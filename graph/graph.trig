@@ -280,6 +280,19 @@
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/igor-grossmann.md" .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> .
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> .
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/robert-sternberg.md" .
@@ -3368,6 +3381,102 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s6> <https://schema.org/url> <https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/igor-grossmann#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2000/01/rdf-schema#label> "Igor Grossmann" .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#altLabel> "I. Grossmann" .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#definition> "Social and cultural psychologist at the University of Waterloo, director of its Wisdom and Culture Lab, whose studies of how people reason about conflicts showed that wise reasoning can be measured, varies with age, culture and situation, and is weaker about one's own problems than about other people's." .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#prefLabel> "Igor Grossmann" .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "thinkers-and-works" .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/thinkers-and-works/igor-grossmann.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/distanced-self-reflection-diary> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/situated-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://purl.org/dc/terms/publisher> "Wisdom and Culture Lab, University of Waterloo" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://purl.org/dc/terms/title> "Wisdom Measures" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <https://schema.org/url> <https://uwaterloo.ca/wisdom-and-culture-lab/measures> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> <http://purl.org/dc/terms/publisher> "School of Psychology, University of Waterloo (faculty profile)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> <http://purl.org/dc/terms/title> "Igor Grossmann" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1> <https://schema.org/url> <https://uwaterloo.ca/psychology/node/547> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, University of California, Berkeley (contributor profile)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> <http://purl.org/dc/terms/title> "Igor Grossmann, Ph.D." .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s2> <https://schema.org/url> <https://greatergood.berkeley.edu/profile/igor_grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> <http://purl.org/dc/terms/publisher> "Psychological Science, 23(10), 1059–1066 (Grossmann, Karasawa, Izumi, Na, Varnum, Kitayama & Nisbett, 2012), CORE open-access copy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> <http://purl.org/dc/terms/title> "Aging and wisdom: Culture matters" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s3> <https://schema.org/url> <https://core.ac.uk/download/215255572.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> <http://purl.org/dc/terms/publisher> "PNAS, 107(16), 7246–7250 (Grossmann, Na, Varnum, Park, Kitayama & Nisbett, 2010), ScienceOpen abstract record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> <http://purl.org/dc/terms/title> "Reasoning about social conflicts improves into old age" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s4> <https://schema.org/url> <https://www.scienceopen.com/document/vid/1cd17058-ebd6-407f-84b9-b2f4fb7fe0ac> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> <http://purl.org/dc/terms/publisher> "Jubilee Centre for Character and Virtues, University of Birmingham (Grossmann, 2017 conference paper; in press at Perspectives on Psychological Science)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> <http://purl.org/dc/terms/title> "Wisdom in context" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s5> <https://schema.org/url> <https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Grossmann_I.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> <http://purl.org/dc/terms/publisher> "Cambridge University Press, in R. J. Sternberg & J. Glück (eds.), The Cambridge Handbook of Wisdom (2019), pp. 249–274 (Grossmann, Kung & Santos)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> <http://purl.org/dc/terms/title> "Wisdom as state versus trait" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s6> <https://schema.org/url> <https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/wisdom-as-state-versus-trait/C3AE48052A60A5B063FEB92426C0C035> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> <http://purl.org/dc/terms/publisher> "Nature Human Behaviour (The Forecasting Collaborative, led by Grossmann, Rotella, Hutcherson et al., 2023), University of Nottingham repository record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> <http://purl.org/dc/terms/title> "Insights into the accuracy of social scientists' forecasts of societal change" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s7> <https://schema.org/url> <https://nottingham-repository.worktribe.com/output/17087610/insights-into-the-accuracy-of-social-scientists-forecasts-of-societal-change> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> <http://purl.org/dc/terms/publisher> "University of Chicago Center for Practical Wisdom (summary of Grossmann, Weststrate, Ardelt et al., 2020, Psychological Inquiry, 31(2), 103–133)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> <http://purl.org/dc/terms/title> "The science of wisdom in a polarized world: Knowns and unknowns" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s8> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <http://purl.org/dc/terms/publisher> "EurekAlert! (AAAS), 8 January 2020" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <http://purl.org/dc/terms/title> "People view rationality and reasonableness as distinct principles (news release on Grossmann, Eibach, Koyama & Sahi, 2020, Science Advances)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <https://schema.org/url> <https://www.eurekalert.org/news-releases/787185> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -4422,6 +4531,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
@@ -4499,6 +4609,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -4589,6 +4700,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/distanced-self-reflection-diary> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/distraction> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -4662,6 +4774,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/escalation-of-commitment> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/ethan-kross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/eudaimonia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
@@ -4764,7 +4877,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/humility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/hyper-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
-  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/ikigai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
@@ -4809,6 +4922,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
@@ -5021,6 +5135,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-and-health-bidirectional-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-and-mortality-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
@@ -5119,6 +5234,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
@@ -5154,6 +5270,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/shattered-assumptions-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/situated-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
@@ -5201,6 +5319,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/egocentric-bias> .
+  <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -5310,7 +5429,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-hard-times-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-narcissism-transformational-leadership-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-of-crowds> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -5340,6 +5461,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
