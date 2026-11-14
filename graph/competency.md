@@ -89,6 +89,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 | node | status | challenger |
 |---|---|---|
+| `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:different-types-of-well-being-study` |
+| `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:reconsidering-happiness-critique` |
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:compassionate-reappraisal` | mixed |  |
@@ -117,7 +119,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:teaching-for-wisdom` | mixed |  |
 | `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
 | `wg:wise-leadership` | mixed |  |
-| `wg:wise-reasoning` | mixed |  |
+
+…and 1 more.
 
 ## Ideas with no recorded origin (gap)
 

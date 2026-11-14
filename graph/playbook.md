@@ -373,6 +373,21 @@ Ask yourself:
 - Is my thanks free, or am I acting out of a sense of debt, guilt or deference I don't really owe?
 - Am I using "be grateful" to talk myself, or someone else, out of a legitimate complaint?
 
+### [Hedonic and eudaimonic well-being](../articles/meaning-and-the-good-life/hedonic-and-eudaimonic-well-being.md) — Framework
+
+*After a draining quarter, a team lead plans a free weekend and wonders how to spend it to feel restored.*
+
+| Before | After |
+|---|---|
+| Pleasure is shallow; I'll spend the weekend on a self-improvement course so the time counts for something. | I'll do one thing purely for enjoyment, like a long lunch with friends, and one thing I care about, like finishing the bookshelf I'm building with my kid, and see how each leaves me feeling on Monday and a month from now. |
+
+**Why:** Research suggests pleasure-seeking and meaning-seeking pay off on different timescales and work best together, so treating one as the "real" happiness tends to shortchange the other.
+
+Ask yourself:
+- Am I treating enjoyment as frivolous, or meaning as a duty, rather than letting each do its own work in my life?
+- When I judge whether a choice will make me better off, am I thinking only about how it will feel this week, or also about whether it fits what I value and want to grow into?
+- Am I relying on a neat label (pleasure versus meaning) where my actual experience is more mixed?
+
 ### [Logotherapy](../articles/meaning-and-the-good-life/logotherapy.md) — Framework
 
 1. Name one thing you are creating or contributing right now, however small, and who it serves.

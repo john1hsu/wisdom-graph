@@ -530,6 +530,38 @@
    "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating enjoyment as frivolous, or meaning as a duty, rather than letting each do its own work in my life?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-and-eudaimonic-well-being"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I judge whether a choice will make me better off, am I thinking only about how it will feel this week, or also about whether it fits what I value and want to grow into?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-and-eudaimonic-well-being"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I relying on a neat label (pleasure versus meaning) where my actual experience is more mixed?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-and-eudaimonic-well-being"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll do one thing purely for enjoyment, like a long lunch with friends, and one thing I care about, like finishing the bookshelf I'm building with my kid, and see how each leaves me feeling on Monday and a month from now.",
+   "wgo:before": "Pleasure is shallow; I'll spend the weekend on a self-improvement course so the time counts for something.",
+   "wgo:situation": "After a draining quarter, a team lead plans a free weekend and wonders how to spend it to feel restored.",
+   "wgo:why": "Research suggests pleasure-seeking and meaning-seeking pay off on different timescales and work best together, so treating one as the \"real\" happiness tends to shortchange the other."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/honesty/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If the other person later learned everything I know, would they feel I had misled them, even if every word I said was true?",
@@ -2878,6 +2910,90 @@
     "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Annual Review of Psychology, 52, 141–166 (Ryan & Deci, 2001; PDF hosted by the Wellspring Institute)",
+   "dcterms:title": "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being",
+   "schema:url": {
+    "@id": "https://www.wisebrain.org/papers/HappinessLR.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 15(6), 1425–1456 (Huta & Waterman, 2014; RePEc/EconPapers record)",
+   "dcterms:title": "Eudaimonia and Its Distinction from Hedonia: Developing a Classification and Terminology for Understanding Conceptual and Operational Definitions",
+   "schema:url": {
+    "@id": "https://econpapers.repec.org/RePEc:spr:jhappi:v:15:y:2014:i:6:p:1425-1456"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 11(6), 735–762 (Huta & Ryan, 2010; PDF hosted by the Center for Self-Determination Theory)",
+   "dcterms:title": "Pursuing Pleasure or Virtue: The Differential and Overlapping Well-Being Benefits of Hedonic and Eudaimonic Motives",
+   "schema:url": {
+    "@id": "https://selfdeterminationtheory.org/SDT/documents/2010_HutaRyan_JOHS.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Positive Psychology, 3, 219–233 (Kashdan, Biswas-Diener & King, 2008; Association for Contextual Behavioral Science record)",
+   "dcterms:title": "Reconsidering happiness: The costs of distinguishing between hedonics and eudaimonia",
+   "schema:url": {
+    "@id": "https://contextualscience.org/publications/kashdan_biswasdiener_king_reconsidering_happiness"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Psychological Assessment, 28(5), 471–482 (Disabato, Goodman, Kashdan, Short & Jarden, 2016; author PDF)",
+   "dcterms:title": "Different Types of Well-Being? A Cross-Cultural Examination of Hedonic and Eudaimonic Well-Being",
+   "schema:url": {
+    "@id": "https://static1.squarespace.com/static/567e18590e4c11744881ca05/t/59dfcd43d55b41bdc2f8d2b0/1507839300497/Disabato+et+al+(2016)+different+types+of+well-being.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Aristotle's Ethics (Kraut; Summer 2026 edition)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/sum2026/entries/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/honesty/s1",
@@ -7425,6 +7541,108 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:counting-blessings-study"
+   }
+  },
+  {
+   "@id": "wg:hedonic-and-eudaimonic-well-being",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s6"
+    }
+   ],
+   "rdfs:label": "Hedonic and eudaimonic well-being",
+   "skos:altLabel": [
+    "hedonia and eudaimonia",
+    "hedonia versus eudaimonia",
+    "hedonic-eudaimonic distinction",
+    "pleasure versus meaning",
+    "subjective versus psychological well-being"
+   ],
+   "skos:broader": {
+    "@id": "wg:well-being"
+   },
+   "skos:definition": "The widely used framework in well-being research that separates hedonic well-being (pleasure, positive mood and life satisfaction) from eudaimonic well-being (meaning, growth, excellence and living by one's values); useful for reflecting on how one lives, but contested as a scientific division because self-report measures of the two overlap almost completely.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Hedonic and eudaimonic well-being",
+   "skos:related": [
+    {
+     "@id": "wg:aristotelian-virtue-ethics"
+    },
+    {
+     "@id": "wg:epicureanism"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:gratitude"
+    },
+    {
+     "@id": "wg:hedonic-adaptation"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:different-types-of-well-being-study"
+    },
+    {
+     "@id": "wg:reconsidering-happiness-critique"
+    }
+   ],
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "contested",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:self-determination-theory"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/hedonic-and-eudaimonic-well-being.md",
+   "wgo:influencedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:alan-waterman"
+    },
+    {
+     "@id": "wg:richard-ryan"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:positive-psychology"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:pursuing-pleasure-or-virtue-study"
    }
   },
   {

@@ -1157,6 +1157,126 @@
   ]
  },
  {
+  "id": "wg:hedonic-and-eudaimonic-well-being",
+  "title": "Hedonic and eudaimonic well-being",
+  "aliases": [
+   "hedonia and eudaimonia",
+   "hedonia versus eudaimonia",
+   "hedonic-eudaimonic distinction",
+   "subjective versus psychological well-being",
+   "pleasure versus meaning"
+  ],
+  "type": "Framework",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "contested",
+  "file": "articles/meaning-and-the-good-life/hedonic-and-eudaimonic-well-being.md",
+  "created": "2026-11-14",
+  "summary": "The widely used framework in well-being research that separates hedonic well-being (pleasure, positive mood and life satisfaction) from eudaimonic well-being (meaning, growth, excellence and living by one's values); useful for reflecting on how one lives, but contested as a scientific division because self-report measures of the two overlap almost completely.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epicureanism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotelian-virtue-ethics"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:richard-ryan",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:alan-waterman",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:self-determination-theory",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:pursuing-pleasure-or-virtue-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:different-types-of-well-being-study",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:reconsidering-happiness-critique",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:positive-psychology",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I treating enjoyment as frivolous, or meaning as a duty, rather than letting each do its own work in my life?",
+   "When I judge whether a choice will make me better off, am I thinking only about how it will feel this week, or also about whether it fits what I value and want to grow into?",
+   "Am I relying on a neat label (pleasure versus meaning) where my actual experience is more mixed?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "After a draining quarter, a team lead plans a free weekend and wonders how to spend it to feel restored.",
+   "before": "Pleasure is shallow; I'll spend the weekend on a self-improvement course so the time counts for something.",
+   "after": "I'll do one thing purely for enjoyment, like a long lunch with friends, and one thing I care about, like finishing the bookshelf I'm building with my kid, and see how each leaves me feeling on Monday and a month from now.",
+   "why": "Research suggests pleasure-seeking and meaning-seeking pay off on different timescales and work best together, so treating one as the \"real\" happiness tends to shortchange the other."
+  },
+  "source_urls": [
+   "https://www.wisebrain.org/papers/HappinessLR.pdf",
+   "https://econpapers.repec.org/RePEc:spr:jhappi:v:15:y:2014:i:6:p:1425-1456",
+   "https://selfdeterminationtheory.org/SDT/documents/2010_HutaRyan_JOHS.pdf",
+   "https://contextualscience.org/publications/kashdan_biswasdiener_king_reconsidering_happiness",
+   "https://static1.squarespace.com/static/567e18590e4c11744881ca05/t/59dfcd43d55b41bdc2f8d2b0/1507839300497/Disabato+et+al+(2016)+different+types+of+well-being.pdf",
+   "https://plato.stanford.edu/archives/sum2026/entries/aristotle-ethics/"
+  ]
+ },
+ {
   "id": "wg:honesty",
   "title": "Honesty",
   "aliases": [
