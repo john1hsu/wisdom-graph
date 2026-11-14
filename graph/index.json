@@ -1562,6 +1562,99 @@
   ]
  },
  {
+  "id": "wg:major-life-decision",
+  "title": "Major life decisions",
+  "aliases": [
+   "major life decision",
+   "life-changing decision",
+   "big life choice",
+   "crossroads decision"
+  ],
+  "type": "Context",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/major-life-decision.md",
+  "created": "2026-11-14",
+  "summary": "The rare, high-stakes choices that reshape a life — whether to change career, move, start or end a relationship, or have a child — where the outcome is uncertain, hard to undo, and may change the very person who lives with it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:decisions-under-uncertainty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-algebra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:end-of-history-illusion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-courage"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:coin-toss-life-decisions-study",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:transformative-experience",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:decision-theory",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I treating \"not deciding\" as if it were not itself a choice?",
+   "Am I assuming the person I'll be in ten years wants exactly what I want today?",
+   "Which part of this can I learn about before committing, and which part can I only learn by living it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "After eight years in a stable accounting job, Priya has an offer to retrain as a teacher at lower pay, and has been going back and forth for months.",
+   "before": "I'll wait until I'm sure I'll be happier as a teacher. Until then, staying put is the safe choice.",
+   "after": "I can't know now what teaching will feel like, and staying is a choice too. I'll test what I can (shadow a class, ask two teachers what surprised them), decide what I'd want to have tried, and set a date.",
+   "why": "Waiting for a certainty that can't arrive quietly chooses the status quo, which the evidence suggests people over-favour; gathering what is knowable and naming the real reasons is the wiser path."
+  },
+  "source_urls": [
+   "https://econpapers.repec.org/RePEc:oup:restud:v:88:y:2021:i:1:p:378-405.",
+   "https://philarchive.org/archive/PAUWMC",
+   "https://ora.ox.ac.uk/objects/uuid:5391dcee-0169-4f6e-b1a8-2ee401f378d3",
+   "https://midus.wisc.edu/wp-content/uploads/2024/04/1256.pdf",
+   "https://dtg.sites.fas.harvard.edu/Gilber%20t&%20Ebert%20(DECISIONS%20&%20REVISIONS).pdf",
+   "https://ecommons.cornell.edu/entities/publication/0cb2eb5b-f492-43c4-aaf4-513b1db7179a"
+  ]
+ },
+ {
   "id": "wg:memento-mori",
   "title": "Memento mori",
   "aliases": [

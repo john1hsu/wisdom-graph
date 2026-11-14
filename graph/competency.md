@@ -87,6 +87,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:logotherapy` | mixed |  |
+| `wg:major-life-decision` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
@@ -103,6 +104,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:major-life-decision` | wgo:Context |
 | `wg:perspective-taking` | wgo:Practice |
 | `wg:virtue-ethics` | wgo:Field |
 

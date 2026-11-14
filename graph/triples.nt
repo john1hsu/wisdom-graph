@@ -830,6 +830,53 @@
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/existential-therapies-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-group-psychotherapy-trial> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating \"not deciding\" as if it were not itself a choice?" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I assuming the person I'll be in ten years wants exactly what I want today?" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Which part of this can I learn about before committing, and which part can I only learn by living it?" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I can't know now what teaching will feel like, and staying is a choice too. I'll test what I can (shadow a class, ask two teachers what surprised them), decide what I'd want to have tried, and set a date." .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'll wait until I'm sure I'll be happier as a teacher. Until then, staying put is the safe choice." .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "After eight years in a stable accounting job, Priya has an offer to retrain as a teacher at lower pay, and has been going back and forth for months." .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Waiting for a certainty that can't arrive quietly chooses the status quo, which the evidence suggests people over-favour; gathering what is knowable and naming the real reasons is the wiser path." .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2000/01/rdf-schema#label> "Major life decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#altLabel> "big life choice" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#altLabel> "crossroads decision" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#altLabel> "life-changing decision" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#altLabel> "major life decision" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#definition> "The rare, high-stakes choices that reshape a life — whether to change career, move, start or end a relationship, or have a child — where the outcome is uncertain, hard to undo, and may change the very person who lives with it." .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#prefLabel> "Major life decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/major-life-decision.md" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If my time were shorter than I assume, would this still be worth my anger or effort?" .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -2181,6 +2228,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s6> <https://schema.org/url> <https://viktorfrankl.org/quote_stimulus.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> <http://purl.org/dc/terms/publisher> "The Review of Economic Studies (Oxford University Press), via RePEc EconPapers" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> <http://purl.org/dc/terms/title> "Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1> <https://schema.org/url> <https://econpapers.repec.org/RePEc:oup:restud:v:88:y:2021:i:1:p:378-405.> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> <http://purl.org/dc/terms/publisher> "Res Philosophica, via PhilArchive" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> <http://purl.org/dc/terms/title> "What You Can't Expect When You're Expecting" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2> <https://schema.org/url> <https://philarchive.org/archive/PAUWMC> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> <http://purl.org/dc/terms/publisher> "Synthese (Springer), via Oxford University Research Archive" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> <http://purl.org/dc/terms/title> "Rational transformative decision-making" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3> <https://schema.org/url> <https://ora.ox.ac.uk/objects/uuid:5391dcee-0169-4f6e-b1a8-2ee401f378d3> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> <http://purl.org/dc/terms/publisher> "Science (AAAS), author copy via MIDUS, University of Wisconsin–Madison" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> <http://purl.org/dc/terms/title> "The end of history illusion" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4> <https://schema.org/url> <https://midus.wisc.edu/wp-content/uploads/2024/04/1256.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology (APA), author copy, Harvard University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> <http://purl.org/dc/terms/title> "Decisions and revisions: The affective forecasting of changeable outcomes" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5> <https://schema.org/url> <https://dtg.sites.fas.harvard.edu/Gilber%20t&%20Ebert%20(DECISIONS%20&%20REVISIONS).pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> <http://purl.org/dc/terms/publisher> "Royal Society Open Science, via Cornell eCommons" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> <http://purl.org/dc/terms/title> "A very public replication of the temporal pattern to people's regrets" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6> <https://schema.org/url> <https://ecommons.cornell.edu/entities/publication/0cb2eb5b-f492-43c4-aaf4-513b1db7179a> .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 30(3), 278–292 (Cozzolino, Staples, Meyers & Samboceti, 2004)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1> <http://purl.org/dc/terms/title> "Greed, death, and values: From terror management to transcendence management theory" .

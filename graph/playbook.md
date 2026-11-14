@@ -235,6 +235,21 @@ Ask yourself:
 - Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?
 - Have I set a point where thinking stops and acting starts?
 
+### [Major life decisions](../articles/judgment-and-decisions/major-life-decision.md) — Context
+
+*After eight years in a stable accounting job, Priya has an offer to retrain as a teacher at lower pay, and has been going back and forth for months.*
+
+| Before | After |
+|---|---|
+| I'll wait until I'm sure I'll be happier as a teacher. Until then, staying put is the safe choice. | I can't know now what teaching will feel like, and staying is a choice too. I'll test what I can (shadow a class, ask two teachers what surprised them), decide what I'd want to have tried, and set a date. |
+
+**Why:** Waiting for a certainty that can't arrive quietly chooses the status quo, which the evidence suggests people over-favour; gathering what is knowable and naming the real reasons is the wiser path.
+
+Ask yourself:
+- Am I treating "not deciding" as if it were not itself a choice?
+- Am I assuming the person I'll be in ten years wants exactly what I want today?
+- Which part of this can I learn about before committing, and which part can I only learn by living it?
+
 ### [Moral algebra](../articles/judgment-and-decisions/moral-algebra.md) — Practice
 
 1. Use the method only for an important choice that is up to you and genuinely two-sided, not for a matter of taste or a change you have already committed to.

@@ -770,6 +770,38 @@
    "schema:text": "Turn your attention from monitoring yourself to the task or person in front of you."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating \"not deciding\" as if it were not itself a choice?",
+   "wgo:questionFor": {
+    "@id": "wg:major-life-decision"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I assuming the person I'll be in ten years wants exactly what I want today?",
+   "wgo:questionFor": {
+    "@id": "wg:major-life-decision"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which part of this can I learn about before committing, and which part can I only learn by living it?",
+   "wgo:questionFor": {
+    "@id": "wg:major-life-decision"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I can't know now what teaching will feel like, and staying is a choice too. I'll test what I can (shadow a class, ask two teachers what surprised them), decide what I'd want to have tried, and set a date.",
+   "wgo:before": "I'll wait until I'm sure I'll be happier as a teacher. Until then, staying put is the safe choice.",
+   "wgo:situation": "After eight years in a stable accounting job, Priya has an offer to retrain as a teacher at lower pay, and has been going back and forth for months.",
+   "wgo:why": "Waiting for a certainty that can't arrive quietly chooses the status quo, which the evidence suggests people over-favour; gathering what is knowable and naming the real reasons is the wiser path."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If my time were shorter than I assume, would this still be worth my anger or effort?",
@@ -2858,6 +2890,90 @@
     "@id": "https://viktorfrankl.org/quote_stimulus.html"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Review of Economic Studies (Oxford University Press), via RePEc EconPapers",
+   "dcterms:title": "Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness",
+   "schema:url": {
+    "@id": "https://econpapers.repec.org/RePEc:oup:restud:v:88:y:2021:i:1:p:378-405."
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Res Philosophica, via PhilArchive",
+   "dcterms:title": "What You Can't Expect When You're Expecting",
+   "schema:url": {
+    "@id": "https://philarchive.org/archive/PAUWMC"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Synthese (Springer), via Oxford University Research Archive",
+   "dcterms:title": "Rational transformative decision-making",
+   "schema:url": {
+    "@id": "https://ora.ox.ac.uk/objects/uuid:5391dcee-0169-4f6e-b1a8-2ee401f378d3"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Science (AAAS), author copy via MIDUS, University of Wisconsin–Madison",
+   "dcterms:title": "The end of history illusion",
+   "schema:url": {
+    "@id": "https://midus.wisc.edu/wp-content/uploads/2024/04/1256.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology (APA), author copy, Harvard University",
+   "dcterms:title": "Decisions and revisions: The affective forecasting of changeable outcomes",
+   "schema:url": {
+    "@id": "https://dtg.sites.fas.harvard.edu/Gilber%20t&%20Ebert%20(DECISIONS%20&%20REVISIONS).pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Royal Society Open Science, via Cornell eCommons",
+   "dcterms:title": "A very public replication of the temporal pattern to people's regrets",
+   "schema:url": {
+    "@id": "https://ecommons.cornell.edu/entities/publication/0cb2eb5b-f492-43c4-aaf4-513b1db7179a"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s1",
@@ -5943,6 +6059,91 @@
      "@id": "wg:meaning-centered-group-psychotherapy-trial"
     }
    ]
+  },
+  {
+   "@id": "wg:major-life-decision",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s6"
+    }
+   ],
+   "rdfs:label": "Major life decisions",
+   "skos:altLabel": [
+    "big life choice",
+    "crossroads decision",
+    "life-changing decision",
+    "major life decision"
+   ],
+   "skos:broader": {
+    "@id": "wg:decisions-under-uncertainty"
+   },
+   "skos:definition": "The rare, high-stakes choices that reshape a life — whether to change career, move, start or end a relationship, or have a child — where the outcome is uncertain, hard to undo, and may change the very person who lives with it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Major life decisions",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:end-of-history-illusion"
+    },
+    {
+     "@id": "wg:intellectual-courage"
+    },
+    {
+     "@id": "wg:moral-algebra"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:demonstratedBy": {
+    "@id": "wg:coin-toss-life-decisions-study"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/major-life-decision/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:transformative-experience"
+   },
+   "wgo:file": "articles/judgment-and-decisions/major-life-decision.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:decision-theory"
+   }
   },
   {
    "@id": "wg:memento-mori",
