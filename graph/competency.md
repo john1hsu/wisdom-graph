@@ -107,6 +107,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:equanimity` | mixed |  |
 | `wg:folly` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
+| `wg:grief-and-loss` | mixed |  |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:implementation-intentions` | mixed |  |
@@ -124,9 +125,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
 | `wg:self-reflection` | mixed |  |
-| `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 
-…and 6 more.
+…and 7 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -135,6 +135,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:after-action-review` | wgo:Practice |
+| `wg:grief-and-loss` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:meaning-in-life` | wgo:Concept |
 | `wg:regret` | wgo:Phenomenon |

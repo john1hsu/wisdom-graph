@@ -1495,6 +1495,109 @@
   ]
  },
  {
+  "id": "wg:grief-and-loss",
+  "title": "Grief and bereavement",
+  "aliases": [
+   "grief and loss",
+   "bereavement",
+   "mourning",
+   "losing a loved one"
+  ],
+  "type": "Context",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/grief-and-loss.md",
+  "created": "2026-11-14",
+  "summary": "The situation of having lost someone close through death, and the grief that follows: a mix of yearning, sorrow, disbelief and gradual acceptance that unfolds differently for each person rather than in fixed stages. Wisdom here means making room for both remembering and rebuilding, and knowing when grief needs more help.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:adversity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:continuing-bonds"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:five-stages-of-grief"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:dual-process-model-of-bereavement",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:empirical-stage-theory-of-grief-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:prolonged-grief-disorder",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:continuing-bonds",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I judging my grief, or someone else's, against a schedule of stages that the evidence does not support?",
+   "Have I made room both for remembering the person and for the practical and social life I still have to live?",
+   "Has intense yearning or numbness kept me from functioning most days for many months, so that it is time to talk to a professional?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Two months after her father's death, Dana enjoys a weekend away with friends, then feels guilty and wonders whether she is grieving \"wrong\" because she has not hit a depression stage.",
+   "before": "I'm supposed to be in the sad stage by now. If I can laugh, maybe I didn't love him enough, so I'll cancel the next plan.",
+   "after": "Grief doesn't run on a timetable. Missing him and getting on with life can both be part of it, so I'll keep the plan and also set aside Sunday evening to look through his letters.",
+   "why": "Research finds no fixed sequence of stages, and moving back and forth between facing the loss and rebuilding daily life is a normal, healthy pattern rather than a sign of loving less."
+  },
+  "source_urls": [
+   "https://research-portal.uu.nl/en/publications/the-dual-process-model-of-coping-with-bereavement-rationale-and-d/",
+   "https://publications.aston.ac.uk/id/eprint/45257",
+   "https://medicine.yale.edu/news/article.aspx?id=3534",
+   "https://www.mcgill.ca/oss/node/7786",
+   "https://psychiatry.org/news-room/news-releases/apa-offers-tips-for-understanding-prolonged-grief",
+   "https://accesstoinsight.org/noncanon/comy/thiga-10-01-ao0"
+  ]
+ },
+ {
   "id": "wg:hedonic-and-eudaimonic-well-being",
   "title": "Hedonic and eudaimonic well-being",
   "aliases": [

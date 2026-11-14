@@ -1,5 +1,14 @@
 # Per-article named graphs. Default graph holds provenance about each named graph.
 
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/adversity-and-mortality/grief-and-loss.md" .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/adversity-and-mortality/memento-mori.md" .
@@ -523,6 +532,94 @@
 <https://github.com/john1hsu/wisdom-graph/id/ubuntu#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/ubuntu#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/ubuntu#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s6> .
+
+<https://github.com/john1hsu/wisdom-graph/id/grief-and-loss#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I judging my grief, or someone else's, against a schedule of stages that the evidence does not support?" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I made room both for remembering the person and for the practical and social life I still have to live?" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Has intense yearning or numbness kept me from functioning most days for many months, so that it is time to talk to a professional?" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Grief doesn't run on a timetable. Missing him and getting on with life can both be part of it, so I'll keep the plan and also set aside Sunday evening to look through his letters." .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'm supposed to be in the sad stage by now. If I can laugh, maybe I didn't love him enough, so I'll cancel the next plan." .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Two months after her father's death, Dana enjoys a weekend away with friends, then feels guilty and wonders whether she is grieving \"wrong\" because she has not hit a depression stage." .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Research finds no fixed sequence of stages, and moving back and forth between facing the loss and rebuilding daily life is a normal, healthy pattern rather than a sign of loving less." .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2000/01/rdf-schema#label> "Grief and bereavement" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#altLabel> "bereavement" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#altLabel> "grief and loss" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#altLabel> "losing a loved one" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#altLabel> "mourning" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#definition> "The situation of having lost someone close through death, and the grief that follows: a mix of yearning, sorrow, disbelief and gradual acceptance that unfolds differently for each person rather than in fixed stages. Wisdom here means making room for both remembering and rebuilding, and knowing when grief needs more help." .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grief and bereavement" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/five-stages-of-grief> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/prolonged-grief-disorder> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "adversity-and-mortality" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/dual-process-model-of-bereavement> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/adversity-and-mortality/grief-and-loss.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://purl.org/dc/terms/publisher> "Death Studies, 23(3), 197–224 (Stroebe & Schut, 1999); Utrecht University research portal" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://purl.org/dc/terms/title> "The Dual Process Model of coping with bereavement: Rationale and description" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <https://schema.org/url> <https://research-portal.uu.nl/en/publications/the-dual-process-model-of-coping-with-bereavement-rationale-and-d/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> <http://purl.org/dc/terms/publisher> "Death Studies (Hewson, Galbraith, Jones & Heath, 2023); Aston University Research Explorer" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> <http://purl.org/dc/terms/title> "The impact of continuing bonds following bereavement: A systematic review" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2> <https://schema.org/url> <https://publications.aston.ac.uk/id/eprint/45257> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> <http://purl.org/dc/terms/publisher> "Yale School of Medicine" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> <http://purl.org/dc/terms/title> "Yale study of grief: first empirical test of the Kübler-Ross stage theory (news report on Maciejewski et al., JAMA 297, 2007)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3> <https://schema.org/url> <https://medicine.yale.edu/news/article.aspx?id=3534> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> <http://purl.org/dc/terms/publisher> "McGill University Office for Science and Society (McVean, 2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> <http://purl.org/dc/terms/title> "It's Time to Let the Five Stages of Grief Die" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4> <https://schema.org/url> <https://www.mcgill.ca/oss/node/7786> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> <http://purl.org/dc/terms/publisher> "American Psychiatric Association (2021)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> <http://purl.org/dc/terms/title> "APA Offers Tips for Understanding Prolonged Grief" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5> <https://schema.org/url> <https://psychiatry.org/news-room/news-releases/apa-offers-tips-for-understanding-prolonged-grief> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> <http://purl.org/dc/terms/publisher> "Access to Insight (BCBS Edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> <http://purl.org/dc/terms/title> "Skinny Gotami and the Mustard Seed (Therigatha commentary on Thig 10.1), translated by Andrew Olendzki" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6> <https://schema.org/url> <https://accesstoinsight.org/noncanon/comy/thiga-10-01-ao0> .
+}
 
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
@@ -5862,6 +5959,7 @@
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -5869,6 +5967,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/african-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
   <https://github.com/john1hsu/wisdom-graph/id/african-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
@@ -5968,6 +6068,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/indian-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -6004,6 +6105,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
@@ -6038,6 +6140,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/contemplative-science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/contemplative-science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/coping-flexibility-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/coping> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/coping> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
@@ -6115,6 +6219,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/dogmatism> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/dual-process-model-of-bereavement> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/eavesdropping-on-character-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -6146,6 +6251,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -6212,6 +6320,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/fast-and-frugal-heuristics> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/five-stages-of-grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -6262,10 +6371,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
-  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
-  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/happiness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -6340,6 +6452,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/impetuosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
@@ -6502,6 +6615,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-of-life> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
@@ -6662,6 +6776,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/prolonged-grief-disorder> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/prosocial-lying> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/prosocial-lying> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
@@ -6748,6 +6863,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .

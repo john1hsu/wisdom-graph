@@ -4,6 +4,21 @@ Every before/after example, step-by-step procedure and self-check question in th
 
 ## adversity-and-mortality
 
+### [Grief and bereavement](../articles/adversity-and-mortality/grief-and-loss.md) — Context
+
+*Two months after her father's death, Dana enjoys a weekend away with friends, then feels guilty and wonders whether she is grieving "wrong" because she has not hit a depression stage.*
+
+| Before | After |
+|---|---|
+| I'm supposed to be in the sad stage by now. If I can laugh, maybe I didn't love him enough, so I'll cancel the next plan. | Grief doesn't run on a timetable. Missing him and getting on with life can both be part of it, so I'll keep the plan and also set aside Sunday evening to look through his letters. |
+
+**Why:** Research finds no fixed sequence of stages, and moving back and forth between facing the loss and rebuilding daily life is a normal, healthy pattern rather than a sign of loving less.
+
+Ask yourself:
+- Am I judging my grief, or someone else's, against a schedule of stages that the evidence does not support?
+- Have I made room both for remembering the person and for the practical and social life I still have to live?
+- Has intense yearning or numbness kept me from functioning most days for many months, so that it is time to talk to a professional?
+
 ### [Memento mori](../articles/adversity-and-mortality/memento-mori.md) — Practice
 
 1. Pick a fixed cue for the reflection, such as waking up, a commute, or the last few minutes before sleep.

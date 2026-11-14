@@ -749,6 +749,38 @@
    "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I judging my grief, or someone else's, against a schedule of stages that the evidence does not support?",
+   "wgo:questionFor": {
+    "@id": "wg:grief-and-loss"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I made room both for remembering the person and for the practical and social life I still have to live?",
+   "wgo:questionFor": {
+    "@id": "wg:grief-and-loss"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Has intense yearning or numbness kept me from functioning most days for many months, so that it is time to talk to a professional?",
+   "wgo:questionFor": {
+    "@id": "wg:grief-and-loss"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Grief doesn't run on a timetable. Missing him and getting on with life can both be part of it, so I'll keep the plan and also set aside Sunday evening to look through his letters.",
+   "wgo:before": "I'm supposed to be in the sad stage by now. If I can laugh, maybe I didn't love him enough, so I'll cancel the next plan.",
+   "wgo:situation": "Two months after her father's death, Dana enjoys a weekend away with friends, then feels guilty and wonders whether she is grieving \"wrong\" because she has not hit a depression stage.",
+   "wgo:why": "Research finds no fixed sequence of stages, and moving back and forth between facing the loss and rebuilding daily life is a normal, healthy pattern rather than a sign of loving less."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating enjoyment as frivolous, or meaning as a duty, rather than letting each do its own work in my life?",
@@ -3574,6 +3606,90 @@
    "dcterms:title": "L. Annaeus Seneca On Benefits (De Beneficiis), trans. Aubrey Stewart (1887)",
    "schema:url": {
     "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Death Studies, 23(3), 197–224 (Stroebe & Schut, 1999); Utrecht University research portal",
+   "dcterms:title": "The Dual Process Model of coping with bereavement: Rationale and description",
+   "schema:url": {
+    "@id": "https://research-portal.uu.nl/en/publications/the-dual-process-model-of-coping-with-bereavement-rationale-and-d/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Death Studies (Hewson, Galbraith, Jones & Heath, 2023); Aston University Research Explorer",
+   "dcterms:title": "The impact of continuing bonds following bereavement: A systematic review",
+   "schema:url": {
+    "@id": "https://publications.aston.ac.uk/id/eprint/45257"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Yale School of Medicine",
+   "dcterms:title": "Yale study of grief: first empirical test of the Kübler-Ross stage theory (news report on Maciejewski et al., JAMA 297, 2007)",
+   "schema:url": {
+    "@id": "https://medicine.yale.edu/news/article.aspx?id=3534"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "McGill University Office for Science and Society (McVean, 2019)",
+   "dcterms:title": "It's Time to Let the Five Stages of Grief Die",
+   "schema:url": {
+    "@id": "https://www.mcgill.ca/oss/node/7786"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "American Psychiatric Association (2021)",
+   "dcterms:title": "APA Offers Tips for Understanding Prolonged Grief",
+   "schema:url": {
+    "@id": "https://psychiatry.org/news-room/news-releases/apa-offers-tips-for-understanding-prolonged-grief"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Access to Insight (BCBS Edition)",
+   "dcterms:title": "Skinny Gotami and the Mustard Seed (Therigatha commentary on Thig 10.1), translated by Andrew Olendzki",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/noncanon/comy/thiga-10-01-ao0"
    },
    "wgo:sourceType": "primary"
   },
@@ -8949,6 +9065,99 @@
    "wgo:supportedBy": {
     "@id": "wg:counting-blessings-study"
    }
+  },
+  {
+   "@id": "wg:grief-and-loss",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s6"
+    }
+   ],
+   "rdfs:label": "Grief and bereavement",
+   "skos:altLabel": [
+    "bereavement",
+    "grief and loss",
+    "losing a loved one",
+    "mourning"
+   ],
+   "skos:broader": {
+    "@id": "wg:adversity"
+   },
+   "skos:definition": "The situation of having lost someone close through death, and the grief that follows: a mix of yearning, sorrow, disbelief and gradual acceptance that unfolds differently for each person rather than in fixed stages. Wisdom here means making room for both remembering and rebuilding, and knowing when grief needs more help.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Grief and bereavement",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:continuing-bonds"
+    },
+    {
+     "@id": "wg:five-stages-of-grief"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:rumination"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:prolonged-grief-disorder"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:empirical-stage-theory-of-grief-study"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/example"
+   },
+   "wgo:explainedBy": [
+    {
+     "@id": "wg:continuing-bonds"
+    },
+    {
+     "@id": "wg:dual-process-model-of-bereavement"
+    }
+   ],
+   "wgo:file": "articles/adversity-and-mortality/grief-and-loss.md",
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:hedonic-and-eudaimonic-well-being",
