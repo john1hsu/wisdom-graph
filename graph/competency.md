@@ -6,9 +6,7 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-| node | type |
-|---|---|
-| `wg:weakness-of-will` | wgo:Obstacle |
+_No results._
 
 ## Skills and virtues with no practice (gap)
 
@@ -32,6 +30,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 |---|---|---|
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
+| `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
@@ -109,6 +108,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
+| `wg:implementation-intentions` | mixed |  |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:logotherapy` | mixed |  |
@@ -125,9 +125,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:socioemotional-selectivity-theory` | mixed | `wg:strength-of-weaker-ties-study` |
 | `wg:solomons-paradox` | mixed |  |
 | `wg:teaching-for-wisdom` | mixed |  |
-| `wg:three-dimensional-wisdom-model` | mixed | `wg:spanish-short-3d-ws-validation-study` |
 
-…and 3 more.
+…and 4 more.
 
 ## Ideas with no recorded origin (gap)
 

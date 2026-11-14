@@ -946,6 +946,84 @@
 <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/situated-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> .
 <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I named the exact moment when I will act, or only the goal I hope to reach?" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What is the cue that usually pulls me off course, and do I have a then-response ready for it?" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Do I still endorse this goal, or am I making plans to avoid admitting I no longer want it?" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "If I am about to drop the plan, has something genuinely changed, or has the moment of keeping it simply arrived?" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"If I notice I'm about to speak while someone else is mid-sentence, then I'll write my point down and wait for them to finish.\" In the meeting, the urge to cut in becomes her cue to reach for the notepad." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"I'll just try harder to listen next week.\" In the next tense meeting the resolution is forgotten within minutes, and she cuts in twice." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead has decided, for good reasons, to stop interrupting colleagues in meetings, but keeps doing it when a discussion gets heated." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "A general resolution relies on remembering and summoning willpower at exactly the moment emotion is highest. An if-then plan decides in calm advance what the trigger is and what to do, so the situation itself prompts the wiser response." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/1> <https://schema.org/text> "Check that the goal is one you have actually decided on and still endorse; if you are lukewarm about it, deliberate first, because a plan cannot supply commitment you do not have." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/2> <https://schema.org/text> "Identify the critical moment, either the opportunity to act (a time, a place, a recurring event) or the obstacle that usually derails you (a temptation, a distraction, a feeling)." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/3> <https://schema.org/text> "Write one plan per cue in the form \"If [specific situation], then I will [specific action]\", making the cue concrete enough that you will recognise it and the action small enough to start at once." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/4> <https://schema.org/text> "For your usual obstacle, add a shielding plan, such as \"If I feel the urge to check messages, then I will note it and keep writing until the timer ends.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/5> <https://schema.org/text> "Say or rehearse the plan a few times so the cue and the response are firmly linked, and remove anything in the setting that competes with it." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/6> <https://schema.org/text> "Afterwards, review whether the cue appeared and the plan fired; revise the plan if circumstances have genuinely changed, not merely because keeping it felt hard." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/name> "Implementation intentions" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2000/01/rdf-schema#label> "Implementation intentions" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#altLabel> "if-then planning" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#altLabel> "if-then plans" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#altLabel> "planning prompts" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#altLabel> "when-then plans" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#definition> "Turning a decision you have already made into a specific if-then plan that names the situation in which you will act and exactly what you will do (\"If it is 9 a.m. at my desk, then I open the report before the inbox\"), so that the moment itself, rather than fresh willpower, triggers the better choice." .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Implementation intentions" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/procrastination> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/mental-contrasting> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/self-control> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/example> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/strategic-automaticity> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/implementation-intentions.md" .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/peter-gollwitzer> .
+<https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "When I call someone wise, am I responding to their judgment and care for others, or mainly to their intelligence, confidence or age?" .
 <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
@@ -2965,6 +3043,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s9> <https://schema.org/url> <https://www.eurekalert.org/news-releases/787185> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 54(7), 493-503 (Peter M. Gollwitzer, 1999); author copy, University of Konstanz" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://purl.org/dc/terms/title> "Implementation intentions: Strong effects of simple plans" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <https://schema.org/url> <https://www.socmot.uni-konstanz.de/sites/default/files/99_Gollwitzer_Implementation_Intentions.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> <http://purl.org/dc/terms/publisher> "Advances in Experimental Social Psychology, 38, 69-119 (Gollwitzer and Sheeran, 2006); KOPS, University of Konstanz" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> <http://purl.org/dc/terms/title> "Implementation intentions and goal achievement: A meta-analysis of effects and processes" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s2> <https://schema.org/url> <https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> <http://purl.org/dc/terms/publisher> "European Review of Social Psychology, 36(1), 162-194 (Sheeran, Listrom and Gollwitzer, 2025); KOPS, University of Konstanz" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> <http://purl.org/dc/terms/title> "The when and how of planning: Meta-analysis of the scope and components of implementation intentions in 642 tests" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s3> <https://schema.org/url> <https://kops.uni-konstanz.de/handle/123456789/69905> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> <http://purl.org/dc/terms/publisher> "NBER Working Paper 17183 (Milkman, Beshears, Choi, Laibson and Madrian; published in PNAS 108(26), 2011)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> <http://purl.org/dc/terms/title> "Using implementation intentions prompts to enhance influenza vaccination rates" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s4> <https://schema.org/url> <https://nber.org/system/files/working_papers/w17183/w17183.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 12, 565202 (Wang, Wang and Gai, 2021)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> <http://purl.org/dc/terms/title> "A meta-analysis of the effects of mental contrasting with implementation intentions on goal attainment" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s5> <https://schema.org/url> <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> <http://purl.org/dc/terms/publisher> "Richard Holton, in Stroud and Tappolet (eds.), Weakness of Will and Practical Irrationality (Oxford University Press); author copy, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> <http://purl.org/dc/terms/title> "How is strength of will possible?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s6> <https://schema.org/url> <https://web.mit.edu/holton/www/pubs/sow.us.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s1> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 49(3), 607–627 (Sternberg, 1985), Weber State University course copy" .
 <https://github.com/john1hsu/wisdom-graph/id/source/implicit-theories-of-wisdom/s1> <http://purl.org/dc/terms/title> "Implicit theories of intelligence, creativity, and wisdom" .

@@ -8,15 +8,15 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.84 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 2.77 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
 | 2.74 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
-| 2.54 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:robert-sternberg` |
+| 2.53 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:robert-sternberg` |
 | 2.29 | `wg:empathy` | `wg:equanimity` | `wg:compassion`, `wg:emotion-regulation`, `wg:forgiveness` |
 | 2.27 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
 | 2.23 | `wg:igor-grossmann` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:wisdom-researchers` |
 | 2.11 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 2.07 | `wg:igor-grossmann` | `wg:teaching-for-wisdom` | `wg:distanced-self-reflection-diary`, `wg:intellectual-humility`, `wg:wise-reasoning` |
 | 2.03 | `wg:robert-sternberg` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom`, `wg:wise-leadership` |
-| 2.03 | `wg:intellectual-humility` | `wg:major-life-decision` | `wg:deliberation`, `wg:intellectual-courage`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
 | 2.03 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model`, `wg:wisdom` |
+| 2.02 | `wg:intellectual-humility` | `wg:major-life-decision` | `wg:deliberation`, `wg:intellectual-courage`, `wg:seeking-counsel`, `wg:self-distancing`, `wg:wise-reasoning` |
 | 1.94 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:regret`, `wg:rumination` |
 | 1.93 | `wg:implicit-theories-of-wisdom` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:three-dimensional-wisdom-model` |
 | 1.92 | `wg:hedonic-and-eudaimonic-well-being` | `wg:stoicism` | `wg:epicureanism`, `wg:eudaimonia`, `wg:gratitude` |

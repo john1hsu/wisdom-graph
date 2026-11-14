@@ -1794,6 +1794,121 @@
   ]
  },
  {
+  "id": "wg:implementation-intentions",
+  "title": "Implementation intentions",
+  "aliases": [
+   "if-then planning",
+   "if-then plans",
+   "when-then plans",
+   "planning prompts"
+  ],
+  "type": "Practice",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/implementation-intentions.md",
+  "created": "2026-11-14",
+  "summary": "Turning a decision you have already made into a specific if-then plan that names the situation in which you will act and exactly what you will do (\"If it is 9 a.m. at my desk, then I open the report before the inbox\"), so that the moment itself, rather than fresh willpower, triggers the better choice.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-regulation-strategies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:weakness-of-will",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:procrastination",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:self-control",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:peter-gollwitzer",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:strategic-automaticity",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:implementation-intentions-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:flu-vaccination-planning-prompts-study",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:mental-contrasting",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Have I named the exact moment when I will act, or only the goal I hope to reach?",
+   "What is the cue that usually pulls me off course, and do I have a then-response ready for it?",
+   "Do I still endorse this goal, or am I making plans to avoid admitting I no longer want it?",
+   "If I am about to drop the plan, has something genuinely changed, or has the moment of keeping it simply arrived?"
+  ],
+  "steps": [
+   "Check that the goal is one you have actually decided on and still endorse; if you are lukewarm about it, deliberate first, because a plan cannot supply commitment you do not have.",
+   "Identify the critical moment, either the opportunity to act (a time, a place, a recurring event) or the obstacle that usually derails you (a temptation, a distraction, a feeling).",
+   "Write one plan per cue in the form \"If [specific situation], then I will [specific action]\", making the cue concrete enough that you will recognise it and the action small enough to start at once.",
+   "For your usual obstacle, add a shielding plan, such as \"If I feel the urge to check messages, then I will note it and keep writing until the timer ends.\"",
+   "Say or rehearse the plan a few times so the cue and the response are firmly linked, and remove anything in the setting that competes with it.",
+   "Afterwards, review whether the cue appeared and the plan fired; revise the plan if circumstances have genuinely changed, not merely because keeping it felt hard."
+  ],
+  "example": {
+   "situation": "A team lead has decided, for good reasons, to stop interrupting colleagues in meetings, but keeps doing it when a discussion gets heated.",
+   "before": "\"I'll just try harder to listen next week.\" In the next tense meeting the resolution is forgotten within minutes, and she cuts in twice.",
+   "after": "\"If I notice I'm about to speak while someone else is mid-sentence, then I'll write my point down and wait for them to finish.\" In the meeting, the urge to cut in becomes her cue to reach for the notepad.",
+   "why": "A general resolution relies on remembering and summoning willpower at exactly the moment emotion is highest. An if-then plan decides in calm advance what the trigger is and what to do, so the situation itself prompts the wiser response."
+  },
+  "source_urls": [
+   "https://www.socmot.uni-konstanz.de/sites/default/files/99_Gollwitzer_Implementation_Intentions.pdf",
+   "https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f",
+   "https://kops.uni-konstanz.de/handle/123456789/69905",
+   "https://nber.org/system/files/working_papers/w17183/w17183.pdf",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full",
+   "https://web.mit.edu/holton/www/pubs/sow.us.pdf"
+  ]
+ },
+ {
   "id": "wg:implicit-theories-of-wisdom",
   "title": "Implicit theories of wisdom",
   "aliases": [

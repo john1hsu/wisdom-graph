@@ -308,6 +308,29 @@ Ask yourself:
 - Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?
 - Have I set a point where thinking stops and acting starts?
 
+### [Implementation intentions](../articles/judgment-and-decisions/implementation-intentions.md) — Practice
+
+1. Check that the goal is one you have actually decided on and still endorse; if you are lukewarm about it, deliberate first, because a plan cannot supply commitment you do not have.
+2. Identify the critical moment, either the opportunity to act (a time, a place, a recurring event) or the obstacle that usually derails you (a temptation, a distraction, a feeling).
+3. Write one plan per cue in the form "If [specific situation], then I will [specific action]", making the cue concrete enough that you will recognise it and the action small enough to start at once.
+4. For your usual obstacle, add a shielding plan, such as "If I feel the urge to check messages, then I will note it and keep writing until the timer ends."
+5. Say or rehearse the plan a few times so the cue and the response are firmly linked, and remove anything in the setting that competes with it.
+6. Afterwards, review whether the cue appeared and the plan fired; revise the plan if circumstances have genuinely changed, not merely because keeping it felt hard.
+
+*A team lead has decided, for good reasons, to stop interrupting colleagues in meetings, but keeps doing it when a discussion gets heated.*
+
+| Before | After |
+|---|---|
+| "I'll just try harder to listen next week." In the next tense meeting the resolution is forgotten within minutes, and she cuts in twice. | "If I notice I'm about to speak while someone else is mid-sentence, then I'll write my point down and wait for them to finish." In the meeting, the urge to cut in becomes her cue to reach for the notepad. |
+
+**Why:** A general resolution relies on remembering and summoning willpower at exactly the moment emotion is highest. An if-then plan decides in calm advance what the trigger is and what to do, so the situation itself prompts the wiser response.
+
+Ask yourself:
+- Have I named the exact moment when I will act, or only the goal I hope to reach?
+- What is the cue that usually pulls me off course, and do I have a then-response ready for it?
+- Do I still endorse this goal, or am I making plans to avoid admitting I no longer want it?
+- If I am about to drop the plan, has something genuinely changed, or has the moment of keeping it simply arrived?
+
 ### [Major life decisions](../articles/judgment-and-decisions/major-life-decision.md) — Context
 
 *After eight years in a stable accounting job, Priya has an offer to retrain as a teacher at lower pay, and has been going back and forth for months.*
