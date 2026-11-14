@@ -1278,6 +1278,124 @@
    "wgo:why": "The wiser response accepts the regret without self-attack, extracts the lesson and turns it toward an opportunity that is still open, which is when regret is most useful."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is what I am about to say true, as far as I actually know, or is it a guess or a convenient story?",
+   "wgo:questionFor": {
+    "@id": "wg:right-speech"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Will saying it help them or the situation, or does it mainly serve my comfort, my image or my wish to be right?",
+   "wgo:questionFor": {
+    "@id": "wg:right-speech"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this the right moment and the right tone for them to be able to hear it?",
+   "wgo:questionFor": {
+    "@id": "wg:right-speech"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I holding back something true and useful only because saying it would be awkward for me?",
+   "wgo:questionFor": {
+    "@id": "wg:right-speech"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did anything I said today divide people, wound someone needlessly or pass on gossip, and is there something I should put right?",
+   "wgo:questionFor": {
+    "@id": "wg:right-speech"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The analysis is strong. One thing to fix before tomorrow: slide 6 uses last quarter's cost assumption, which finance dropped. Want ten minutes in the morning to swap in the new number? Everything else I'd leave as it is.",
+   "wgo:before": "\"Looks great, you'll be fine!\" Or, at 11 pm, a long message listing every weakness you can find, ending with a suggestion to rethink the whole thing.",
+   "wgo:situation": "The evening before a colleague presents to senior leadership, they send you their slides and ask, \"Is this ready?\" The analysis is solid, but the cost figure on slide 6 rests on an assumption you know finance has already rejected.",
+   "wgo:why": "The first reply is pleasing but untrue and leaves them exposed; the second is true but harsh, badly timed and more about your critique than their success. The wiser reply is true, useful and timed so it can be acted on, and its goodwill is plain."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Right speech",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Before saying anything that matters, ask first whether it is true as far as you actually know, and drop it if it is not, however pleasing it would be."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Ask next whether it is beneficial, meaning it will help the listener or the situation rather than only relieve your feelings or win the point."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "If it is true and beneficial but unwelcome, do not swallow it; choose a time when the person can hear it, and plan to say it plainly and gently."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Check your motive and tone, and speak from goodwill rather than irritation, contempt or a wish to look good."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "While you are speaking, notice whether the words are causing needless hurt, and stop, slow down or rephrase if they are."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Afterwards, review the conversation; if your words did harm, admit it to the person or a trusted friend and resolve to do better, and if they went well, note what helped."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Watch for the four habits the tradition names, lying, divisive talebearing, harsh words and idle chatter, especially in casual talk where they are easiest to miss."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/rumination/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Has this round of thinking produced a new insight or a next step, or am I replaying the same scene?",
@@ -3782,6 +3900,90 @@
     "@id": "https://insight.kellogg.northwestern.edu/article/learning-to-use-regret"
    },
    "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Access to Insight",
+   "dcterms:title": "Abhaya Sutta: To Prince Abhaya (Majjhima Nikāya 58), trans. Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/mn/mn.058.than.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Access to Insight",
+   "dcterms:title": "Ambalatthika-rahulovada Sutta: Instructions to Rahula at Mango Stone (Majjhima Nikāya 61), trans. Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/mn/mn.061.than"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Access to Insight",
+   "dcterms:title": "Right Speech (samma vaca): selected passages from the Pali Canon (SN 45.8, AN 5.198, AN 10.176, MN 117, DN 2 and others)",
+   "schema:url": {
+    "@id": "https://www.accesstoinsight.org/ati/ptf/dhamma/sacca/sacca4/samma-vaca"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Samma vaca (Eightfold Path)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/samma-vaca"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Winter 2023 edition)",
+   "dcterms:title": "Ethics in Indian and Tibetan Buddhism (Charles Goodman)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/Win2023/entries/ethics-indian-buddhism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology General, 147(9), 1400-1429 (doi:10.1037/xge0000488; University of Chicago author copy)",
+   "dcterms:title": "You can handle the truth: Mispredicting the consequences of honest communication (Levine & Cohen, 2018)",
+   "schema:url": {
+    "@id": "https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/c/3234/files/2023/07/12.-Handle-the-Truth-2018.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/robert-sternberg/s1",
@@ -7373,6 +7575,101 @@
    "wgo:level": "introductory",
    "wgo:studiedIn": {
     "@id": "wg:social-psychology"
+   }
+  },
+  {
+   "@id": "wg:right-speech",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6"
+    }
+   ],
+   "rdfs:label": "Right speech",
+   "skos:altLabel": [
+    "correct speech",
+    "sammā vācā",
+    "samma vaca",
+    "samyag-vāc",
+    "wise speech"
+   ],
+   "skos:broader": {
+    "@id": "wg:buddhist-ethics"
+   },
+   "skos:definition": "The third factor of the Buddhist Noble Eightfold Path: training yourself to abstain from lying, divisive talk, harsh words and idle chatter, and to say what is true and beneficial, at the right time and with goodwill, even when it is unwelcome.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Right speech",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:intellectual-courage"
+    },
+    {
+     "@id": "wg:prosocial-lying"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:workplace-feedback"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:lying"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:interpersonal-conflict"
+   },
+   "wgo:complements": {
+    "@id": "wg:compassion"
+   },
+   "wgo:develops": {
+    "@id": "wg:honesty"
+   },
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/right-speech.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:noble-eightfold-path"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:buddhism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:mispredicting-honest-communication-study"
    }
   },
   {

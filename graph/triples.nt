@@ -1353,6 +1353,93 @@
 <https://github.com/john1hsu/wisdom-graph/id/regret> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/regret.md" .
 <https://github.com/john1hsu/wisdom-graph/id/regret> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/regret> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/social-psychology> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is what I am about to say true, as far as I actually know, or is it a guess or a convenient story?" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Will saying it help them or the situation, or does it mainly serve my comfort, my image or my wish to be right?" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is this the right moment and the right tone for them to be able to hear it?" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I holding back something true and useful only because saying it would be awkward for me?" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Did anything I said today divide people, wound someone needlessly or pass on gossip, and is there something I should put right?" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The analysis is strong. One thing to fix before tomorrow: slide 6 uses last quarter's cost assumption, which finance dropped. Want ten minutes in the morning to swap in the new number? Everything else I'd leave as it is." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"Looks great, you'll be fine!\" Or, at 11 pm, a long message listing every weakness you can find, ending with a suggestion to rethink the whole thing." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "The evening before a colleague presents to senior leadership, they send you their slides and ask, \"Is this ready?\" The analysis is solid, but the cost figure on slide 6 rests on an assumption you know finance has already rejected." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first reply is pleasing but untrue and leaves them exposed; the second is true but harsh, badly timed and more about your critique than their success. The wiser reply is true, useful and timed so it can be acted on, and its goodwill is plain." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/1> <https://schema.org/text> "Before saying anything that matters, ask first whether it is true as far as you actually know, and drop it if it is not, however pleasing it would be." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/2> <https://schema.org/text> "Ask next whether it is beneficial, meaning it will help the listener or the situation rather than only relieve your feelings or win the point." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/3> <https://schema.org/text> "If it is true and beneficial but unwelcome, do not swallow it; choose a time when the person can hear it, and plan to say it plainly and gently." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/4> <https://schema.org/text> "Check your motive and tone, and speak from goodwill rather than irritation, contempt or a wish to look good." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/5> <https://schema.org/text> "While you are speaking, notice whether the words are causing needless hurt, and stop, slow down or rephrase if they are." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/6> <https://schema.org/text> "Afterwards, review the conversation; if your words did harm, admit it to the person or a trusted friend and resolve to do better, and if they went well, note what helped." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/7> <https://schema.org/text> "Watch for the four habits the tradition names, lying, divisive talebearing, harsh words and idle chatter, especially in casual talk where they are easiest to miss." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/name> "Right speech" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto/7> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2000/01/rdf-schema#label> "Right speech" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "correct speech" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "samma vaca" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "sammā vācā" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "samyag-vāc" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "wise speech" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#definition> "The third factor of the Buddhist Noble Eightfold Path: training yourself to abstain from lying, divisive talk, harsh words and idle chatter, and to say what is true and beneficial, at the right time and with goodwill, even when it is unwelcome." .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#prefLabel> "Right speech" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/prosocial-lying> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/lying> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/right-speech/example> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/right-speech.md" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/right-speech/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/noble-eightfold-path> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/right-speech> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/mispredicting-honest-communication-study> .
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
 <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> <http://www.w3.org/2000/01/rdf-schema#label> "Robert J. Sternberg" .
@@ -2681,6 +2768,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <https://schema.org/url> <https://insight.kellogg.northwestern.edu/article/learning-to-use-regret> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> <http://purl.org/dc/terms/publisher> "Access to Insight" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> <http://purl.org/dc/terms/title> "Abhaya Sutta: To Prince Abhaya (Majjhima Nikāya 58), trans. Thanissaro Bhikkhu" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/mn/mn.058.than.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> <http://purl.org/dc/terms/publisher> "Access to Insight" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> <http://purl.org/dc/terms/title> "Ambalatthika-rahulovada Sutta: Instructions to Rahula at Mango Stone (Majjhima Nikāya 61), trans. Thanissaro Bhikkhu" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s2> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/mn/mn.061.than> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> <http://purl.org/dc/terms/publisher> "Access to Insight" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> <http://purl.org/dc/terms/title> "Right Speech (samma vaca): selected passages from the Pali Canon (SN 45.8, AN 5.198, AN 10.176, MN 117, DN 2 and others)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s3> <https://schema.org/url> <https://www.accesstoinsight.org/ati/ptf/dhamma/sacca/sacca4/samma-vaca> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> <http://purl.org/dc/terms/title> "Samma vaca (Eightfold Path)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> <https://schema.org/url> <https://www.britannica.com/topic/samma-vaca> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Winter 2023 edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> <http://purl.org/dc/terms/title> "Ethics in Indian and Tibetan Buddhism (Charles Goodman)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> <https://schema.org/url> <https://plato.stanford.edu/archives/Win2023/entries/ethics-indian-buddhism/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <http://purl.org/dc/terms/publisher> "Journal of Experimental Psychology General, 147(9), 1400-1429 (doi:10.1037/xge0000488; University of Chicago author copy)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <http://purl.org/dc/terms/title> "You can handle the truth: Mispredicting the consequences of honest communication (Levine & Cohen, 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <https://schema.org/url> <https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/c/3234/files/2023/07/12.-Handle-the-Truth-2018.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/robert-sternberg/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/robert-sternberg/s1> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 49(3), 607–627 (Sternberg, 1985), Weber State University course copy" .
 <https://github.com/john1hsu/wisdom-graph/id/source/robert-sternberg/s1> <http://purl.org/dc/terms/title> "Implicit theories of intelligence, creativity, and wisdom" .

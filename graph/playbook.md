@@ -106,6 +106,31 @@ Ask yourself:
 - Have I asked a question I don't already know the answer to?
 - Is there an option that meets what they want as well as what I want?
 
+### [Right speech](../articles/compassion-and-relationships/right-speech.md) — Practice
+
+1. Before saying anything that matters, ask first whether it is true as far as you actually know, and drop it if it is not, however pleasing it would be.
+2. Ask next whether it is beneficial, meaning it will help the listener or the situation rather than only relieve your feelings or win the point.
+3. If it is true and beneficial but unwelcome, do not swallow it; choose a time when the person can hear it, and plan to say it plainly and gently.
+4. Check your motive and tone, and speak from goodwill rather than irritation, contempt or a wish to look good.
+5. While you are speaking, notice whether the words are causing needless hurt, and stop, slow down or rephrase if they are.
+6. Afterwards, review the conversation; if your words did harm, admit it to the person or a trusted friend and resolve to do better, and if they went well, note what helped.
+7. Watch for the four habits the tradition names, lying, divisive talebearing, harsh words and idle chatter, especially in casual talk where they are easiest to miss.
+
+*The evening before a colleague presents to senior leadership, they send you their slides and ask, "Is this ready?" The analysis is solid, but the cost figure on slide 6 rests on an assumption you know finance has already rejected.*
+
+| Before | After |
+|---|---|
+| "Looks great, you'll be fine!" Or, at 11 pm, a long message listing every weakness you can find, ending with a suggestion to rethink the whole thing. | The analysis is strong. One thing to fix before tomorrow: slide 6 uses last quarter's cost assumption, which finance dropped. Want ten minutes in the morning to swap in the new number? Everything else I'd leave as it is. |
+
+**Why:** The first reply is pleasing but untrue and leaves them exposed; the second is true but harsh, badly timed and more about your critique than their success. The wiser reply is true, useful and timed so it can be acted on, and its goodwill is plain.
+
+Ask yourself:
+- Is what I am about to say true, as far as I actually know, or is it a guess or a convenient story?
+- Will saying it help them or the situation, or does it mainly serve my comfort, my image or my wish to be right?
+- Is this the right moment and the right tone for them to be able to hear it?
+- Am I holding back something true and useful only because saying it would be awkward for me?
+- Did anything I said today divide people, wound someone needlessly or pass on gossip, and is there something I should put right?
+
 ## emotions-and-equanimity
 
 ### [Equanimity](../articles/emotions-and-equanimity/equanimity.md) — Virtue

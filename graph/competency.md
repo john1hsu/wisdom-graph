@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:honesty` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -39,6 +37,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
 | `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
+| `wg:right-speech` | 2 | Honesty, lying |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:equanimity` | 1 | Rumination |
@@ -62,6 +61,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:perspective-taking` |
+| `wg:interpersonal-conflict` | `wg:right-speech` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:empathy` |
@@ -133,6 +133,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
+| `wg:buddhism` | `wg:right-speech` |
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
