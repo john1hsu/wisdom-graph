@@ -1199,6 +1199,46 @@
    "wgo:why": "Owning the gap, rather than blaming circumstances or brushing it off, fixes the forecast, shows the team that errors can be raised safely, and treats the critic as an ally in getting it right."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I sure I know why the other person acted as they did, or am I filling the gap with the least charitable story?",
+   "wgo:questionFor": {
+    "@id": "wg:interpersonal-conflict"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "How would a neutral friend who wanted the best for both of us describe this argument?",
+   "wgo:questionFor": {
+    "@id": "wg:interpersonal-conflict"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "How am I likely to see this disagreement a year from now?",
+   "wgo:questionFor": {
+    "@id": "wg:interpersonal-conflict"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there an outcome that meets the main concern on each side, or am I only trying to win?",
+   "wgo:questionFor": {
+    "@id": "wg:interpersonal-conflict"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'm exhausted and I said it badly. I don't actually know what this has been like for you from a distance. Can we each list what we can realistically give over the next six months and see what a fair split looks like? This arrangement doesn't have to be permanent.",
+   "wgo:before": "I'm the one doing everything while you just send money. You clearly don't care, and I'm done asking.",
+   "wgo:situation": "Two siblings are arguing about who should take on more of the care for an ageing parent. One lives nearby; the other earns more and lives two hours away. The latest phone call ended with both hanging up angry.",
+   "wgo:why": "The wiser response owns its part, admits what it doesn't know about the other person's position, allows that things can change, and looks for an arrangement both can live with instead of a verdict on who is the better child."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "What would someone who knows me well say about me here that I would rather not hear?",
@@ -4680,6 +4720,90 @@
    "dcterms:title": "Something we could use a little more of (on Porter & Schumann, 2018, Self and Identity)",
    "schema:url": {
     "@id": "https://bps.org.uk/research-digest/something-we-could-use-little-more"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Science (SAGE), author copy via CORE (University of Oklahoma SHAREOK repository)",
+   "dcterms:title": "Aging and Wisdom: Culture Matters",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/215255572.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Science (SAGE), author manuscript, Northwestern University",
+   "dcterms:title": "A Brief Intervention to Promote Conflict Reappraisal Preserves Marital Quality Over Time",
+   "schema:url": {
+    "@id": "https://faculty.wcas.northwestern.edu/eli-finkel/documents/InPress_FinkelSlotterLuchiesWaltonGross_PSci.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Social Psychological and Personality Science (SAGE), abstract via University of Göttingen, Department of Psychology",
+   "dcterms:title": "Wise reasoning in the face of everyday life challenges",
+   "schema:url": {
+    "@id": "https://psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Nature Communications (Springer Nature), via RePEc IDEAS",
+   "dcterms:title": "Wise reasoning, intergroup positivity, and attitude polarization across contexts",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/nat/natcom/v12y2021i1d10.1038_s41467-021-23432-1.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "University of Waterloo, Department of Psychology (on Huynh, Yang & Grossmann, Social Psychological and Personality Science, 2016)",
+   "dcterms:title": "Thinking about the future helps overcome relationship conflicts",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/psychology/news/thinking-about-future-helps-overcome-relationship-conflicts"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Association for Psychological Science",
+   "dcterms:title": "Does Wisdom Really Come with Age? It Depends on the Culture",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html"
    },
    "wgo:sourceType": "institutional"
   },
@@ -10477,6 +10601,102 @@
    },
    "wgo:studiedIn": {
     "@id": "wg:virtue-epistemology"
+   }
+  },
+  {
+   "@id": "wg:interpersonal-conflict",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6"
+    }
+   ],
+   "rdfs:label": "Interpersonal conflict",
+   "skos:altLabel": [
+    "conflict between people",
+    "disagreements with others",
+    "everyday social conflict",
+    "relationship conflict"
+   ],
+   "skos:broader": {
+    "@id": "wg:social-relationships"
+   },
+   "skos:definition": "A clash of wants, views or expectations between people who matter to each other — partners, family, friends, colleagues — and one of the life situations where wise reasoning is most studied and most needed.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Interpersonal conflict",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:right-speech"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:intergroup-conflict"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:aging-and-wisdom-culture-study"
+    },
+    {
+     "@id": "wg:conflict-reappraisal-marriage-study"
+    },
+    {
+     "@id": "wg:prospective-reasoning-relationships-study"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/interpersonal-conflict.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
    }
   },
   {

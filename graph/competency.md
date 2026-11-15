@@ -115,6 +115,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implementation-intentions` | mixed |  |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
+| `wg:interpersonal-conflict` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:major-life-decision` | mixed |  |
 | `wg:meaning-in-life` | mixed |  |
@@ -125,9 +126,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:regret` | mixed |  |
 | `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
 | `wg:seeking-counsel` | mixed |  |
-| `wg:self-deception` | mixed | `wg:self-deception-as-byproduct-critique` |
 
-…and 9 more.
+…and 10 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -136,6 +136,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:grief-and-loss` | wgo:Context |
+| `wg:interpersonal-conflict` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |

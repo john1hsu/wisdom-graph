@@ -1345,6 +1345,59 @@
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I sure I know why the other person acted as they did, or am I filling the gap with the least charitable story?" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "How would a neutral friend who wanted the best for both of us describe this argument?" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "How am I likely to see this disagreement a year from now?" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is there an outcome that meets the main concern on each side, or am I only trying to win?" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I'm exhausted and I said it badly. I don't actually know what this has been like for you from a distance. Can we each list what we can realistically give over the next six months and see what a fair split looks like? This arrangement doesn't have to be permanent." .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'm the one doing everything while you just send money. You clearly don't care, and I'm done asking." .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Two siblings are arguing about who should take on more of the care for an ageing parent. One lives nearby; the other earns more and lives two hours away. The latest phone call ended with both hanging up angry." .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response owns its part, admits what it doesn't know about the other person's position, allows that things can change, and looks for an arrangement both can live with instead of a verdict on who is the better child." .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2000/01/rdf-schema#label> "Interpersonal conflict" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#altLabel> "conflict between people" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#altLabel> "disagreements with others" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#altLabel> "everyday social conflict" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#altLabel> "relationship conflict" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#definition> "A clash of wants, views or expectations between people who matter to each other — partners, family, friends, colleagues — and one of the life situations where wise reasoning is most studied and most needed." .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interpersonal conflict" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/intergroup-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/conflict-reappraisal-marriage-study> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/prospective-reasoning-relationships-study> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/interpersonal-conflict.md" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What would someone who knows me well say about me here that I would rather not hear?" .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
@@ -3683,6 +3736,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://schema.org/url> <https://bps.org.uk/research-digest/something-we-could-use-little-more> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://purl.org/dc/terms/publisher> "Psychological Science (SAGE), author copy via CORE (University of Oklahoma SHAREOK repository)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://purl.org/dc/terms/title> "Aging and Wisdom: Culture Matters" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <https://schema.org/url> <https://core.ac.uk/download/215255572.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> <http://purl.org/dc/terms/publisher> "Psychological Science (SAGE), author manuscript, Northwestern University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> <http://purl.org/dc/terms/title> "A Brief Intervention to Promote Conflict Reappraisal Preserves Marital Quality Over Time" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s2> <https://schema.org/url> <https://faculty.wcas.northwestern.edu/eli-finkel/documents/InPress_FinkelSlotterLuchiesWaltonGross_PSci.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> <http://purl.org/dc/terms/publisher> "Social Psychological and Personality Science (SAGE), abstract via University of Göttingen, Department of Psychology" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> <http://purl.org/dc/terms/title> "Wise reasoning in the face of everyday life challenges" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s3> <https://schema.org/url> <https://psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> <http://purl.org/dc/terms/publisher> "Nature Communications (Springer Nature), via RePEc IDEAS" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> <http://purl.org/dc/terms/title> "Wise reasoning, intergroup positivity, and attitude polarization across contexts" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> <https://schema.org/url> <https://ideas.repec.org/a/nat/natcom/v12y2021i1d10.1038_s41467-021-23432-1.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> <http://purl.org/dc/terms/publisher> "University of Waterloo, Department of Psychology (on Huynh, Yang & Grossmann, Social Psychological and Personality Science, 2016)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> <http://purl.org/dc/terms/title> "Thinking about the future helps overcome relationship conflicts" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> <https://schema.org/url> <https://uwaterloo.ca/psychology/news/thinking-about-future-helps-overcome-relationship-conflicts> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <http://purl.org/dc/terms/publisher> "Association for Psychological Science" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <http://purl.org/dc/terms/title> "Does Wisdom Really Come with Age? It Depends on the Culture" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <https://schema.org/url> <https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/publisher> "Perseus Digital Library (Perseids CTS reader)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/title> "Pausanias, Description of Greece 10.24.1, trans. W. H. S. Jones and H. A. Ormerod" .

@@ -2566,6 +2566,116 @@
   ]
  },
  {
+  "id": "wg:interpersonal-conflict",
+  "title": "Interpersonal conflict",
+  "aliases": [
+   "conflict between people",
+   "disagreements with others",
+   "relationship conflict",
+   "everyday social conflict"
+  ],
+  "type": "Context",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/interpersonal-conflict.md",
+  "created": "2026-11-15",
+  "summary": "A clash of wants, views or expectations between people who matter to each other — partners, family, friends, colleagues — and one of the life situations where wise reasoning is most studied and most needed.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:social-relationships"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:right-speech"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:aging-and-wisdom-culture-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:conflict-reappraisal-marriage-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:prospective-reasoning-relationships-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:intergroup-conflict",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I sure I know why the other person acted as they did, or am I filling the gap with the least charitable story?",
+   "How would a neutral friend who wanted the best for both of us describe this argument?",
+   "How am I likely to see this disagreement a year from now?",
+   "Is there an outcome that meets the main concern on each side, or am I only trying to win?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Two siblings are arguing about who should take on more of the care for an ageing parent. One lives nearby; the other earns more and lives two hours away. The latest phone call ended with both hanging up angry.",
+   "before": "I'm the one doing everything while you just send money. You clearly don't care, and I'm done asking.",
+   "after": "I'm exhausted and I said it badly. I don't actually know what this has been like for you from a distance. Can we each list what we can realistically give over the next six months and see what a fair split looks like? This arrangement doesn't have to be permanent.",
+   "why": "The wiser response owns its part, admits what it doesn't know about the other person's position, allows that things can change, and looks for an arrangement both can live with instead of a verdict on who is the better child."
+  },
+  "source_urls": [
+   "https://core.ac.uk/download/215255572.pdf",
+   "https://faculty.wcas.northwestern.edu/eli-finkel/documents/InPress_FinkelSlotterLuchiesWaltonGross_PSci.pdf",
+   "https://psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016",
+   "https://ideas.repec.org/a/nat/natcom/v12y2021i1d10.1038_s41467-021-23432-1.html",
+   "https://uwaterloo.ca/psychology/news/thinking-about-future-helps-overcome-relationship-conflicts",
+   "https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html"
+  ]
+ },
+ {
   "id": "wg:know-thyself",
   "title": "Know thyself",
   "aliases": [

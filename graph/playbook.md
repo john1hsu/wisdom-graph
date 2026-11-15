@@ -115,6 +115,22 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Interpersonal conflict](../articles/compassion-and-relationships/interpersonal-conflict.md) — Context
+
+*Two siblings are arguing about who should take on more of the care for an ageing parent. One lives nearby; the other earns more and lives two hours away. The latest phone call ended with both hanging up angry.*
+
+| Before | After |
+|---|---|
+| I'm the one doing everything while you just send money. You clearly don't care, and I'm done asking. | I'm exhausted and I said it badly. I don't actually know what this has been like for you from a distance. Can we each list what we can realistically give over the next six months and see what a fair split looks like? This arrangement doesn't have to be permanent. |
+
+**Why:** The wiser response owns its part, admits what it doesn't know about the other person's position, allows that things can change, and looks for an arrangement both can live with instead of a verdict on who is the better child.
+
+Ask yourself:
+- Am I sure I know why the other person acted as they did, or am I filling the gap with the least charitable story?
+- How would a neutral friend who wanted the best for both of us describe this argument?
+- How am I likely to see this disagreement a year from now?
+- Is there an outcome that meets the main concern on each side, or am I only trying to win?
+
 ### [Perspective-taking](../articles/compassion-and-relationships/perspective-taking.md) — Practice
 
 1. Before you respond, name your own first reading of the situation so you can set it aside for a moment.
