@@ -28,6 +28,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 
 | practice | reach | targets |
 |---|---|---|
+| `wg:four-immeasurables` | 4 | Compassion, Equanimity, envy, ill-will |
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
@@ -171,6 +172,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:compassion` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
+| `wg:buddhism` | `wg:four-immeasurables` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:confucianism` | `wg:compassion` |

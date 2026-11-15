@@ -1743,6 +1743,118 @@
   ]
  },
  {
+  "id": "wg:four-immeasurables",
+  "title": "The four immeasurables",
+  "aliases": [
+   "brahmavihāras",
+   "brahma-vihāra",
+   "divine abodes",
+   "four sublime states",
+   "appamaññā",
+   "apramāṇa"
+  ],
+  "type": "Framework",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/four-immeasurables.md",
+  "created": "2026-11-15",
+  "summary": "A Buddhist framework of four boundless attitudes toward all beings, loving-kindness (mettā), compassion (karuṇā), sympathetic joy (muditā) and equanimity (upekkhā), cultivated together so that each one corrects the typical failure of the others.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:buddhist-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:loving-kindness-meditation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:compassion",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:equanimity",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:envy",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:ill-will",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:indifference",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:loving-kindness-positive-emotions-meta-analysis",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:kindness-based-meditation-meta-analysis",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Can I be glad about this person's success, or am I quietly keeping score?",
+   "Is what I am calling compassion here help for them, or my own distress at their pain?",
+   "Is my calm the steadiness of seeing clearly, or have I simply stopped caring?",
+   "Would I offer this same goodwill to someone I find difficult, or only to people on my side?"
+  ],
+  "steps": [
+   "Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands.",
+   "Choose the quality that fits it, goodwill for the ordinary encounter, compassion for suffering, sympathetic joy for another's success and equanimity for what you cannot change.",
+   "Check the quality for its look-alike, asking whether goodwill has become clinging, compassion has become your own distress, joy has become excitement or calm has become not caring.",
+   "Widen the circle one step, offering the same attitude to someone neutral or difficult, not only to people you already like.",
+   "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time."
+  ],
+  "example": {
+   "situation": "A peer you trained wins the promotion you also applied for, on the same day another teammate tells you their project has just been cancelled.",
+   "before": "I congratulate the winner through gritted teeth, then spend lunch with the other teammate agreeing that management is hopeless, and leave work feeling worse about both of them.",
+   "after": "I let the disappointment register, then congratulate my peer properly and mean it. With the teammate I listen and ask what would help, without stoking the grievance, and I accept that the promotion decision is made and no longer mine to change.",
+   "why": "Each person needed a different response; sympathetic joy keeps envy from souring the success, compassion meets the setback, and equanimity stops your own loss from colouring both."
+  },
+  "source_urls": [
+   "https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html",
+   "https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html",
+   "https://studybuddhism.com/web/en/archives/study/comparison_buddhist_traditions/theravada_hinayana_mahayana/4_immeasurable_attitudes.html",
+   "https://link.springer.com/10.1007/s12671-025-02597-6",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307",
+   "https://www.repository.cam.ac.uk/handle/1810/276660"
+  ]
+ },
+ {
   "id": "wg:gratitude",
   "title": "Gratitude",
   "aliases": [

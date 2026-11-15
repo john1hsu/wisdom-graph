@@ -821,6 +821,98 @@
    "wgo:why": "Forgiving here means dropping the campaign of payback while keeping the judgement that it was wrong and the safeguards that protect you; it is neither pretending nothing happened nor trusting blindly."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Can I be glad about this person's success, or am I quietly keeping score?",
+   "wgo:questionFor": {
+    "@id": "wg:four-immeasurables"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is what I am calling compassion here help for them, or my own distress at their pain?",
+   "wgo:questionFor": {
+    "@id": "wg:four-immeasurables"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my calm the steadiness of seeing clearly, or have I simply stopped caring?",
+   "wgo:questionFor": {
+    "@id": "wg:four-immeasurables"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I offer this same goodwill to someone I find difficult, or only to people on my side?",
+   "wgo:questionFor": {
+    "@id": "wg:four-immeasurables"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I let the disappointment register, then congratulate my peer properly and mean it. With the teammate I listen and ask what would help, without stoking the grievance, and I accept that the promotion decision is made and no longer mine to change.",
+   "wgo:before": "I congratulate the winner through gritted teeth, then spend lunch with the other teammate agreeing that management is hopeless, and leave work feeling worse about both of them.",
+   "wgo:situation": "A peer you trained wins the promotion you also applied for, on the same day another teammate tells you their project has just been cancelled.",
+   "wgo:why": "Each person needed a different response; sympathetic joy keeps envy from souring the success, compassion meets the setback, and equanimity stops your own loss from colouring both."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "The four immeasurables",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/5"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Choose the quality that fits it, goodwill for the ordinary encounter, compassion for suffering, sympathetic joy for another's success and equanimity for what you cannot change."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Check the quality for its look-alike, asking whether goodwill has become clinging, compassion has become your own distress, joy has become excitement or calm has become not caring."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Widen the circle one step, offering the same attitude to someone neutral or difficult, not only to people you already like."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I noticed who made this good thing possible, and the effort or intention it took them?",
@@ -4160,6 +4252,90 @@
     "@id": "https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Nyanaponika Thera, Buddhist Publication Society, The Wheel No. 6 (Access to Insight edition)",
+   "dcterms:title": "The Four Sublime States: Contemplations on Love, Compassion, Sympathetic Joy and Equanimity",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Buddhaghosa (5th c.), trans. Bhikkhu Ñāṇamoli (1956; Buddhist Publication Society), via Wisdom Library",
+   "dcterms:title": "Visuddhimagga (The Path of Purification), Chapter IX, The Divine Abidings, §§93–101",
+   "schema:url": {
+    "@id": "https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Alexander Berzin, Study Buddhism (Berzin Archives e.V.)",
+   "dcterms:title": "Four Immeasurable Attitudes",
+   "schema:url": {
+    "@id": "https://studybuddhism.com/web/en/archives/study/comparison_buddhist_traditions/theravada_hinayana_mahayana/4_immeasurable_attitudes.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Mindfulness, 16(7), 2066–2079 (Eviatar Shulman, 2025; doi:10.1007/s12671-025-02597-6)",
+   "dcterms:title": "An Ethical Samādhi: Brahma-vihāra Meditation and the Flexible Early Buddhist Path",
+   "schema:url": {
+    "@id": "https://link.springer.com/10.1007/s12671-025-02597-6"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 6, 1693 (Zeng, Chiu, Wang, Oei & Leung, 2015; PubMed Central)",
+   "dcterms:title": "The effect of loving-kindness meditation on positive emotions: a meta-analytic review",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Consulting and Clinical Psychology, 82 (Galante, Galante, Bekkers & Gallacher, 2014; doi:10.1037/a0037249), Apollo repository, University of Cambridge",
+   "dcterms:title": "Effect of kindness-based meditation on health and well-being: a systematic review and meta-analysis",
+   "schema:url": {
+    "@id": "https://www.repository.cam.ac.uk/handle/1810/276660"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1",
@@ -10480,6 +10656,102 @@
    "wgo:rootedIn": {
     "@id": "wg:buddhism"
    }
+  },
+  {
+   "@id": "wg:four-immeasurables",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6"
+    }
+   ],
+   "rdfs:label": "The four immeasurables",
+   "skos:altLabel": [
+    "appamaññā",
+    "apramāṇa",
+    "brahma-vihāra",
+    "brahmavihāras",
+    "divine abodes",
+    "four sublime states"
+   ],
+   "skos:broader": {
+    "@id": "wg:buddhist-ethics"
+   },
+   "skos:definition": "A Buddhist framework of four boundless attitudes toward all beings, loving-kindness (mettā), compassion (karuṇā), sympathetic joy (muditā) and equanimity (upekkhā), cultivated together so that each one corrects the typical failure of the others.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "The four immeasurables",
+   "skos:related": [
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:loving-kindness-meditation"
+    },
+    {
+     "@id": "wg:self-compassion"
+    }
+   ],
+   "wgo:addresses": [
+    {
+     "@id": "wg:envy"
+    },
+    {
+     "@id": "wg:ill-will"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:indifference"
+   },
+   "wgo:develops": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:equanimity"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example"
+   },
+   "wgo:file": "articles/wisdom-traditions/four-immeasurables.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:buddhism"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:kindness-based-meditation-meta-analysis"
+    },
+    {
+     "@id": "wg:loving-kindness-positive-emotions-meta-analysis"
+    }
+   ]
   },
   {
    "@id": "wg:gratitude",

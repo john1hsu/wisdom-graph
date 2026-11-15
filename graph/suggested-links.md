@@ -5,7 +5,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.45 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues`, `wg:seeking-counsel` |
-| 2.77 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
+| 2.76 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.74 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
 | 2.73 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 2.73 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
@@ -15,6 +15,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.20 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
 | 2.17 | `wg:igor-grossmann` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:wisdom-researchers` |
 | 2.17 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:self-deception`, `wg:self-distancing` |
+| 2.14 | `wg:four-immeasurables` | `wg:right-speech` | `wg:buddhism`, `wg:buddhist-ethics`, `wg:compassion` |
 | 2.10 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 2.07 | `wg:seeking-counsel` | `wg:teaching-for-wisdom` | `wg:berlin-wisdom-paradigm`, `wg:emulating-moral-exemplars`, `wg:folly`, `wg:intellectual-humility`, `wg:perspective-taking` |
 | 2.06 | `wg:igor-grossmann` | `wg:teaching-for-wisdom` | `wg:distanced-self-reflection-diary`, `wg:intellectual-humility`, `wg:wise-reasoning` |
@@ -27,5 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.86 | `wg:folly` | `wg:implicit-theories-of-wisdom` | `wg:balance-theory-of-wisdom`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:wisdom` |
 | 1.82 | `wg:forgiveness` | `wg:self-distancing` | `wg:compassionate-reappraisal`, `wg:interpersonal-conflict`, `wg:perspective-taking`, `wg:regret`, `wg:rumination` |
 | 1.81 | `wg:hedonic-and-eudaimonic-well-being` | `wg:stoicism` | `wg:epicureanism`, `wg:eudaimonia`, `wg:gratitude` |
-| 1.81 | `wg:robert-sternberg` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:wise-leadership` |
-| 1.80 | `wg:compassion` | `wg:regret` | `wg:forgiveness`, `wg:self-compassion` |
+| 1.81 | `wg:empathy` | `wg:equanimity` | `wg:compassion`, `wg:emotion-regulation`, `wg:forgiveness`, `wg:four-immeasurables` |

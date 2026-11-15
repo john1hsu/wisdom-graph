@@ -910,6 +910,81 @@
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/forgiveness.md" .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Can I be glad about this person's success, or am I quietly keeping score?" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is what I am calling compassion here help for them, or my own distress at their pain?" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is my calm the steadiness of seeing clearly, or have I simply stopped caring?" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Would I offer this same goodwill to someone I find difficult, or only to people on my side?" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I let the disappointment register, then congratulate my peer properly and mean it. With the teammate I listen and ask what would help, without stoking the grievance, and I accept that the promotion decision is made and no longer mine to change." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I congratulate the winner through gritted teeth, then spend lunch with the other teammate agreeing that management is hopeless, and leave work feeling worse about both of them." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A peer you trained wins the promotion you also applied for, on the same day another teammate tells you their project has just been cancelled." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Each person needed a different response; sympathetic joy keeps envy from souring the success, compassion meets the setback, and equanimity stops your own loss from colouring both." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/1> <https://schema.org/text> "Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/2> <https://schema.org/text> "Choose the quality that fits it, goodwill for the ordinary encounter, compassion for suffering, sympathetic joy for another's success and equanimity for what you cannot change." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/3> <https://schema.org/text> "Check the quality for its look-alike, asking whether goodwill has become clinging, compassion has become your own distress, joy has become excitement or calm has become not caring." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/4> <https://schema.org/text> "Widen the circle one step, offering the same attitude to someone neutral or difficult, not only to people you already like." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/5> <https://schema.org/text> "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <https://schema.org/name> "The four immeasurables" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2000/01/rdf-schema#label> "The four immeasurables" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#altLabel> "appamaññā" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#altLabel> "apramāṇa" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#altLabel> "brahma-vihāra" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#altLabel> "brahmavihāras" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#altLabel> "divine abodes" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#altLabel> "four sublime states" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#definition> "A Buddhist framework of four boundless attitudes toward all beings, loving-kindness (mettā), compassion (karuṇā), sympathetic joy (muditā) and equanimity (upekkhā), cultivated together so that each one corrects the typical failure of the others." .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#prefLabel> "The four immeasurables" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/envy> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/ill-will> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/indifference> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-traditions" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/example> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-traditions/four-immeasurables.md" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-positive-emotions-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I noticed who made this good thing possible, and the effort or intention it took them?" .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
@@ -3664,6 +3739,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> <http://purl.org/dc/terms/publisher> "Nyanaponika Thera, Buddhist Publication Society, The Wheel No. 6 (Access to Insight edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> <http://purl.org/dc/terms/title> "The Four Sublime States: Contemplations on Love, Compassion, Sympathetic Joy and Equanimity" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s1> <https://schema.org/url> <https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> <http://purl.org/dc/terms/publisher> "Buddhaghosa (5th c.), trans. Bhikkhu Ñāṇamoli (1956; Buddhist Publication Society), via Wisdom Library" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> <http://purl.org/dc/terms/title> "Visuddhimagga (The Path of Purification), Chapter IX, The Divine Abidings, §§93–101" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s2> <https://schema.org/url> <https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> <http://purl.org/dc/terms/publisher> "Alexander Berzin, Study Buddhism (Berzin Archives e.V.)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> <http://purl.org/dc/terms/title> "Four Immeasurable Attitudes" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s3> <https://schema.org/url> <https://studybuddhism.com/web/en/archives/study/comparison_buddhist_traditions/theravada_hinayana_mahayana/4_immeasurable_attitudes.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> <http://purl.org/dc/terms/publisher> "Mindfulness, 16(7), 2066–2079 (Eviatar Shulman, 2025; doi:10.1007/s12671-025-02597-6)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> <http://purl.org/dc/terms/title> "An Ethical Samādhi: Brahma-vihāra Meditation and the Flexible Early Buddhist Path" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s4> <https://schema.org/url> <https://link.springer.com/10.1007/s12671-025-02597-6> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 6, 1693 (Zeng, Chiu, Wang, Oei & Leung, 2015; PubMed Central)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> <http://purl.org/dc/terms/title> "The effect of loving-kindness meditation on positive emotions: a meta-analytic review" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s5> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <http://purl.org/dc/terms/publisher> "Journal of Consulting and Clinical Psychology, 82 (Galante, Galante, Bekkers & Gallacher, 2014; doi:10.1037/a0037249), Apollo repository, University of Cambridge" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <http://purl.org/dc/terms/title> "Effect of kindness-based meditation on health and well-being: a systematic review and meta-analysis" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <https://schema.org/url> <https://www.repository.cam.ac.uk/handle/1810/276660> .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s1> <http://purl.org/dc/terms/title> "Gratitude (Manela; first published 2015, substantive revision 2019)" .

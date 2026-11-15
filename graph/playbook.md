@@ -915,3 +915,25 @@ Ask yourself:
 - If the result goes against me, will I still be able to say I acted well?
 - Is my calm steadiness, or have I quietly stopped caring about the people my action affects?
 
+### [The four immeasurables](../articles/wisdom-traditions/four-immeasurables.md) — Framework
+
+1. Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands.
+2. Choose the quality that fits it, goodwill for the ordinary encounter, compassion for suffering, sympathetic joy for another's success and equanimity for what you cannot change.
+3. Check the quality for its look-alike, asking whether goodwill has become clinging, compassion has become your own distress, joy has become excitement or calm has become not caring.
+4. Widen the circle one step, offering the same attitude to someone neutral or difficult, not only to people you already like.
+5. Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time.
+
+*A peer you trained wins the promotion you also applied for, on the same day another teammate tells you their project has just been cancelled.*
+
+| Before | After |
+|---|---|
+| I congratulate the winner through gritted teeth, then spend lunch with the other teammate agreeing that management is hopeless, and leave work feeling worse about both of them. | I let the disappointment register, then congratulate my peer properly and mean it. With the teammate I listen and ask what would help, without stoking the grievance, and I accept that the promotion decision is made and no longer mine to change. |
+
+**Why:** Each person needed a different response; sympathetic joy keeps envy from souring the success, compassion meets the setback, and equanimity stops your own loss from colouring both.
+
+Ask yourself:
+- Can I be glad about this person's success, or am I quietly keeping score?
+- Is what I am calling compassion here help for them, or my own distress at their pain?
+- Is my calm the steadiness of seeing clearly, or have I simply stopped caring?
+- Would I offer this same goodwill to someone I find difficult, or only to people on my side?
+
