@@ -137,7 +137,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:grief-and-loss` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
-| `wg:meaning-in-life` | wgo:Concept |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:self-deception` | wgo:Obstacle |

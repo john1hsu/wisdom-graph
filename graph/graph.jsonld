@@ -7484,6 +7484,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica (the Editors; revised by Brian Duignan)",
+   "dcterms:title": "Viktor Frankl",
+   "schema:url": {
+    "@id": "https://www.britannica.com/biography/Viktor-Frankl"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Viktor Frankl Institut, Vienna",
+   "dcterms:title": "Viktor Emil Frankl: Biography",
+   "schema:url": {
+    "@id": "https://viktorfrankl.org/biography.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Viktor Frankl Institut, Vienna",
+   "dcterms:title": "Alleged quote",
+   "schema:url": {
+    "@id": "https://viktorfrankl.org/quote_stimulus.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Personality, 76(2) (Steger, Kashdan, Sullivan & Lorentz, 2008); author PDF, George Mason University",
+   "dcterms:title": "Understanding the search for meaning in life: Personality, cognitive style, and the dynamic between seeking and experiencing meaning",
+   "schema:url": {
+    "@id": "https://mason.gmu.edu/~tkashdan/publications/searchmeaning_JP.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "American Psychologist (Heintzelman & King, 2014; doi:10.1037/a0035049); author PDF hosted at Caltech",
+   "dcterms:title": "Life is pretty meaningful",
+   "schema:url": {
+    "@id": "https://www.its.caltech.edu/~squartz/HKLifeisPrettyMeaningful.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Holocaust and Genocide Studies, 17(1), 89–113 (Pytell, 2003); catalogue record with summary",
+   "dcterms:title": "Redeeming the unredeemable: Auschwitz and 'Man's search for meaning'",
+   "schema:url": {
+    "@id": "https://sjm-web.adlibhosting.com/AIS/Details/document/300022343"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/virtue-ethics/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -13247,6 +13331,97 @@
    "wgo:supportedBy": {
     "@id": "wg:this-too-shall-pass-study"
    }
+  },
+  {
+   "@id": "wg:viktor-frankl",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6"
+    }
+   ],
+   "rdfs:label": "Viktor E. Frankl",
+   "skos:altLabel": [
+    "Victor Frankl",
+    "Viktor Emil Frankl",
+    "Viktor Frankl"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychiatrists"
+   },
+   "skos:definition": "Viennese neurologist and psychiatrist (1905–1997), Holocaust survivor and founder of logotherapy, whose account of the camps, Man's Search for Meaning, made the search for meaning a central idea in modern psychology and in popular thinking about how to live through suffering; historians and later research have questioned parts of his account and theory.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Viktor E. Frankl",
+   "skos:related": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:existential-psychotherapy"
+    },
+    {
+     "@id": "wg:existential-vacuum"
+    },
+    {
+     "@id": "wg:logotherapy"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    },
+    {
+     "@id": "wg:self-transcendence"
+    }
+   ],
+   "wgo:authored": {
+    "@id": "wg:mans-search-for-meaning"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:redeeming-the-unredeemable-critique"
+    },
+    {
+     "@id": "wg:search-for-meaning-dynamics-study"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/viktor-frankl.md",
+   "wgo:influencedBy": {
+    "@id": "wg:alfred-adler"
+   },
+   "wgo:introduced": [
+    {
+     "@id": "wg:existential-vacuum"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:virtue-ethics",

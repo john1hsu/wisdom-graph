@@ -5757,6 +5757,103 @@
   ]
  },
  {
+  "id": "wg:viktor-frankl",
+  "title": "Viktor E. Frankl",
+  "aliases": [
+   "Viktor Frankl",
+   "Viktor Emil Frankl",
+   "Victor Frankl"
+  ],
+  "type": "Person",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/viktor-frankl.md",
+  "created": "2026-11-15",
+  "summary": "Viennese neurologist and psychiatrist (1905–1997), Holocaust survivor and founder of logotherapy, whose account of the camps, Man's Search for Meaning, made the search for meaning a central idea in modern psychology and in popular thinking about how to live through suffering; historians and later research have questioned parts of his account and theory.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychiatrists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:logotherapy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:existential-vacuum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-transcendence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:existential-psychotherapy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:adversity"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:meaning-in-life",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:existential-vacuum",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:mans-search-for-meaning",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:alfred-adler",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:search-for-meaning-dynamics-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:redeeming-the-unredeemable-critique",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.britannica.com/biography/Viktor-Frankl",
+   "https://viktorfrankl.org/biography.html",
+   "https://viktorfrankl.org/quote_stimulus.html",
+   "https://mason.gmu.edu/~tkashdan/publications/searchmeaning_JP.pdf",
+   "https://www.its.caltech.edu/~squartz/HKLifeisPrettyMeaningful.pdf",
+   "https://sjm-web.adlibhosting.com/AIS/Details/document/300022343"
+  ]
+ },
+ {
   "id": "wg:virtue-ethics",
   "title": "Virtue ethics",
   "aliases": [

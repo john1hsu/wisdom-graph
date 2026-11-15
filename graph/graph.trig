@@ -441,6 +441,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/viktor-frankl.md" .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/virtues-and-character/doctrine-of-the-mean.md" .
@@ -5042,6 +5051,78 @@
   <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/viktor-frankl#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (the Editors; revised by Brian Duignan)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> <http://purl.org/dc/terms/title> "Viktor Frankl" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> <https://schema.org/url> <https://www.britannica.com/biography/Viktor-Frankl> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> <http://purl.org/dc/terms/publisher> "Viktor Frankl Institut, Vienna" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> <http://purl.org/dc/terms/title> "Viktor Emil Frankl: Biography" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> <https://schema.org/url> <https://viktorfrankl.org/biography.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> <http://purl.org/dc/terms/publisher> "Viktor Frankl Institut, Vienna" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> <http://purl.org/dc/terms/title> "Alleged quote" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> <https://schema.org/url> <https://viktorfrankl.org/quote_stimulus.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> <http://purl.org/dc/terms/publisher> "Journal of Personality, 76(2) (Steger, Kashdan, Sullivan & Lorentz, 2008); author PDF, George Mason University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> <http://purl.org/dc/terms/title> "Understanding the search for meaning in life: Personality, cognitive style, and the dynamic between seeking and experiencing meaning" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> <https://schema.org/url> <https://mason.gmu.edu/~tkashdan/publications/searchmeaning_JP.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> <http://purl.org/dc/terms/publisher> "American Psychologist (Heintzelman & King, 2014; doi:10.1037/a0035049); author PDF hosted at Caltech" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> <http://purl.org/dc/terms/title> "Life is pretty meaningful" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> <https://schema.org/url> <https://www.its.caltech.edu/~squartz/HKLifeisPrettyMeaningful.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> <http://purl.org/dc/terms/publisher> "Holocaust and Genocide Studies, 17(1), 89–113 (Pytell, 2003); catalogue record with summary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> <http://purl.org/dc/terms/title> "Redeeming the unredeemable: Auschwitz and 'Man's search for meaning'" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> <https://schema.org/url> <https://sjm-web.adlibhosting.com/AIS/Details/document/300022343> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2000/01/rdf-schema#label> "Viktor E. Frankl" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#altLabel> "Victor Frankl" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#altLabel> "Viktor Emil Frankl" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#altLabel> "Viktor Frankl" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/psychiatrists> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#definition> "Viennese neurologist and psychiatrist (1905–1997), Holocaust survivor and founder of logotherapy, whose account of the camps, Man's Search for Meaning, made the search for meaning a central idea in modern psychology and in popular thinking about how to live through suffering; historians and later research have questioned parts of his account and theory." .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viktor E. Frankl" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/viktor-frankl/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/redeeming-the-unredeemable-critique> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/search-for-meaning-dynamics-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "thinkers-and-works" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/thinkers-and-works/viktor-frankl.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/alfred-adler> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Which way do I usually err in situations like this one, too much or too little, and am I correcting for it?" .
@@ -6273,6 +6354,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/african-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
   <https://github.com/john1hsu/wisdom-graph/id/african-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
@@ -6305,6 +6387,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/alan-waterman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/alan-waterman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/alan-waterman> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/alfred-adler> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
@@ -6635,9 +6718,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/evolutionary-theory-of-self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-therapies-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
@@ -6931,6 +7017,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/lying> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -6943,6 +7030,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/many-labs-3> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-seligman> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-and-physical-health-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
@@ -6957,7 +7047,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-of-life> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7127,6 +7219,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/prolonged-grief-disorder> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/prosocial-lying> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/prosocial-lying> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychiatrists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychiatrists> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7148,6 +7242,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/pursuing-pleasure-or-virtue-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/ratio-of-fire-critique-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/reach-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
@@ -7160,6 +7255,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/reconciliation> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/reconsidering-happiness-critique> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/recovery-after-adversity> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/redeeming-the-unredeemable-critique> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
@@ -7228,6 +7324,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/military-historians> .
   <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/search-for-meaning-dynamics-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7329,6 +7426,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/serious-illness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -7500,7 +7598,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
-  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychiatrists> .
   <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/vindictiveness> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
