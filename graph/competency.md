@@ -140,7 +140,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:emotional-suppression` | wgo:Obstacle |
 | `wg:interpersonal-conflict` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:psychology-of-wisdom` | wgo:Field |

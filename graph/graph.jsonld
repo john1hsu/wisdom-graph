@@ -5493,6 +5493,90 @@
    "wgo:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Psychophysiology Laboratory, Stanford University (faculty profile)",
+   "dcterms:title": "James Gross",
+   "schema:url": {
+    "@id": "https://spl.stanford.edu/people/james-gross"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Review of General Psychology, 2, 271–299 (Gross, 1998); author PDF",
+   "dcterms:title": "The emerging field of emotion regulation: An integrative review",
+   "schema:url": {
+    "@id": "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5c47fda9758d46280be433e9/1548221901394/Gross+%281998%29.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Gross & John (2003), Journal of Personality and Social Psychology, 85, 348–362; instrument hosted by Oliver John's lab, University of California, Berkeley",
+   "dcterms:title": "Emotion Regulation Questionnaire (ERQ)",
+   "schema:url": {
+    "@id": "https://ocf.berkeley.edu/~johnlab/ERQ.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Perspectives on Psychological Science, 8(6), 591–612 (Bonanno & Burton, 2013); author PDF, Teachers College, Columbia University",
+   "dcterms:title": "Regulatory flexibility: An individual differences perspective on coping and emotion regulation",
+   "schema:url": {
+    "@id": "https://www.tc.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Inquiry, 26(1), 123–129 (Webb, Totterdell & Ibar, 2015), White Rose Research Online record",
+   "dcterms:title": "Foundations and extensions for the extended model: More on implicit and explicit forms of emotion regulation",
+   "schema:url": {
+    "@id": "https://eprints.whiterose.ac.uk/88970/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Psychiatric Research, 132, 174–181 (Jeste, Thomas, Liu et al., 2021), eScholarship, University of California",
+   "dcterms:title": "Is spirituality a component of wisdom? Study of 1,786 adults using expanded San Diego Wisdom Scale (Jeste-Thomas Wisdom Index)",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/43q6r2fv"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -12232,6 +12316,91 @@
    "wgo:studiedIn": {
     "@id": "wg:psychology-of-wisdom"
    }
+  },
+  {
+   "@id": "wg:james-gross",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6"
+    }
+   ],
+   "rdfs:label": "James J. Gross",
+   "skos:altLabel": [
+    "J. J. Gross",
+    "James Gross"
+   ],
+   "skos:broader": {
+    "@id": "wg:clinical-psychologists"
+   },
+   "skos:definition": "Stanford psychologist who did more than anyone to turn emotion regulation into a research field: his process model sorts the ways people shape their feelings by when they act, and his work with Oliver John made reappraisal and expressive suppression the two best-studied strategies; later researchers have questioned how far one strategy can be called good and the other bad.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "James J. Gross",
+   "skos:related": [
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:emotion-regulation"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:george-bonanno"
+    },
+    {
+     "@id": "wg:process-model-of-emotion-regulation"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    },
+    {
+     "@id": "wg:regulatory-flexibility"
+    }
+   ],
+   "wgo:authored": [
+    {
+     "@id": "wg:emerging-field-of-emotion-regulation"
+    },
+    {
+     "@id": "wg:emotion-regulation-questionnaire"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:regulatory-flexibility-individual-differences-review"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/james-gross.md",
+   "wgo:influencedBy": {
+    "@id": "wg:richard-lazarus"
+   },
+   "wgo:introduced": {
+    "@id": "wg:emotional-suppression"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:know-thyself",

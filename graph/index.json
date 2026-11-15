@@ -2992,6 +2992,96 @@
   ]
  },
  {
+  "id": "wg:james-gross",
+  "title": "James J. Gross",
+  "aliases": [
+   "James Gross",
+   "J. J. Gross"
+  ],
+  "type": "Person",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/james-gross.md",
+  "created": "2026-11-15",
+  "summary": "Stanford psychologist who did more than anyone to turn emotion regulation into a research field: his process model sorts the ways people shape their feelings by when they act, and his work with Oliver John made reappraisal and expressive suppression the two best-studied strategies; later researchers have questioned how far one strategy can be called good and the other bad.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:clinical-psychologists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:process-model-of-emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regulatory-flexibility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:george-bonanno"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:emotional-suppression",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:emerging-field-of-emotion-regulation",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:emotion-regulation-questionnaire",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:richard-lazarus",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:regulatory-flexibility-individual-differences-review",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://spl.stanford.edu/people/james-gross",
+   "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5c47fda9758d46280be433e9/1548221901394/Gross+%281998%29.pdf",
+   "https://ocf.berkeley.edu/~johnlab/ERQ.pdf",
+   "https://www.tc.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf",
+   "https://eprints.whiterose.ac.uk/88970/",
+   "https://escholarship.org/uc/item/43q6r2fv"
+  ]
+ },
+ {
   "id": "wg:know-thyself",
   "title": "Know thyself",
   "aliases": [
