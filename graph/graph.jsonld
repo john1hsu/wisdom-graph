@@ -2018,6 +2018,107 @@
    "wgo:why": "Practical wisdom serves the purpose behind a rule rather than its letter, notices what is particular about the case, and still protects fairness by making the reasoning visible and fixing the policy for everyone."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Can I change this situation, or only how I see it and respond to it?",
+   "wgo:questionFor": {
+    "@id": "wg:process-model-of-emotion-regulation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I reaching for my usual strategy, or the one that fits this moment?",
+   "wgo:questionFor": {
+    "@id": "wg:process-model-of-emotion-regulation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I replaying this or concentrating on it, rather than rethinking it or looking elsewhere?",
+   "wgo:questionFor": {
+    "@id": "wg:process-model-of-emotion-regulation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is what I'm doing with this feeling working, or is it time to switch?",
+   "wgo:questionFor": {
+    "@id": "wg:process-model-of-emotion-regulation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "On the call, hold back the frustration since it's not the moment. Afterwards, ask the manager whether part of the work can wait until Monday. For the part that can't, look at it as an outsider would (a one-off, not a verdict on my work), then check an hour later whether that's actually settled the feeling or whether I need to talk it through.",
+   "wgo:before": "Keep a straight face on the call, then spend the evening replaying the email and resenting it.",
+   "wgo:situation": "An employee opens an email, shortly before a client call, saying that a report they wrote has to be redone over the weekend.",
+   "wgo:why": "The wiser response uses more than one point in the process (changing the situation where possible, reappraising what can't change, holding back only briefly) and checks whether the strategy is working instead of letting suppression slide into rumination."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Process model of emotion regulation",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "When a strong feeling starts, name it and ask whether you actually want to change it, and in which direction."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Ask whether the situation itself can be avoided, chosen differently or changed; if it can, start there."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "If the situation can't change, decide where to put your attention, and avoid dwelling on what upsets you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Rethink what the situation means, for example by looking at it as a detached observer would."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Treat holding back your expression as a short-term tool for moments that need it, not a default."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "After a few minutes, check whether the strategy is helping; keep it, switch, or stop."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Is there still something I can do about this, or is it time to let the goal go and invest in another?",
@@ -6394,6 +6495,76 @@
     "@id": "https://plato.stanford.edu/archives/sum2021/entries/practical-reason-med/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Review of General Psychology, 2, 271–299 (Gross, 1998), Educational Publishing Foundation / APA (author PDF)",
+   "dcterms:title": "The emerging field of emotion regulation: An integrative review",
+   "schema:url": {
+    "@id": "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5c47fda9758d46280be433e9/1548221901394/Gross+%281998%29.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 74(1), 224–237 (Gross, 1998), UCLA Social Affective Neuroscience Lab",
+   "dcterms:title": "Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology",
+   "schema:url": {
+    "@id": "https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Gross_JPSP_1998.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 138(4), 775–808 (Webb, Miles & Sheeran, 2012), University of Sussex repository",
+   "dcterms:title": "Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation",
+   "schema:url": {
+    "@id": "https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "World Psychiatry, 18(2), 130–139 (Gross, Uusberg & Uusberg, 2019), PubMed Central",
+   "dcterms:title": "Mental illness and well-being: An affect regulation perspective",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502417"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Clinical Psychology: Science and Practice, 32(4), 398–415 (Agathos, Yurtbasi, O'Brien & Putica, 2025), University of Melbourne repository",
+   "dcterms:title": "The extended process model of emotion regulation in managing negative affect in posttraumatic stress disorder: A systematic review",
+   "schema:url": {
+    "@id": "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/aa9eec35-cc41-4c73-ad6b-695c4afc37d2/content"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1",
@@ -12974,6 +13145,99 @@
    },
    "wgo:studiedIn": {
     "@id": "wg:psychology-of-wisdom"
+   }
+  },
+  {
+   "@id": "wg:process-model-of-emotion-regulation",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5"
+    }
+   ],
+   "rdfs:label": "Process model of emotion regulation",
+   "skos:altLabel": [
+    "Gross's process model",
+    "extended process model of emotion regulation",
+    "process model of affect regulation"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "James Gross's map of where and how people can influence an emotion as it unfolds: by choosing or changing the situation, steering attention, rethinking what the situation means, or modulating the response once it has begun, together with the later decisions about whether to regulate, which strategy to use, and whether it is working.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Process model of emotion regulation",
+   "skos:related": [
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:distraction"
+    },
+    {
+     "@id": "wg:emotional-suppression"
+    },
+    {
+     "@id": "wg:regulatory-flexibility"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-distancing"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:rumination"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:antecedent-and-response-focused-regulation-study"
+   },
+   "wgo:develops": {
+    "@id": "wg:regulatory-flexibility"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/process-model-of-emotion-regulation.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:james-gross"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:emerging-field-of-emotion-regulation"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:dealing-with-feeling-meta-analysis"
    }
   },
   {

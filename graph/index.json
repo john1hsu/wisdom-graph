@@ -4253,6 +4253,123 @@
   ]
  },
  {
+  "id": "wg:process-model-of-emotion-regulation",
+  "title": "Process model of emotion regulation",
+  "aliases": [
+   "Gross's process model",
+   "process model of affect regulation",
+   "extended process model of emotion regulation"
+  ],
+  "type": "Framework",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/process-model-of-emotion-regulation.md",
+  "created": "2026-11-15",
+  "summary": "James Gross's map of where and how people can influence an emotion as it unfolds: by choosing or changing the situation, steering attention, rethinking what the situation means, or modulating the response once it has begun, together with the later decisions about whether to regulate, which strategy to use, and whether it is working.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regulatory-flexibility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotional-suppression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:distraction"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:regulatory-flexibility",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:james-gross",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:emerging-field-of-emotion-regulation",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:antecedent-and-response-focused-regulation-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:dealing-with-feeling-meta-analysis",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s4",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Can I change this situation, or only how I see it and respond to it?",
+   "Am I reaching for my usual strategy, or the one that fits this moment?",
+   "Am I replaying this or concentrating on it, rather than rethinking it or looking elsewhere?",
+   "Is what I'm doing with this feeling working, or is it time to switch?"
+  ],
+  "steps": [
+   "When a strong feeling starts, name it and ask whether you actually want to change it, and in which direction.",
+   "Ask whether the situation itself can be avoided, chosen differently or changed; if it can, start there.",
+   "If the situation can't change, decide where to put your attention, and avoid dwelling on what upsets you.",
+   "Rethink what the situation means, for example by looking at it as a detached observer would.",
+   "Treat holding back your expression as a short-term tool for moments that need it, not a default.",
+   "After a few minutes, check whether the strategy is helping; keep it, switch, or stop."
+  ],
+  "example": {
+   "situation": "An employee opens an email, shortly before a client call, saying that a report they wrote has to be redone over the weekend.",
+   "before": "Keep a straight face on the call, then spend the evening replaying the email and resenting it.",
+   "after": "On the call, hold back the frustration since it's not the moment. Afterwards, ask the manager whether part of the work can wait until Monday. For the part that can't, look at it as an outsider would (a one-off, not a verdict on my work), then check an hour later whether that's actually settled the feeling or whether I need to talk it through.",
+   "why": "The wiser response uses more than one point in the process (changing the situation where possible, reappraising what can't change, holding back only briefly) and checks whether the strategy is working instead of letting suppression slide into rumination."
+  },
+  "source_urls": [
+   "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5c47fda9758d46280be433e9/1548221901394/Gross+%281998%29.pdf",
+   "https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Gross_JPSP_1998.pdf",
+   "https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502417",
+   "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/aa9eec35-cc41-4c73-ad6b-695c4afc37d2/content"
+  ]
+ },
+ {
   "id": "wg:purpose-in-life",
   "title": "Purpose in life",
   "aliases": [

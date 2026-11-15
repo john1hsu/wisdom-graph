@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:regulatory-flexibility` | wgo:Skill |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -41,6 +39,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
 | `wg:memento-mori` | 2 | Equanimity, greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
+| `wg:process-model-of-emotion-regulation` | 2 | Emotion regulatory flexibility, Rumination |
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:after-action-review` | 1 | Self-reflection |
@@ -129,11 +128,11 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
+| `wg:process-model-of-emotion-regulation` | mixed |  |
 | `wg:purpose-in-life` | mixed |  |
 | `wg:regret` | mixed |  |
-| `wg:regulatory-flexibility` | mixed |  |
 
-…and 14 more.
+…and 15 more.
 
 ## Ideas with no recorded origin (gap)
 

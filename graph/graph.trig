@@ -163,6 +163,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/emotions-and-equanimity/process-model-of-emotion-regulation.md" .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
 <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/emotions-and-equanimity/regulatory-flexibility.md" .
@@ -2307,6 +2315,117 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
   <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://schema.org/url> <https://ggia.berkeley.edu/practice/mental_subtraction_positive_events> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Can I change this situation, or only how I see it and respond to it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reaching for my usual strategy, or the one that fits this moment?" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I replaying this or concentrating on it, rather than rethinking it or looking elsewhere?" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is what I'm doing with this feeling working, or is it time to switch?" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "On the call, hold back the frustration since it's not the moment. Afterwards, ask the manager whether part of the work can wait until Monday. For the part that can't, look at it as an outsider would (a one-off, not a verdict on my work), then check an hour later whether that's actually settled the feeling or whether I need to talk it through." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Keep a straight face on the call, then spend the evening replaying the email and resenting it." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "An employee opens an email, shortly before a client call, saying that a report they wrote has to be redone over the weekend." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response uses more than one point in the process (changing the situation where possible, reappraising what can't change, holding back only briefly) and checks whether the strategy is working instead of letting suppression slide into rumination." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/1> <https://schema.org/text> "When a strong feeling starts, name it and ask whether you actually want to change it, and in which direction." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/2> <https://schema.org/text> "Ask whether the situation itself can be avoided, chosen differently or changed; if it can, start there." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/3> <https://schema.org/text> "If the situation can't change, decide where to put your attention, and avoid dwelling on what upsets you." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/4> <https://schema.org/text> "Rethink what the situation means, for example by looking at it as a detached observer would." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/5> <https://schema.org/text> "Treat holding back your expression as a short-term tool for moments that need it, not a default." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/6> <https://schema.org/text> "After a few minutes, check whether the strategy is helping; keep it, switch, or stop." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/name> "Process model of emotion regulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2000/01/rdf-schema#label> "Process model of emotion regulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#altLabel> "Gross's process model" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#altLabel> "extended process model of emotion regulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#altLabel> "process model of affect regulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#definition> "James Gross's map of where and how people can influence an emotion as it unfolds: by choosing or changing the situation, steering attention, rethinking what the situation means, or modulating the response once it has begun, together with the later decisions about whether to regulate, which strategy to use, and whether it is working." .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Process model of emotion regulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/distraction> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/antecedent-and-response-focused-regulation-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/process-model-of-emotion-regulation.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/emerging-field-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/dealing-with-feeling-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> <http://purl.org/dc/terms/publisher> "Review of General Psychology, 2, 271–299 (Gross, 1998), Educational Publishing Foundation / APA (author PDF)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> <http://purl.org/dc/terms/title> "The emerging field of emotion regulation: An integrative review" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s1> <https://schema.org/url> <https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5c47fda9758d46280be433e9/1548221901394/Gross+%281998%29.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 74(1), 224–237 (Gross, 1998), UCLA Social Affective Neuroscience Lab" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> <http://purl.org/dc/terms/title> "Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s2> <https://schema.org/url> <https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Gross_JPSP_1998.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> <http://purl.org/dc/terms/publisher> "Psychological Bulletin, 138(4), 775–808 (Webb, Miles & Sheeran, 2012), University of Sussex repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> <http://purl.org/dc/terms/title> "Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s3> <https://schema.org/url> <https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> <http://purl.org/dc/terms/publisher> "World Psychiatry, 18(2), 130–139 (Gross, Uusberg & Uusberg, 2019), PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> <http://purl.org/dc/terms/title> "Mental illness and well-being: An affect regulation perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC6502417> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> <http://purl.org/dc/terms/publisher> "Clinical Psychology: Science and Practice, 32(4), 398–415 (Agathos, Yurtbasi, O'Brien & Putica, 2025), University of Melbourne repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> <http://purl.org/dc/terms/title> "The extended process model of emotion regulation in managing negative affect in posttraumatic stress disorder: A systematic review" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/process-model-of-emotion-regulation/s5> <https://schema.org/url> <https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/aa9eec35-cc41-4c73-ad6b-695c4afc37d2/content> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility#graph> {
@@ -7195,6 +7314,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
+  <https://github.com/john1hsu/wisdom-graph/id/antecedent-and-response-focused-regulation-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/antecedent-and-response-focused-regulation-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/antecedent-and-response-focused-regulation-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/anticipating-ones-troubles-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/apology-of-socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/apology-of-socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
@@ -7300,6 +7422,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#hasInstance> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7345,6 +7468,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/concept-of-wisdom-cross-cultural-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7387,6 +7511,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/daoism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
   <https://github.com/john1hsu/wisdom-graph/id/daoism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/david-hume> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
+  <https://github.com/john1hsu/wisdom-graph/id/dealing-with-feeling-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
@@ -7435,12 +7560,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/different-types-of-well-being-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/distanced-self-reflection-diary> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/distanced-self-reflection-diary> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/distraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/distraction> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7470,15 +7597,20 @@
   <https://github.com/john1hsu/wisdom-graph/id/egocentric-bias> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/egocentric-discounting> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/elizabeth-anscombe> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/emerging-field-of-emotion-regulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/emerging-field-of-emotion-regulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/emerging-field-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-and-memory-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-and-memory-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-and-memory-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-variability-daily-life-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-contagion> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
@@ -7490,6 +7622,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
@@ -7864,6 +7997,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/introspection-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intuitive-judgment> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/journey-to-the-east> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
@@ -8128,6 +8264,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/problem-solving> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/procrastination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
@@ -8201,6 +8345,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
@@ -8250,12 +8396,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
@@ -8332,6 +8480,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .

@@ -265,6 +265,29 @@ Ask yourself:
 - After imagining this loss, did I come back to what I still have and what I can do now?
 - Which parts of the outcome I fear are actually up to me?
 
+### [Process model of emotion regulation](../articles/emotions-and-equanimity/process-model-of-emotion-regulation.md) — Framework
+
+1. When a strong feeling starts, name it and ask whether you actually want to change it, and in which direction.
+2. Ask whether the situation itself can be avoided, chosen differently or changed; if it can, start there.
+3. If the situation can't change, decide where to put your attention, and avoid dwelling on what upsets you.
+4. Rethink what the situation means, for example by looking at it as a detached observer would.
+5. Treat holding back your expression as a short-term tool for moments that need it, not a default.
+6. After a few minutes, check whether the strategy is helping; keep it, switch, or stop.
+
+*An employee opens an email, shortly before a client call, saying that a report they wrote has to be redone over the weekend.*
+
+| Before | After |
+|---|---|
+| Keep a straight face on the call, then spend the evening replaying the email and resenting it. | On the call, hold back the frustration since it's not the moment. Afterwards, ask the manager whether part of the work can wait until Monday. For the part that can't, look at it as an outsider would (a one-off, not a verdict on my work), then check an hour later whether that's actually settled the feeling or whether I need to talk it through. |
+
+**Why:** The wiser response uses more than one point in the process (changing the situation where possible, reappraising what can't change, holding back only briefly) and checks whether the strategy is working instead of letting suppression slide into rumination.
+
+Ask yourself:
+- Can I change this situation, or only how I see it and respond to it?
+- Am I reaching for my usual strategy, or the one that fits this moment?
+- Am I replaying this or concentrating on it, rather than rethinking it or looking elsewhere?
+- Is what I'm doing with this feeling working, or is it time to switch?
+
 ### [Rumination](../articles/emotions-and-equanimity/rumination.md) — Vice
 
 *In your annual review, your manager says your project updates are often late. That night you cannot stop thinking about it.*
