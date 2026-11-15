@@ -351,6 +351,14 @@ Ask yourself:
 - Whose advice am I about to rely on here, and what picture of wisdom made me choose them?
 - Would someone raised with a different idea of wisdom see this choice as wise, and what would they weigh that I am leaving out?
 
+### [Personal and general wisdom](../articles/foundations/personal-and-general-wisdom.md) — Concept
+
+Ask yourself:
+- Am I drawing on what I know about life in general here, or on what I actually know about myself in this situation?
+- If a friend described this exact problem to me, what would I tell them, and why am I not following that advice now?
+- What does this setback show me about my own strengths and weaknesses that I would rather not look at?
+- Am I calling myself wise about this because I give good advice to others, or because I have handled my own version of it well?
+
 ### [Practical wisdom](../articles/foundations/practical-wisdom.md) — Virtue
 
 *A team lead's policy is that expense claims filed more than 30 days late are rejected. A reliable new hire files a claim six weeks late, after spending a month away dealing with a family emergency.*

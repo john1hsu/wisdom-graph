@@ -2083,6 +2083,53 @@
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/george-bailey-effect> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I drawing on what I know about life in general here, or on what I actually know about myself in this situation?" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If a friend described this exact problem to me, what would I tell them, and why am I not following that advice now?" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does this setback show me about my own strengths and weaknesses that I would rather not look at?" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I calling myself wise about this because I give good advice to others, or because I have handled my own version of it well?" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2000/01/rdf-schema#label> "Personal and general wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "first-person and third-person wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "general wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "personal versus general wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "personal wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "self-related wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#definition> "Ursula Staudinger's distinction between general wisdom, insight into life and people in general (as when advising someone else), and personal wisdom, insight into one's own life; research finds the two related but distinct, with different correlates, age trajectories and ways of being trained." .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/foundations> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personal and general wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/how-to-measure-wisdom-study> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/personal-wisdom-performance-measure-study> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "foundations" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/foundations/personal-and-general-wisdom.md" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ursula-staudinger> .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I imagining how they feel, or how I would feel in their place?" .
 <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
@@ -4692,6 +4739,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s7> <https://schema.org/url> <https://ggia.berkeley.edu/practice/mental_subtraction_positive_events> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng, Redzanowski, Dorner, Straßer & Wiedermann, 2013)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> <http://purl.org/dc/terms/title> "How to measure wisdom: content, reliability, and validity of five measures" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1> <https://schema.org/url> <https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00405/full> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> <http://purl.org/dc/terms/publisher> "Journal of Happiness Studies, 23(7), 3285–3313 (Glück, Weststrate & Scherpf, 2022), Springer" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> <http://purl.org/dc/terms/title> "Looking beyond linear: A closer examination of the relationship between wisdom and wellbeing" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s2> <https://schema.org/url> <https://link.springer.com/10.1007/s10902-022-00540-3> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> <http://purl.org/dc/terms/publisher> "Psychological Science (Grossmann & Kross, 2014), author proof hosted by the University of Waterloo Wisdom and Culture Lab" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> <http://purl.org/dc/terms/title> "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s3> <https://schema.org/url> <https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> <http://purl.org/dc/terms/publisher> "Cambridge University Press, in R. J. Sternberg & J. Glück (eds.), The Cambridge Handbook of Wisdom (Staudinger, 2019), ch. 9" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> <http://purl.org/dc/terms/title> "The distinction between personal and general wisdom: How far have we come?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s4> <https://schema.org/url> <https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/distinction-between-personal-and-general-wisdom/6FE2D9023043586A8FC3FE98FE010E5A> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> <http://purl.org/dc/terms/publisher> "Springer, in M. Ferrari & N. M. Weststrate (eds.), The Scientific Study of Personal Wisdom (Staudinger, 2013), pp. 3–19" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> <http://purl.org/dc/terms/title> "The need to distinguish personal from general wisdom: A short history and empirical evidence" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s5> <https://schema.org/url> <https://mijn.bsl.nl/chapter/10.1007/978-90-481-9231-1_1> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> <http://purl.org/dc/terms/publisher> "American Journal of Geriatric Psychiatry, 21(12), 1254–1266 (Bangen, Meeks & Jeste, 2013), eScholarship, University of California" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> <http://purl.org/dc/terms/title> "Defining and assessing wisdom: A review of the literature" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s6> <https://schema.org/url> <https://escholarship.org/content/qt0fs7k644/qt0fs7k644.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 114(4), 547–571 (Eyal, Steffel & Epley, 2018), full-text PDF" .
 <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s1> <http://purl.org/dc/terms/title> "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective" .

@@ -3896,6 +3896,108 @@
   ]
  },
  {
+  "id": "wg:personal-and-general-wisdom",
+  "title": "Personal and general wisdom",
+  "aliases": [
+   "personal wisdom",
+   "general wisdom",
+   "self-related wisdom",
+   "personal versus general wisdom",
+   "first-person and third-person wisdom"
+  ],
+  "type": "Concept",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/foundations/personal-and-general-wisdom.md",
+  "created": "2026-11-15",
+  "summary": "Ursula Staudinger's distinction between general wisdom, insight into life and people in general (as when advising someone else), and personal wisdom, insight into one's own life; research finds the two related but distinct, with different correlates, age trajectories and ways of being trained.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implicit-theories-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:ursula-staudinger",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:personal-wisdom-performance-measure-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:how-to-measure-wisdom-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:exploring-solomons-paradox-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I drawing on what I know about life in general here, or on what I actually know about myself in this situation?",
+   "If a friend described this exact problem to me, what would I tell them, and why am I not following that advice now?",
+   "What does this setback show me about my own strengths and weaknesses that I would rather not look at?",
+   "Am I calling myself wise about this because I give good advice to others, or because I have handled my own version of it well?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00405/full",
+   "https://link.springer.com/10.1007/s10902-022-00540-3",
+   "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf",
+   "https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/distinction-between-personal-and-general-wisdom/6FE2D9023043586A8FC3FE98FE010E5A",
+   "https://mijn.bsl.nl/chapter/10.1007/978-90-481-9231-1_1",
+   "https://escholarship.org/content/qt0fs7k644/qt0fs7k644.pdf"
+  ]
+ },
+ {
   "id": "wg:perspective-taking",
   "title": "Perspective-taking",
   "aliases": [

@@ -126,13 +126,13 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:major-life-decision` | mixed |  |
 | `wg:meaning-in-life` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
+| `wg:personal-and-general-wisdom` | mixed |  |
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:process-model-of-emotion-regulation` | mixed |  |
 | `wg:psychology-of-wisdom` | mixed |  |
-| `wg:purpose-in-life` | mixed |  |
 
-…and 16 more.
+…and 17 more.
 
 ## Ideas with no recorded origin (gap)
 
