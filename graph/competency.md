@@ -27,7 +27,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | practice | reach | targets |
 |---|---|---|
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
-| `wg:compassionate-reappraisal` | 3 | Forgiveness, Rumination, compassion |
+| `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
@@ -73,6 +73,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:after-action-review` |
+| `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:practical-wisdom` |
@@ -100,6 +101,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
+| `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
@@ -124,9 +126,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
 | `wg:seeking-counsel` | mixed |  |
 | `wg:self-distancing` | mixed |  |
-| `wg:self-reflection` | mixed |  |
 
-…and 7 more.
+…and 8 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -161,10 +162,12 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
+| `wg:buddhism` | `wg:compassion` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
+| `wg:confucianism` | `wg:compassion` |
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:folly` |

@@ -43,6 +43,22 @@ Ask yourself:
 
 ## compassion-and-relationships
 
+### [Compassion](../articles/compassion-and-relationships/compassion.md) — Virtue
+
+*A reliable team member misses a client deadline and, when you ask about it, mentions that a parent was taken into hospital last week.*
+
+| Before | After |
+|---|---|
+| I either brush past it ('sorry to hear that, but the client is furious, I need it by tomorrow') or I am so upset for them that I quietly redo the work myself at midnight and never mention the deadline again. | I stop and take it in: 'That's a hard week. What would help most right now?' I move the deadline with the client myself, ask whether they want work taken off them or kept as a distraction, and agree a check-in for next week so the rest of the team isn't left guessing. |
+
+**Why:** Compassion notices the suffering and is moved by it, but it also stays steady enough to choose help that fits this person and stays fair to everyone else involved.
+
+Ask yourself:
+- Have I actually noticed what this person is going through, or only what their trouble costs me?
+- Am I acting to ease their suffering, or to escape my own discomfort at seeing it?
+- Is my concern shaded by a quiet judgement that they brought this on themselves, or that I am above them?
+- Would I feel and act the same way if the people suffering were many, distant or unlike me?
+
 ### [Compassionate reappraisal](../articles/compassion-and-relationships/compassionate-reappraisal.md) — Practice
 
 1. Sit somewhere quiet and settle your breathing for a minute or two before you start.

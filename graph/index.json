@@ -389,6 +389,141 @@
   ]
  },
  {
+  "id": "wg:compassion",
+  "title": "Compassion",
+  "aliases": [
+   "karuṇā",
+   "ceyin (commiseration)",
+   "compassionate concern"
+  ],
+  "type": "Virtue",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/compassion.md",
+  "created": "2026-11-15",
+  "summary": "The settled disposition to notice another's suffering, be moved by it without being overwhelmed, and want and act to relieve it, steered by judgement about what will actually help.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:four-immeasurables"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:loving-kindness-meditation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ubuntu"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:right-speech"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:empathic-distress",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:pity",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:compassion-training-altruism-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:compassion-based-interventions-meta-analysis",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:compassion-fade-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s6",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Have I actually noticed what this person is going through, or only what their trouble costs me?",
+   "Am I acting to ease their suffering, or to escape my own discomfort at seeing it?",
+   "Is my concern shaded by a quiet judgement that they brought this on themselves, or that I am above them?",
+   "Would I feel and act the same way if the people suffering were many, distant or unlike me?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A reliable team member misses a client deadline and, when you ask about it, mentions that a parent was taken into hospital last week.",
+   "before": "I either brush past it ('sorry to hear that, but the client is furious, I need it by tomorrow') or I am so upset for them that I quietly redo the work myself at midnight and never mention the deadline again.",
+   "after": "I stop and take it in: 'That's a hard week. What would help most right now?' I move the deadline with the client myself, ask whether they want work taken off them or kept as a distraction, and agree a check-in for next week so the rest of the team isn't left guessing.",
+   "why": "Compassion notices the suffering and is moved by it, but it also stays steady enough to choose help that fits this person and stays fair to everyone else involved."
+  },
+  "source_urls": [
+   "https://courses.edx.org/asset-v1:BerkeleyX+GG101x+1T2016+type@asset+block/Goetz-Compassion.pdf",
+   "https://core.ac.uk/download/287637943.pdf",
+   "https://read.qxmd.com/read/29029675/a-meta-analysis-of-compassion-based-interventions-current-state-of-knowledge-and-future-directions",
+   "https://foxlab.ucdavis.edu/publications/Weng_PsychScience_2013.pdf",
+   "https://scholarsbank.uoregon.edu/items/d59bf234-65fa-4a4a-a8f4-b913dbca2eff/full",
+   "https://greatergood.berkeley.edu/topic/compassion/definition",
+   "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
+   "https://plato.stanford.edu/archives/spr2014/entries/mencius",
+   "https://plato.stanford.edu/archives/sum2021/entries/shantideva/",
+   "https://dhammatalks.org/suttas/AN/AN10_196.html"
+  ]
+ },
+ {
   "id": "wg:compassionate-reappraisal",
   "title": "Compassionate reappraisal",
   "aliases": [

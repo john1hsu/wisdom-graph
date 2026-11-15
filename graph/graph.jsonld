@@ -148,6 +148,46 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I actually noticed what this person is going through, or only what their trouble costs me?",
+   "wgo:questionFor": {
+    "@id": "wg:compassion"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I acting to ease their suffering, or to escape my own discomfort at seeing it?",
+   "wgo:questionFor": {
+    "@id": "wg:compassion"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my concern shaded by a quiet judgement that they brought this on themselves, or that I am above them?",
+   "wgo:questionFor": {
+    "@id": "wg:compassion"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I feel and act the same way if the people suffering were many, distant or unlike me?",
+   "wgo:questionFor": {
+    "@id": "wg:compassion"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I stop and take it in: 'That's a hard week. What would help most right now?' I move the deadline with the client myself, ask whether they want work taken off them or kept as a distraction, and agree a check-in for next week so the rest of the team isn't left guessing.",
+   "wgo:before": "I either brush past it ('sorry to hear that, but the client is furious, I need it by tomorrow') or I am so upset for them that I quietly redo the work myself at midnight and never mention the deadline again.",
+   "wgo:situation": "A reliable team member misses a client deadline and, when you ask about it, mentions that a parent was taken into hospital last week.",
+   "wgo:why": "Compassion notices the suffering and is moved by it, but it also stays steady enough to choose help that fits this person and stays fair to everyone else involved."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I wishing this person well, or am I telling myself that what they did was fine?",
@@ -2698,6 +2738,146 @@
     "@id": "https://journal.equinoxpub.com/BSR/article/view/8856"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 136(3), 351–374 (Goetz, Keltner & Simon-Thomas, 2010), via UC Berkeley GG101x course materials on edX",
+   "dcterms:title": "Compassion: An evolutionary analysis and empirical review",
+   "schema:url": {
+    "@id": "https://courses.edx.org/asset-v1:BerkeleyX+GG101x+1T2016+type@asset+block/Goetz-Compassion.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s10",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "dhammatalks.org, translation of the Aṅguttara Nikāya",
+   "dcterms:title": "Brahmavihāra Sutta: The Sublime Attitudes (AN 10:196)",
+   "schema:url": {
+    "@id": "https://dhammatalks.org/suttas/AN/AN10_196.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Clinical Psychology Review, 47, 15–27 (Strauss, Lever Taylor, Gu, Kuyken, Baer, Jones & Cavanagh, 2016), accepted manuscript via CORE",
+   "dcterms:title": "What is compassion and how can we measure it? A review of definitions and measures",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/287637943.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Behavior Therapy (Kirby, Tellegen & Steindl, 2017; PMID 29029675), abstract via Read by QxMD",
+   "dcterms:title": "A meta-analysis of compassion-based interventions: Current state of knowledge and future directions",
+   "schema:url": {
+    "@id": "https://read.qxmd.com/read/29029675/a-meta-analysis-of-compassion-based-interventions-current-state-of-knowledge-and-future-directions"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Science (Weng, Fox, Shackman, Stodola, Caldwell, Olson, Rogers & Davidson, 2013), via Fox Lab, UC Davis",
+   "dcterms:title": "Compassion training alters altruism and neural responses to suffering",
+   "schema:url": {
+    "@id": "https://foxlab.ucdavis.edu/publications/Weng_PsychScience_2013.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "PLoS ONE, 9(6), e100115 (Västfjäll, Slovic, Mayorga & Peters, 2014), via University of Oregon Scholars' Bank",
+   "dcterms:title": "Compassion fade: Affect and charity are greatest for a single child in need",
+   "schema:url": {
+    "@id": "https://scholarsbank.uoregon.edu/items/d59bf234-65fa-4a4a-a8f4-b913dbca2eff/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Compassion: What Is It?",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/topic/compassion/definition"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Robert Eno (trans.), Indiana University ScholarWorks, 2016",
+   "dcterms:title": "Mencius: An Online Teaching Translation (Version 1.0)",
+   "schema:url": {
+    "@id": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Kwong-loi Shun; Spring 2014 edition)",
+   "dcterms:title": "Mencius",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/spr2014/entries/mencius"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s9",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Charles Goodman; Summer 2021 edition)",
+   "dcterms:title": "Śāntideva",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/sum2021/entries/shantideva/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassionate-reappraisal/s1",
@@ -8194,6 +8374,127 @@
     "@id": "wg:the-buddha"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:compassion",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s9"
+    }
+   ],
+   "rdfs:label": "Compassion",
+   "skos:altLabel": [
+    "ceyin (commiseration)",
+    "compassionate concern",
+    "karuṇā"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:four-immeasurables"
+    },
+    {
+     "@id": "wg:moral-virtues"
+    }
+   ],
+   "skos:definition": "The settled disposition to notice another's suffering, be moved by it without being overwhelmed, and want and act to relieve it, steered by judgement about what will actually help.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Compassion",
+   "skos:related": [
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:loving-kindness-meditation"
+    },
+    {
+     "@id": "wg:right-speech"
+    },
+    {
+     "@id": "wg:self-compassion"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:ubuntu"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:compassion-fade-study"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:pity"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:empathic-distress"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:compassion-training-altruism-study"
+   },
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/compassion.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:confucianism"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:compassion-based-interventions-meta-analysis"
+   }
   },
   {
    "@id": "wg:compassionate-reappraisal",
