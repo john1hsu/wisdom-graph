@@ -729,6 +729,138 @@
   ]
  },
  {
+  "id": "wg:courage",
+  "title": "Courage",
+  "aliases": [
+   "bravery",
+   "andreia",
+   "andreía",
+   "yong",
+   "moral courage",
+   "everyday courage",
+   "fortitude"
+  ],
+  "type": "Virtue",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/courage.md",
+  "created": "2026-11-15",
+  "summary": "The character trait of facing real risk, fear or loss for the sake of something worth protecting or doing, with fear and confidence in proportion to what is actually at stake; in the classical view it is a mean between cowardice and rashness that needs practical wisdom to tell a worthy risk from a foolish one.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:anger"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:plato"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socrates"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:workplace-feedback"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:cowardice",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:rashness",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:courage-and-behavioral-approach-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:positive-psychology",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:speaking-up-at-work",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "What exactly am I afraid of losing here, and is that fear in proportion to the real stakes?",
+   "Is the cause worth the risk I am about to take, or am I mainly after looking brave?",
+   "If I stay silent, is that a judgment about timing, or am I just avoiding discomfort?",
+   "Have I prepared, framed and planned the follow-up, or am I acting on a surge of anger?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "In a planning meeting, a senior director presents a launch date that you know the test results cannot support. Everyone else is nodding.",
+   "before": "Stay quiet now and let the slip speak for itself later; or blurt out, in front of everyone, that the plan is fantasy.",
+   "after": "Ask for two minutes, lay out the test data and what it implies for the date, frame it as protecting the launch the director cares about, and follow up privately afterwards.",
+   "why": "Silence avoids risk at the cost of the goal, and a reckless outburst takes risk without judgment. The wiser response accepts a real personal cost for a worthy aim, and uses preparation, framing and follow-up so the risk actually serves that aim."
+  },
+  "source_urls": [
+   "https://pressbooks.library.torontomu.ca/nicomacheanethics/?p=134",
+   "https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/8-of-courage-improperly-so-called/",
+   "https://classics.mit.edu/Plato/laches.html",
+   "https://plato.stanford.edu/archives/fall2002/entries/aristotle-ethics/",
+   "https://pure.psu.edu/en/publications/implicit-theories-of-courage/",
+   "https://research.bond.edu.au/en/publications/the-role-of-courage-on-behavioral-approach-in-a-fear-eliciting-si/",
+   "https://www.apa.org/monitor/2025/09/courage",
+   "https://news.virginia.edu/node/264721",
+   "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-14"
+  ]
+ },
+ {
   "id": "wg:deliberation",
   "title": "Deliberation",
   "aliases": [

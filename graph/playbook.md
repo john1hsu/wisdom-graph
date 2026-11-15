@@ -813,6 +813,22 @@ Ask yourself:
 - Am I calling a choice "balanced" just because it sits halfway between two options, rather than because it fits the situation?
 - Is the strength of my reaction proportionate to how serious this actually is?
 
+### [Courage](../articles/virtues-and-character/courage.md) — Virtue
+
+*In a planning meeting, a senior director presents a launch date that you know the test results cannot support. Everyone else is nodding.*
+
+| Before | After |
+|---|---|
+| Stay quiet now and let the slip speak for itself later; or blurt out, in front of everyone, that the plan is fantasy. | Ask for two minutes, lay out the test data and what it implies for the date, frame it as protecting the launch the director cares about, and follow up privately afterwards. |
+
+**Why:** Silence avoids risk at the cost of the goal, and a reckless outburst takes risk without judgment. The wiser response accepts a real personal cost for a worthy aim, and uses preparation, framing and follow-up so the risk actually serves that aim.
+
+Ask yourself:
+- What exactly am I afraid of losing here, and is that fear in proportion to the real stakes?
+- Is the cause worth the risk I am about to take, or am I mainly after looking brave?
+- If I stay silent, is that a judgment about timing, or am I just avoiding discomfort?
+- Have I prepared, framed and planned the follow-up, or am I acting on a surge of anger?
+
 ### [Emulating moral exemplars](../articles/virtues-and-character/emulating-moral-exemplars.md) — Practice
 
 1. Pick two or three people whose judgment you trust in a domain that matters to you now (a manager who handles conflict well, a relative who stays fair under pressure), and prefer people close to your own situation over distant heroes.
