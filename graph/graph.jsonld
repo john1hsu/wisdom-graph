@@ -5428,6 +5428,76 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Hogarth Press; course reading hosted by the University of Waterloo",
+   "dcterms:title": "Mourning and Melancholia (1917 [1915]), trans. James Strachey, Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. XIV, pp. 237–258",
+   "schema:url": {
+    "@id": "https://artsonline.uwaterloo.ca/~wsiemerl/media/470a/Freud_Mourningandmelancholia.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of the American Psychoanalytic Association, 52(1), 43–67 (Clewell, 2004); PEP-Web",
+   "dcterms:title": "Mourning Beyond Melancholia: Freud's Psychoanalysis of Loss",
+   "schema:url": {
+    "@id": "https://pep-web.org/browse/document/APA.052.0043A"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "OMEGA: Journal of Death and Dying, 26(1), 19–42 (M. Stroebe, 1992–93); Scilit record",
+   "dcterms:title": "Coping with Bereavement: A Review of the Grief Work Hypothesis",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/b639acff0919c2355dfcc964d1a4221b"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Psychologist, British Psychological Society (Margaret Stroebe & Henk Schut, 2018)",
+   "dcterms:title": "Good grief",
+   "schema:url": {
+    "@id": "https://bps.org.uk/psychologist/good-grief"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "InPsych 33(6), Australian Psychological Society (Christopher Hall, Australian Centre for Grief and Bereavement, 2011)",
+   "dcterms:title": "Beyond Kübler-Ross: Recent developments in our understanding of grief and bereavement",
+   "schema:url": {
+    "@id": "https://psychology.org.au/for-members/Publications/inpsych/2011/dec/Beyond-Kubler-Ross-Recent-developments-in-our-und"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/negative-visualization/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -11424,6 +11494,90 @@
    "wgo:supportedBy": {
     "@id": "wg:improper-linear-models-study"
    }
+  },
+  {
+   "@id": "wg:mourning-and-melancholia",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s5"
+    }
+   ],
+   "rdfs:label": "Mourning and Melancholia",
+   "skos:altLabel": [
+    "Freud's Mourning and Melancholia",
+    "Trauer und Melancholie"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychoanalysis"
+   },
+   "skos:definition": "Sigmund Freud's short 1917 essay (written 1915) that compares ordinary mourning with melancholic depression and describes the \"work of mourning\", the slow, painful withdrawal of attachment from someone who has died. Often called the first major psychological theory of grief, it gave later grief theory both its starting point and its most criticised assumption: that healthy grief ends in letting go.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Mourning and Melancholia",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:continuing-bonds"
+    },
+    {
+     "@id": "wg:dual-process-model-of-bereavement"
+    },
+    {
+     "@id": "wg:five-stages-of-grief"
+    },
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:prolonged-grief-disorder"
+    },
+    {
+     "@id": "wg:rumination"
+    }
+   ],
+   "wgo:authoredBy": {
+    "@id": "wg:sigmund-freud"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:continuing-bonds"
+    },
+    {
+     "@id": "wg:grief-work-hypothesis-review-study"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/mourning-and-melancholia.md",
+   "wgo:introduces": [
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:grief-work"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:negative-visualization",

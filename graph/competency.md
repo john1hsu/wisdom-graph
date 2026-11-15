@@ -135,7 +135,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:grief-and-loss` | wgo:Context |
 | `wg:interpersonal-conflict` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:regret` | wgo:Phenomenon |

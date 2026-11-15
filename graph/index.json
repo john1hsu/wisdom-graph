@@ -3387,6 +3387,95 @@
   ]
  },
  {
+  "id": "wg:mourning-and-melancholia",
+  "title": "Mourning and Melancholia",
+  "aliases": [
+   "Trauer und Melancholie",
+   "Freud's Mourning and Melancholia"
+  ],
+  "type": "Work",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/mourning-and-melancholia.md",
+  "created": "2026-11-15",
+  "summary": "Sigmund Freud's short 1917 essay (written 1915) that compares ordinary mourning with melancholic depression and describes the \"work of mourning\", the slow, painful withdrawal of attachment from someone who has died. Often called the first major psychological theory of grief, it gave later grief theory both its starting point and its most criticised assumption: that healthy grief ends in letting go.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychoanalysis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:continuing-bonds"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dual-process-model-of-bereavement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:prolonged-grief-disorder"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:five-stages-of-grief"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "wgo:authoredBy",
+    "object": "wg:sigmund-freud",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introduces",
+    "object": "wg:grief-work",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introduces",
+    "object": "wg:grief-and-loss",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:grief-work-hypothesis-review-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:continuing-bonds",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://artsonline.uwaterloo.ca/~wsiemerl/media/470a/Freud_Mourningandmelancholia.pdf",
+   "https://pep-web.org/browse/document/APA.052.0043A",
+   "https://scilit.com/publications/b639acff0919c2355dfcc964d1a4221b",
+   "https://bps.org.uk/psychologist/good-grief",
+   "https://psychology.org.au/for-members/Publications/inpsych/2011/dec/Beyond-Kubler-Ross-Recent-developments-in-our-und"
+  ]
+ },
+ {
   "id": "wg:negative-visualization",
   "title": "Negative visualization",
   "aliases": [
