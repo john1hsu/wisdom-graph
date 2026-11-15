@@ -51,6 +51,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:honesty` | 1 | Self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
+| `wg:impermanence` | 1 | Equanimity |
 | `wg:regulatory-flexibility` | 1 | Emotional suppression |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:self-reflection` | 1 | self-centeredness |
@@ -62,6 +63,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:adversity` | `wg:impermanence` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
@@ -91,9 +93,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:major-life-decision` | `wg:satisficing` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 | `wg:negotiation` | `wg:perspective-taking` |
-| `wg:professional-work` | `wg:practical-wisdom` |
 
-…and 3 more.
+…and 4 more.
 
 ## Myths and contested advice
 
@@ -173,6 +174,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:four-immeasurables` |
+| `wg:buddhism` | `wg:impermanence` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:confucianism` | `wg:compassion` |

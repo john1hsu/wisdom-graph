@@ -984,6 +984,22 @@ Ask yourself:
 - If the result goes against me, will I still be able to say I acted well?
 - Is my calm steadiness, or have I quietly stopped caring about the people my action affects?
 
+### [Impermanence](../articles/wisdom-traditions/impermanence.md) — Principle
+
+*A project manager's team is reorganised; her favourite colleague moves to another group and the weekly rhythm she relied on disappears.*
+
+| Before | After |
+|---|---|
+| This was the best team I've ever had and they've wrecked it. I'll keep doing things the old way and wait for it to be put back. | That team was always going to change; people move on, and so will this new setup. I'll thank my old colleague properly, stay in touch, and figure out what this new group needs from me now. |
+
+**Why:** The wiser response grieves what was good without demanding that it stay fixed, and puts energy into the situation as it actually is.
+
+Ask yourself:
+- Am I treating something that is already changing as if it should stay exactly as it is?
+- If this difficult situation is temporary, how would I act differently today?
+- Is this good thing worth savouring more because it will not last?
+- Am I using "nothing lasts" to avoid caring or committing, rather than to see clearly?
+
 ### [The four immeasurables](../articles/wisdom-traditions/four-immeasurables.md) — Framework
 
 1. Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands.

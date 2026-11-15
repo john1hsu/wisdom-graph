@@ -1383,6 +1383,64 @@
 <https://github.com/john1hsu/wisdom-graph/id/ikigai> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/mieko-kamiya> .
 <https://github.com/john1hsu/wisdom-graph/id/ikigai> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/ikigai> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/ohsaki-ikigai-mortality-study> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating something that is already changing as if it should stay exactly as it is?" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If this difficult situation is temporary, how would I act differently today?" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is this good thing worth savouring more because it will not last?" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using \"nothing lasts\" to avoid caring or committing, rather than to see clearly?" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "That team was always going to change; people move on, and so will this new setup. I'll thank my old colleague properly, stay in touch, and figure out what this new group needs from me now." .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "This was the best team I've ever had and they've wrecked it. I'll keep doing things the old way and wait for it to be put back." .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A project manager's team is reorganised; her favourite colleague moves to another group and the weekly rhythm she relied on disappears." .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response grieves what was good without demanding that it stay fixed, and puts energy into the situation as it actually is." .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2000/01/rdf-schema#label> "Impermanence" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#altLabel> "anicca" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#altLabel> "anitya" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#altLabel> "everything changes" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#altLabel> "mutability of all things" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#altLabel> "transience" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/three-marks-of-existence> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#definition> "The Buddhist teaching that every conditioned thing, including the body, feelings, thoughts and the sense of self, arises, changes and passes away, so that clinging to anything as fixed leads to suffering; versions of the insight also appear in Stoicism and in Heraclitus's philosophy of flux." .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impermanence" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dukkha> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/heraclitus> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/non-self> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/eternalism> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-traditions" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/impermanence/example> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-traditions/impermanence.md" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/the-buddha> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/this-too-shall-pass-study> .
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I named the exact moment when I will act, or only the goal I hope to reach?" .
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -4434,6 +4492,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/ikigai/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/ikigai/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/wisdom-graph/id/source/ikigai/s6> <https://schema.org/url> <https://www.mappmagazine.com/articles/a-life-worth-experiencing> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Mark Siderits; substantive revision 6 March 2023)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> <http://purl.org/dc/terms/title> "Buddha" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1> <https://schema.org/url> <https://plato.stanford.edu/entries/buddha/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> <http://purl.org/dc/terms/publisher> "Access to Insight (Buddhist Publication Society translation)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> <http://purl.org/dc/terms/title> "Anattalakkhana Sutta: The Discourse on the Not-self Characteristic (Saṃyutta Nikāya 22.59), trans. N. K. G. Mendis" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s2> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/sn/sn22/sn22.059.mend.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Noa Ronkin; substantive revision 31 March 2026)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> <http://purl.org/dc/terms/title> "Abhidharma" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s3> <https://schema.org/url> <https://plato.stanford.edu/entries/abhidharma/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> <http://purl.org/dc/terms/title> "Marcus Aurelius, Meditations, Book Four (trans. George Long)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> <https://schema.org/url> <https://classics.mit.edu/Antoninus/meditations.4.four.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Johanna Seibt; substantive revision 26 May 2022)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> <http://purl.org/dc/terms/title> "Process Philosophy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> <https://schema.org/url> <https://plato.stanford.edu/entries/process-philosophy/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 108(2), 356–375 (Bruehlman-Senecal & Ayduk, 2015; doi:10.1037/a0038324), author copy hosted by the UC Berkeley Relationships and Social Cognition Lab" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <http://purl.org/dc/terms/title> "This too shall pass: Temporal distance and the regulation of emotional distress" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <https://schema.org/url> <https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 54(7), 493-503 (Peter M. Gollwitzer, 1999); author copy, University of Konstanz" .
 <https://github.com/john1hsu/wisdom-graph/id/source/implementation-intentions/s1> <http://purl.org/dc/terms/title> "Implementation intentions: Strong effects of simple plans" .

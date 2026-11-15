@@ -2660,6 +2660,135 @@
   ]
  },
  {
+  "id": "wg:impermanence",
+  "title": "Impermanence",
+  "aliases": [
+   "anicca",
+   "anitya",
+   "transience",
+   "mutability of all things",
+   "everything changes"
+  ],
+  "type": "Principle",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/impermanence.md",
+  "created": "2026-11-15",
+  "summary": "The Buddhist teaching that every conditioned thing, including the body, feelings, thoughts and the sense of self, arises, changes and passes away, so that clinging to anything as fixed leads to suffering; versions of the insight also appear in Stoicism and in Heraclitus's philosophy of flux.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:three-marks-of-existence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mono-no-aware"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:non-self"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dukkha"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:heraclitus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wabi-sabi"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:the-buddha",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:eternalism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:equanimity",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:this-too-shall-pass-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I treating something that is already changing as if it should stay exactly as it is?",
+   "If this difficult situation is temporary, how would I act differently today?",
+   "Is this good thing worth savouring more because it will not last?",
+   "Am I using \"nothing lasts\" to avoid caring or committing, rather than to see clearly?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A project manager's team is reorganised; her favourite colleague moves to another group and the weekly rhythm she relied on disappears.",
+   "before": "This was the best team I've ever had and they've wrecked it. I'll keep doing things the old way and wait for it to be put back.",
+   "after": "That team was always going to change; people move on, and so will this new setup. I'll thank my old colleague properly, stay in touch, and figure out what this new group needs from me now.",
+   "why": "The wiser response grieves what was good without demanding that it stay fixed, and puts energy into the situation as it actually is."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/buddha/",
+   "https://accesstoinsight.org/tipitaka/sn/sn22/sn22.059.mend.html",
+   "https://plato.stanford.edu/entries/abhidharma/",
+   "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+   "https://plato.stanford.edu/entries/process-philosophy/",
+   "https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf"
+  ]
+ },
+ {
   "id": "wg:implementation-intentions",
   "title": "Implementation intentions",
   "aliases": [
