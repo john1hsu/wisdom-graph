@@ -2182,6 +2182,46 @@
    "schema:text": "Make the decision yourself, take responsibility for it, and later tell your advisers what you decided and how it went."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-deception/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What evidence would change my mind here, and have I actually gone looking for it?",
+   "wgo:questionFor": {
+    "@id": "wg:self-deception"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-deception/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I holding the evidence that flatters me to the same standard as the evidence that doesn't?",
+   "wgo:questionFor": {
+    "@id": "wg:self-deception"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-deception/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who would tell me plainly how this looks from the outside, and have I asked them?",
+   "wgo:questionFor": {
+    "@id": "wg:self-deception"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-deception/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I turned out to be wrong about this, what would it cost me, and is that cost shaping what I see?",
+   "wgo:questionFor": {
+    "@id": "wg:self-deception"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-deception/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "If a peer had launched this and showed me these numbers, what would I tell them? I'll write down now what result would mean it isn't working, and ask two people who weren't involved to go through the data with me.",
+   "wgo:before": "Those two never liked the change, and the numbers are just seasonal. It needs another quarter.",
+   "wgo:situation": "Six months ago you championed a new onboarding process for your team. Completion rates are flat, and two team leads have told you that new hires find it confusing.",
+   "wgo:why": "The first response explains away each unwelcome fact on its own terms. The second fixes a standard before looking and borrows outside eyes, which makes it harder for a wish to steer how the evidence is read."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reliving this from the inside, or looking at it as an observer would?",
@@ -6210,6 +6250,90 @@
     "@id": "https://tips.translation.bible/tip_verse/prov-1522/"
    },
    "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Ian Deweese-Boyd; substantive revision 13 March 2023)",
+   "dcterms:title": "Self-Deception",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/self-deception"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Behavioral and Brain Sciences, 34(1), 1–16 (von Hippel & Trivers, 2011), Cambridge University Press",
+   "dcterms:title": "The evolution and psychology of self-deception",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/evolution-and-psychology-of-selfdeception/B87968EC4A6B4DC93A21C217ABC13E13"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Proceedings of the National Academy of Sciences, 108(Suppl 3), 15655–15659 (Chance, Norton, Gino & Ariely, 2011), record at Scholars@Duke",
+   "dcterms:title": "Temporal view of the costs and benefits of self-deception",
+   "schema:url": {
+    "@id": "https://scholars.duke.edu/publication/810344"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Science in the Public Interest, 5(3), 69–106 (Dunning, Heath & Suls, 2004), Association for Psychological Science",
+   "dcterms:title": "Flawed self-assessment: Implications for health, education, and the workplace",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2004.00018.x/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Adam Smith (1759), electronic text hosted by the University of Pennsylvania",
+   "dcterms:title": "The Theory of Moral Sentiments, Part III, chapter 4: Of the nature of self-deceit, and of the origin and use of general rules",
+   "schema:url": {
+    "@id": "https://knarf.english.upenn.edu/Smith/tms314.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Washington University in St. Louis, The Source (March 2010), on Vazire's self-other knowledge asymmetry study in the Journal of Personality and Social Psychology",
+   "dcterms:title": "Others may know us better than we know ourselves, study finds",
+   "schema:url": {
+    "@id": "https://source.washu.edu/2010/03/others-may-know-us-better-than-we-know-ourselves-study-finds/"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-distancing/s1",
@@ -11898,6 +12022,99 @@
    },
    "wgo:rootedIn": {
     "@id": "wg:hebrew-wisdom-literature"
+   }
+  },
+  {
+   "@id": "wg:self-deception",
+   "@type": "wgo:Obstacle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6"
+    }
+   ],
+   "rdfs:label": "Self-deception",
+   "skos:altLabel": [
+    "deceiving oneself",
+    "lying to oneself",
+    "self-deceit"
+   ],
+   "skos:broader": {
+    "@id": "wg:self-knowledge"
+   },
+   "skos:definition": "Coming to believe, and keeping on believing, something one would prefer to be true in the face of evidence that points the other way, because desire, fear or self-regard biases how one seeks out, weighs and remembers that evidence; it is a leading obstacle to self-knowledge and to judging one's own conduct honestly.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Self-deception",
+   "skos:related": [
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:impartial-spectator"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:theory-of-moral-sentiments"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:self-deception-as-byproduct-critique"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:costs-and-benefits-of-self-deception-study"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-deception/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:evolutionary-theory-of-self-deception"
+   },
+   "wgo:file": "articles/self-knowledge/self-deception.md",
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:flawed-self-assessment-review"
+   },
+   "wgo:undermines": {
+    "@id": "wg:self-knowledge"
    }
   },
   {

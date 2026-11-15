@@ -4399,6 +4399,115 @@
   ]
  },
  {
+  "id": "wg:self-deception",
+  "title": "Self-deception",
+  "aliases": [
+   "self-deceit",
+   "lying to oneself",
+   "deceiving oneself"
+  ],
+  "type": "Obstacle",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/self-deception.md",
+  "created": "2026-11-15",
+  "summary": "Coming to believe, and keeping on believing, something one would prefer to be true in the face of evidence that points the other way, because desire, fear or self-regard biases how one seeks out, weighs and remembers that evidence; it is a leading obstacle to self-knowledge and to judging one's own conduct honestly.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impartial-spectator"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:theory-of-moral-sentiments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:self-knowledge",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:costs-and-benefits-of-self-deception-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:flawed-self-assessment-review",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:evolutionary-theory-of-self-deception",
+    "source": "s2",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:self-deception-as-byproduct-critique",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "What evidence would change my mind here, and have I actually gone looking for it?",
+   "Am I holding the evidence that flatters me to the same standard as the evidence that doesn't?",
+   "Who would tell me plainly how this looks from the outside, and have I asked them?",
+   "If I turned out to be wrong about this, what would it cost me, and is that cost shaping what I see?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Six months ago you championed a new onboarding process for your team. Completion rates are flat, and two team leads have told you that new hires find it confusing.",
+   "before": "Those two never liked the change, and the numbers are just seasonal. It needs another quarter.",
+   "after": "If a peer had launched this and showed me these numbers, what would I tell them? I'll write down now what result would mean it isn't working, and ask two people who weren't involved to go through the data with me.",
+   "why": "The first response explains away each unwelcome fact on its own terms. The second fixes a standard before looking and borrows outside eyes, which makes it harder for a wish to steer how the evidence is read."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/self-deception",
+   "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/evolution-and-psychology-of-selfdeception/B87968EC4A6B4DC93A21C217ABC13E13",
+   "https://scholars.duke.edu/publication/810344",
+   "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2004.00018.x/",
+   "https://knarf.english.upenn.edu/Smith/tms314.html",
+   "https://source.washu.edu/2010/03/others-may-know-us-better-than-we-know-ourselves-study-finds/"
+  ]
+ },
+ {
   "id": "wg:self-distancing",
   "title": "Self-distancing",
   "aliases": [

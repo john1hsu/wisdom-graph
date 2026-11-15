@@ -600,6 +600,22 @@ Ask yourself:
 - Would I speak to a friend with this regret the way I am speaking to myself?
 - Which choice in front of me now am I most likely to regret not making?
 
+### [Self-deception](../articles/self-knowledge/self-deception.md) — Obstacle
+
+*Six months ago you championed a new onboarding process for your team. Completion rates are flat, and two team leads have told you that new hires find it confusing.*
+
+| Before | After |
+|---|---|
+| Those two never liked the change, and the numbers are just seasonal. It needs another quarter. | If a peer had launched this and showed me these numbers, what would I tell them? I'll write down now what result would mean it isn't working, and ask two people who weren't involved to go through the data with me. |
+
+**Why:** The first response explains away each unwelcome fact on its own terms. The second fixes a standard before looking and borrows outside eyes, which makes it harder for a wish to steer how the evidence is read.
+
+Ask yourself:
+- What evidence would change my mind here, and have I actually gone looking for it?
+- Am I holding the evidence that flatters me to the same standard as the evidence that doesn't?
+- Who would tell me plainly how this looks from the outside, and have I asked them?
+- If I turned out to be wrong about this, what would it cost me, and is that cost shaping what I see?
+
 ### [Self-distancing](../articles/self-knowledge/self-distancing.md) — Practice
 
 1. Notice the signs that you are immersed in an upsetting experience, such as replaying the same scene, rehearsing the same sentence or feeling the original anger or shame rise again.

@@ -350,6 +350,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regret/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regret/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/self-deception.md" .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/self-distancing.md" .
@@ -4244,6 +4253,97 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <https://schema.org/url> <https://insight.kellogg.northwestern.edu/article/learning-to-use-regret> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/self-deception#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What evidence would change my mind here, and have I actually gone looking for it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I holding the evidence that flatters me to the same standard as the evidence that doesn't?" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Who would tell me plainly how this looks from the outside, and have I asked them?" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "If I turned out to be wrong about this, what would it cost me, and is that cost shaping what I see?" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "If a peer had launched this and showed me these numbers, what would I tell them? I'll write down now what result would mean it isn't working, and ask two people who weren't involved to go through the data with me." .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Those two never liked the change, and the numbers are just seasonal. It needs another quarter." .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Six months ago you championed a new onboarding process for your team. Completion rates are flat, and two team leads have told you that new hires find it confusing." .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response explains away each unwelcome fact on its own terms. The second fixes a standard before looking and borrows outside eyes, which makes it harder for a wish to steer how the evidence is read." .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Obstacle> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2000/01/rdf-schema#label> "Self-deception" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#altLabel> "deceiving oneself" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#altLabel> "lying to oneself" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#altLabel> "self-deceit" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#definition> "Coming to believe, and keeping on believing, something one would prefer to be true in the face of evidence that points the other way, because desire, fear or self-regard biases how one seeks out, weighs and remembers that evidence; it is a leading obstacle to self-knowledge and to judging one's own conduct honestly." .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-deception" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/self-deception-as-byproduct-critique> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/costs-and-benefits-of-self-deception-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/evolutionary-theory-of-self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/self-deception.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/flawed-self-assessment-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Ian Deweese-Boyd; substantive revision 13 March 2023)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> <http://purl.org/dc/terms/title> "Self-Deception" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1> <https://schema.org/url> <https://plato.stanford.edu/entries/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> <http://purl.org/dc/terms/publisher> "Behavioral and Brain Sciences, 34(1), 1–16 (von Hippel & Trivers, 2011), Cambridge University Press" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> <http://purl.org/dc/terms/title> "The evolution and psychology of self-deception" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s2> <https://schema.org/url> <https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/evolution-and-psychology-of-selfdeception/B87968EC4A6B4DC93A21C217ABC13E13> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> <http://purl.org/dc/terms/publisher> "Proceedings of the National Academy of Sciences, 108(Suppl 3), 15655–15659 (Chance, Norton, Gino & Ariely, 2011), record at Scholars@Duke" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> <http://purl.org/dc/terms/title> "Temporal view of the costs and benefits of self-deception" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s3> <https://schema.org/url> <https://scholars.duke.edu/publication/810344> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> <http://purl.org/dc/terms/publisher> "Psychological Science in the Public Interest, 5(3), 69–106 (Dunning, Heath & Suls, 2004), Association for Psychological Science" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> <http://purl.org/dc/terms/title> "Flawed self-assessment: Implications for health, education, and the workplace" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s4> <https://schema.org/url> <https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2004.00018.x/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> <http://purl.org/dc/terms/publisher> "Adam Smith (1759), electronic text hosted by the University of Pennsylvania" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> <http://purl.org/dc/terms/title> "The Theory of Moral Sentiments, Part III, chapter 4: Of the nature of self-deceit, and of the origin and use of general rules" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s5> <https://schema.org/url> <https://knarf.english.upenn.edu/Smith/tms314.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> <http://purl.org/dc/terms/publisher> "Washington University in St. Louis, The Source (March 2010), on Vazire's self-other knowledge asymmetry study in the Journal of Personality and Social Psychology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> <http://purl.org/dc/terms/title> "Others may know us better than we know ourselves, study finds" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s6> <https://schema.org/url> <https://source.washu.edu/2010/03/others-may-know-us-better-than-we-know-ourselves-study-finds/> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/self-distancing#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reliving this from the inside, or looking at it as an observer would?" .
@@ -6363,6 +6463,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/coping-flexibility-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/coping> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/coping> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/costs-and-benefits-of-self-deception-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/costs-and-benefits-of-self-deception-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/costs-and-benefits-of-self-deception-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/counterfactual-thinking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/counterfactual-thinking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/counting-blessings-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
@@ -6529,6 +6632,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+  <https://github.com/john1hsu/wisdom-graph/id/evolutionary-theory-of-self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-therapies-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
@@ -6541,6 +6645,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/fast-and-frugal-heuristics> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/five-stages-of-grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/flawed-self-assessment-review> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -6634,6 +6739,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
+  <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/how-to-measure-wisdom-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -6645,6 +6751,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/arrogance> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
+  <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
@@ -6676,6 +6783,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/ikigai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -6737,6 +6845,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
@@ -6781,6 +6890,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+  <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/laura-carstensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7141,6 +7251,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
@@ -7152,8 +7263,16 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/self-control> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/self-control> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception-as-byproduct-critique> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
-  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/self-determination-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7181,10 +7300,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/self-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7199,6 +7321,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
@@ -7273,6 +7396,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/egocentric-bias> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .

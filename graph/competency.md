@@ -47,7 +47,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
-| `wg:honesty` | 1 | self-deception |
+| `wg:honesty` | 1 | Self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:self-reflection` | 1 | self-centeredness |
@@ -125,9 +125,9 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:regret` | mixed |  |
 | `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
 | `wg:seeking-counsel` | mixed |  |
-| `wg:self-distancing` | mixed |  |
+| `wg:self-deception` | mixed | `wg:self-deception-as-byproduct-critique` |
 
-…and 8 more.
+…and 9 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -140,6 +140,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:meaning-in-life` | wgo:Concept |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
+| `wg:self-deception` | wgo:Obstacle |
 | `wg:ubuntu` | wgo:Tradition |
 | `wg:virtue-ethics` | wgo:Field |
 | `wg:weakness-of-will` | wgo:Obstacle |
