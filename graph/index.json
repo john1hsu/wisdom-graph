@@ -1528,6 +1528,161 @@
   ]
  },
  {
+  "id": "wg:evening-review",
+  "title": "Evening review",
+  "aliases": [
+   "nightly review",
+   "evening self-examination",
+   "daily self-examination",
+   "end-of-day review",
+   "Stoic evening review"
+  ],
+  "type": "Practice",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/evening-review.md",
+  "created": "2026-11-15",
+  "summary": "A brief, regular look back at the day before sleep, asking what you did well, where you fell short of your own standards and what you will do differently tomorrow; taught in Pythagorean, Stoic and Confucian sources and aimed at steady improvement rather than self-punishment.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:reflective-practices"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implementation-intentions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-compassion"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:pythagoreanism",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:golden-verses",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:self-reflection",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:anger",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:learning-from-experience",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:three-good-things-study",
+    "source": "s7",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:positive-reflection-work-stress-study",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:strength-based-interventions-replication-study",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?",
+   "Have I named what went well today, and why, as well as where I fell short?",
+   "Is there one concrete thing I will say or do differently tomorrow as a result of this review?",
+   "Am I judging myself by my own considered standards, or by one bad moment?"
+  ],
+  "steps": [
+   "Pick a fixed, short slot at the end of the day, such as the last ten minutes before bed, and keep it whether or not the day went well.",
+   "Go through the day in order, recalling what you said and did in the main conversations, decisions and tasks, as if replaying it for a fair observer.",
+   "Ask three questions of each moment that stands out - what did I do well, where did I fall short of my own standards, and what did I leave undone?",
+   "For each shortfall, name the specific thing you would say or do next time, then let it go as Seneca did, with a pardon rather than a sentence.",
+   "Write down one good thing that happened and why it happened, so the review does not become a list of faults.",
+   "Choose a single intention for tomorrow and, every week or so, look back over your notes for patterns that keep recurring."
+  ],
+  "example": {
+   "situation": "During an afternoon planning meeting you cut off a junior colleague who was raising a scheduling concern, and later in the day the concern turned out to be right.",
+   "before": "You lie awake replaying the moment, call yourself a terrible manager, check your phone to escape the feeling, and the next morning act as if nothing happened.",
+   "after": "In a ten-minute review before bed you note that the meeting was otherwise well run, that you interrupted because you were defending a deadline you had promised, and that the concern was valid. You decide to thank the colleague tomorrow and to ask for objections before closing future planning meetings, then put the notebook away.",
+   "why": "A fair, bounded review turns a sting into a specific repair and a better habit, whereas unstructured replay punishes you without changing what happens next."
+  },
+  "source_urls": [
+   "https://www.gutenberg.org/cache/epub/64576/pg64576.txt",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg001/perseus-eng4/3.7-3.12",
+   "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-1",
+   "https://fordham.edu/Halsall/mod/franklin-virtue.asp",
+   "https://bmcr.brynmawr.edu/?p=20455",
+   "https://pure.royalholloway.ac.uk/ws/files/28788306/Roman_Stoic_Mindfulness.pdf",
+   "https://psykologtidsskriftet.no/asset/article/2005/09/Positive-Psychology-Progress-Empirical-Validation-of-Interventions/Positive-Psychology-Progress-Empirical-Validation-of-Interventions.pdf",
+   "https://doc.rero.ch/record/317443/files/10902_2012_Article_9380.pdf",
+   "https://digitalcommons.usf.edu/psy_facpub/1911"
+  ]
+ },
+ {
   "id": "wg:folly",
   "title": "Folly",
   "aliases": [

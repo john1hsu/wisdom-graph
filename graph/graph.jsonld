@@ -741,6 +741,107 @@
    "wgo:why": "The loss is still felt, but it no longer chooses your words; attention moves from blame and panic to the part of the situation you can actually shape."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?",
+   "wgo:questionFor": {
+    "@id": "wg:evening-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I named what went well today, and why, as well as where I fell short?",
+   "wgo:questionFor": {
+    "@id": "wg:evening-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there one concrete thing I will say or do differently tomorrow as a result of this review?",
+   "wgo:questionFor": {
+    "@id": "wg:evening-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I judging myself by my own considered standards, or by one bad moment?",
+   "wgo:questionFor": {
+    "@id": "wg:evening-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "In a ten-minute review before bed you note that the meeting was otherwise well run, that you interrupted because you were defending a deadline you had promised, and that the concern was valid. You decide to thank the colleague tomorrow and to ask for objections before closing future planning meetings, then put the notebook away.",
+   "wgo:before": "You lie awake replaying the moment, call yourself a terrible manager, check your phone to escape the feeling, and the next morning act as if nothing happened.",
+   "wgo:situation": "During an afternoon planning meeting you cut off a junior colleague who was raising a scheduling concern, and later in the day the concern turned out to be right.",
+   "wgo:why": "A fair, bounded review turns a sting into a specific repair and a better habit, whereas unstructured replay punishes you without changing what happens next."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Evening review",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Pick a fixed, short slot at the end of the day, such as the last ten minutes before bed, and keep it whether or not the day went well."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Go through the day in order, recalling what you said and did in the main conversations, decisions and tasks, as if replaying it for a fair observer."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Ask three questions of each moment that stands out - what did I do well, where did I fall short of my own standards, and what did I leave undone?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "For each shortfall, name the specific thing you would say or do next time, then let it go as Seneca did, with a pardon rather than a sentence."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Write down one good thing that happened and why it happened, so the review does not become a list of faults."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Choose a single intention for tomorrow and, every week or so, look back over your notes for patterns that keep recurring."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Do I actually have the specific knowledge or skill this action needs, or am I borrowing confidence from success somewhere else?",
@@ -4316,6 +4417,132 @@
     "@id": "https://iep.utm.edu/epictetu/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "George Bell and Sons, London (1889); Project Gutenberg edition",
+   "dcterms:title": "Seneca, Of Anger (De Ira), Book III, ch. 36, in Minor Dialogues, Together with the Dialogue on Clemency, trans. Aubrey Stewart (1889)",
+   "schema:url": {
+    "@id": "https://www.gutenberg.org/cache/epub/64576/pg64576.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Thomas Nelson and Sons (1890); Perseus Digital Library via the Perseids CTS reader, Tufts University",
+   "dcterms:title": "Epictetus, Discourses, Book III, ch. 10, in The Works of Epictetus, trans. Thomas Wentworth Higginson (1890)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg001/perseus-eng4/3.7-3.12"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Standard Ebooks edition of Legge's translation",
+   "dcterms:title": "Confucius, The Analects, Book I, ch. 4, trans. James Legge",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-1"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Internet Modern History Sourcebook (ed. Paul Halsall), Fordham University",
+   "dcterms:title": "Benjamin Franklin, Autobiography (Part II): the plan for arriving at moral perfection",
+   "schema:url": {
+    "@id": "https://fordham.edu/Halsall/mod/franklin-virtue.asp"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Bryn Mawr Classical Review 1995.12.01 (reviewed by John Bussanich, University of New Mexico)",
+   "dcterms:title": "Review of Johan C. Thom, The Pythagorean Golden Verses: With Introduction and Commentary (Brill, 1995)",
+   "schema:url": {
+    "@id": "https://bmcr.brynmawr.edu/?p=20455"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "John Sellars; author's manuscript in the Royal Holloway, University of London research repository",
+   "dcterms:title": "Roman Stoic Mindfulness: An Ancient Technology of the Self",
+   "schema:url": {
+    "@id": "https://pure.royalholloway.ac.uk/ws/files/28788306/Roman_Stoic_Mindfulness.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "American Psychologist, 60(5), 410–421 (Seligman, Steen, Park & Peterson, 2005; doi:10.1037/0003-066X.60.5.410), reprinted by the Journal of the Norwegian Psychological Association",
+   "dcterms:title": "Positive psychology progress: Empirical validation of interventions",
+   "schema:url": {
+    "@id": "https://psykologtidsskriftet.no/asset/article/2005/09/Positive-Psychology-Progress-Empirical-Validation-of-Interventions/Positive-Psychology-Progress-Empirical-Validation-of-Interventions.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 14, 1241–1259 (Gander, Proyer, Ruch & Wyss, 2013; doi:10.1007/s10902-012-9380-0), via RERO DOC",
+   "dcterms:title": "Strength-based positive interventions: Further evidence for their potential in enhancing well-being and alleviating depression",
+   "schema:url": {
+    "@id": "https://doc.rero.ch/record/317443/files/10902_2012_Article_9380.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s9",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Academy of Management Journal, 56(6) (Bono, Glomb, Shen, Kim & Koch, 2013; doi:10.5465/amj.2011.0272), University of South Florida Digital Commons record",
+   "dcterms:title": "Building positive resources: Effects of positive events and positive reflection on work stress and health",
+   "schema:url": {
+    "@id": "https://digitalcommons.usf.edu/psy_facpub/1911"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s1",
@@ -11495,6 +11722,133 @@
    ],
    "wgo:studiedIn": {
     "@id": "wg:contemplative-science"
+   }
+  },
+  {
+   "@id": "wg:evening-review",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s9"
+    }
+   ],
+   "rdfs:label": "Evening review",
+   "skos:altLabel": [
+    "Stoic evening review",
+    "daily self-examination",
+    "end-of-day review",
+    "evening self-examination",
+    "nightly review"
+   ],
+   "skos:broader": {
+    "@id": "wg:reflective-practices"
+   },
+   "skos:definition": "A brief, regular look back at the day before sleep, asking what you did well, where you fell short of your own standards and what you will do differently tomorrow; taught in Pythagorean, Stoic and Confucian sources and aimed at steady improvement rather than self-punishment.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Evening review",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:gratitude"
+    },
+    {
+     "@id": "wg:implementation-intentions"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-compassion"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:anger"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:learning-from-experience"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:strength-based-interventions-replication-study"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:positive-reflection-work-stress-study"
+   },
+   "wgo:develops": {
+    "@id": "wg:self-reflection"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/example"
+   },
+   "wgo:file": "articles/self-knowledge/evening-review.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/howto"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:golden-verses"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:pythagoreanism"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:three-good-things-study"
    }
   },
   {

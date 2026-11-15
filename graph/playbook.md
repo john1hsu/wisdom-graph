@@ -686,6 +686,29 @@ Ask yourself:
 
 ## self-knowledge
 
+### [Evening review](../articles/self-knowledge/evening-review.md) — Practice
+
+1. Pick a fixed, short slot at the end of the day, such as the last ten minutes before bed, and keep it whether or not the day went well.
+2. Go through the day in order, recalling what you said and did in the main conversations, decisions and tasks, as if replaying it for a fair observer.
+3. Ask three questions of each moment that stands out - what did I do well, where did I fall short of my own standards, and what did I leave undone?
+4. For each shortfall, name the specific thing you would say or do next time, then let it go as Seneca did, with a pardon rather than a sentence.
+5. Write down one good thing that happened and why it happened, so the review does not become a list of faults.
+6. Choose a single intention for tomorrow and, every week or so, look back over your notes for patterns that keep recurring.
+
+*During an afternoon planning meeting you cut off a junior colleague who was raising a scheduling concern, and later in the day the concern turned out to be right.*
+
+| Before | After |
+|---|---|
+| You lie awake replaying the moment, call yourself a terrible manager, check your phone to escape the feeling, and the next morning act as if nothing happened. | In a ten-minute review before bed you note that the meeting was otherwise well run, that you interrupted because you were defending a deadline you had promised, and that the concern was valid. You decide to thank the colleague tomorrow and to ask for objections before closing future planning meetings, then put the notebook away. |
+
+**Why:** A fair, bounded review turns a sting into a specific repair and a better habit, whereas unstructured replay punishes you without changing what happens next.
+
+Ask yourself:
+- Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?
+- Have I named what went well today, and why, as well as where I fell short?
+- Is there one concrete thing I will say or do differently tomorrow as a result of this review?
+- Am I judging myself by my own considered standards, or by one bad moment?
+
 ### [Know thyself](../articles/self-knowledge/know-thyself.md) — Principle
 
 *After a project review, a manager is told by two team members that her meetings run long because she rarely lets others finish a point.*

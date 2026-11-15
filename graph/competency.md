@@ -33,6 +33,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
+| `wg:evening-review` | 2 | Self-reflection, anger |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
@@ -55,7 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:regulatory-flexibility` | 1 | Emotional suppression |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:self-reflection` | 1 | self-centeredness |
-| `wg:socratic-ignorance` | 1 | Intellectual humility |
+
+…and 1 more.
 
 ## Toolkit by life situation
 
@@ -87,14 +89,14 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
 | `wg:learning-from-experience` | `wg:after-action-review` |
+| `wg:learning-from-experience` | `wg:evening-review` |
 | `wg:learning-from-experience` | `wg:self-reflection` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:satisficing` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
-| `wg:negotiation` | `wg:perspective-taking` |
 
-…and 4 more.
+…and 5 more.
 
 ## Myths and contested advice
 
@@ -115,6 +117,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:equanimity` | mixed |  |
+| `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 | `wg:folly` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:grief-and-loss` | mixed |  |
@@ -131,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:personal-and-general-wisdom` | mixed |  |
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
-| `wg:process-model-of-emotion-regulation` | mixed |  |
 
-…and 20 more.
+…and 21 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -178,10 +180,12 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:confucianism` | `wg:compassion` |
+| `wg:confucianism` | `wg:evening-review` |
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:folly` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
+| `wg:pythagoreanism` | `wg:evening-review` |
 | `wg:seven-sages-of-greece` | `wg:hubris` |
 | `wg:seven-sages-of-greece` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:know-thyself` |
@@ -189,10 +193,11 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:dichotomy-of-control` |
 | `wg:stoicism` | `wg:equanimity` |
+| `wg:stoicism` | `wg:evening-review` |
 | `wg:stoicism` | `wg:gratitude` |
 | `wg:stoicism` | `wg:memento-mori` |
-| `wg:stoicism` | `wg:negative-visualization` |
-| `wg:stoicism` | `wg:view-from-above` |
+
+…and 2 more.
 
 ## The doctrine of the mean
 
