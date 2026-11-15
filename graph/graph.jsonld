@@ -2006,6 +2006,115 @@
    "schema:text": "Wait a day or two; if no important new reason appears, decide by the balance and act on it."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What small act this week would be a genuine rung up the ladder for me, rather than a leap or no step at all?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-habituation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I doing this because it is the right thing to do here, or mainly to look brave, generous or disciplined?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-habituation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I reflect after the last attempt, or am I just repeating it by rote?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-habituation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this kind of action feel easier or more satisfying than it did a month ago, and if not, is the step the right size?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-habituation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I sliding past the mean into the opposite fault, such as rashness instead of courage?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-habituation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "She starts small: this week she asks one clarifying question about scope in her own team's stand-up; next week she proposes a realistic date for a minor task; later she flags a risk to her manager one to one. After each, she jots down what happened and what to tweak, and only takes on the sponsor review once the smaller acts feel natural.",
+   "wgo:before": "She reads a book on assertiveness, resolves to be braver, and at the next big review abruptly tells a senior sponsor in front of everyone that the whole plan is unworkable, then retreats into silence for weeks after it goes badly.",
+   "wgo:situation": "A project coordinator notices that she agrees in meetings to deadlines she knows are unrealistic, then works late to cover the gap. She wants to become someone who says what she actually thinks.",
+   "wgo:why": "Character changes through repeated, well-aimed acts rather than through resolutions or one dramatic leap. Graded practice with reflection builds both the habit and the judgment to use it at the right time and in the right measure."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Moral habituation",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name one virtue you want more of and the concrete situations where you currently fall short of it (for courage, perhaps raising concerns in meetings or declining unreasonable requests)."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "List those situations from mildest to hardest, and pick one at the bottom that is uncomfortable but clearly manageable."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Do the act on purpose, for the reason the virtue cares about, not for show; rehearse it first if it helps."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Afterwards, note what you did, how it felt, and how it landed, and adjust what you will do differently next time."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Repeat at the same level until it feels fairly easy and even satisfying, then move one rung up."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Check periodically with someone whose judgment you trust whether you are hitting the mean or drifting toward its excess, such as rashness or rigidity."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I rehearsing a possible loss in order to prepare and appreciate, or am I just worrying?",
@@ -7019,6 +7128,104 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book II, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Aristotle's Ethics (Spring 2006 edition)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/spr2006/entries/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Archiv für Geschichte der Philosophie, 104(3), 415-447 (doi:10.1515/agph-2019-0053)",
+   "dcterms:title": "The Learner's Motivation and the Structure of Habituation in Aristotle (Margaret Hampson, 2022)",
+   "schema:url": {
+    "@id": "https://www.degruyterbrill.com/document/doi/10.1515/agph-2019-0053/html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Jubilee Centre for Character and Virtues, University of Birmingham",
+   "dcterms:title": "Habituation as a Lifelong Process? (Wouter Sanderse, conference paper, 2017)",
+   "schema:url": {
+    "@id": "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Sanderse_W.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "European Journal of Social Psychology, 40, 998-1009 (doi:10.1002/ejsp.674; author manuscript via CORE)",
+   "dcterms:title": "How are habits formed: Modelling habit formation in the real world (Lally, van Jaarsveld, Potts & Wardle, 2010)",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/70653523.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Monitor on Psychology, American Psychological Association, September 2025",
+   "dcterms:title": "Building the courage muscle (Tori DeAngelis)",
+   "schema:url": {
+    "@id": "https://www.apa.org/monitor/2025/09/building-courage-muscle"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Xunzi (Paul R. Goldin)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/xunzi/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -11499,6 +11706,9 @@
      "@id": "wg:intellectual-courage"
     },
     {
+     "@id": "wg:moral-habituation"
+    },
+    {
      "@id": "wg:plato"
     },
     {
@@ -14638,6 +14848,126 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:improper-linear-models-study"
+   }
+  },
+  {
+   "@id": "wg:moral-habituation",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7"
+    }
+   ],
+   "rdfs:label": "Moral habituation",
+   "skos:altLabel": [
+    "becoming good by doing good",
+    "ethismós",
+    "ethismos",
+    "habituation",
+    "learning virtue by practice",
+    "virtue habituation"
+   ],
+   "skos:broader": {
+    "@id": "wg:moral-education"
+   },
+   "skos:definition": "Building a virtue such as courage or temperance by repeatedly doing what that virtue would do, in graded steps and with reflection after each attempt, until the right action and the right feelings come readily; in Aristotle's account, the main route by which character virtues are acquired.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Moral habituation",
+   "skos:related": [
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:deliberate-practice"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:emulating-moral-exemplars"
+    },
+    {
+     "@id": "wg:implementation-intentions"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    },
+    {
+     "@id": "wg:xunzi"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:cowardice"
+   },
+   "wgo:complements": [
+    {
+     "@id": "wg:emulating-moral-exemplars"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "wgo:develops": [
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:temperance"
+    }
+   ],
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/example"
+   },
+   "wgo:file": "articles/virtues-and-character/moral-habituation.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:aristotelian-virtue-ethics"
+    },
+    {
+     "@id": "wg:confucianism"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:habit-formation-real-world-study"
    }
   },
   {

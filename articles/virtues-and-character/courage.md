@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: normative
 broader: [wg:cardinal-virtues, wg:moral-virtues]
-related: [wg:intellectual-courage, wg:doctrine-of-the-mean, wg:honesty, wg:practical-wisdom, wg:anger, wg:plato, wg:socrates, wg:workplace-feedback]
+related: [wg:intellectual-courage, wg:doctrine-of-the-mean, wg:honesty, wg:practical-wisdom, wg:anger, wg:plato, wg:socrates, wg:workplace-feedback, wg:moral-habituation]
 requires: [wg:practical-wisdom]
 relations:
   - {predicate: rootedIn, object: wg:aristotelian-virtue-ethics, source: s1, confidence: high}

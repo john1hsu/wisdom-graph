@@ -885,6 +885,30 @@ Ask yourself:
 - When I was shown a mistake just now, did I feel curiosity or did I feel attacked?
 - Am I underselling a strength I really do have, out of false modesty or fear of conflict?
 
+### [Moral habituation](../articles/virtues-and-character/moral-habituation.md) — Practice
+
+1. Name one virtue you want more of and the concrete situations where you currently fall short of it (for courage, perhaps raising concerns in meetings or declining unreasonable requests).
+2. List those situations from mildest to hardest, and pick one at the bottom that is uncomfortable but clearly manageable.
+3. Do the act on purpose, for the reason the virtue cares about, not for show; rehearse it first if it helps.
+4. Afterwards, note what you did, how it felt, and how it landed, and adjust what you will do differently next time.
+5. Repeat at the same level until it feels fairly easy and even satisfying, then move one rung up.
+6. Check periodically with someone whose judgment you trust whether you are hitting the mean or drifting toward its excess, such as rashness or rigidity.
+
+*A project coordinator notices that she agrees in meetings to deadlines she knows are unrealistic, then works late to cover the gap. She wants to become someone who says what she actually thinks.*
+
+| Before | After |
+|---|---|
+| She reads a book on assertiveness, resolves to be braver, and at the next big review abruptly tells a senior sponsor in front of everyone that the whole plan is unworkable, then retreats into silence for weeks after it goes badly. | She starts small: this week she asks one clarifying question about scope in her own team's stand-up; next week she proposes a realistic date for a minor task; later she flags a risk to her manager one to one. After each, she jots down what happened and what to tweak, and only takes on the sponsor review once the smaller acts feel natural. |
+
+**Why:** Character changes through repeated, well-aimed acts rather than through resolutions or one dramatic leap. Graded practice with reflection builds both the habit and the judgment to use it at the right time and in the right measure.
+
+Ask yourself:
+- What small act this week would be a genuine rung up the ladder for me, rather than a leap or no step at all?
+- Am I doing this because it is the right thing to do here, or mainly to look brave, generous or disciplined?
+- Did I reflect after the last attempt, or am I just repeating it by rote?
+- Does this kind of action feel easier or more satisfying than it did a month ago, and if not, is the step the right size?
+- Am I sliding past the mean into the opposite fault, such as rashness instead of courage?
+
 ### [Weakness of will](../articles/virtues-and-character/weakness-of-will.md) — Obstacle
 
 *You decided on Sunday, for good reasons, to finish a grant report before answering the week's routine email. On Monday morning the inbox shows forty unread messages.*

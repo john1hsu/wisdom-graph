@@ -789,6 +789,10 @@
     "object": "wg:workplace-feedback"
    },
    {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
     "predicate": "wgo:requires",
     "object": "wg:practical-wisdom"
    },
@@ -4390,6 +4394,153 @@
    "https://core.ac.uk/download/210693851.pdf",
    "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/motivational-interviewing-and-decisional-balance-contrasting-responses-to-client-ambivalence/74496E66A2D5625296F9B2EEE805B359",
    "https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives"
+  ]
+ },
+ {
+  "id": "wg:moral-habituation",
+  "title": "Moral habituation",
+  "aliases": [
+   "habituation",
+   "ethismos",
+   "ethismós",
+   "virtue habituation",
+   "becoming good by doing good",
+   "learning virtue by practice"
+  ],
+  "type": "Practice",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/moral-habituation.md",
+  "created": "2026-11-15",
+  "summary": "Building a virtue such as courage or temperance by repeatedly doing what that virtue would do, in graded steps and with reflection after each attempt, until the right action and the right feelings come readily; in Aristotle's account, the main route by which character virtues are acquired.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emulating-moral-exemplars"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implementation-intentions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:xunzi"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberate-practice"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:courage",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:temperance",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:nicomachean-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:cowardice",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:practical-wisdom",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:emulating-moral-exemplars",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:habit-formation-real-world-study",
+    "source": "s5",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "What small act this week would be a genuine rung up the ladder for me, rather than a leap or no step at all?",
+   "Am I doing this because it is the right thing to do here, or mainly to look brave, generous or disciplined?",
+   "Did I reflect after the last attempt, or am I just repeating it by rote?",
+   "Does this kind of action feel easier or more satisfying than it did a month ago, and if not, is the step the right size?",
+   "Am I sliding past the mean into the opposite fault, such as rashness instead of courage?"
+  ],
+  "steps": [
+   "Name one virtue you want more of and the concrete situations where you currently fall short of it (for courage, perhaps raising concerns in meetings or declining unreasonable requests).",
+   "List those situations from mildest to hardest, and pick one at the bottom that is uncomfortable but clearly manageable.",
+   "Do the act on purpose, for the reason the virtue cares about, not for show; rehearse it first if it helps.",
+   "Afterwards, note what you did, how it felt, and how it landed, and adjust what you will do differently next time.",
+   "Repeat at the same level until it feels fairly easy and even satisfying, then move one rung up.",
+   "Check periodically with someone whose judgment you trust whether you are hitting the mean or drifting toward its excess, such as rashness or rigidity."
+  ],
+  "example": {
+   "situation": "A project coordinator notices that she agrees in meetings to deadlines she knows are unrealistic, then works late to cover the gap. She wants to become someone who says what she actually thinks.",
+   "before": "She reads a book on assertiveness, resolves to be braver, and at the next big review abruptly tells a senior sponsor in front of everyone that the whole plan is unworkable, then retreats into silence for weeks after it goes badly.",
+   "after": "She starts small: this week she asks one clarifying question about scope in her own team's stand-up; next week she proposes a realistic date for a minor task; later she flags a risk to her manager one to one. After each, she jots down what happened and what to tweak, and only takes on the sponsor review once the smaller acts feel natural.",
+   "why": "Character changes through repeated, well-aimed acts rather than through resolutions or one dramatic leap. Graded practice with reflection builds both the habit and the judgment to use it at the right time and in the right measure."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html",
+   "https://plato.stanford.edu/archives/spr2006/entries/aristotle-ethics/",
+   "https://www.degruyterbrill.com/document/doi/10.1515/agph-2019-0053/html",
+   "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Sanderse_W.pdf",
+   "https://core.ac.uk/download/70653523.pdf",
+   "https://www.apa.org/monitor/2025/09/building-courage-muscle",
+   "https://plato.stanford.edu/entries/xunzi/"
   ]
  },
  {

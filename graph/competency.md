@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:courage` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -32,6 +30,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
+| `wg:moral-habituation` | 3 | Courage, cowardice, temperance |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
@@ -57,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:impermanence` | 1 | Equanimity |
 | `wg:regulatory-flexibility` | 1 | Emotional suppression |
-| `wg:seeking-counsel` | 1 | egocentric-discounting |
 
-…and 2 more.
+…and 3 more.
 
 ## Toolkit by life situation
 
@@ -173,6 +171,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
 | `wg:aristotelian-virtue-ethics` | `wg:emulating-moral-exemplars` |
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
+| `wg:aristotelian-virtue-ethics` | `wg:moral-habituation` |
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
 | `wg:buddhism` | `wg:compassion` |
@@ -186,6 +185,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:courage` |
 | `wg:confucianism` | `wg:evening-review` |
 | `wg:confucianism` | `wg:intellectual-humility` |
+| `wg:confucianism` | `wg:moral-habituation` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:hebrew-wisdom-literature` | `wg:folly` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
@@ -196,10 +196,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:socratic-philosophy` | `wg:self-reflection` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
 | `wg:stoicism` | `wg:dichotomy-of-control` |
-| `wg:stoicism` | `wg:equanimity` |
-| `wg:stoicism` | `wg:evening-review` |
 
-…and 4 more.
+…and 6 more.
 
 ## The doctrine of the mean
 
