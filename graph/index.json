@@ -7298,6 +7298,105 @@
   ]
  },
  {
+  "id": "wg:wisdom",
+  "title": "Wisdom",
+  "aliases": [
+   "being wise",
+   "the wise person",
+   "sagacity"
+  ],
+  "type": "Concept",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/foundations/wisdom.md",
+  "created": "2026-11-15",
+  "summary": "Doing well, in thought and in action, with respect to how to live: knowing or reasonably believing what matters, seeing the limits of what one knows, and using that understanding to judge, advise and act well. Philosophers debate its exact conditions; psychologists describe it as morally grounded metacognition applied to real problems.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:common-wisdom-model",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:berlin-wisdom-paradigm",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:three-dimensional-wisdom-model",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:general-intelligence",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:expert-consensus-on-wisdom-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:epistemology",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I treating how much I know about this as if it were the same as knowing what to do?",
+   "What in this situation am I unsure of, and have I admitted it to myself and to others?",
+   "Would this choice still look good to me if I judged it by the kind of life I want to live, not only by today's goal?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team member with deep technical knowledge is asked whether the team should rebuild a struggling product from scratch or keep repairing it.",
+   "before": "I know this codebase better than anyone, so the answer is obviously a rewrite. No need to hear the others.",
+   "after": "I know the code well, but not the customers' timelines or the budget. Let me lay out what I'm sure of and what I'm guessing, ask sales and finance what I'm missing, and recommend the option that serves the people who depend on this, not the one I'd enjoy.",
+   "why": "Expertise is not yet wisdom; the wiser answer knows the limits of its own knowledge, takes other perspectives in, and aims at the good of everyone affected."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRIES/wisdom-analytic/",
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns",
+   "https://scholars.duke.edu/publication/761018",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full"
+  ]
+ },
+ {
   "id": "wg:wise-leadership",
   "title": "Wise leadership",
   "aliases": [

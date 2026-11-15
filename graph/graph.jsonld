@@ -9189,6 +9189,76 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Shane Ryan & Sharon Ryan, 2026)",
+   "dcterms:title": "Wisdom in Contemporary Analytic Philosophy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/wisdom-analytic/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book VI (trans. W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Inquiry, 31(2), 103–133 (Grossmann, Weststrate, Ardelt et al., 2020; doi:10.1080/1047840X.2020.1750917), listed by the Chicago Center for Practical Wisdom, University of Chicago",
+   "dcterms:title": "The science of wisdom in a polarized world: Knowns and unknowns",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Gerontologist, 50(5), 668–680 (Jeste, Ardelt, Blazer, Kraemer, Vaillant & Meeks, 2010; doi:10.1093/geront/gnq022), Duke University Scholars record",
+   "dcterms:title": "Expert consensus on characteristics of wisdom: A Delphi method study",
+   "schema:url": {
+    "@id": "https://scholars.duke.edu/publication/761018"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng, Redzanowski, Dorner, Straßer & Wiedermann, 2013)",
+   "dcterms:title": "How to measure wisdom: Content, reliability, and validity of five measures",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -9608,6 +9678,38 @@
    "wgo:before": "\"I'll just clear these quickly so my head is free, then start the report.\" By lunch the report is untouched, and you tell yourself that answering email was the responsible choice after all.",
    "wgo:situation": "You decided on Sunday, for good reasons, to finish a grant report before answering the week's routine email. On Monday morning the inbox shows forty unread messages.",
    "wgo:why": "The first response quietly rewrites a sound resolution at the moment temptation is strongest. The second decides in advance when and where the better judgment will be acted on, and removes the cue that would trigger the lapse."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating how much I know about this as if it were the same as knowing what to do?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What in this situation am I unsure of, and have I admitted it to myself and to others?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would this choice still look good to me if I judged it by the kind of life I want to live, not only by today's goal?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I know the code well, but not the customers' timelines or the budget. Let me lay out what I'm sure of and what I'm guessing, ask sales and finance what I'm missing, and recommend the option that serves the people who depend on this, not the one I'd enjoy.",
+   "wgo:before": "I know this codebase better than anyone, so the answer is obviously a rewrite. No need to hear the others.",
+   "wgo:situation": "A team member with deep technical knowledge is asked whether the team should rebuild a struggling product from scratch or keep repairing it.",
+   "wgo:why": "Expertise is not yet wisdom; the wiser answer knows the limits of its own knowledge, takes other perspectives in, and aims at the good of everyone affected."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/1",
@@ -16161,6 +16263,91 @@
    },
    "wgo:undermines": {
     "@id": "wg:practical-wisdom"
+   }
+  },
+  {
+   "@id": "wg:wisdom",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s5"
+    }
+   ],
+   "rdfs:label": "Wisdom",
+   "skos:altLabel": [
+    "being wise",
+    "sagacity",
+    "the wise person"
+   ],
+   "skos:broader": {
+    "@id": "wg:intellectual-virtues"
+   },
+   "skos:definition": "Doing well, in thought and in action, with respect to how to live: knowing or reasonably believing what matters, seeing the limits of what one knows, and using that understanding to judge, advise and act well. Philosophers debate its exact conditions; psychologists describe it as morally grounded metacognition applied to real problems.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:general-intelligence"
+   },
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/example"
+   },
+   "wgo:explainedBy": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:common-wisdom-model"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    }
+   ],
+   "wgo:file": "articles/foundations/wisdom.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": [
+    {
+     "@id": "wg:epistemology"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:expert-consensus-on-wisdom-study"
    }
   },
   {

@@ -391,6 +391,21 @@ Ask yourself:
 - If someone questioned me closely here, where would my account run out?
 - Am I treating skill in my own field as if it made me an authority on this question too?
 
+### [Wisdom](../articles/foundations/wisdom.md) — Concept
+
+*A team member with deep technical knowledge is asked whether the team should rebuild a struggling product from scratch or keep repairing it.*
+
+| Before | After |
+|---|---|
+| I know this codebase better than anyone, so the answer is obviously a rewrite. No need to hear the others. | I know the code well, but not the customers' timelines or the budget. Let me lay out what I'm sure of and what I'm guessing, ask sales and finance what I'm missing, and recommend the option that serves the people who depend on this, not the one I'd enjoy. |
+
+**Why:** Expertise is not yet wisdom; the wiser answer knows the limits of its own knowledge, takes other perspectives in, and aims at the good of everyone affected.
+
+Ask yourself:
+- Am I treating how much I know about this as if it were the same as knowing what to do?
+- What in this situation am I unsure of, and have I admitted it to myself and to others?
+- Would this choice still look good to me if I judged it by the kind of life I want to live, not only by today's goal?
+
 ## judgment-and-decisions
 
 ### [Deliberation](../articles/judgment-and-decisions/deliberation.md) — Skill
