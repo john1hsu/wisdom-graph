@@ -127,15 +127,15 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:interpersonal-conflict` | mixed |  |
+| `wg:leading-others` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:major-life-decision` | mixed |  |
 | `wg:meaning-in-life` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:personal-and-general-wisdom` | mixed |  |
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
-| `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 
-…and 21 more.
+…and 22 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -143,6 +143,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:leading-others` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:psychology-of-wisdom` | wgo:Field |
 | `wg:regret` | wgo:Phenomenon |

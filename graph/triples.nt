@@ -1835,6 +1835,60 @@
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/delphic-maxims> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I weighing my colleagues' advice as seriously as I would have before I had authority over them?" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "When nobody objected in that meeting, did I check whether they agreed or just stayed quiet?" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Whose interests does this decision touch beyond the targets I am measured on?" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I still doing the work myself because it is needed, or because it is where I feel competent?" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Ask the colleague to walk the team through the design and its trade-offs, put the alternative on the table as one option rather than an order, ask who sees risks in either, and agree how the choice will be made and reviewed." .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'm the lead now, so we'll do it my way. I'll rewrite the plan tonight and hand out the tasks tomorrow." .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A newly promoted team lead, formerly the team's strongest engineer, sees a colleague's design for a new service and is sure her own approach would be faster to build." .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Relying on title wins compliance at best and silences the people closest to the work; inviting their view and weighing it treats authority as responsibility for the decision rather than a licence to skip other people's knowledge." .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2000/01/rdf-schema#label> "Leading others" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#altLabel> "becoming the boss" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#altLabel> "being a manager" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#altLabel> "having authority over others" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#altLabel> "leading a team" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#altLabel> "managing people" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#definition> "The situation of being responsible for other people's work and growth — as a manager, team lead, coach or project head — where your decisions affect people who have less say than you, and where the power you hold can quietly change how well you listen and judge." .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leading others" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/egocentric-discounting> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/power-and-advice-taking-study> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/leading-others/example> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/wics-model> .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/leading-others.md" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/organizational-behavior> .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I asking what I want from life, or what this situation is asking of me?" .
 <https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
@@ -4926,6 +4980,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7> <https://schema.org/url> <https://iep.utm.edu/thales/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://purl.org/dc/terms/publisher> "Organizational Behavior and Human Decision Processes (Elsevier; See, Morrison, Rothman & Soll, 2011; doi:10.1016/j.obhdp.2011.07.006), author copy, NYU Stern School of Business" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://purl.org/dc/terms/title> "The detrimental effects of power on confidence, advice taking, and accuracy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <https://schema.org/url> <https://web-docs.stern.nyu.edu/pa/ksee_power_advice_taking.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> <http://purl.org/dc/terms/publisher> "Psychological Science, 17(12), 1068–1074 (Galinsky, Magee, Inesi & Gruenfeld, 2006), Kellogg School of Management research record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> <http://purl.org/dc/terms/title> "Power and perspectives not taken" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s2> <https://schema.org/url> <https://www.kellogg.northwestern.edu/faculty/research/detail/2006/power-and-perspectives-not-taken> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> <http://purl.org/dc/terms/publisher> "Journal of Experimental Social Psychology (Ebersole et al., 2016; doi:10.1016/j.jesp.2015.10.012), author copy, University of North Texas" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> <http://purl.org/dc/terms/title> "Many Labs 3: Evaluating participant pool quality across the academic semester via replication" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s3> <https://schema.org/url> <https://psychology.unt.edu/system/files/Many%20labs%203.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (Carmen Nobel, 17 January 2011)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> <http://purl.org/dc/terms/title> "Being the Boss (Q&A with Linda A. Hill and excerpt from Being the Boss, by Hill & Lineback)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> <https://schema.org/url> <https://www.library.hbs.edu/working-knowledge/being-the-boss> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly, 44(2), 350–383 (Edmondson, 1999), author copy hosted by MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> <https://schema.org/url> <https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <http://purl.org/dc/terms/publisher> "American Psychologist, 62(1), 34–42 (Sternberg, 2007), listed by the Chicago Center for Practical Wisdom, University of Chicago" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <http://purl.org/dc/terms/title> "A Systems Model of Leadership: WICS" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/publications/systems-model-leadership-wics> .
 <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://purl.org/dc/terms/publisher> "Social Sci LibreTexts (Lansing Community College open textbook, Psychology of Adjustment course)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1> <http://purl.org/dc/terms/title> "Viktor Frankl and Logotherapy (from Introduction to Personality, Kelland)" .

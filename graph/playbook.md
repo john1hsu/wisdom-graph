@@ -950,6 +950,22 @@ Ask yourself:
 - Am I asking for input because I will use it, or to look open?
 - Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?
 
+### [Leading others](../articles/wisdom-at-work/leading-others.md) — Context
+
+*A newly promoted team lead, formerly the team's strongest engineer, sees a colleague's design for a new service and is sure her own approach would be faster to build.*
+
+| Before | After |
+|---|---|
+| I'm the lead now, so we'll do it my way. I'll rewrite the plan tonight and hand out the tasks tomorrow. | Ask the colleague to walk the team through the design and its trade-offs, put the alternative on the table as one option rather than an order, ask who sees risks in either, and agree how the choice will be made and reviewed. |
+
+**Why:** Relying on title wins compliance at best and silences the people closest to the work; inviting their view and weighing it treats authority as responsibility for the decision rather than a licence to skip other people's knowledge.
+
+Ask yourself:
+- Am I weighing my colleagues' advice as seriously as I would have before I had authority over them?
+- When nobody objected in that meeting, did I check whether they agreed or just stayed quiet?
+- Whose interests does this decision touch beyond the targets I am measured on?
+- Am I still doing the work myself because it is needed, or because it is where I feel competent?
+
 ### [Servant leadership](../articles/wisdom-at-work/servant-leadership.md) — Practice
 
 1. Before a decision that affects your team, write down who it serves and what each person directly affected needs from it.
