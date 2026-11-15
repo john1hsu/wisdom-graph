@@ -6,7 +6,9 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:emotional-suppression` | wgo:Obstacle |
 
 ## Skills and virtues with no practice (gap)
 
@@ -104,6 +106,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
+| `wg:emotional-suppression` | mixed | `wg:suppression-paradox-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:equanimity` | mixed |  |
@@ -125,9 +128,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:purpose-in-life` | mixed |  |
 | `wg:regret` | mixed |  |
 | `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
-| `wg:seeking-counsel` | mixed |  |
 
-…and 10 more.
+…and 11 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -135,6 +137,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:emotional-suppression` | wgo:Obstacle |
 | `wg:interpersonal-conflict` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:regret` | wgo:Phenomenon |

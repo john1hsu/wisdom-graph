@@ -512,6 +512,46 @@
    "wgo:why": "The right degree of firmness depends on this person and this problem, and knowing which way you usually err tells you which way to correct, as Aristotle advised."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emotional-suppression/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I hiding this feeling because the moment calls for it, or because I always hide feelings like this?",
+   "wgo:questionFor": {
+    "@id": "wg:emotional-suppression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emotional-suppression/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Has the feeling actually changed, or only my face?",
+   "wgo:questionFor": {
+    "@id": "wg:emotional-suppression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emotional-suppression/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there someone I could tell how this really landed, and have I told them?",
+   "wgo:questionFor": {
+    "@id": "wg:emotional-suppression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emotional-suppression/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Could I look at the situation differently, rather than just clamping down on my reaction to it?",
+   "wgo:questionFor": {
+    "@id": "wg:emotional-suppression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/emotional-suppression/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Stay composed in the room, since this isn't the moment, but name it briefly: 'I see it differently; can we go through the data after?' Later, ask what the criticism might be getting right, and talk it over with a trusted peer.",
+   "wgo:before": "Keep a blank face, say 'fine', move on, and never mention it to anyone. Feelings have no place at work.",
+   "wgo:situation": "In a project review, a senior colleague dismisses your team's proposal in front of everyone. You feel a hot rush of anger and embarrassment.",
+   "wgo:why": "Holding back a display for a few minutes can fit the setting; making a rule of never showing or sharing the feeling leaves it running underneath, blurs what you take in, and keeps others from knowing where you stand."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/empathy/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I actually tried to understand how this looks from their side, or am I assuming I already know?",
@@ -3410,6 +3450,90 @@
     "@id": "https://www.psychologicalscience.org/journals/ampps/2515245918805755/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 85(2), 348–362 (Gross & John, 2003), PubMed record",
+   "dcterms:title": "Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/12916575/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Emotion, 3(1), 48–67 (Butler, Egloff, Wilhelm, Smith, Erickson & Gross, 2003), University of Arizona research record",
+   "dcterms:title": "The social consequences of expressive suppression",
+   "schema:url": {
+    "@id": "https://experts.arizona.edu/en/publications/the-social-consequences-of-expressive-suppression/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "American Psychological Association press release (September 2000) on Richards & Gross, Journal of Personality and Social Psychology, 79(3)",
+   "dcterms:title": "Emotion regulation and memory: The cognitive costs of keeping one's cool",
+   "schema:url": {
+    "@id": "https://www.apa.org/news/press/releases/2000/09/emotion-memory"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Emotion, 11(6), 1450–1455 (Soto, Perez, Kim, Lee & Minnick, 2011), Penn State research record",
+   "dcterms:title": "Is expressive suppression always associated with poorer psychological functioning? A cross-cultural comparison between European Americans and Hong Kong Chinese",
+   "schema:url": {
+    "@id": "https://pure.psu.edu/en/publications/is-expressive-suppression-always-associated-with-poorer-psycholog/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Affective Disorders, 274, 183–189 (Chen, Burton & Bonanno, 2020), Teachers College, Columbia University",
+   "dcterms:title": "The suppression paradox: A cross-cultural comparison of suppression frequency, suppression ability, and depression",
+   "schema:url": {
+    "@id": "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/monographs-and-journalism/2020_Chen_Burton_Bonanno_suppression-paradox.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Massimo Pigliucci), sections 4 and 6",
+   "dcterms:title": "Stoicism",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/stoicism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/empathy/s1",
@@ -9450,6 +9574,100 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:too-much-of-a-good-thing-effect"
+   }
+  },
+  {
+   "@id": "wg:emotional-suppression",
+   "@type": "wgo:Obstacle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/emotional-suppression/s6"
+    }
+   ],
+   "rdfs:label": "Emotional suppression",
+   "skos:altLabel": [
+    "bottling up emotions",
+    "expressive suppression",
+    "keeping a poker face",
+    "stiff upper lip",
+    "suppressing emotions"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "Habitually hiding the outward signs of a feeling (face, voice, posture) once it is already under way, instead of changing how the situation is understood; it calms the surface without calming the feeling, and as a default habit it tends to cost memory, closeness and well-being.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Emotional suppression",
+   "skos:related": [
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-deception"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:suppression-paradox-study"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:equanimity"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:cognitive-reappraisal"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:emotion-regulation-and-memory-study"
+    },
+    {
+     "@id": "wg:social-consequences-of-suppression-study"
+    }
+   ],
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/emotional-suppression/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/emotional-suppression.md",
+   "wgo:level": "introductory",
+   "wgo:undermines": {
+    "@id": "wg:social-support"
    }
   },
   {

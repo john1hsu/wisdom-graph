@@ -195,6 +195,22 @@ Ask yourself:
 - Am I treating something I could change as if it were fixed, just to avoid acting?
 - Am I staking my peace of mind on an outcome that other people or chance will settle?
 
+### [Emotional suppression](../articles/emotions-and-equanimity/emotional-suppression.md) — Obstacle
+
+*In a project review, a senior colleague dismisses your team's proposal in front of everyone. You feel a hot rush of anger and embarrassment.*
+
+| Before | After |
+|---|---|
+| Keep a blank face, say 'fine', move on, and never mention it to anyone. Feelings have no place at work. | Stay composed in the room, since this isn't the moment, but name it briefly: 'I see it differently; can we go through the data after?' Later, ask what the criticism might be getting right, and talk it over with a trusted peer. |
+
+**Why:** Holding back a display for a few minutes can fit the setting; making a rule of never showing or sharing the feeling leaves it running underneath, blurs what you take in, and keeps others from knowing where you stand.
+
+Ask yourself:
+- Am I hiding this feeling because the moment calls for it, or because I always hide feelings like this?
+- Has the feeling actually changed, or only my face?
+- Is there someone I could tell how this really landed, and have I told them?
+- Could I look at the situation differently, rather than just clamping down on my reaction to it?
+
 ### [Equanimity](../articles/emotions-and-equanimity/equanimity.md) — Virtue
 
 *An hour before you present to leadership, you learn that the client your team spent three months courting has chosen a competitor.*

@@ -1060,6 +1060,115 @@
   ]
  },
  {
+  "id": "wg:emotional-suppression",
+  "title": "Emotional suppression",
+  "aliases": [
+   "expressive suppression",
+   "suppressing emotions",
+   "bottling up emotions",
+   "keeping a poker face",
+   "stiff upper lip"
+  ],
+  "type": "Obstacle",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/emotional-suppression.md",
+  "created": "2026-11-15",
+  "summary": "Habitually hiding the outward signs of a feeling (face, voice, posture) once it is already under way, instead of changing how the situation is understood; it calms the surface without calming the feeling, and as a default habit it tends to cost memory, closeness and well-being.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:cognitive-reappraisal",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:social-support",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:social-consequences-of-suppression-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:emotion-regulation-and-memory-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:suppression-paradox-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:equanimity",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I hiding this feeling because the moment calls for it, or because I always hide feelings like this?",
+   "Has the feeling actually changed, or only my face?",
+   "Is there someone I could tell how this really landed, and have I told them?",
+   "Could I look at the situation differently, rather than just clamping down on my reaction to it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "In a project review, a senior colleague dismisses your team's proposal in front of everyone. You feel a hot rush of anger and embarrassment.",
+   "before": "Keep a blank face, say 'fine', move on, and never mention it to anyone. Feelings have no place at work.",
+   "after": "Stay composed in the room, since this isn't the moment, but name it briefly: 'I see it differently; can we go through the data after?' Later, ask what the criticism might be getting right, and talk it over with a trusted peer.",
+   "why": "Holding back a display for a few minutes can fit the setting; making a rule of never showing or sharing the feeling leaves it running underneath, blurs what you take in, and keeps others from knowing where you stand."
+  },
+  "source_urls": [
+   "https://pubmed.ncbi.nlm.nih.gov/12916575/",
+   "https://experts.arizona.edu/en/publications/the-social-consequences-of-expressive-suppression/",
+   "https://www.apa.org/news/press/releases/2000/09/emotion-memory",
+   "https://pure.psu.edu/en/publications/is-expressive-suppression-always-associated-with-poorer-psycholog/",
+   "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/monographs-and-journalism/2020_Chen_Burton_Bonanno_suppression-paradox.pdf",
+   "https://iep.utm.edu/stoicism/"
+  ]
+ },
+ {
   "id": "wg:empathy",
   "title": "Empathy",
   "aliases": [
