@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:emotion-regulation]
-related: [wg:compassionate-reappraisal, wg:stoicism, wg:equanimity, wg:rumination, wg:resilience, wg:dichotomy-of-control, wg:self-deception]
+related: [wg:compassionate-reappraisal, wg:stoicism, wg:equanimity, wg:rumination, wg:resilience, wg:dichotomy-of-control, wg:self-deception, wg:regulatory-flexibility]
 requires: []
 relations:
   - {predicate: contrastsWith, object: wg:cognitive-reappraisal, source: s1, confidence: high}

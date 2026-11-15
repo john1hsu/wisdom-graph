@@ -592,6 +592,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
 <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
 <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
 <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
 <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
 <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
@@ -2227,6 +2228,57 @@
 <https://github.com/john1hsu/wisdom-graph/id/regret> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/regret.md" .
 <https://github.com/john1hsu/wisdom-graph/id/regret> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/regret> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/social-psychology> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Does this moment call for showing what I feel, holding it back, or rethinking the situation?" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reaching for the strategy I always use, or the one that fits here?" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is the way I'm handling this feeling actually working, and if not, what else could I try?" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Do I have at least two different ways to respond when something like this happens?" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Stay composed while announcing it, since the team needs steadiness; then say plainly that she is disappointed too, ask how they're taking it, and later talk it through with a peer. If the composure starts to feel brittle, switch to rethinking what the cancellation frees the team to do." .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Whatever I feel, I keep it off my face. That's how I always handle bad news, at work and at home." .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A manager learns in a one-to-one that her team's project is being cancelled, and has to tell the team in an hour." .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Holding back expression was right for the announcement and wrong as a blanket rule; reading the moment, having more than one response, and checking whether it works is what the research links to better adjustment." .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Skill> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2000/01/rdf-schema#label> "Emotion regulatory flexibility" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#altLabel> "emotion regulation flexibility" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#altLabel> "flexible emotion regulation" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#altLabel> "regulatory flexibility" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#definition> "The ability to fit how you handle a feeling to the situation you are in: reading what the moment calls for, having more than one way to respond (showing or holding back, rethinking or accepting), and noticing whether your chosen way is working so you can switch." .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emotion regulatory flexibility" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/importance-of-being-flexible-study> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/regulatory-flexibility.md" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/george-bonanno> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/coping-flexibility-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-variability-daily-life-study> .
 <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Phenomenon> .
 <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2000/01/rdf-schema#label> "Resilience" .
@@ -4524,6 +4576,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/wisdom-graph/id/source/regret/s6> <https://schema.org/url> <https://insight.kellogg.northwestern.edu/article/learning-to-use-regret> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> <http://purl.org/dc/terms/publisher> "Perspectives on Psychological Science, 8(6), 591–612 (Bonanno & Burton, 2013), Teachers College, Columbia University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> <http://purl.org/dc/terms/title> "Regulatory flexibility: An individual differences perspective on coping and emotion regulation" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1> <https://schema.org/url> <https://www.tc.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> <http://purl.org/dc/terms/publisher> "Psychological Science, 15(7), 482–487 (Bonanno, Papa, Lalande, Westphal & Coifman, 2004), Teachers College, Columbia University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> <http://purl.org/dc/terms/title> "The importance of being flexible: The ability to both enhance and suppress emotional expression predicts long-term adjustment" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2> <https://schema.org/url> <https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2004/16917_2004_Bonanno_et_al.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> <http://purl.org/dc/terms/publisher> "Emotion, 10(1), 92–100 (Westphal, Seivert & Bonanno, 2010), Teachers College, Columbia University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> <http://purl.org/dc/terms/title> "Expressive flexibility" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3> <https://schema.org/url> <https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2010/16915_2010_Westphal_Seivert_Bonanno.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> <http://purl.org/dc/terms/publisher> "Psychological Bulletin, 140(6), 1582–1607 (Cheng, Lau & Chan, 2014), University of Hong Kong repository" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> <http://purl.org/dc/terms/title> "Coping flexibility and psychological adjustment to stressful life changes: A meta-analytic review" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4> <https://schema.org/url> <https://repository.hku.hk/handle/10722/204912> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> <http://purl.org/dc/terms/publisher> "Emotion, 20(3), 473–485 (Blanke, Brose, Kalokerinos, Erbas, Riediger & Kuppens, 2020), KU Leuven" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> <http://purl.org/dc/terms/title> "Mix it to fix it: Emotion regulation variability in daily life" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5> <https://schema.org/url> <https://fac.ppw.kuleuven.be/okp/_pdf/Blanke2020MITFI.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> <http://purl.org/dc/terms/publisher> "Cognitive Therapy and Research, 39(3), 263–278 (Aldao, Sheppes & Gross, 2015), Israeli universities research record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> <http://purl.org/dc/terms/title> "Emotion regulation flexibility" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6> <https://schema.org/url> <https://cris.iucc.ac.il/en/publications/emotion-regulation-flexibility/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/resilience/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/resilience/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 59(1), 20–28 (Bonanno, 2004); course copy hosted by the University of Massachusetts Lowell" .
 <https://github.com/john1hsu/wisdom-graph/id/source/resilience/s1> <http://purl.org/dc/terms/title> "Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events?" .

@@ -1966,6 +1966,46 @@
    "wgo:why": "The wiser response accepts the regret without self-attack, extracts the lesson and turns it toward an opportunity that is still open, which is when regret is most useful."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this moment call for showing what I feel, holding it back, or rethinking the situation?",
+   "wgo:questionFor": {
+    "@id": "wg:regulatory-flexibility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I reaching for the strategy I always use, or the one that fits here?",
+   "wgo:questionFor": {
+    "@id": "wg:regulatory-flexibility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the way I'm handling this feeling actually working, and if not, what else could I try?",
+   "wgo:questionFor": {
+    "@id": "wg:regulatory-flexibility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do I have at least two different ways to respond when something like this happens?",
+   "wgo:questionFor": {
+    "@id": "wg:regulatory-flexibility"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Stay composed while announcing it, since the team needs steadiness; then say plainly that she is disappointed too, ask how they're taking it, and later talk it through with a peer. If the composure starts to feel brittle, switch to rethinking what the cancellation frees the team to do.",
+   "wgo:before": "Whatever I feel, I keep it off my face. That's how I always handle bad news, at work and at home.",
+   "wgo:situation": "A manager learns in a one-to-one that her team's project is being cancelled, and has to tell the team in an hour.",
+   "wgo:why": "Holding back expression was right for the announcement and wrong as a blanket rule; reading the moment, having more than one response, and checking whether it works is what the research links to better adjustment."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Is what I am about to say true, as far as I actually know, or is it a guess or a convenient story?",
@@ -6250,6 +6290,90 @@
    "wgo:sourceType": "practitioner-journal"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Perspectives on Psychological Science, 8(6), 591–612 (Bonanno & Burton, 2013), Teachers College, Columbia University",
+   "dcterms:title": "Regulatory flexibility: An individual differences perspective on coping and emotion regulation",
+   "schema:url": {
+    "@id": "https://www.tc.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Science, 15(7), 482–487 (Bonanno, Papa, Lalande, Westphal & Coifman, 2004), Teachers College, Columbia University",
+   "dcterms:title": "The importance of being flexible: The ability to both enhance and suppress emotional expression predicts long-term adjustment",
+   "schema:url": {
+    "@id": "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2004/16917_2004_Bonanno_et_al.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Emotion, 10(1), 92–100 (Westphal, Seivert & Bonanno, 2010), Teachers College, Columbia University",
+   "dcterms:title": "Expressive flexibility",
+   "schema:url": {
+    "@id": "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2010/16915_2010_Westphal_Seivert_Bonanno.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 140(6), 1582–1607 (Cheng, Lau & Chan, 2014), University of Hong Kong repository",
+   "dcterms:title": "Coping flexibility and psychological adjustment to stressful life changes: A meta-analytic review",
+   "schema:url": {
+    "@id": "https://repository.hku.hk/handle/10722/204912"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Emotion, 20(3), 473–485 (Blanke, Brose, Kalokerinos, Erbas, Riediger & Kuppens, 2020), KU Leuven",
+   "dcterms:title": "Mix it to fix it: Emotion regulation variability in daily life",
+   "schema:url": {
+    "@id": "https://fac.ppw.kuleuven.be/okp/_pdf/Blanke2020MITFI.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Cognitive Therapy and Research, 39(3), 263–278 (Aldao, Sheppes & Gross, 2015), Israeli universities research record",
+   "dcterms:title": "Emotion regulation flexibility",
+   "schema:url": {
+    "@id": "https://cris.iucc.ac.il/en/publications/emotion-regulation-flexibility/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/resilience/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -9824,6 +9948,9 @@
      "@id": "wg:equanimity"
     },
     {
+     "@id": "wg:regulatory-flexibility"
+    },
+    {
      "@id": "wg:resilience"
     },
     {
@@ -12566,6 +12693,98 @@
    "wgo:studiedIn": {
     "@id": "wg:social-psychology"
    }
+  },
+  {
+   "@id": "wg:regulatory-flexibility",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regulatory-flexibility/s6"
+    }
+   ],
+   "rdfs:label": "Emotion regulatory flexibility",
+   "skos:altLabel": [
+    "emotion regulation flexibility",
+    "flexible emotion regulation",
+    "regulatory flexibility"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "The ability to fit how you handle a feeling to the situation you are in: reading what the moment calls for, having more than one way to respond (showing or holding back, rethinking or accepting), and noticing whether your chosen way is working so you can switch.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Emotion regulatory flexibility",
+   "skos:related": [
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:emotional-suppression"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:emotional-suppression"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:adversity"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:importance-of-being-flexible-study"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/regulatory-flexibility.md",
+   "wgo:introducedBy": {
+    "@id": "wg:george-bonanno"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:coping-flexibility-meta-analysis"
+    },
+    {
+     "@id": "wg:emotion-regulation-variability-daily-life-study"
+    }
+   ]
   },
   {
    "@id": "wg:resilience",

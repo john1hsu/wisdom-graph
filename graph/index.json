@@ -1110,6 +1110,10 @@
     "object": "wg:self-deception"
    },
    {
+    "predicate": "skos:related",
+    "object": "wg:regulatory-flexibility"
+   },
+   {
     "predicate": "wgo:contrastsWith",
     "object": "wg:cognitive-reappraisal",
     "source": "s1",
@@ -4240,6 +4244,113 @@
    "https://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1515373/pdf",
    "https://forrt.org/flora-replication-atlas/doi/10.1037/0022-3514.67.3.357/",
    "https://insight.kellogg.northwestern.edu/article/learning-to-use-regret"
+  ]
+ },
+ {
+  "id": "wg:regulatory-flexibility",
+  "title": "Emotion regulatory flexibility",
+  "aliases": [
+   "regulatory flexibility",
+   "emotion regulation flexibility",
+   "flexible emotion regulation"
+  ],
+  "type": "Skill",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/regulatory-flexibility.md",
+  "created": "2026-11-15",
+  "summary": "The ability to fit how you handle a feeling to the situation you are in: reading what the moment calls for, having more than one way to respond (showing or holding back, rethinking or accepting), and noticing whether your chosen way is working so you can switch.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotional-suppression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:emotional-suppression",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:george-bonanno",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:importance-of-being-flexible-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:coping-flexibility-meta-analysis",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:emotion-regulation-variability-daily-life-study",
+    "source": "s5",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Does this moment call for showing what I feel, holding it back, or rethinking the situation?",
+   "Am I reaching for the strategy I always use, or the one that fits here?",
+   "Is the way I'm handling this feeling actually working, and if not, what else could I try?",
+   "Do I have at least two different ways to respond when something like this happens?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A manager learns in a one-to-one that her team's project is being cancelled, and has to tell the team in an hour.",
+   "before": "Whatever I feel, I keep it off my face. That's how I always handle bad news, at work and at home.",
+   "after": "Stay composed while announcing it, since the team needs steadiness; then say plainly that she is disappointed too, ask how they're taking it, and later talk it through with a peer. If the composure starts to feel brittle, switch to rethinking what the cancellation frees the team to do.",
+   "why": "Holding back expression was right for the announcement and wrong as a blanket rule; reading the moment, having more than one response, and checking whether it works is what the research links to better adjustment."
+  },
+  "source_urls": [
+   "https://www.tc.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf",
+   "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2004/16917_2004_Bonanno_et_al.pdf",
+   "https://www.tc.columbia.edu/media/centers-amp-labs/lte-lab/peered-review-journals/2010/16915_2010_Westphal_Seivert_Bonanno.pdf",
+   "https://repository.hku.hk/handle/10722/204912",
+   "https://fac.ppw.kuleuven.be/okp/_pdf/Blanke2020MITFI.pdf",
+   "https://cris.iucc.ac.il/en/publications/emotion-regulation-flexibility/"
   ]
  },
  {

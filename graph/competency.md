@@ -6,15 +6,15 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-| node | type |
-|---|---|
-| `wg:emotional-suppression` | wgo:Obstacle |
+_No results._
 
 ## Skills and virtues with no practice (gap)
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:regulatory-flexibility` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -51,6 +51,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:honesty` | 1 | Self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
+| `wg:regulatory-flexibility` | 1 | Emotional suppression |
 | `wg:seeking-counsel` | 1 | egocentric-discounting |
 | `wg:self-reflection` | 1 | self-centeredness |
 | `wg:socratic-ignorance` | 1 | Intellectual humility |
@@ -61,6 +62,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
@@ -90,9 +92,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:negotiation` | `wg:perspective-taking` |
 | `wg:professional-work` | `wg:practical-wisdom` |
 | `wg:reconciliation` | `wg:ubuntu` |
-| `wg:serious-illness` | `wg:logotherapy` |
 
-…and 1 more.
+…and 2 more.
 
 ## Myths and contested advice
 
@@ -129,9 +130,9 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:purpose-in-life` | mixed |  |
 | `wg:regret` | mixed |  |
-| `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
+| `wg:regulatory-flexibility` | mixed |  |
 
-…and 13 more.
+…and 14 more.
 
 ## Ideas with no recorded origin (gap)
 

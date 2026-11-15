@@ -195,6 +195,22 @@ Ask yourself:
 - Am I treating something I could change as if it were fixed, just to avoid acting?
 - Am I staking my peace of mind on an outcome that other people or chance will settle?
 
+### [Emotion regulatory flexibility](../articles/emotions-and-equanimity/regulatory-flexibility.md) — Skill
+
+*A manager learns in a one-to-one that her team's project is being cancelled, and has to tell the team in an hour.*
+
+| Before | After |
+|---|---|
+| Whatever I feel, I keep it off my face. That's how I always handle bad news, at work and at home. | Stay composed while announcing it, since the team needs steadiness; then say plainly that she is disappointed too, ask how they're taking it, and later talk it through with a peer. If the composure starts to feel brittle, switch to rethinking what the cancellation frees the team to do. |
+
+**Why:** Holding back expression was right for the announcement and wrong as a blanket rule; reading the moment, having more than one response, and checking whether it works is what the research links to better adjustment.
+
+Ask yourself:
+- Does this moment call for showing what I feel, holding it back, or rethinking the situation?
+- Am I reaching for the strategy I always use, or the one that fits here?
+- Is the way I'm handling this feeling actually working, and if not, what else could I try?
+- Do I have at least two different ways to respond when something like this happens?
+
 ### [Emotional suppression](../articles/emotions-and-equanimity/emotional-suppression.md) — Obstacle
 
 *In a project review, a senior colleague dismisses your team's proposal in front of everyone. You feel a hot rush of anger and embarrassment.*
