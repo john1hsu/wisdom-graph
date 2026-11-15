@@ -5405,6 +5405,117 @@
   ]
  },
  {
+  "id": "wg:satisficing",
+  "title": "Satisficing",
+  "aliases": [
+   "good-enough choosing",
+   "aspiration-level choice",
+   "satisficer decision strategy"
+  ],
+  "type": "Practice",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/satisficing.md",
+  "created": "2026-11-15",
+  "summary": "Choosing by first deciding what would count as good enough, then searching only until an option meets that standard, instead of trying to find and confirm the single best option.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:bounded-rationality"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-algebra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:fast-and-frugal-heuristics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:major-life-decision"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:herbert-simon",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:maximizing",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:decision-theory",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:maximizing-versus-satisficing-study",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:best-job-search-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:maximizing-tendency-measurement-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:major-life-decision",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Did I decide what \"good enough\" means before I started comparing, or am I letting each new option move the target?",
+   "Is this choice important and hard to undo enough to justify searching for the best, or would a good option serve just as well?",
+   "Have I set a limit on how many options or how much time I will spend?",
+   "Now that I have chosen, am I still checking what I gave up or what others picked?"
+  ],
+  "steps": [
+   "Before you look at any options, write down the few things the choice must achieve and the minimum each must reach; this is your \"good enough\" line.",
+   "Decide in advance how much search the choice deserves, such as a number of options, a deadline or a budget of hours, scaled to how much is at stake and how reversible it is.",
+   "Look at options one at a time and take the first that clears every line, rather than collecting the whole field to rank.",
+   "If nothing clears the line within your search budget, lower one standard deliberately; if many options clear it at once, raise one, and say which and why.",
+   "Once you have chosen, stop comparing; do not keep checking the options you passed up or what others chose.",
+   "Keep maximizing-style search for the rare choices where a better option is worth the extra effort and the decision is hard to undo."
+  ],
+  "example": {
+   "situation": "A team lead has to replace the team's project-tracking tool within a month, and dozens of products are available.",
+   "before": "I'll trial every serious tool on the market, build a forty-row comparison sheet and keep reading reviews until I'm sure we have the best one.",
+   "after": "We need four things: our existing workflows, a single sign-on, an export option and a price under our budget. I'll trial tools from the shortlist IT already approved, adopt the first one that meets all four, and stop shopping once it's in.",
+   "why": "Fixing the standard before searching turns an endless comparison into a bounded task, and stopping after the choice spares the team the second-guessing that research links to looking for the best."
+  },
+  "source_urls": [
+   "https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Schwartz-et-al.-2002.pdf",
+   "https://works.swarthmore.edu/fac-psychology/104/",
+   "https://plato.stanford.edu/entries/bounded-rationality/",
+   "https://cambridge.org/core/services/aop-cambridge-core/content/view/73A1FB6A9BCBC4D0DF2ADA87FBFBD6EC/S1930297500000383a.pdf/are-maximizers-really-unhappy-the-measurement-of-maximizing-tendency.pdf",
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3CB62F3EB5B7E8A9B428D78819A1BCB/S1930297500006859a.pdf/the-price-of-gaining-maximization-in-decision-making-regret-and-life-satisfaction.pdf"
+  ]
+ },
+ {
   "id": "wg:seeking-counsel",
   "title": "Seeking counsel",
   "aliases": [

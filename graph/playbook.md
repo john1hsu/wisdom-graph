@@ -496,6 +496,29 @@ Ask yourself:
 - Am I using the list to choose, or to talk myself out of something I had already decided to do?
 - Now that the balance is clear, have I set a time to act on it?
 
+### [Satisficing](../articles/judgment-and-decisions/satisficing.md) — Practice
+
+1. Before you look at any options, write down the few things the choice must achieve and the minimum each must reach; this is your "good enough" line.
+2. Decide in advance how much search the choice deserves, such as a number of options, a deadline or a budget of hours, scaled to how much is at stake and how reversible it is.
+3. Look at options one at a time and take the first that clears every line, rather than collecting the whole field to rank.
+4. If nothing clears the line within your search budget, lower one standard deliberately; if many options clear it at once, raise one, and say which and why.
+5. Once you have chosen, stop comparing; do not keep checking the options you passed up or what others chose.
+6. Keep maximizing-style search for the rare choices where a better option is worth the extra effort and the decision is hard to undo.
+
+*A team lead has to replace the team's project-tracking tool within a month, and dozens of products are available.*
+
+| Before | After |
+|---|---|
+| I'll trial every serious tool on the market, build a forty-row comparison sheet and keep reading reviews until I'm sure we have the best one. | We need four things: our existing workflows, a single sign-on, an export option and a price under our budget. I'll trial tools from the shortlist IT already approved, adopt the first one that meets all four, and stop shopping once it's in. |
+
+**Why:** Fixing the standard before searching turns an endless comparison into a bounded task, and stopping after the choice spares the team the second-guessing that research links to looking for the best.
+
+Ask yourself:
+- Did I decide what "good enough" means before I started comparing, or am I letting each new option move the target?
+- Is this choice important and hard to undo enough to justify searching for the best, or would a good option serve just as well?
+- Have I set a limit on how many options or how much time I will spend?
+- Now that I have chosen, am I still checking what I gave up or what others picked?
+
 ### [Seeking counsel](../articles/judgment-and-decisions/seeking-counsel.md) — Practice
 
 1. Name the decision and decide whether it is important and uncertain enough to deserve outside counsel.

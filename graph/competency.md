@@ -88,12 +88,12 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:learning-from-experience` | `wg:self-reflection` |
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
+| `wg:major-life-decision` | `wg:satisficing` |
 | `wg:major-life-decision` | `wg:seeking-counsel` |
 | `wg:negotiation` | `wg:perspective-taking` |
 | `wg:professional-work` | `wg:practical-wisdom` |
-| `wg:reconciliation` | `wg:ubuntu` |
 
-…and 2 more.
+…and 3 more.
 
 ## Myths and contested advice
 
@@ -132,7 +132,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:process-model-of-emotion-regulation` | mixed |  |
 | `wg:psychology-of-wisdom` | mixed |  |
 
-…and 18 more.
+…and 19 more.
 
 ## Ideas with no recorded origin (gap)
 

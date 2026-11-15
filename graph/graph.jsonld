@@ -2389,6 +2389,107 @@
    "wgo:why": "Asking what happened and how to act, from a step back, turns the same worry into a plan, whereas asking why in a self-critical loop keeps the hurt fresh and leaves the problem untouched."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did I decide what \"good enough\" means before I started comparing, or am I letting each new option move the target?",
+   "wgo:questionFor": {
+    "@id": "wg:satisficing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this choice important and hard to undo enough to justify searching for the best, or would a good option serve just as well?",
+   "wgo:questionFor": {
+    "@id": "wg:satisficing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I set a limit on how many options or how much time I will spend?",
+   "wgo:questionFor": {
+    "@id": "wg:satisficing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Now that I have chosen, am I still checking what I gave up or what others picked?",
+   "wgo:questionFor": {
+    "@id": "wg:satisficing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "We need four things: our existing workflows, a single sign-on, an export option and a price under our budget. I'll trial tools from the shortlist IT already approved, adopt the first one that meets all four, and stop shopping once it's in.",
+   "wgo:before": "I'll trial every serious tool on the market, build a forty-row comparison sheet and keep reading reviews until I'm sure we have the best one.",
+   "wgo:situation": "A team lead has to replace the team's project-tracking tool within a month, and dozens of products are available.",
+   "wgo:why": "Fixing the standard before searching turns an endless comparison into a bounded task, and stopping after the choice spares the team the second-guessing that research links to looking for the best."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Satisficing",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Before you look at any options, write down the few things the choice must achieve and the minimum each must reach; this is your \"good enough\" line."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Decide in advance how much search the choice deserves, such as a number of options, a deadline or a budget of hours, scaled to how much is at stake and how reversible it is."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Look at options one at a time and take the first that clears every line, rather than collecting the whole field to rank."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "If nothing clears the line within your search budget, lower one standard deliberately; if many options clear it at once, raise one, and say which and why."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Once you have chosen, stop comparing; do not keep checking the options you passed up or what others chose."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Keep maximizing-style search for the rare choices where a better option is worth the extra effort and the decision is hard to undo."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Adversity, loss and mortality"
@@ -7549,6 +7650,76 @@
     "@id": "https://www.americanheritage.com/secret-soldiers-who-didnt-shoot"
    },
    "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 83(5), 1178–1197 (Schwartz, Ward, Monterosso, Lyubomirsky, White & Lehman, 2002; copy hosted by Sonja Lyubomirsky)",
+   "dcterms:title": "Maximizing versus satisficing: Happiness is a matter of choice",
+   "schema:url": {
+    "@id": "https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Schwartz-et-al.-2002.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychological Science, 17(2), 143–150 (Iyengar, Wells & Schwartz, 2006; Swarthmore College Works record)",
+   "dcterms:title": "Doing better but feeling worse: Looking for the \"best\" job undermines satisfaction",
+   "schema:url": {
+    "@id": "https://works.swarthmore.edu/fac-psychology/104/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Gregory Wheeler; first published 2018, revised 2024)",
+   "dcterms:title": "Bounded Rationality",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/bounded-rationality/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Judgment and Decision Making, 3(5), 364–370 (Diab, Gillespie & Highhouse, 2008)",
+   "dcterms:title": "Are maximizers really unhappy? The measurement of maximizing tendency",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/services/aop-cambridge-core/content/view/73A1FB6A9BCBC4D0DF2ADA87FBFBD6EC/S1930297500000383a.pdf/are-maximizers-really-unhappy-the-measurement-of-maximizing-tendency.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Judgment and Decision Making, 9(5), 500–509 (Moyano-Díaz, Martínez-Molina & Ponce, 2014)",
+   "dcterms:title": "The price of gaining: Maximization in decision-making, regret and life satisfaction",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3CB62F3EB5B7E8A9B428D78819A1BCB/S1930297500006859a.pdf/the-price-of-gaining-maximization-in-decision-making-regret-and-life-satisfaction.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s1",
@@ -14579,6 +14750,95 @@
    "wgo:evidenceStatus": "historical",
    "wgo:file": "articles/thinkers-and-works/s-l-a-marshall.md",
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:satisficing",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s5"
+    }
+   ],
+   "rdfs:label": "Satisficing",
+   "skos:altLabel": [
+    "aspiration-level choice",
+    "good-enough choosing",
+    "satisficer decision strategy"
+   ],
+   "skos:broader": {
+    "@id": "wg:bounded-rationality"
+   },
+   "skos:definition": "Choosing by first deciding what would count as good enough, then searching only until an option meets that standard, instead of trying to find and confirm the single best option.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Satisficing",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:fast-and-frugal-heuristics"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:moral-algebra"
+    },
+    {
+     "@id": "wg:regret"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:major-life-decision"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:maximizing-tendency-measurement-study"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:maximizing"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/satisficing.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/satisficing/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:herbert-simon"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:decision-theory"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:best-job-search-study"
+    },
+    {
+     "@id": "wg:maximizing-versus-satisficing-study"
+    }
+   ]
   },
   {
    "@id": "wg:seeking-counsel",
