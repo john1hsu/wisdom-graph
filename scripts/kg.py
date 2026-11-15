@@ -190,8 +190,38 @@ def jaccard(a: set, b: set) -> float:
     return len(a & b) / len(a | b) if a and b else 0.0
 
 
-def label_sim(a: str, b: str) -> float:
-    return max(jaccard(tokens(a), tokens(b)), SequenceMatcher(None, norm(a), norm(b)).ratio())
+CHAR_SIM_MIN = 0.92   # whole-label character similarity only counts when near-identical (spelling variants)
+
+
+def same_token(x: str, y: str) -> bool:
+    """Equal stems, or one stem (of 4+ letters) a prefix of the other: aware/awareness, theory/theories."""
+    x, y = (t[:-1] + "i" if t.endswith("y") else t for t in (x, y))
+    x, y = sorted((x, y), key=len)
+    return x == y or (len(x) >= 4 and y.startswith(x))
+
+
+def label_sim(a: str, b: str, idf: dict[str, float] | None = None) -> float:
+    """Similarity of two labels: IDF-weighted token Jaccard, so words shared by many labels
+    ("wisdom", "theory") count for little, plus character similarity for near-identical spellings.
+    Plain character similarity is not used below CHAR_SIM_MIN: on short labels it scores unrelated
+    words around 0.5-0.8 ("leading others" vs "mulling over")."""
+    ta, tb = tokens(a), tokens(b)
+    if not ta or not tb:
+        return 0.0
+    w = (lambda t: idf.get(t, max(idf.values(), default=1.0))) if idf else (lambda t: 1.0)
+    matched = {x for x in ta if any(same_token(x, y) for y in tb)}
+    shared = sum(w(x) for x in matched)
+    union = shared + sum(w(x) for x in ta - matched) + \
+        sum(w(y) for y in tb if not any(same_token(x, y) for x in matched))
+    tok = shared / union if union else 0.0
+    ch = SequenceMatcher(None, norm(a).replace(" ", ""), norm(b).replace(" ", "")).ratio()
+    return max(tok, ch if ch >= CHAR_SIM_MIN else 0.0)
+
+
+def label_idf(labels: list[str]) -> dict[str, float]:
+    df = Counter(t for x in labels for t in tokens(x))
+    n = len(labels)
+    return {t: math.log((1 + n) / (1 + c)) + 1 for t, c in df.items()}
 
 
 def strip_markup(body: str) -> str:
@@ -968,10 +998,11 @@ def similar(query: str) -> int:
     docs = [" ".join([a.get("title", "")] + list(a.get("aliases") or []) + [str(a.get("summary", ""))])
             for a in arts] + [query]
     vec = tfidf(docs)
+    idf = label_idf([x for a in arts for x in [a.get("title", "")] + list(a.get("aliases") or [])])
     scored = []
     for a, v in zip(arts, vec):
         labels = [a.get("title", "")] + list(a.get("aliases") or [])
-        lab = 1.0 if norm(query) in {norm(x) for x in labels} else max(label_sim(query, x) for x in labels)
+        lab = 1.0 if norm(query) in {norm(x) for x in labels} else max(label_sim(query, x, idf) for x in labels)
         scored.append((max(lab, cosine(vec[-1], v)), lab, cosine(vec[-1], v), a["id"], a.get("title")))
     print("score  label  tfidf  id  title")
     for s, lab, cs, i, t in sorted(scored, reverse=True)[:10]:

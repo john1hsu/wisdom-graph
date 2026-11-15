@@ -271,6 +271,23 @@ def test_similar_and_new(tmp_path):
     assert r.returncode == 0 and "selfCheck:" in (t / "articles" / "virtues-and-character" / "patience.md").read_text()
 
 
+def test_similar_label_score(tmp_path):
+    """Short or loosely related labels must not hit the 0.5 duplicate threshold; real variants still must."""
+    t = make_tree(tmp_path)
+
+    def top(q):
+        line = run(t, "similar", q).stdout.splitlines()[1].split()
+        return float(line[1]), line[3]   # label score, id
+
+    assert top("Seasoning")[0] < 0.5                    # character noise only (old score 0.78 vs "reasoning")
+    assert top("Wise leadership")[0] < 0.5              # one common word only (old score 0.62)
+    assert top("Sadness")[0] < 0.5                      # old score 0.67 vs "Rashness"
+    score, node = top("Wise reasoning skills")
+    assert node == "wg:wise-reasoning" and score >= 0.5  # distinctive words shared
+    assert top("Solomons paradoxes")[0] >= 0.5          # inflection / prefix variant
+    assert top("Stoicism") == (1.0, "wg:stoicism")      # exact title
+
+
 def test_empty_tree(tmp_path):
     t = make_tree(tmp_path, {})
     r = run(t, "build")
