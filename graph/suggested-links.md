@@ -5,10 +5,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.45 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues`, `wg:seeking-counsel` |
-| 2.76 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.74 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
 | 2.73 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:seeking-counsel`, `wg:wise-reasoning` |
 | 2.73 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
+| 2.70 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.64 | `wg:igor-grossmann` | `wg:interpersonal-conflict` | `wg:aging-and-wisdom-culture-study`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:self-distancing`, `wg:solomons-paradox` |
 | 2.47 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:robert-sternberg` |
 | 2.21 | `wg:emulating-moral-exemplars` | `wg:honesty` | `wg:aristotelian-virtue-ethics`, `wg:moral-psychology`, `wg:virtue-ethics` |

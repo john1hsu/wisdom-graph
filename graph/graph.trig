@@ -18,6 +18,16 @@
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/memento-mori#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/adversity-and-mortality/mono-no-aware.md" .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/adversity-and-mortality/post-traumatic-growth.md" .
@@ -831,6 +841,82 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/wisdom-graph/id/source/memento-mori/s6> <https://schema.org/url> <https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/mono-no-aware#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2000/01/rdf-schema#label> "Mono no aware" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#altLabel> "sensitivity to the transience of things" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#altLabel> "the pathos of things" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#altLabel> "もののあはれ" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#altLabel> "物の哀れ" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#definition> "A classical Japanese ideal of feeling deeply moved by things because they pass: an empathetic, often bittersweet sensitivity to the fleeting beauty of nature and human life, which the scholar Motoori Norinaga made the central concept of Japanese literature." .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mono no aware" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "adversity-and-mortality" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/adversity-and-mortality/mono-no-aware.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Parkes & Loughnane; substantive revision 2023)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> <http://purl.org/dc/terms/title> "Japanese Aesthetics" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/japanese-aesthetics/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> <http://purl.org/dc/terms/publisher> "Motoori Norinaga Memorial Museum, Matsusaka" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> <http://purl.org/dc/terms/title> "Motoori Norinaga (1730–1801)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2> <https://schema.org/url> <https://www.norinagakinenkan.com/pages/220/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> <http://purl.org/dc/terms/title> "Motoori Norinaga" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3> <https://schema.org/url> <https://www.britannica.com/biography/Motoori-Norinaga> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> <http://purl.org/dc/terms/publisher> "Emotion, 21(8), 1650–1659 (Larsen, Hershfield, Cazares, Hogan & Carstensen, 2021), via PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> <http://purl.org/dc/terms/title> "Meaningful endings and mixed emotions: The double-edged sword of reminiscence on good times" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC8817627> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> <http://purl.org/dc/terms/publisher> "PhD dissertation, Department of Psychology, University of Virginia (Kurtz, 2007)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> <http://purl.org/dc/terms/title> "Looking to the future to appreciate the present: The benefits of perceived temporal scarcity" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5> <https://schema.org/url> <https://libraetd.lib.virginia.edu/public_view/7w62f833c> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> <http://purl.org/dc/terms/publisher> "Association for Psychological Science (on Kurtz, Psychological Science, 2008)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> <http://purl.org/dc/terms/title> "Making the most of it: Study reveals motivating factor for enjoying the present" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6> <https://schema.org/url> <https://www.psychologicalscience.org/?p=33341> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> <http://purl.org/dc/terms/publisher> "JapanPitt, University of Pittsburgh (adapted from Japan: An Illustrated Encyclopedia, Kodansha, 1993)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> <http://purl.org/dc/terms/title> "mono no aware" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7> <https://schema.org/url> <https://japanpitt.pitt.edu/taxonomy/term/241> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth#graph> {
@@ -7303,6 +7389,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/david-hume> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7406,6 +7493,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/empathic-distress> <https://github.com/john1hsu/wisdom-graph/ontology#causedBy> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/empathic-distress> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy-and-its-discontents> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
@@ -7583,6 +7671,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
@@ -7670,6 +7759,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+  <https://github.com/john1hsu/wisdom-graph/id/impermanence> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/impetuosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/impetuosity> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/impetuosity> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
@@ -7774,6 +7864,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/introspection-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intuitive-judgment> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+  <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/journey-to-the-east> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/karma-yoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
@@ -7876,6 +7968,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
@@ -7890,6 +7983,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/monika-ardelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/monika-ardelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/monika-ardelt> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -7917,6 +8012,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -8166,6 +8264,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/samkhya> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/search-for-meaning-dynamics-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -8323,6 +8422,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -8492,6 +8592,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
   <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

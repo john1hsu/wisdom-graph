@@ -3509,6 +3509,83 @@
   ]
  },
  {
+  "id": "wg:mono-no-aware",
+  "title": "Mono no aware",
+  "aliases": [
+   "the pathos of things",
+   "sensitivity to the transience of things",
+   "物の哀れ",
+   "もののあはれ"
+  ],
+  "type": "Concept",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/adversity-and-mortality/mono-no-aware.md",
+  "created": "2026-11-15",
+  "summary": "A classical Japanese ideal of feeling deeply moved by things because they pass: an empathetic, often bittersweet sensitivity to the fleeting beauty of nature and human life, which the scholar Motoori Norinaga made the central concept of Japanese literature.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:japanese-aesthetics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socioemotional-selectivity-theory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wabi-sabi"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:motoori-norinaga",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:impermanence",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:emotional-suppression",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRIES/japanese-aesthetics/",
+   "https://www.norinagakinenkan.com/pages/220/",
+   "https://www.britannica.com/biography/Motoori-Norinaga",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8817627",
+   "https://libraetd.lib.virginia.edu/public_view/7w62f833c",
+   "https://www.psychologicalscience.org/?p=33341",
+   "https://japanpitt.pitt.edu/taxonomy/term/241"
+  ]
+ },
+ {
   "id": "wg:moral-algebra",
   "title": "Moral algebra",
   "aliases": [

@@ -5794,6 +5794,104 @@
    "wgo:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Parkes & Loughnane; substantive revision 2023)",
+   "dcterms:title": "Japanese Aesthetics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/japanese-aesthetics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Motoori Norinaga Memorial Museum, Matsusaka",
+   "dcterms:title": "Motoori Norinaga (1730–1801)",
+   "schema:url": {
+    "@id": "https://www.norinagakinenkan.com/pages/220/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Motoori Norinaga",
+   "schema:url": {
+    "@id": "https://www.britannica.com/biography/Motoori-Norinaga"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Emotion, 21(8), 1650–1659 (Larsen, Hershfield, Cazares, Hogan & Carstensen, 2021), via PubMed Central",
+   "dcterms:title": "Meaningful endings and mixed emotions: The double-edged sword of reminiscence on good times",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8817627"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "PhD dissertation, Department of Psychology, University of Virginia (Kurtz, 2007)",
+   "dcterms:title": "Looking to the future to appreciate the present: The benefits of perceived temporal scarcity",
+   "schema:url": {
+    "@id": "https://libraetd.lib.virginia.edu/public_view/7w62f833c"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Association for Psychological Science (on Kurtz, Psychological Science, 2008)",
+   "dcterms:title": "Making the most of it: Study reveals motivating factor for enjoying the present",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/?p=33341"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "JapanPitt, University of Pittsburgh (adapted from Japan: An Illustrated Encyclopedia, Kodansha, 1993)",
+   "dcterms:title": "mono no aware",
+   "schema:url": {
+    "@id": "https://japanpitt.pitt.edu/taxonomy/term/241"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -12223,6 +12321,85 @@
      "@id": "wg:stoicism"
     }
    ]
+  },
+  {
+   "@id": "wg:mono-no-aware",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s7"
+    }
+   ],
+   "rdfs:label": "Mono no aware",
+   "skos:altLabel": [
+    "もののあはれ",
+    "物の哀れ",
+    "sensitivity to the transience of things",
+    "the pathos of things"
+   ],
+   "skos:broader": {
+    "@id": "wg:japanese-aesthetics"
+   },
+   "skos:definition": "A classical Japanese ideal of feeling deeply moved by things because they pass: an empathetic, often bittersweet sensitivity to the fleeting beauty of nature and human life, which the scholar Motoori Norinaga made the central concept of Japanese literature.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Mono no aware",
+   "skos:related": [
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:savoring"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    },
+    {
+     "@id": "wg:wabi-sabi"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:emotional-suppression"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/adversity-and-mortality/mono-no-aware.md",
+   "wgo:influencedBy": {
+    "@id": "wg:impermanence"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:motoori-norinaga"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:moral-algebra",
