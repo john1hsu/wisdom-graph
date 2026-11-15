@@ -842,3 +842,20 @@ Ask yourself:
 - Is my confidence coming from the facts of this case, or from my position and past success?
 - What will the people who watched me decide this learn about how to decide?
 
+## wisdom-traditions
+
+### [Bhagavad Gita](../articles/wisdom-traditions/bhagavad-gita.md) — Work
+
+*A project lead has spent months on a proposal that goes to a review board next week, and a promotion may ride on the board's verdict.*
+
+| Before | After |
+|---|---|
+| Everything depends on their yes. I'll cut the risky analysis they might question, and if they say no, the whole year was wasted. | My part is to make this proposal as sound and honest as I can, including the analysis they might question. I want a yes, but I'll judge my work by whether I did it well, not only by what the board decides. |
+
+**Why:** The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks.
+
+Ask yourself:
+- Am I doing this because it is the right thing for me to do here, or only for what I hope to get from it?
+- If the result goes against me, will I still be able to say I acted well?
+- Is my calm steadiness, or have I quietly stopped caring about the people my action affects?
+

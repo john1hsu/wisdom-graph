@@ -310,6 +310,93 @@
   ]
  },
  {
+  "id": "wg:bhagavad-gita",
+  "title": "Bhagavad Gita",
+  "aliases": [
+   "Bhagavadgita",
+   "Bhagavad Gītā",
+   "the Gita",
+   "Song of the Lord",
+   "भगवद्गीता"
+  ],
+  "type": "Work",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/wisdom-traditions/bhagavad-gita.md",
+  "created": "2026-11-15",
+  "summary": "A Sanskrit dialogue set in Book VI of the Mahabharata, probably composed around the first or second century CE, in which Krishna answers the warrior Arjuna's moral paralysis before battle with teachings on acting without attachment to results, on one's own duty, on steady wisdom and equanimity, and on knowledge and devotion.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:indian-philosophy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:karma-yoga"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:mahabharata",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:upanishads",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:samkhya",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I doing this because it is the right thing for me to do here, or only for what I hope to get from it?",
+   "If the result goes against me, will I still be able to say I acted well?",
+   "Is my calm steadiness, or have I quietly stopped caring about the people my action affects?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A project lead has spent months on a proposal that goes to a review board next week, and a promotion may ride on the board's verdict.",
+   "before": "Everything depends on their yes. I'll cut the risky analysis they might question, and if they say no, the whole year was wasted.",
+   "after": "My part is to make this proposal as sound and honest as I can, including the analysis they might question. I want a yes, but I'll judge my work by whether I did it well, not only by what the board decides.",
+   "why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
+  },
+  "source_urls": [
+   "https://iep.utm.edu/bhagavad-gita/",
+   "https://archive.org/download/bhagavadgtwithsa00tela/bhagavadgtwithsa00tela.pdf",
+   "https://www.britannica.com/topic/Bhagavadgita",
+   "https://www.mkgandhi.org/ebks/gita.pdf",
+   "https://data.zhenzhi.com/details/1/860964303"
+  ]
+ },
+ {
   "id": "wg:buddhism",
   "title": "Buddhism",
   "aliases": [

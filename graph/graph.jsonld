@@ -148,6 +148,38 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I doing this because it is the right thing for me to do here, or only for what I hope to get from it?",
+   "wgo:questionFor": {
+    "@id": "wg:bhagavad-gita"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If the result goes against me, will I still be able to say I acted well?",
+   "wgo:questionFor": {
+    "@id": "wg:bhagavad-gita"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my calm steadiness, or have I quietly stopped caring about the people my action affects?",
+   "wgo:questionFor": {
+    "@id": "wg:bhagavad-gita"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "My part is to make this proposal as sound and honest as I can, including the analysis they might question. I want a yes, but I'll judge my work by whether I did it well, not only by what the board decides.",
+   "wgo:before": "Everything depends on their yes. I'll cut the risky analysis they might question, and if they say no, the whole year was wasted.",
+   "wgo:situation": "A project lead has spent months on a proposal that goes to a review board next week, and a promotion may ride on the board's verdict.",
+   "wgo:why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I actually noticed what this person is going through, or only what their trouble costs me?",
@@ -2734,6 +2766,76 @@
     "@id": "https://med.virginia.edu/wisdom/publications/ardelt/"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Shyam Ranganathan, York University)",
+   "dcterms:title": "The Bhagavad Gītā",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/bhagavad-gita/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Oxford, Clarendon Press (1908), scanned by the Internet Archive",
+   "dcterms:title": "The Bhagavadgîtâ, with the Sanatsugâtîya and the Anugîtâ (Sacred Books of the East, vol. VIII), translated by Kâshinâth Trimbak Telang, 2nd ed.",
+   "schema:url": {
+    "@id": "https://archive.org/download/bhagavadgtwithsa00tela/bhagavadgtwithsa00tela.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Bhagavadgita",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Bhagavadgita"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "mkgandhi.org e-book",
+   "dcterms:title": "The Gita According to Gandhi (introduction by M. K. Gandhi, commentary by Mahadev Desai; foreword dated 1946)",
+   "schema:url": {
+    "@id": "https://www.mkgandhi.org/ebks/gita.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Psychiatry: Interpersonal and Biological Processes, 71(3), 197–209 (Jeste & Vahia, 2008; doi:10.1521/psyc.2008.71.3.197), record via Zhenzhi Data",
+   "dcterms:title": "Comparison of the Conceptualization of Wisdom in Ancient Indian Literature with Modern Views: Focus on the Bhagavad Gita",
+   "schema:url": {
+    "@id": "https://data.zhenzhi.com/details/1/860964303"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1",
@@ -8628,6 +8730,85 @@
    "wgo:level": "introductory",
    "wgo:studiedIn": {
     "@id": "wg:lifespan-developmental-psychology"
+   }
+  },
+  {
+   "@id": "wg:bhagavad-gita",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s5"
+    }
+   ],
+   "rdfs:label": "Bhagavad Gita",
+   "skos:altLabel": [
+    "Bhagavad Gītā",
+    "Bhagavadgita",
+    "Song of the Lord",
+    "भगवद्गीता",
+    "the Gita"
+   ],
+   "skos:broader": {
+    "@id": "wg:indian-philosophy"
+   },
+   "skos:definition": "A Sanskrit dialogue set in Book VI of the Mahabharata, probably composed around the first or second century CE, in which Krishna answers the warrior Arjuna's moral paralysis before battle with teachings on acting without attachment to results, on one's own duty, on steady wisdom and equanimity, and on knowledge and devotion.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Bhagavad Gita",
+   "skos:related": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:karma-yoga"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "historical",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita/example"
+   },
+   "wgo:file": "articles/wisdom-traditions/bhagavad-gita.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:samkhya"
+    },
+    {
+     "@id": "wg:upanishads"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:mahabharata"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
    }
   },
   {
