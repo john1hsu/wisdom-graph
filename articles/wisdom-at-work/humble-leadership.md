@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:wise-leadership]
-related: [wg:intellectual-humility, wg:seeking-counsel, wg:humility, wg:hubris]
+related: [wg:intellectual-humility, wg:seeking-counsel, wg:humility, wg:hubris, wg:servant-leadership]
 requires: []
 relations:
   - {predicate: appliedIn, object: wg:leading-others, source: s1, confidence: high}

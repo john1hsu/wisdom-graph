@@ -2304,6 +2304,10 @@
     "object": "wg:hubris"
    },
    {
+    "predicate": "skos:related",
+    "object": "wg:servant-leadership"
+   },
+   {
     "predicate": "wgo:appliedIn",
     "object": "wg:leading-others",
     "source": "s1",
@@ -5143,6 +5147,126 @@
    "https://www.library.hbs.edu/working-knowledge/reflecting-on-work-improves-job-performance",
    "https://papers.ssrn.com/abstract=2414478",
    "https://archive.news.ufl.edu/articles/2003/06/uf-professor-self-reflection-more-critical-to-wisdom-than-knowledge.html"
+  ]
+ },
+ {
+  "id": "wg:servant-leadership",
+  "title": "Servant leadership",
+  "aliases": [
+   "servant-leadership",
+   "servant leader",
+   "servant-first leadership",
+   "Greenleaf's servant leadership"
+  ],
+  "type": "Practice",
+  "domain": "wisdom-at-work",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/servant-leadership.md",
+  "created": "2026-11-15",
+  "summary": "An approach to leading, named by Robert K. Greenleaf in 1970, in which the leader's first motive is to serve: attending to each follower's needs and growth as ends in themselves, holding people and resources in trust, and staying accountable to the wider community the organisation affects.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humble-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stewardship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:robert-k-greenleaf",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:the-servant-as-leader",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:journey-to-the-east",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:transformational-leadership",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:servant-leadership-meta-analysis",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:construct-redundancy-in-leader-behaviors-review",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:servant-leadership-leader-strain-study",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Are the people I lead growing - more capable, more independent - because of how I lead them?",
+   "Am I serving their real needs, or just pleasing them and avoiding hard calls?",
+   "Who outside my team, especially with the least power, is affected by this decision, and have I considered them?",
+   "Is serving others leaving me exhausted or torn between conflicting demands, and have I asked for the support I need?"
+  ],
+  "steps": [
+   "Before a decision that affects your team, write down who it serves and what each person directly affected needs from it.",
+   "Hold a regular one-to-one with each person that is about their growth (skills, goals, what is getting in their way), not only about tasks.",
+   "Remove one concrete obstacle per week that is slowing someone else down, and tell them it is done.",
+   "Persuade rather than order where time allows - explain the reasons for a decision and listen to objections before closing it.",
+   "Ask how the decision lands on people outside the team (customers, other departments, the community), and on the least powerful people it touches.",
+   "Keep setting direction and holding standards, and say no to requests that would serve one person at the cost of the team or the work.",
+   "Protect your own capacity - agree with your own manager what you can take on, and get support when serving others starts to drain you."
+  ],
+  "example": {
+   "situation": "A team lead is asked to move a capable junior analyst onto a high-visibility project that the lead could take on personally, and the analyst has said she wants to build client-facing skills.",
+   "before": "I'll keep the client project myself - it's my chance to shine, and she can stay on the reporting work she's good at.",
+   "after": "This project is the growth she asked for. I'll give it to her, sit in on the first two client calls, debrief her after each one, and make sure her name is on the result when we report upward.",
+   "why": "The wiser response treats the analyst's development as a goal in its own right while still guarding the quality of the work, which is the balance servant leadership asks for; it also avoids using the role mainly to advance oneself."
+  },
+  "source_urls": [
+   "https://greenleaf.org/what-is-servant-leadership/",
+   "https://slcop.sites.wisc.edu/wp-content/uploads/sites/80/2025/03/The-Understanding-and-Practice-of-SL-by-Larry-Spears.pdf",
+   "https://pure.eur.nl/en/publications/servant-leadership-a-systematic-review-and-call-for-future-resear/",
+   "https://ore.exeter.ac.uk/repository/bitstream/handle/10871/36336/SL%20MA%20JOOP%20r2%20final.pdf?sequence=2",
+   "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_2065253380",
+   "https://research.polyu.edu.hk/en/publications/serving-while-being-energized-strained-a-dual-path-model-linking-/"
   ]
  },
  {

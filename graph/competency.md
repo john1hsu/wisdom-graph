@@ -79,6 +79,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:practical-wisdom` |
+| `wg:leading-others` | `wg:servant-leadership` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
 | `wg:learning-from-experience` | `wg:after-action-review` |
@@ -90,7 +91,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:professional-work` | `wg:practical-wisdom` |
 | `wg:reconciliation` | `wg:ubuntu` |
 | `wg:serious-illness` | `wg:logotherapy` |
-| `wg:workplace-feedback` | `wg:honesty` |
+
+…and 1 more.
 
 ## Myths and contested advice
 
@@ -129,7 +131,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:regret` | mixed |  |
 | `wg:resilience` | mixed | `wg:resilience-rates-reanalysis-study` |
 
-…and 11 more.
+…and 13 more.
 
 ## Ideas with no recorded origin (gap)
 

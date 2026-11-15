@@ -842,6 +842,30 @@ Ask yourself:
 - Am I asking for input because I will use it, or to look open?
 - Does this situation call for listening and learning, or for a fast, clear decision that I can review with the team later?
 
+### [Servant leadership](../articles/wisdom-at-work/servant-leadership.md) — Practice
+
+1. Before a decision that affects your team, write down who it serves and what each person directly affected needs from it.
+2. Hold a regular one-to-one with each person that is about their growth (skills, goals, what is getting in their way), not only about tasks.
+3. Remove one concrete obstacle per week that is slowing someone else down, and tell them it is done.
+4. Persuade rather than order where time allows - explain the reasons for a decision and listen to objections before closing it.
+5. Ask how the decision lands on people outside the team (customers, other departments, the community), and on the least powerful people it touches.
+6. Keep setting direction and holding standards, and say no to requests that would serve one person at the cost of the team or the work.
+7. Protect your own capacity - agree with your own manager what you can take on, and get support when serving others starts to drain you.
+
+*A team lead is asked to move a capable junior analyst onto a high-visibility project that the lead could take on personally, and the analyst has said she wants to build client-facing skills.*
+
+| Before | After |
+|---|---|
+| I'll keep the client project myself - it's my chance to shine, and she can stay on the reporting work she's good at. | This project is the growth she asked for. I'll give it to her, sit in on the first two client calls, debrief her after each one, and make sure her name is on the result when we report upward. |
+
+**Why:** The wiser response treats the analyst's development as a goal in its own right while still guarding the quality of the work, which is the balance servant leadership asks for; it also avoids using the role mainly to advance oneself.
+
+Ask yourself:
+- Are the people I lead growing - more capable, more independent - because of how I lead them?
+- Am I serving their real needs, or just pleasing them and avoiding hard calls?
+- Who outside my team, especially with the least power, is affected by this decision, and have I considered them?
+- Is serving others leaving me exhausted or torn between conflicting demands, and have I asked for the support I need?
+
 ### [Wise leadership](../articles/wisdom-at-work/wise-leadership.md) — Concept
 
 *A team lead is told to ship a feature by Friday to hit a quarterly target; testing has found that it occasionally shows one customer's order history to another.*

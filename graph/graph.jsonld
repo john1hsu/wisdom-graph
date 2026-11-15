@@ -2484,6 +2484,116 @@
    "wgo:why": "Reflection driven by curiosity and aimed at a lesson produces insight you can act on, whereas anxious self-scrutiny replays the hurt without improving the next decision."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Are the people I lead growing - more capable, more independent - because of how I lead them?",
+   "wgo:questionFor": {
+    "@id": "wg:servant-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I serving their real needs, or just pleasing them and avoiding hard calls?",
+   "wgo:questionFor": {
+    "@id": "wg:servant-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who outside my team, especially with the least power, is affected by this decision, and have I considered them?",
+   "wgo:questionFor": {
+    "@id": "wg:servant-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is serving others leaving me exhausted or torn between conflicting demands, and have I asked for the support I need?",
+   "wgo:questionFor": {
+    "@id": "wg:servant-leadership"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "This project is the growth she asked for. I'll give it to her, sit in on the first two client calls, debrief her after each one, and make sure her name is on the result when we report upward.",
+   "wgo:before": "I'll keep the client project myself - it's my chance to shine, and she can stay on the reporting work she's good at.",
+   "wgo:situation": "A team lead is asked to move a capable junior analyst onto a high-visibility project that the lead could take on personally, and the analyst has said she wants to build client-facing skills.",
+   "wgo:why": "The wiser response treats the analyst's development as a goal in its own right while still guarding the quality of the work, which is the balance servant leadership asks for; it also avoids using the role mainly to advance oneself."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Servant leadership",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Before a decision that affects your team, write down who it serves and what each person directly affected needs from it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Hold a regular one-to-one with each person that is about their growth (skills, goals, what is getting in their way), not only about tasks."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Remove one concrete obstacle per week that is slowing someone else down, and tell them it is done."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Persuade rather than order where time allows - explain the reasons for a decision and listen to objections before closing it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Ask how the decision lands on people outside the team (customers, other departments, the community), and on the least powerful people it touches."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Keep setting direction and holding standards, and say no to requests that would serve one person at the cost of the team or the work."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Protect your own capacity - agree with your own manager what you can take on, and get support when serving others starts to drain you."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Do I actually know this, or am I only confident about it?",
@@ -6952,6 +7062,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Robert K. Greenleaf Center for Servant Leadership (Seton Hall University), quoting Greenleaf's The Servant as Leader (1970)",
+   "dcterms:title": "What is Servant Leadership?",
+   "schema:url": {
+    "@id": "https://greenleaf.org/what-is-servant-leadership/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Larry C. Spears, Greenleaf Center; Servant Leadership Research Roundtable, Regent University School of Leadership Studies (2005); copy hosted by a University of Wisconsin-Madison servant-leadership community of practice",
+   "dcterms:title": "The Understanding and Practice of Servant-Leadership",
+   "schema:url": {
+    "@id": "https://slcop.sites.wisc.edu/wp-content/uploads/sites/80/2025/03/The-Understanding-and-Practice-of-SL-by-Larry-Spears.pdf"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Leadership Quarterly, 30(1), 111-132 (Eva, Robin, Sendjaya, van Dierendonck & Liden, 2019; doi:10.1016/j.leaqua.2018.07.004; Erasmus University research portal)",
+   "dcterms:title": "Servant leadership: A systematic review and call for future research",
+   "schema:url": {
+    "@id": "https://pure.eur.nl/en/publications/servant-leadership-a-systematic-review-and-call-for-future-resear/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Occupational and Organizational Psychology, 93(1), 1-44 (Lee, Lyubovnikova, Tian & Knight, 2020; doi:10.1111/joop.12265; University of Exeter accepted manuscript)",
+   "dcterms:title": "Servant leadership: A meta-analytic examination of incremental contribution, moderation, and mediation",
+   "schema:url": {
+    "@id": "https://ore.exeter.ac.uk/repository/bitstream/handle/10871/36336/SL%20MA%20JOOP%20r2%20final.pdf?sequence=2"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Leadership Quarterly, 29(1), 236-251 (Banks, Gooty, Ross, Williams & Harrington, 2018; doi:10.1016/j.leaqua.2017.12.005; library catalogue record)",
+   "dcterms:title": "Construct redundancy in leader behaviors: A review and agenda for the future",
+   "schema:url": {
+    "@id": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_2065253380"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 108(4), 660-675 (Li, Chen, Bai, Liden, Wong & Qiao, 2023; doi:10.1037/apl0001041; Hong Kong Polytechnic University research portal)",
+   "dcterms:title": "Serving while being energized (strained)? A dual-path model linking servant leadership to leader psychological strain and job performance",
+   "schema:url": {
+    "@id": "https://research.polyu.edu.hk/en/publications/serving-while-being-energized-strained-a-dual-path-model-linking-/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/seven-sages-of-greece/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -10682,6 +10876,9 @@
     },
     {
      "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:servant-leadership"
     }
    ],
    "wgo:addresses": {
@@ -13176,6 +13373,102 @@
    },
    "wgo:rootedIn": {
     "@id": "wg:socratic-philosophy"
+   }
+  },
+  {
+   "@id": "wg:servant-leadership",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s6"
+    }
+   ],
+   "rdfs:label": "Servant leadership",
+   "skos:altLabel": [
+    "Greenleaf's servant leadership",
+    "servant leader",
+    "servant-first leadership",
+    "servant-leadership"
+   ],
+   "skos:broader": {
+    "@id": "wg:wise-leadership"
+   },
+   "skos:definition": "An approach to leading, named by Robert K. Greenleaf in 1970, in which the leader's first motive is to serve: attending to each follower's needs and growth as ends in themselves, holding people and resources in trust, and staying accountable to the wider community the organisation affects.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Servant leadership",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:stewardship"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:construct-redundancy-in-leader-behaviors-review"
+    },
+    {
+     "@id": "wg:servant-leadership-leader-strain-study"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:transformational-leadership"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/servant-leadership.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/howto"
+   },
+   "wgo:influencedBy": {
+    "@id": "wg:journey-to-the-east"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:robert-k-greenleaf"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:the-servant-as-leader"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:servant-leadership-meta-analysis"
    }
   },
   {
