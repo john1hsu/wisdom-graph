@@ -103,6 +103,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 |---|---|---|
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:different-types-of-well-being-study` |
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:reconsidering-happiness-critique` |
+| `wg:ikigai` | contested | `wg:ikigai-outcome-wide-study` |
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
@@ -130,9 +131,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:process-model-of-emotion-regulation` | mixed |  |
-| `wg:psychology-of-wisdom` | mixed |  |
 
-…and 19 more.
+…and 20 more.
 
 ## Ideas with no recorded origin (gap)
 
