@@ -6729,6 +6729,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Peter T. Coleman, American Psychologist (January 2018), reprinted by Teachers College, Columbia University",
+   "dcterms:title": "Morton Deutsch (1920–2017)",
+   "schema:url": {
+    "@id": "https://www.tc.columbia.edu/articles/2018/february/morton-deutsch-is-recalled-by-peter-coleman-in-american-psychologist"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Negotiation Journal, January 2018, 105–116 (Coleman), author copy via Columbia University",
+   "dcterms:title": "Ten Major Scientific Contributions that Promote a More Just, Peaceful, and Sustainable World",
+   "schema:url": {
+    "@id": "https://ac4.climate.columbia.edu/sites/default/files/content/Ten_Major_Scientific_Contribut.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Beyond Intractability, Conflict Information Consortium (summary of Deutsch, Yale University Press, 1973)",
+   "dcterms:title": "Summary of \"The Resolution of Conflict: Constructive and Destructive Processes\"",
+   "schema:url": {
+    "@id": "https://www.beyondintractability.org/bksum/deutsch-resolution"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Beyond Intractability, Conflict Information Consortium (summary of Deutsch's chapter in The Handbook of Conflict Resolution, Jossey-Bass, 2000)",
+   "dcterms:title": "Summary of \"Cooperation and Competition\"",
+   "schema:url": {
+    "@id": "https://www.beyondintractability.org/artsum/deutsch-cooperation"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Tjosvold & Johnson (2000), in Beyerlein (ed.), Work Teams, Springer, doi:10.1007/978-94-015-9492-9_8; Lingnan University record",
+   "dcterms:title": "Deutsch's theory of cooperation and competition: An enduring contribution to teams",
+   "schema:url": {
+    "@id": "https://scholars.ln.edu.hk/en/publications/deustchs-theory-of-cooperation-and-competition-an-enduring-contri/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "University of Minnesota (doctoral dissertation, Hilk, 2013), University Digital Conservancy",
+   "dcterms:title": "Effects of Cooperative, Competitive, and Individualistic Learning Structures on College Student Achievement and Peer Relationships: A Series of Meta-Analyses",
+   "schema:url": {
+    "@id": "https://conservancy.umn.edu/server/api/core/bitstreams/d484edf9-acfb-418e-ae59-010722bfce7a/content"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mourning-and-melancholia/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -14049,6 +14133,94 @@
    "wgo:supportedBy": {
     "@id": "wg:improper-linear-models-study"
    }
+  },
+  {
+   "@id": "wg:morton-deutsch",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s6"
+    }
+   ],
+   "rdfs:label": "Morton Deutsch",
+   "skos:altLabel": "Mort Deutsch",
+   "skos:broader": {
+    "@id": "wg:social-psychologists"
+   },
+   "skos:definition": "American social psychologist (1920–2017) who founded the modern study of conflict resolution: his theory of cooperation and competition and his account of constructive versus destructive conflict ask what turns a disagreement between people into a shared problem or a spiral of suspicion.",
+   "skos:exactMatch": {
+    "@id": "https://github.com/john1hsu/communication-graph/id/morton-deutsch"
+   },
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Morton Deutsch",
+   "skos:related": [
+    {
+     "@id": "wg:egocentric-bias"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:intergroup-conflict"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:social-psychology"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:authored": {
+    "@id": "wg:resolution-of-conflict"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/morton-deutsch.md",
+   "wgo:influencedBy": {
+    "@id": "wg:kurt-lewin"
+   },
+   "wgo:introduced": [
+    {
+     "@id": "wg:crude-law-of-social-relations"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:theory-of-cooperation-and-competition"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:mourning-and-melancholia",
