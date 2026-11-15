@@ -6567,6 +6567,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "American Journal of Geriatric Psychiatry, 21(12), 1254–1266 (Bangen, Meeks & Jeste, 2013), eScholarship, University of California",
+   "dcterms:title": "Defining and assessing wisdom: A review of the literature",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt0fs7k644/qt0fs7k644.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Open Encyclopedia of Cognitive Science, MIT Press (Igor Grossmann, 2024)",
+   "dcterms:title": "Wisdom",
+   "schema:url": {
+    "@id": "https://oecs.knowledgefutures.org/pub/wdkwb956"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "JAMA Psychiatry, 77(9) (Lee, Bangen, Avanzino et al., with Jeste, 2020), eScholarship, University of California",
+   "dcterms:title": "Outcomes of randomized clinical trials of interventions to enhance social, emotional, and spiritual components of wisdom: A systematic review and meta-analysis",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt5rt6n0gp/qt5rt6n0gp.pdf?t=qay1vd"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Chicago Center for Practical Wisdom, University of Chicago",
+   "dcterms:title": "Toronto Wisdom Task Force publishes common model of wisdom to guide future research",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/toronto-wisdom-task-force-publishes-common-model-wisdom-guide-future-research"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Center on Global Thought, Columbia University",
+   "dcterms:title": "Psychological wisdom research: Commonalities and differences in a growing field (Staudinger & Glück, Annual Review of Psychology, 2011)",
+   "schema:url": {
+    "@id": "https://cgt.columbia.edu/research/papers-and-research/psychological-wisdom-research-commonalities-and-differences-in-a-growing-field"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "APS Observer, Association for Psychological Science (on Grossmann, 2017, \"Wisdom in context\", Perspectives on Psychological Science)",
+   "dcterms:title": "The factors that foster wise reasoning",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -13238,6 +13322,96 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:dealing-with-feeling-meta-analysis"
+   }
+  },
+  {
+   "@id": "wg:psychology-of-wisdom",
+   "@type": "wgo:Field",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/psychology-of-wisdom/s6"
+    }
+   ],
+   "rdfs:label": "Psychology of wisdom",
+   "skos:altLabel": [
+    "empirical wisdom research",
+    "psychological wisdom research",
+    "science of wisdom",
+    "wisdom psychology"
+   ],
+   "skos:broader": {
+    "@id": "wg:lifespan-developmental-psychology"
+   },
+   "skos:definition": "The branch of psychology and gerontology, active since the 1970s, that studies wisdom empirically: how ordinary people understand it, how to define and measure it, how it develops across the lifespan and varies between situations and cultures, and whether its components can be trained.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Psychology of wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:common-wisdom-model"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    },
+    {
+     "@id": "wg:wisdom-interventions"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/science-of-wisdom/psychology-of-wisdom.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:igor-grossmann"
+    },
+    {
+     "@id": "wg:monika-ardelt"
+    },
+    {
+     "@id": "wg:paul-baltes"
+    },
+    {
+     "@id": "wg:robert-sternberg"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:wisdom-components-interventions-meta-analysis"
    }
   },
   {

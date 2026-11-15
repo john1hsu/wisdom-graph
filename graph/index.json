@@ -4370,6 +4370,102 @@
   ]
  },
  {
+  "id": "wg:psychology-of-wisdom",
+  "title": "Psychology of wisdom",
+  "aliases": [
+   "science of wisdom",
+   "psychological wisdom research",
+   "empirical wisdom research",
+   "wisdom psychology"
+  ],
+  "type": "Field",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/psychology-of-wisdom.md",
+  "created": "2026-11-15",
+  "summary": "The branch of psychology and gerontology, active since the 1970s, that studies wisdom empirically: how ordinary people understand it, how to define and measure it, how it develops across the lifespan and varies between situations and cultures, and whether its components can be trained.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:lifespan-developmental-psychology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:common-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-interventions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:paul-baltes",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:robert-sternberg",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:monika-ardelt",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:igor-grossmann",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wisdom-components-interventions-meta-analysis",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://escholarship.org/content/qt0fs7k644/qt0fs7k644.pdf",
+   "https://oecs.knowledgefutures.org/pub/wdkwb956",
+   "https://escholarship.org/content/qt5rt6n0gp/qt5rt6n0gp.pdf?t=qay1vd",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/toronto-wisdom-task-force-publishes-common-model-wisdom-guide-future-research",
+   "https://cgt.columbia.edu/research/papers-and-research/psychological-wisdom-research-commonalities-and-differences-in-a-growing-field",
+   "https://www.psychologicalscience.org/publications/observer/obsonline/the-factors-that-foster-wise-reasoning.html"
+  ]
+ },
+ {
   "id": "wg:purpose-in-life",
   "title": "Purpose in life",
   "aliases": [

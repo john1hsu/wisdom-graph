@@ -129,10 +129,10 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 | `wg:perspective-taking` | mixed | `wg:perspective-taking-empathic-concern-meta-analysis` |
 | `wg:process-model-of-emotion-regulation` | mixed |  |
+| `wg:psychology-of-wisdom` | mixed |  |
 | `wg:purpose-in-life` | mixed |  |
-| `wg:regret` | mixed |  |
 
-…and 15 more.
+…and 16 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -143,6 +143,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:emotional-suppression` | wgo:Obstacle |
 | `wg:interpersonal-conflict` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
+| `wg:psychology-of-wisdom` | wgo:Field |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:self-deception` | wgo:Obstacle |
