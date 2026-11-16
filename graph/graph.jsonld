@@ -10511,6 +10511,90 @@
    "wgo:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of California Academic Senate, In Memoriam series (notice by Joseph J. Campos)",
+   "dcterms:title": "Richard S. Lazarus, Psychology: Berkeley (In Memoriam)",
+   "schema:url": {
+    "@id": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/richardlazarus.html"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Annual Review of Psychology, 44, 1–22 (Lazarus, 1993); copy hosted by the University of Fribourg",
+   "dcterms:title": "From psychological stress to the emotions: A history of changing outlooks",
+   "schema:url": {
+    "@id": "https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4660/18222_105619.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality, 40(4), 601–619 (Koriat, Melkman, Averill & Lazarus, 1972); copy hosted by the University of Haifa",
+   "dcterms:title": "The self-control of emotional reactions to a stressful film",
+   "schema:url": {
+    "@id": "https://newiipdm.haifa.ac.il/wp-content/uploads/2015/05/1972-the-self-control-of-emotional-reactions-to-stressful-film.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 50(3), 571–579 (Folkman, Lazarus, Gruen & DeLongis, 1986); author copy, University of British Columbia",
+   "dcterms:title": "Appraisal, coping, health status, and psychological symptoms",
+   "schema:url": {
+    "@id": "https://delongis.psych.ubc.ca/files/2018/03/Appraisal-coping-health-status-and-psychological-symptoms.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 85(2), 348–362 (Gross & John, 2003), University of Victoria hosted copy",
+   "dcterms:title": "Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being",
+   "schema:url": {
+    "@id": "https://onlineacademiccommunity.uvic.ca/implicitassociationtestsyessir/wp-content/uploads/sites/9812/2025/12/gross-john-2003.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Cognition and Emotion, 33(1) (Levenson, 2019); Berkeley Psychophysiology Laboratory, University of California, Berkeley",
+   "dcterms:title": "Reflections on 30 years of Cognition & Emotion",
+   "schema:url": {
+    "@id": "https://bpl.studentorg.berkeley.edu/docs/19-%20Reflections%20on%2030%20years%20of%20Cognition%20%26%20Emotion.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -20279,6 +20363,109 @@
     "@id": "wg:regulatory-flexibility"
    },
    "wgo:file": "articles/adversity-and-mortality/resilience.md",
+   "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:richard-lazarus",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/richard-lazarus/s6"
+    }
+   ],
+   "rdfs:label": "Richard S. Lazarus",
+   "skos:altLabel": [
+    "R. S. Lazarus",
+    "Richard Lazarus",
+    "Richard Stanley Lazarus"
+   ],
+   "skos:broader": {
+    "@id": "wg:clinical-psychologists"
+   },
+   "skos:definition": "American psychologist (1922–2002) at the University of California, Berkeley, whose cognitive appraisal theory held that stress and emotion depend on how a person judges what an event means for their goals and well-being; his film experiments and his work with Susan Folkman on coping are the source of reappraisal as a named way of changing how one feels.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Richard S. Lazarus",
+   "skos:related": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:coping"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:emotion-regulation"
+    },
+    {
+     "@id": "wg:james-gross"
+    },
+    {
+     "@id": "wg:process-model-of-emotion-regulation"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:self-distancing"
+    }
+   ],
+   "wgo:authored": [
+    {
+     "@id": "wg:emotion-and-adaptation"
+    },
+    {
+     "@id": "wg:stress-appraisal-and-coping"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:robert-zajonc"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/richard-lazarus.md",
+   "wgo:influencedBy": {
+    "@id": "wg:magda-arnold"
+   },
+   "wgo:introduced": [
+    {
+     "@id": "wg:cognitive-appraisal-theory"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:transactional-model-of-stress-and-coping"
+    }
+   ],
    "wgo:level": "introductory"
   },
   {
