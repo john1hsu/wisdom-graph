@@ -942,6 +942,22 @@ Ask yourself:
 - Am I judging myself by my intentions while others can only see my behaviour?
 - Have I mistaken a confident story about my motives for real knowledge of them?
 
+### [Learning from experience](../articles/self-knowledge/learning-from-experience.md) — Context
+
+*In the space of a year, three people on a small team you manage have resigned, each giving a different reason on the way out.*
+
+| Before | After |
+|---|---|
+| You decide it was bad luck and a hot job market, tell yourself the team is stronger for the turnover, and move straight on to hiring replacements. | You lay the three departures side by side, note what you did in the months before each one and what followed, ask one former colleague who left on good terms what they saw, and notice that all three had asked for a change of scope that you postponed. You commit to discussing growth plans with every remaining report this quarter. |
+
+**Why:** The first response is a redemptive story that brings closure but no lesson; the second connects your own actions with their consequences and explores the pattern, which is the kind of processing linked to wisdom.
+
+Ask yourself:
+- Can I say what I did, what followed, and how I think the two are connected?
+- Am I examining this to understand it, or only to feel better about it and close the chapter?
+- Have I looked at what went well and why, not only at what went wrong?
+- Whose view of this experience would challenge my own version of it?
+
 ### [Regret](../articles/self-knowledge/regret.md) — Phenomenon
 
 *Two years ago you decided not to apply for a team-lead role; a colleague got it and is thriving, and the news of their promotion brings the old decision back.*

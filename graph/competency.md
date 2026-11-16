@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:interpersonal-conflict` | mixed |  |
 | `wg:kill-criteria` | mixed |  |
 
-…and 30 more.
+…and 31 more.
 
 ## Ideas with no recorded origin (gap)
 

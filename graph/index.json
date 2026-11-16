@@ -5318,6 +5318,144 @@
   ]
  },
  {
+  "id": "wg:learning-from-experience",
+  "title": "Learning from experience",
+  "aliases": [
+   "learning from life experience",
+   "experiential learning",
+   "reflective experience",
+   "lessons of experience"
+  ],
+  "type": "Context",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/learning-from-experience.md",
+  "created": "2026-11-16",
+  "summary": "The ordinary but demanding situation of trying to turn what has happened to you, good or bad, into better judgment next time. Wisdom here means connecting what you did with what followed, examining successes as well as failures, and exploring an experience for what it can teach rather than merely living through it or tying it up in a comforting story.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:personal-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:adversity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:insight"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:life-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:personal-and-general-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:post-traumatic-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:more-life-experience-model",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:hard-earned-wisdom-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:wisdom-and-life-experience-studies",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:after-event-reviews-success-and-failure-study",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:john-dewey",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:democracy-and-education",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:self-reflection",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Can I say what I did, what followed, and how I think the two are connected?",
+   "Am I examining this to understand it, or only to feel better about it and close the chapter?",
+   "Have I looked at what went well and why, not only at what went wrong?",
+   "Whose view of this experience would challenge my own version of it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "In the space of a year, three people on a small team you manage have resigned, each giving a different reason on the way out.",
+   "before": "You decide it was bad luck and a hot job market, tell yourself the team is stronger for the turnover, and move straight on to hiring replacements.",
+   "after": "You lay the three departures side by side, note what you did in the months before each one and what followed, ask one former colleague who left on good terms what they saw, and notice that all three had asked for a change of scope that you postponed. You commit to discussing growth plans with every remaining report this quarter.",
+   "why": "The first response is a redemptive story that brings closure but no lesson; the second connects your own actions with their consequences and explores the pattern, which is the kind of processing linked to wisdom."
+  },
+  "source_urls": [
+   "https://link.springer.com/article/10.1007/s10790-018-9661-x",
+   "https://eric.ed.gov/?id=EJ1134737",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017",
+   "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-11",
+   "https://pubmed.ncbi.nlm.nih.gov/16162059/",
+   "https://www.slideshare.net/slideshow/a-spurious-john-dewey-quotation-on-reflection/259649444"
+  ]
+ },
+ {
   "id": "wg:linda-hill",
   "title": "Linda A. Hill",
   "aliases": [

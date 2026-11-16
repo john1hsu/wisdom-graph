@@ -2425,6 +2425,46 @@
    "wgo:why": "Relying on title wins compliance at best and silences the people closest to the work; inviting their view and weighing it treats authority as responsibility for the decision rather than a licence to skip other people's knowledge."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/learning-from-experience/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Can I say what I did, what followed, and how I think the two are connected?",
+   "wgo:questionFor": {
+    "@id": "wg:learning-from-experience"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/learning-from-experience/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I examining this to understand it, or only to feel better about it and close the chapter?",
+   "wgo:questionFor": {
+    "@id": "wg:learning-from-experience"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/learning-from-experience/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I looked at what went well and why, not only at what went wrong?",
+   "wgo:questionFor": {
+    "@id": "wg:learning-from-experience"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/learning-from-experience/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose view of this experience would challenge my own version of it?",
+   "wgo:questionFor": {
+    "@id": "wg:learning-from-experience"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/learning-from-experience/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "You lay the three departures side by side, note what you did in the months before each one and what followed, ask one former colleague who left on good terms what they saw, and notice that all three had asked for a change of scope that you postponed. You commit to discussing growth plans with every remaining report this quarter.",
+   "wgo:before": "You decide it was bad luck and a hot job market, tell yourself the team is stronger for the turnover, and move straight on to hiring replacements.",
+   "wgo:situation": "In the space of a year, three people on a small team you manage have resigned, each giving a different reason on the way out.",
+   "wgo:why": "The first response is a redemptive story that brings closure but no lesson; the second connects your own actions with their consequences and explores the pattern, which is the kind of processing linked to wisdom."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I asking what I want from life, or what this situation is asking of me?",
@@ -8469,6 +8509,90 @@
     "@id": "https://wisdomcenter.uchicago.edu/publications/systems-model-leadership-wics"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Journal of Value Inquiry, 53(3), 349–370 (Glück, Bluck & Weststrate, 2019; doi:10.1007/s10790-018-9661-x), Springer",
+   "dcterms:title": "More on the MORE Life Experience Model: What We Have Learned (So Far)",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s10790-018-9661-x"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Developmental Psychology, 53(4), 800–814 (Weststrate & Glück, 2017; doi:10.1037/dev0000286); ERIC record EJ1134737",
+   "dcterms:title": "Hard-earned wisdom: Exploratory processing of difficult life experience is positively associated with wisdom",
+   "schema:url": {
+    "@id": "https://eric.ed.gov/?id=EJ1134737"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom",
+   "dcterms:title": "Center for Practical Wisdom Research Forum: Nic M. Weststrate (2017)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "John Dewey; Standard Ebooks edition of the public-domain text",
+   "dcterms:title": "Democracy and Education (1916), chapter 11: Experience and Thinking",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-11"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 90(5), 857–871 (Ellis & Davidi, 2005; doi:10.1037/0021-9010.90.5.857), PubMed record",
+   "dcterms:title": "After-event reviews: Drawing lessons from successful and failed experience",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/16162059/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Robert C. Lagueux, Berklee College of Music (2014), via SlideShare",
+   "dcterms:title": "A spurious John Dewey quotation on reflection",
+   "schema:url": {
+    "@id": "https://www.slideshare.net/slideshow/a-spurious-john-dewey-quotation-on-reflection/259649444"
+   },
+   "wgo:sourceType": "community"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s1",
@@ -17671,6 +17795,120 @@
    "wgo:level": "introductory",
    "wgo:studiedIn": {
     "@id": "wg:organizational-behavior"
+   }
+  },
+  {
+   "@id": "wg:learning-from-experience",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s6"
+    }
+   ],
+   "rdfs:label": "Learning from experience",
+   "skos:altLabel": [
+    "experiential learning",
+    "learning from life experience",
+    "lessons of experience",
+    "reflective experience"
+   ],
+   "skos:broader": {
+    "@id": "wg:personal-growth"
+   },
+   "skos:definition": "The ordinary but demanding situation of trying to turn what has happened to you, good or bad, into better judgment next time. Wisdom here means connecting what you did with what followed, examining successes as well as failures, and exploring an experience for what it can teach rather than merely living through it or tying it up in a comforting story.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Learning from experience",
+   "skos:related": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:insight"
+    },
+    {
+     "@id": "wg:life-review"
+    },
+    {
+     "@id": "wg:personal-and-general-wisdom"
+    },
+    {
+     "@id": "wg:post-traumatic-growth"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-reflection"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:self-reflection"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:after-event-reviews-success-and-failure-study"
+    },
+    {
+     "@id": "wg:hard-earned-wisdom-study"
+    },
+    {
+     "@id": "wg:wisdom-and-life-experience-studies"
+    }
+   ],
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/learning-from-experience/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:more-life-experience-model"
+   },
+   "wgo:file": "articles/self-knowledge/learning-from-experience.md",
+   "wgo:introducedBy": {
+    "@id": "wg:john-dewey"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:democracy-and-education"
+   },
+   "wgo:level": "introductory",
+   "wgo:requires": {
+    "@id": "wg:self-reflection"
    }
   },
   {
