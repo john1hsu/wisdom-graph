@@ -14,7 +14,6 @@ _Which written skills or virtues have no practice, framework or principle that c
 
 | skill | type |
 |---|---|
-| `wg:acceptance` | wgo:Skill |
 | `wg:contentment` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
@@ -37,6 +36,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
+| `wg:cognitive-defusion` | 2 | Acceptance, cognitive-fusion |
 | `wg:evening-review` | 2 | Self-reflection, anger |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
@@ -58,9 +58,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:honesty` | 1 | Self-deception |
-| `wg:humble-leadership` | 1 | escalation-of-commitment |
 
-…and 6 more.
+…and 7 more.
 
 ## Toolkit by life situation
 
@@ -114,6 +113,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:acceptance` | mixed |  |
 | `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
+| `wg:cognitive-defusion` | mixed | `wg:act-mediation-studies-review` |
 | `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
@@ -136,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:kill-criteria` | mixed |  |
 | `wg:knowing-when-to-quit` | mixed |  |
 | `wg:leading-others` | mixed |  |
-| `wg:logotherapy` | mixed |  |
 
-…and 27 more.
+…and 28 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -146,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:cognitive-defusion` | wgo:Practice |
 | `wg:cognitive-reappraisal` | wgo:Practice |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:psychology-of-wisdom` | wgo:Field |

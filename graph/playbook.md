@@ -797,6 +797,29 @@ Ask yourself:
 
 ## self-knowledge
 
+### [Cognitive defusion](../articles/self-knowledge/cognitive-defusion.md) — Practice
+
+1. Notice when a thought is steering you, especially a harsh verdict about yourself or a prediction of disaster that you are treating as plain fact.
+2. Name it as a thought by restating it as "I'm having the thought that…", or label its kind, such as "the not-good-enough story" or "a prediction".
+3. Loosen its literal hold for a few seconds by saying its key word aloud quickly and repeatedly, or saying the sentence very slowly or in a silly voice, until it sounds more like sounds than a message.
+4. Let it stay without arguing with it, proving it wrong or pushing it away; acknowledge it, for example by thanking your mind for the warning.
+5. Ask what you would do next if this thought were just background noise, and take that step while the thought comes along.
+6. Stop and seek professional support if a thought is overwhelming, persistent or about harming yourself; defusion is a self-help skill, not crisis care.
+
+*Ten minutes before presenting a proposal to senior leaders, a manager keeps hearing the thought "they're going to see I'm out of my depth".*
+
+| Before | After |
+|---|---|
+| It's true, I'm out of my depth. I'll trim the proposal to the safe parts, skip the risky recommendation and read straight from the slides so nobody can ask me anything. | I'm having the thought that they'll see I'm out of my depth. That's the old not-good-enough story turning up before a big meeting, as it usually does. It can come along; I'll still make the recommendation I believe in and take the questions. |
+
+**Why:** The wiser response neither obeys the thought nor wastes the last ten minutes trying to argue it away; seeing it as a familiar mental event leaves the manager free to act on the judgement they actually hold.
+
+Ask yourself:
+- Am I treating this thought as a fact about the world, or as something my mind is saying right now?
+- Is this thought helping me act on what matters here, or just making me want to escape?
+- Am I using a defusion trick to make the feeling go away, rather than to make room for it?
+- Have I checked whether the thought is pointing to a real problem that deserves action?
+
 ### [Evening review](../articles/self-knowledge/evening-review.md) — Practice
 
 1. Pick a fixed, short slot at the end of the day, such as the last ten minutes before bed, and keep it whether or not the day went well.

@@ -702,6 +702,129 @@
   ]
  },
  {
+  "id": "wg:cognitive-defusion",
+  "title": "Cognitive defusion",
+  "aliases": [
+   "defusion",
+   "deliteralization",
+   "thought defusion",
+   "defusing from thoughts"
+  ],
+  "type": "Practice",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/cognitive-defusion.md",
+  "created": "2026-11-16",
+  "summary": "A practice from acceptance and commitment therapy for stepping back from a painful or unhelpful thought and seeing it as a passing string of words rather than a literal truth or an order, without arguing with it or trying to make it go away, so that it has less grip on what you do next.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotional-suppression"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:acceptance",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:acceptance-and-commitment-therapy",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:cognitive-fusion",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:word-repetition-defusion-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:psychological-flexibility-components-meta-analysis",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:act-mediation-studies-review",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:cognitive-reappraisal",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:edward-titchener",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I treating this thought as a fact about the world, or as something my mind is saying right now?",
+   "Is this thought helping me act on what matters here, or just making me want to escape?",
+   "Am I using a defusion trick to make the feeling go away, rather than to make room for it?",
+   "Have I checked whether the thought is pointing to a real problem that deserves action?"
+  ],
+  "steps": [
+   "Notice when a thought is steering you, especially a harsh verdict about yourself or a prediction of disaster that you are treating as plain fact.",
+   "Name it as a thought by restating it as \"I'm having the thought that…\", or label its kind, such as \"the not-good-enough story\" or \"a prediction\".",
+   "Loosen its literal hold for a few seconds by saying its key word aloud quickly and repeatedly, or saying the sentence very slowly or in a silly voice, until it sounds more like sounds than a message.",
+   "Let it stay without arguing with it, proving it wrong or pushing it away; acknowledge it, for example by thanking your mind for the warning.",
+   "Ask what you would do next if this thought were just background noise, and take that step while the thought comes along.",
+   "Stop and seek professional support if a thought is overwhelming, persistent or about harming yourself; defusion is a self-help skill, not crisis care."
+  ],
+  "example": {
+   "situation": "Ten minutes before presenting a proposal to senior leaders, a manager keeps hearing the thought \"they're going to see I'm out of my depth\".",
+   "before": "It's true, I'm out of my depth. I'll trim the proposal to the safe parts, skip the risky recommendation and read straight from the slides so nobody can ask me anything.",
+   "after": "I'm having the thought that they'll see I'm out of my depth. That's the old not-good-enough story turning up before a big meeting, as it usually does. It can come along; I'll still make the recommendation I believe in and take the questions.",
+   "why": "The wiser response neither obeys the thought nor wastes the last ten minutes trying to argue it away; seeing it as a familiar mental event leaves the manager free to act on the judgement they actually hold."
+  },
+  "source_urls": [
+   "https://contextualscience.org/files/305%20Defusion%20word%20repetition%20BRAT%202004.pdf",
+   "https://scholarworks.gsu.edu/server/api/core/bitstreams/81d9da98-f77f-436d-8e8b-5860584a19c1/content",
+   "https://cronfa.swan.ac.uk/Record/cronfa26651",
+   "https://contextualscience.org/publications/impact_treatment_components_suggested_psychological_flexibility_model_metaanalysis",
+   "https://eprints.whiterose.ac.uk/id/eprint/137915/3/ACT%20Mediation%20Review%20%28final%20submission%29.pdf",
+   "https://contextualscience.org/book/export/html/31"
+  ]
+ },
+ {
   "id": "wg:cognitive-reappraisal",
   "title": "Cognitive reappraisal",
   "aliases": [

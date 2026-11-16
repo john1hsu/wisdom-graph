@@ -473,6 +473,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s3> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wise-reasoning/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/cognitive-defusion.md" .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/evening-review.md" .
@@ -5829,6 +5838,125 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating this thought as a fact about the world, or as something my mind is saying right now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is this thought helping me act on what matters here, or just making me want to escape?" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using a defusion trick to make the feeling go away, rather than to make room for it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Have I checked whether the thought is pointing to a real problem that deserves action?" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I'm having the thought that they'll see I'm out of my depth. That's the old not-good-enough story turning up before a big meeting, as it usually does. It can come along; I'll still make the recommendation I believe in and take the questions." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "It's true, I'm out of my depth. I'll trim the proposal to the safe parts, skip the risky recommendation and read straight from the slides so nobody can ask me anything." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Ten minutes before presenting a proposal to senior leaders, a manager keeps hearing the thought \"they're going to see I'm out of my depth\"." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response neither obeys the thought nor wastes the last ten minutes trying to argue it away; seeing it as a familiar mental event leaves the manager free to act on the judgement they actually hold." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/1> <https://schema.org/text> "Notice when a thought is steering you, especially a harsh verdict about yourself or a prediction of disaster that you are treating as plain fact." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/2> <https://schema.org/text> "Name it as a thought by restating it as \"I'm having the thought that…\", or label its kind, such as \"the not-good-enough story\" or \"a prediction\"." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/3> <https://schema.org/text> "Loosen its literal hold for a few seconds by saying its key word aloud quickly and repeatedly, or saying the sentence very slowly or in a silly voice, until it sounds more like sounds than a message." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/4> <https://schema.org/text> "Let it stay without arguing with it, proving it wrong or pushing it away; acknowledge it, for example by thanking your mind for the warning." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/5> <https://schema.org/text> "Ask what you would do next if this thought were just background noise, and take that step while the thought comes along." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/6> <https://schema.org/text> "Stop and seek professional support if a thought is overwhelming, persistent or about harming yourself; defusion is a self-help skill, not crisis care." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/name> "Cognitive defusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2000/01/rdf-schema#label> "Cognitive defusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#altLabel> "defusing from thoughts" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#altLabel> "defusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#altLabel> "deliteralization" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#altLabel> "thought defusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#definition> "A practice from acceptance and commitment therapy for stepping back from a painful or unhelpful thought and seeing it as a passing string of words rather than a literal truth or an order, without arguing with it or trying to make it go away, so that it has less grip on what you do next." .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cognitive defusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/cognitive-fusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/act-mediation-studies-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/word-repetition-defusion-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/cognitive-defusion.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/psychological-flexibility-components-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> <http://purl.org/dc/terms/publisher> "Behaviour Research and Therapy, 42, 477–485 (Masuda, Hayes, Sackett & Twohig, 2004; doi:10.1016/j.brat.2003.10.008), copy hosted by the Association for Contextual Behavioral Science" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> <http://purl.org/dc/terms/title> "Cognitive defusion and self-relevant negative thoughts: Examining the impact of a ninety year old technique" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1> <https://schema.org/url> <https://contextualscience.org/files/305%20Defusion%20word%20repetition%20BRAT%202004.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> <http://purl.org/dc/terms/publisher> "Behavior Modification, 33, 250–262 (Masuda, Hayes, Twohig, Drossel, Lillis & Washio, 2009; doi:10.1177/0145445508326259), Georgia State University ScholarWorks" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> <http://purl.org/dc/terms/title> "A parametric study of cognitive defusion and the believability and discomfort of negative self-relevant thoughts" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s2> <https://schema.org/url> <https://scholarworks.gsu.edu/server/api/core/bitstreams/81d9da98-f77f-436d-8e8b-5860584a19c1/content> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> <http://purl.org/dc/terms/publisher> "Behavior Modification, 40(3), 452–482 (Larsson, Hooper, Osborne, Bennett & McHugh, 2016; doi:10.1177/0145445515621488), Swansea University Cronfa repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> <http://purl.org/dc/terms/title> "Using brief cognitive restructuring and cognitive defusion techniques to cope with negative thoughts" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s3> <https://schema.org/url> <https://cronfa.swan.ac.uk/Record/cronfa26651> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> <http://purl.org/dc/terms/publisher> "Behavior Therapy, 43, 741–756 (Levin, Hildebrandt, Lillis & Hayes, 2012), Association for Contextual Behavioral Science publication record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> <http://purl.org/dc/terms/title> "The impact of treatment components suggested by the psychological flexibility model: A meta-analysis of laboratory-based component studies" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> <https://schema.org/url> <https://contextualscience.org/publications/impact_treatment_components_suggested_psychological_flexibility_model_metaanalysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> <http://purl.org/dc/terms/publisher> "Behavioural and Cognitive Psychotherapy, 47(3), 332–362 (Stockton, Kellett, Berrios et al., 2019; doi:10.1017/S1352465818000553), White Rose Research Online accepted manuscript" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> <http://purl.org/dc/terms/title> "Identifying the underlying mechanisms of change during acceptance and commitment therapy (ACT): A systematic review of contemporary mediation studies" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> <https://schema.org/url> <https://eprints.whiterose.ac.uk/id/eprint/137915/3/ACT%20Mediation%20Review%20%28final%20submission%29.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <http://purl.org/dc/terms/publisher> "Association for Contextual Behavioral Science, ACT clinical materials assembled by Elizabeth Gifford, Steven C. Hayes and Kirk Strosahl" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <http://purl.org/dc/terms/title> "Cognitive Defusion (Deliteralization)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <https://schema.org/url> <https://contextualscience.org/book/export/html/31> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?" .
@@ -9339,6 +9467,7 @@
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-strategies-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -9348,12 +9477,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/act-mediation-studies-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
@@ -9556,6 +9688,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-and-integrative-conceptions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-and-integrative-conceptions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-and-integrative-conceptions-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-fusion> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -9567,6 +9708,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#hasInstance> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -9790,6 +9932,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/eavesdropping-on-character-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/ego-depletion-multilab-replication-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/egocentric-bias> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
@@ -9811,12 +9954,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-questionnaire> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation-variability-daily-life-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
@@ -9834,6 +9979,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
@@ -9905,6 +10051,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
@@ -10724,6 +10871,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychological-flexibility-components-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
@@ -10855,6 +11003,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
@@ -10955,6 +11104,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
@@ -10995,6 +11145,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
@@ -11397,6 +11548,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/word-repetition-defusion-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/word-repetition-defusion-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/word-repetition-defusion-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
