@@ -9057,6 +9057,101 @@
   ]
  },
  {
+  "id": "wg:socratic-philosophy",
+  "title": "Socratic philosophy",
+  "aliases": [
+   "Socratic tradition",
+   "Socratic ethics",
+   "the Socratics",
+   "Socratic schools"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/socratic-philosophy.md",
+  "created": "2026-11-16",
+  "summary": "The way of doing philosophy that began with Socrates of Athens (469–399 BCE) and was carried on by his followers: examining one's own and others' beliefs through questioning, admitting what one does not know, and treating care of the soul, meaning one's character and understanding, as more important than wealth or reputation.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:ancient-greek-philosophy"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-method"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:apology-of-socrates"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:plato"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seven-sages-of-greece"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:socrates",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:sophistry",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:epicureanism",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRiES/socrates/",
+   "https://iep.utm.edu/?p=16564",
+   "https://plato.stanford.edu/ENTRIES/plato-ethics-shorter/",
+   "https://classics.mit.edu/Plato/apology.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4449800"
+  ]
+ },
+ {
   "id": "wg:solomons-paradox",
   "title": "Solomon's paradox",
   "aliases": [

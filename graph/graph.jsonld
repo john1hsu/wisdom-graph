@@ -11603,6 +11603,76 @@
    "wgo:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (S. Sara Monoson; rev. 2022)",
+   "dcterms:title": "Socrates",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRiES/socrates/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (James M. Ambury, King's College)",
+   "dcterms:title": "Socrates (469—399 B.C.E.)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/?p=16564"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Paul Woodruff; rev. 2022)",
+   "dcterms:title": "Plato's Shorter Ethical Works",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/plato-ethics-shorter/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Plato, Apology, trans. Benjamin Jowett",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Plato/apology.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Behaviour Research and Therapy, 70, 32–37 (Braun, Strunk, Sasso & Cooper, 2015)",
+   "dcterms:title": "Therapist use of Socratic questioning predicts session-to-session symptom change in cognitive therapy for depression",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4449800"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/solomons-paradox/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -21260,6 +21330,96 @@
    "wgo:rootedIn": {
     "@id": "wg:socratic-philosophy"
    }
+  },
+  {
+   "@id": "wg:socratic-philosophy",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socratic-philosophy/s5"
+    }
+   ],
+   "rdfs:label": "Socratic philosophy",
+   "skos:altLabel": [
+    "Socratic ethics",
+    "Socratic schools",
+    "Socratic tradition",
+    "the Socratics"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:ancient-greek-philosophy"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "skos:definition": "The way of doing philosophy that began with Socrates of Athens (469–399 BCE) and was carried on by his followers: examining one's own and others' beliefs through questioning, admitting what one does not know, and treating care of the soul, meaning one's character and understanding, as more important than wealth or reputation.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Socratic philosophy",
+   "skos:related": [
+    {
+     "@id": "wg:apology-of-socrates"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:plato"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:seven-sages-of-greece"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:socratic-method"
+    },
+    {
+     "@id": "wg:stoicism"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:sophistry"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:epicureanism"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/socratic-philosophy.md",
+   "wgo:introducedBy": {
+    "@id": "wg:socrates"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:solomons-paradox",
