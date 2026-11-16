@@ -13,10 +13,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.68 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 2.48 | `wg:igor-grossmann` | `wg:interpersonal-conflict` | `wg:aging-and-wisdom-culture-study`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:self-distancing`, `wg:solomons-paradox` |
 | 2.47 | `wg:courage` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:doctrine-of-the-mean`, `wg:honesty` |
-| 2.38 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
-| 2.37 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
-| 2.35 | `wg:equanimity` | `wg:process-model-of-emotion-regulation` | `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:emotional-suppression`, `wg:james-gross`, `wg:regulatory-flexibility` |
+| 2.37 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
+| 2.34 | `wg:equanimity` | `wg:process-model-of-emotion-regulation` | `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:emotional-suppression`, `wg:james-gross`, `wg:regulatory-flexibility` |
 | 2.34 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
+| 2.30 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.19 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
 | 2.17 | `wg:emulating-moral-exemplars` | `wg:honesty` | `wg:aristotelian-virtue-ethics`, `wg:moral-psychology`, `wg:virtue-ethics` |
 | 2.14 | `wg:deliberation` | `wg:moral-habituation` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:doctrine-of-the-mean`, `wg:implementation-intentions`, `wg:practical-wisdom` |

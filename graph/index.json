@@ -123,6 +123,110 @@
   ]
  },
  {
+  "id": "wg:amor-fati",
+  "title": "Amor fati",
+  "aliases": [
+   "love of fate",
+   "love of one's fate",
+   "loving necessity"
+  ],
+  "type": "Principle",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/adversity-and-mortality/amor-fati.md",
+  "created": "2026-11-16",
+  "summary": "Nietzsche's ideal of \"love of fate\": wanting nothing about one's life to have been different and learning not merely to bear what is necessary, including loss and hardship, but to affirm it as part of a life one can say yes to.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:affirmation-of-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eternal-recurrence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:post-traumatic-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:friedrich-nietzsche",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:the-gay-science",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:dichotomy-of-control",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:minima-moralia",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:amor-fati-emerging-adults-well-being-study",
+    "source": "s7",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Am I spending my energy wishing this had not happened, or deciding what to make of the fact that it did?",
+   "Am I calling something \"fate\" to avoid changing what I could and should still change?",
+   "Could I tell the story of this setback as part of a life I would still choose to live again?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A project manager's carefully planned product launch is cancelled after a reorganisation, and months of her team's work will never ship.",
+   "before": "This should never have happened. I keep replaying the meeting where it was killed and resenting everyone in it, and I've stopped caring about the next project.",
+   "after": "It happened, and it is now part of my story and the team's. What did these months teach us, and what can we carry into the next thing? I'll grieve it honestly, then decide what to build from it.",
+   "why": "The wiser response neither pretends the loss was good nor fights the fact that it occurred; it takes the event as given and asks what a life that includes it can become."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/entries/nietzsche/",
+   "https://gutenberg.org/cache/epub/52881/pg52881-images.html",
+   "https://gutenberg.org/cache/epub/52190/pg52190-images.html",
+   "https://philarchive.org/archive/STEVAF",
+   "https://scholarlypublications.universiteitleiden.nl/access/item%3A2877137/view",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/8",
+   "https://scholars.cityu.edu.hk/en/publications/examining-hedonic-and-eudaimonic-well-being-in-emerging-adults-fr/",
+   "https://prod.lsa.umich.edu/psych/news-events/all-news/faculty-news/embracing-life-s-highs-and-lows-boosts-mental-health-in-middle-a.html"
+  ]
+ },
+ {
   "id": "wg:aristotle",
   "title": "Aristotle",
   "aliases": [

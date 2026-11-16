@@ -124,6 +124,38 @@
    "schema:text": "Agree on one to three concrete things to sustain or change, name who will apply each, and check at the start of the next similar task that they were applied."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/amor-fati/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I spending my energy wishing this had not happened, or deciding what to make of the fact that it did?",
+   "wgo:questionFor": {
+    "@id": "wg:amor-fati"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/amor-fati/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I calling something \"fate\" to avoid changing what I could and should still change?",
+   "wgo:questionFor": {
+    "@id": "wg:amor-fati"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/amor-fati/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Could I tell the story of this setback as part of a life I would still choose to live again?",
+   "wgo:questionFor": {
+    "@id": "wg:amor-fati"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/amor-fati/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "It happened, and it is now part of my story and the team's. What did these months teach us, and what can we carry into the next thing? I'll grieve it honestly, then decide what to build from it.",
+   "wgo:before": "This should never have happened. I keep replaying the meeting where it was killed and resenting everyone in it, and I've stopped caring about the next project.",
+   "wgo:situation": "A project manager's carefully planned product launch is cancelled after a reorganisation, and months of her team's work will never ship.",
+   "wgo:why": "The wiser response neither pretends the loss was good nor fights the fact that it occurred; it takes the event as given and asks what a life that includes it can become."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I considered how this problem looks across the person's whole life, past and future, and not only today?",
@@ -3444,6 +3476,118 @@
     "@id": "https://www.cbsnews.com/news/learning-in-the-thick-of-it"
    },
    "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (R. Lanier Anderson; substantive revision 25 June 2026)",
+   "dcterms:title": "Friedrich Nietzsche",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/nietzsche/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Project Gutenberg eBook 52881",
+   "dcterms:title": "Nietzsche, The Joyful Wisdom (La Gaya Scienza), trans. Thomas Common (Complete Works vol. 10, ed. Oscar Levy, 1910)",
+   "schema:url": {
+    "@id": "https://gutenberg.org/cache/epub/52881/pg52881-images.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Project Gutenberg eBook 52190",
+   "dcterms:title": "Nietzsche, Ecce Homo, trans. Anthony M. Ludovici (Complete Works vol. 17, ed. Oscar Levy, 1911)",
+   "schema:url": {
+    "@id": "https://gutenberg.org/cache/epub/52190/pg52190-images.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Proceedings of the Aristotelian Society 113(2), 146–162 (Tom Stern, 2013), author archive at PhilArchive",
+   "dcterms:title": "Nietzsche, Amor Fati and The Gay Science",
+   "schema:url": {
+    "@id": "https://philarchive.org/archive/STEVAF"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Leiden University Scholarly Publications",
+   "dcterms:title": "Nietzsche's rejection of stoicism. A reinterpretation of Amor fati (PhD thesis, H. L. J. Gaasterland, 2017)",
+   "schema:url": {
+    "@id": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2877137/view"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Perseus Digital Library (Perseids CTS reader)",
+   "dcterms:title": "Epictetus, The Handbook (Enchiridion) 8, trans. Thomas Wentworth Higginson (1890)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/8"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Acta Psychologica 258, 105242 (Chan, Huang & Chang, 2025), doi:10.1016/j.actpsy.2025.105242, CityUHK Scholars record",
+   "dcterms:title": "Examining hedonic and eudaimonic well-being in emerging adults from Hong Kong: Does amor fati account for well-being beyond the role of affectivity?",
+   "schema:url": {
+    "@id": "https://scholars.cityu.edu.hk/en/publications/examining-hedonic-and-eudaimonic-well-being-in-emerging-adults-fr/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Michigan Department of Psychology news (26 September 2025)",
+   "dcterms:title": "Embracing life's highs and lows boosts mental health in middle age",
+   "schema:url": {
+    "@id": "https://prod.lsa.umich.edu/psych/news-events/all-news/faculty-news/embracing-life-s-highs-and-lows-boosts-mental-health-in-middle-a.html"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s1",
@@ -11142,6 +11286,99 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:team-and-individual-debriefs-meta-analysis"
+   }
+  },
+  {
+   "@id": "wg:amor-fati",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s8"
+    }
+   ],
+   "rdfs:label": "Amor fati",
+   "skos:altLabel": [
+    "love of fate",
+    "love of one's fate",
+    "loving necessity"
+   ],
+   "skos:broader": {
+    "@id": "wg:affirmation-of-life"
+   },
+   "skos:definition": "Nietzsche's ideal of \"love of fate\": wanting nothing about one's life to have been different and learning not merely to bear what is necessary, including loss and hardship, but to affirm it as part of a life one can say yes to.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Amor fati",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:eternal-recurrence"
+    },
+    {
+     "@id": "wg:post-traumatic-growth"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:adversity"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:minima-moralia"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:dichotomy-of-control"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/amor-fati/example"
+   },
+   "wgo:file": "articles/adversity-and-mortality/amor-fati.md",
+   "wgo:introducedBy": {
+    "@id": "wg:friedrich-nietzsche"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:the-gay-science"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:amor-fati-emerging-adults-well-being-study"
    }
   },
   {

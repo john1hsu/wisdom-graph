@@ -65,6 +65,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:adversity` | `wg:amor-fati` |
 | `wg:adversity` | `wg:impermanence` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:major-life-decision` | `wg:deliberation` |
 | `wg:major-life-decision` | `wg:moral-algebra` |
 | `wg:major-life-decision` | `wg:satisficing` |
-| `wg:major-life-decision` | `wg:seeking-counsel` |
 
-…and 6 more.
+…and 7 more.
 
 ## Myths and contested advice
 

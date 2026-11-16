@@ -4,6 +4,21 @@ Every before/after example, step-by-step procedure and self-check question in th
 
 ## adversity-and-mortality
 
+### [Amor fati](../articles/adversity-and-mortality/amor-fati.md) — Principle
+
+*A project manager's carefully planned product launch is cancelled after a reorganisation, and months of her team's work will never ship.*
+
+| Before | After |
+|---|---|
+| This should never have happened. I keep replaying the meeting where it was killed and resenting everyone in it, and I've stopped caring about the next project. | It happened, and it is now part of my story and the team's. What did these months teach us, and what can we carry into the next thing? I'll grieve it honestly, then decide what to build from it. |
+
+**Why:** The wiser response neither pretends the loss was good nor fights the fact that it occurred; it takes the event as given and asks what a life that includes it can become.
+
+Ask yourself:
+- Am I spending my energy wishing this had not happened, or deciding what to make of the fact that it did?
+- Am I calling something "fate" to avoid changing what I could and should still change?
+- Could I tell the story of this setback as part of a life I would still choose to live again?
+
 ### [Grief and bereavement](../articles/adversity-and-mortality/grief-and-loss.md) — Context
 
 *Two months after her father's death, Dana enjoys a weekend away with friends, then feels guilty and wonders whether she is grieving "wrong" because she has not hit a depression stage.*
