@@ -212,6 +212,107 @@
    "wgo:why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this something I can still change, so that I should act rather than reinterpret?",
+   "wgo:questionFor": {
+    "@id": "wg:cognitive-reappraisal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my new reading of the situation true, or just comfortable?",
+   "wgo:questionFor": {
+    "@id": "wg:cognitive-reappraisal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using a reframe to talk myself out of a feeling that is telling me something important, such as that I'm being treated unfairly?",
+   "wgo:questionFor": {
+    "@id": "wg:cognitive-reappraisal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did the reframe actually change how I feel, or do I need a different approach?",
+   "wgo:questionFor": {
+    "@id": "wg:cognitive-reappraisal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "This stings, and it's a real setback. What do I actually know? They rejected this version, not the team. Some of it I can still change: I'll ask for their reasons tomorrow. The part I can't change I'll treat as one lost bid in a long year, not a verdict on us.",
+   "wgo:before": "This is a disaster and it proves I'm not good at this. I'll just smile, say it's fine, and stew about it tonight.",
+   "wgo:situation": "A project lead learns in a meeting that the client has rejected the proposal their team spent three weeks on.",
+   "wgo:why": "The wiser response keeps the feeling honest, uses reappraisal on the part that can't be changed, and keeps the frustration that should drive action on the part that can, instead of masking everything and ruminating later."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Cognitive reappraisal",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the feeling and the specific thought driving it, for example \"I'm anxious because I think this mistake will get me fired.\""
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Ask whether you can still change the situation itself; if you can, plan that action first and use reappraisal only to steady yourself enough to act."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Test the interpretation against the facts, as you would a colleague's claim, and look for what you actually know versus what you are assuming."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Try one or two alternative readings that are also true, such as what the event will matter in a year, what you can still influence, or how a neutral observer would describe it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Pick the reading you can honestly believe, not the most comforting one, and let it guide your next step."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "After a while, check whether the feeling has shifted; if the reframe isn't landing, switch to another strategy such as acceptance, talking it through or taking a break."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I actually noticed what this person is going through, or only what their trouble costs me?",
@@ -3910,6 +4011,104 @@
     "@id": "https://journal.equinoxpub.com/BSR/article/view/8856"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 85(2), 348–362 (Gross & John, 2003), University of Victoria hosted copy",
+   "dcterms:title": "Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being",
+   "schema:url": {
+    "@id": "https://onlineacademiccommunity.uvic.ca/implicitassociationtestsyessir/wp-content/uploads/sites/9812/2025/12/gross-john-2003.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Psychological Science (Troy, Shallcross & Mauss, 2013), Association for Psychological Science",
+   "dcterms:title": "A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/psychological-science/0956797613496434/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Current Directions in Psychological Science, 28(2), 195–203 (Ford & Troy, 2019), author PDF",
+   "dcterms:title": "Reappraisal reconsidered: A closer look at the costs of an acclaimed emotion-regulation strategy",
+   "schema:url": {
+    "@id": "https://static1.squarespace.com/static/56f5c928356fb063f3e181fb/t/5cabc51a104c7b50fe79bede/1554760987049/Ford%26Troy_2019.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Neuroscience and Biobehavioral Reviews, 96, 155–173 (Powers & LaBar, 2019), Duke University",
+   "dcterms:title": "Regulating emotion through distancing: A taxonomy, neurocognitive model, and supporting meta-analysis",
+   "schema:url": {
+    "@id": "https://dibs-web01.vm.duke.edu/labar/pdfs/Powers_LaBar_2019.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Emotion, 24(3), 676–686 (Vlasenko et al., 2024), PubMed Central",
+   "dcterms:title": "How do people use reappraisal? An investigation of selection frequency and affective outcomes of reappraisal tactics",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10937323"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Epictetus, trans. T. W. Higginson (1890), Perseus Digital Library via Perseids (Tufts University)",
+   "dcterms:title": "The Handbook (Encheiridion), chapter 5",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/5"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford SPARQ (Social Psychological Answers to Real-world Questions), Stanford University",
+   "dcterms:title": "Save your marriage, one argument at a time",
+   "schema:url": {
+    "@id": "https://sparq.stanford.edu/solutions/save-your-marriage-one-argument-time"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s1",
@@ -11792,6 +11991,108 @@
    },
    "wgo:introducedBy": {
     "@id": "wg:the-buddha"
+   },
+   "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:cognitive-reappraisal",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-reappraisal/s7"
+    }
+   ],
+   "rdfs:label": "Cognitive reappraisal",
+   "skos:altLabel": [
+    "cognitive change",
+    "positive reappraisal",
+    "reappraisal",
+    "reframing"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "Changing how you interpret an emotional situation, what it means, how you look at it or what it implies, so that its emotional impact changes, rather than changing the situation itself or hiding what you feel.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Cognitive reappraisal",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:process-model-of-emotion-regulation"
+    },
+    {
+     "@id": "wg:regulatory-flexibility"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:reappraisal-controllability-study"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:emotional-suppression"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:individual-differences-in-emotion-regulation-study"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:process-model-of-emotion-regulation"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/cognitive-reappraisal.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto"
    },
    "wgo:level": "introductory"
   },

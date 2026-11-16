@@ -195,6 +195,29 @@ Ask yourself:
 
 ## emotions-and-equanimity
 
+### [Cognitive reappraisal](../articles/emotions-and-equanimity/cognitive-reappraisal.md) — Practice
+
+1. Name the feeling and the specific thought driving it, for example "I'm anxious because I think this mistake will get me fired."
+2. Ask whether you can still change the situation itself; if you can, plan that action first and use reappraisal only to steady yourself enough to act.
+3. Test the interpretation against the facts, as you would a colleague's claim, and look for what you actually know versus what you are assuming.
+4. Try one or two alternative readings that are also true, such as what the event will matter in a year, what you can still influence, or how a neutral observer would describe it.
+5. Pick the reading you can honestly believe, not the most comforting one, and let it guide your next step.
+6. After a while, check whether the feeling has shifted; if the reframe isn't landing, switch to another strategy such as acceptance, talking it through or taking a break.
+
+*A project lead learns in a meeting that the client has rejected the proposal their team spent three weeks on.*
+
+| Before | After |
+|---|---|
+| This is a disaster and it proves I'm not good at this. I'll just smile, say it's fine, and stew about it tonight. | This stings, and it's a real setback. What do I actually know? They rejected this version, not the team. Some of it I can still change: I'll ask for their reasons tomorrow. The part I can't change I'll treat as one lost bid in a long year, not a verdict on us. |
+
+**Why:** The wiser response keeps the feeling honest, uses reappraisal on the part that can't be changed, and keeps the frustration that should drive action on the part that can, instead of masking everything and ruminating later.
+
+Ask yourself:
+- Is this something I can still change, so that I should act rather than reinterpret?
+- Is my new reading of the situation true, or just comfortable?
+- Am I using a reframe to talk myself out of a feeling that is telling me something important, such as that I'm being treated unfairly?
+- Did the reframe actually change how I feel, or do I need a different approach?
+
 ### [Dichotomy of control](../articles/emotions-and-equanimity/dichotomy-of-control.md) — Principle
 
 *A team lead has submitted a strong proposal for next year's budget and now has to wait three weeks for a committee to decide, while rumours suggest cuts.*

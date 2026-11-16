@@ -580,6 +580,126 @@
   ]
  },
  {
+  "id": "wg:cognitive-reappraisal",
+  "title": "Cognitive reappraisal",
+  "aliases": [
+   "reappraisal",
+   "positive reappraisal",
+   "reframing",
+   "cognitive change"
+  ],
+  "type": "Practice",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/cognitive-reappraisal.md",
+  "created": "2026-11-16",
+  "summary": "Changing how you interpret an emotional situation, what it means, how you look at it or what it implies, so that its emotional impact changes, rather than changing the situation itself or hiding what you feel.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:process-model-of-emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regulatory-flexibility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:emotional-suppression",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:individual-differences-in-emotion-regulation-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:process-model-of-emotion-regulation",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:reappraisal-controllability-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is this something I can still change, so that I should act rather than reinterpret?",
+   "Is my new reading of the situation true, or just comfortable?",
+   "Am I using a reframe to talk myself out of a feeling that is telling me something important, such as that I'm being treated unfairly?",
+   "Did the reframe actually change how I feel, or do I need a different approach?"
+  ],
+  "steps": [
+   "Name the feeling and the specific thought driving it, for example \"I'm anxious because I think this mistake will get me fired.\"",
+   "Ask whether you can still change the situation itself; if you can, plan that action first and use reappraisal only to steady yourself enough to act.",
+   "Test the interpretation against the facts, as you would a colleague's claim, and look for what you actually know versus what you are assuming.",
+   "Try one or two alternative readings that are also true, such as what the event will matter in a year, what you can still influence, or how a neutral observer would describe it.",
+   "Pick the reading you can honestly believe, not the most comforting one, and let it guide your next step.",
+   "After a while, check whether the feeling has shifted; if the reframe isn't landing, switch to another strategy such as acceptance, talking it through or taking a break."
+  ],
+  "example": {
+   "situation": "A project lead learns in a meeting that the client has rejected the proposal their team spent three weeks on.",
+   "before": "This is a disaster and it proves I'm not good at this. I'll just smile, say it's fine, and stew about it tonight.",
+   "after": "This stings, and it's a real setback. What do I actually know? They rejected this version, not the team. Some of it I can still change: I'll ask for their reasons tomorrow. The part I can't change I'll treat as one lost bid in a long year, not a verdict on us.",
+   "why": "The wiser response keeps the feeling honest, uses reappraisal on the part that can't be changed, and keeps the frustration that should drive action on the part that can, instead of masking everything and ruminating later."
+  },
+  "source_urls": [
+   "https://onlineacademiccommunity.uvic.ca/implicitassociationtestsyessir/wp-content/uploads/sites/9812/2025/12/gross-john-2003.pdf",
+   "https://www.psychologicalscience.org/journals/psychological-science/0956797613496434/",
+   "https://static1.squarespace.com/static/56f5c928356fb063f3e181fb/t/5cabc51a104c7b50fe79bede/1554760987049/Ford%26Troy_2019.pdf",
+   "https://dibs-web01.vm.duke.edu/labar/pdfs/Powers_LaBar_2019.pdf",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10937323",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/5",
+   "https://sparq.stanford.edu/solutions/save-your-marriage-one-argument-time"
+  ]
+ },
+ {
   "id": "wg:compassion",
   "title": "Compassion",
   "aliases": [

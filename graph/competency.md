@@ -66,6 +66,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | situation | practice |
 |---|---|
 | `wg:adversity` | `wg:amor-fati` |
+| `wg:adversity` | `wg:cognitive-reappraisal` |
 | `wg:adversity` | `wg:impermanence` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
@@ -74,6 +75,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
+| `wg:interpersonal-conflict` | `wg:cognitive-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
@@ -93,10 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:learning-from-experience` | `wg:evening-review` |
 | `wg:learning-from-experience` | `wg:self-reflection` |
 | `wg:major-life-decision` | `wg:deliberation` |
-| `wg:major-life-decision` | `wg:moral-algebra` |
-| `wg:major-life-decision` | `wg:satisficing` |
 
-…and 7 more.
+…and 9 more.
 
 ## Myths and contested advice
 
@@ -110,6 +110,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
+| `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
@@ -133,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:meaning-in-life` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 | `wg:personal-and-general-wisdom` | mixed |  |
-| `wg:perspective-taking` | mixed | `wg:perspective-mistaking-study` |
 
-…and 22 more.
+…and 23 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -143,6 +143,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:cognitive-reappraisal` | wgo:Practice |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:psychology-of-wisdom` | wgo:Field |
 | `wg:regret` | wgo:Phenomenon |
