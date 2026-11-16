@@ -74,6 +74,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:community-decision-making` | `wg:imaginary-future-generations` |
+| `wg:facing-mortality` | `wg:epicureanism` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:kill-criteria` |
 | `wg:leading-others` | `wg:practical-wisdom` |
 | `wg:leading-others` | `wg:servant-leadership` |
-| `wg:leading-others` | `wg:stewardship` |
 
-…and 17 more.
+…and 18 more.
 
 ## Myths and contested advice
 

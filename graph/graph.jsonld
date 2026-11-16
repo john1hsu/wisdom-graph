@@ -6381,6 +6381,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Epicurus (David Konstan; substantive revision 8 July 2022)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/epicurus/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Tim O'Keefe, Georgia State University)",
+   "dcterms:title": "Epicurus (341–271 B.C.E.)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/epicur/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Lexundria (Hicks, Diogenes Laertius, Lives of Eminent Philosophers, Book 10)",
+   "dcterms:title": "Epicurus, Letter to Menoeceus, trans. R. D. Hicks",
+   "schema:url": {
+    "@id": "https://lexundria.com/epic_ep_men/0-14/hks"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Columbia College Core Curriculum reader, Columbia University",
+   "dcterms:title": "Epicurus, Principal Doctrines (English translation)",
+   "schema:url": {
+    "@id": "https://www.college.columbia.edu/sites/default/files/Principal%20Doctrines.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Epicureanism: Doctrine of Epicurus",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Epicureanism/Doctrine-of-Epicurus"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Classical Quarterly (Katharina Volk, 2025), Cambridge University Press, doi:10.1017/S0009838824000569",
+   "dcterms:title": "Cicero and Epicurus on Pleasure and Friendship",
+   "schema:url": {
+    "@id": "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/86669298D590F2A08CF91B67D0F85BC2/S0009838824000569a.pdf/cicero-and-epicurus-on-pleasure-and-friendship.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/equanimity/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -15933,6 +16017,107 @@
    "wgo:supportedBy": {
     "@id": "wg:attainable-moral-exemplars-study"
    }
+  },
+  {
+   "@id": "wg:epicureanism",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/epicureanism/s6"
+    }
+   ],
+   "rdfs:label": "Epicureanism",
+   "skos:altLabel": [
+    "Epicurean philosophy",
+    "Epicurean school",
+    "Epicurism",
+    "the Garden"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:ethical-hedonism"
+    },
+    {
+     "@id": "wg:hellenistic-philosophy"
+    }
+   ],
+   "skos:definition": "A Hellenistic school of philosophy founded by Epicurus in Athens around 306 BCE, which teaches that pleasure, understood as freedom from bodily pain and mental disturbance (ataraxia), is the goal of life, and that it is reached through prudence, limited desires, friendship and a clear understanding of nature, death and the gods.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Epicureanism",
+   "skos:related": [
+    {
+     "@id": "wg:classification-of-desires"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:friendship"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:simplicity"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:facing-mortality"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:intemperance"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:cyrenaic-hedonism"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/epicureanism.md",
+   "wgo:influencedBy": {
+    "@id": "wg:democritus"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:epicurus"
+   },
+   "wgo:introducedIn": [
+    {
+     "@id": "wg:letter-to-menoeceus"
+    },
+    {
+     "@id": "wg:principal-doctrines"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:equanimity",

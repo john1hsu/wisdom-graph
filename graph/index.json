@@ -2717,6 +2717,118 @@
   ]
  },
  {
+  "id": "wg:epicureanism",
+  "title": "Epicureanism",
+  "aliases": [
+   "Epicurean philosophy",
+   "Epicurean school",
+   "the Garden",
+   "Epicurism"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/epicureanism.md",
+  "created": "2026-11-16",
+  "summary": "A Hellenistic school of philosophy founded by Epicurus in Athens around 306 BCE, which teaches that pleasure, understood as freedom from bodily pain and mental disturbance (ataraxia), is the goal of life, and that it is reached through prudence, limited desires, friendship and a clear understanding of nature, death and the gods.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:hellenistic-philosophy"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:ethical-hedonism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:classification-of-desires"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:simplicity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:friendship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:epicurus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:democritus",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:cyrenaic-hedonism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:intemperance",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:letter-to-menoeceus",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:principal-doctrines",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:facing-mortality",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRIES/epicurus/",
+   "https://iep.utm.edu/epicur/",
+   "https://lexundria.com/epic_ep_men/0-14/hks",
+   "https://www.college.columbia.edu/sites/default/files/Principal%20Doctrines.pdf",
+   "https://www.britannica.com/topic/Epicureanism/Doctrine-of-Epicurus",
+   "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/86669298D590F2A08CF91B67D0F85BC2/S0009838824000569a.pdf/cicero-and-epicurus-on-pleasure-and-friendship.pdf"
+  ]
+ },
+ {
   "id": "wg:equanimity",
   "title": "Equanimity",
   "aliases": [
