@@ -13073,6 +13073,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom (republished from Aeon)",
+   "dcterms:title": "The science of wisdom: Psychological science can now measure and nurture wisdom (Igor Grossmann, Aeon, 2020)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/science-wisdompsychological-science-can-now-measure-and-nurture-wisdom-superseding"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Psychological Inquiry, 31(2), 134–143 (Jeste, Lee, Palmer & Treichler, 2020); PubMed Central",
+   "dcterms:title": "Moving from Humanities to Sciences: A New Model of Wisdom Fortified by Sciences of Neurobiology, Medicine, and Evolution",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7963217"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Jubilee Centre for Character and Virtues, University of Birmingham (5th annual conference paper, Oriel College, Oxford)",
+   "dcterms:title": "Measuring Wisdom and Its Relation to Character and Virtues (Monika Ardelt, 2017)",
+   "schema:url": {
+    "@id": "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Ardelt_M.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The International Journal of Aging and Human Development, 15(4), 315–321 (Clayton, 1983); Scilit record and abstract",
+   "dcterms:title": "Wisdom and Intelligence: The Nature and Function of Knowledge in the Later Years",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/df7070950bdaed3d3dc3ba8b899b75da"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom, Wisdom in the News",
+   "dcterms:title": "The Science of Older and Wiser (Phyllis Korkki, The New York Times, 2014)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-center-news/science-older-and-wiser"
+   },
+   "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 13, 1028951 (Kam & Bellehumeur, 2022)",
+   "dcterms:title": "Grasping the paradoxical nature of wisdom through unconscious integrative complexity",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1028951/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/weakness-of-will/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -23331,6 +23415,107 @@
    "wgo:supportedBy": {
     "@id": "wg:eavesdropping-on-character-study"
    }
+  },
+  {
+   "@id": "wg:vivian-clayton",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/vivian-clayton/s6"
+    }
+   ],
+   "rdfs:label": "Vivian Clayton",
+   "skos:altLabel": [
+    "Clayton and Birren",
+    "V. P. Clayton",
+    "Vivian P. Clayton"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom-researchers"
+   },
+   "skos:definition": "American psychologist, later a geriatric neuropsychologist in California, whose 1970s graduate research is credited as the first attempt to study wisdom empirically; with James Birren she described wisdom as joining cognitive, reflective and affective (compassionate) qualities, and she distinguished wisdom, as judgment about whether to act, from intelligence, as skill at how to act.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Vivian Clayton",
+   "skos:related": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:implicit-theories-of-wisdom"
+    },
+    {
+     "@id": "wg:james-birren"
+    },
+    {
+     "@id": "wg:monika-ardelt"
+    },
+    {
+     "@id": "wg:paul-baltes"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    },
+    {
+     "@id": "wg:robert-sternberg"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:authored": [
+    {
+     "@id": "wg:development-of-wisdom-across-the-life-span"
+    },
+    {
+     "@id": "wg:wisdom-and-intelligence-clayton"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/vivian-clayton.md",
+   "wgo:influenced": {
+    "@id": "wg:monika-ardelt"
+   },
+   "wgo:influencedBy": {
+    "@id": "wg:erik-erikson"
+   },
+   "wgo:introduced": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:weakness-of-will",

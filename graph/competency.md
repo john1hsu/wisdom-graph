@@ -145,7 +145,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:adversity` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
-| `wg:psychology-of-wisdom` | wgo:Field |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:self-deception` | wgo:Obstacle |
