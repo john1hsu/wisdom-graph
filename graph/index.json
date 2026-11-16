@@ -1176,6 +1176,110 @@
   ]
  },
  {
+  "id": "wg:contentment",
+  "title": "Contentment",
+  "aliases": [
+   "santutthi",
+   "santuṭṭhi",
+   "being content with little",
+   "knowing what is enough"
+  ],
+  "type": "Virtue",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/contentment.md",
+  "created": "2026-11-16",
+  "summary": "The settled sense that one's present life is sufficient and complete as it is, together with the habit of not letting limitless wanting set the terms of one's peace; a quiet, low-arousal good rather than an excited one.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:simplicity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:daoism",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:epicureanism",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:greed",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:happiness",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:contentment-and-self-acceptance-study",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "If nothing changed tomorrow, would my life be enough, and what exactly would be missing?",
+   "Is this want mine, or did a comparison or an advert just switch it on?",
+   "Have I confused being content with giving up on something that genuinely needs fixing?",
+   "When I last got what I wanted, how long did the satisfaction actually last?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A colleague in a similar role announces a promotion and a bigger title, and your own job, which you liked yesterday, suddenly feels small.",
+   "before": "I need to start interviewing elsewhere this week; I can't be the one who got left behind.",
+   "after": "Is anything about my work actually worse than it was yesterday? If there's something I really want, like the scope or the pay, I'll go after that on purpose. If not, I'll let the comparison pass.",
+   "why": "Contentment separates a real, specific need from wanting that was switched on by comparison; it keeps ambition but stops it from setting the price of one's peace."
+  },
+  "source_urls": [
+   "https://link.springer.com/article/10.1007/s10902-024-00729-8",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00030/full",
+   "https://classics.mit.edu/Lao/taote.2.ii.html",
+   "https://plato.stanford.edu/archives/win2005/entries/epicurus/",
+   "https://dlbs.liberal.ntu.edu.tw/lesson/pali/reading/gatha204.htm",
+   "https://www.accesstoinsight.org/ati/tipitaka/sn/sn16/sn16.001.wlsh.html"
+  ]
+ },
+ {
   "id": "wg:courage",
   "title": "Courage",
   "aliases": [

@@ -640,6 +640,22 @@ Ask yourself:
 
 ## meaning-and-the-good-life
 
+### [Contentment](../articles/meaning-and-the-good-life/contentment.md) — Virtue
+
+*A colleague in a similar role announces a promotion and a bigger title, and your own job, which you liked yesterday, suddenly feels small.*
+
+| Before | After |
+|---|---|
+| I need to start interviewing elsewhere this week; I can't be the one who got left behind. | Is anything about my work actually worse than it was yesterday? If there's something I really want, like the scope or the pay, I'll go after that on purpose. If not, I'll let the comparison pass. |
+
+**Why:** Contentment separates a real, specific need from wanting that was switched on by comparison; it keeps ambition but stops it from setting the price of one's peace.
+
+Ask yourself:
+- If nothing changed tomorrow, would my life be enough, and what exactly would be missing?
+- Is this want mine, or did a comparison or an advert just switch it on?
+- Have I confused being content with giving up on something that genuinely needs fixing?
+- When I last got what I wanted, how long did the satisfaction actually last?
+
 ### [Gratitude](../articles/meaning-and-the-good-life/gratitude.md) — Virtue
 
 *A teammate quietly stayed late to fix a broken data feed so your quarterly report could go out on time.*

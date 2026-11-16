@@ -595,6 +595,57 @@
 <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/confucius> .
 <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/junzi-personality-mental-health-study> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If nothing changed tomorrow, would my life be enough, and what exactly would be missing?" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is this want mine, or did a comparison or an advert just switch it on?" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I confused being content with giving up on something that genuinely needs fixing?" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "When I last got what I wanted, how long did the satisfaction actually last?" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Is anything about my work actually worse than it was yesterday? If there's something I really want, like the scope or the pay, I'll go after that on purpose. If not, I'll let the comparison pass." .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I need to start interviewing elsewhere this week; I can't be the one who got left behind." .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A colleague in a similar role announces a promotion and a bigger title, and your own job, which you liked yesterday, suddenly feels small." .
+<https://github.com/john1hsu/wisdom-graph/id/contentment/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Contentment separates a real, specific need from wanting that was switched on by comparison; it keeps ambition but stops it from setting the price of one's peace." .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2000/01/rdf-schema#label> "Contentment" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#altLabel> "being content with little" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#altLabel> "knowing what is enough" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#altLabel> "santutthi" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#altLabel> "santuṭṭhi" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#definition> "The settled sense that one's present life is sufficient and complete as it is, together with the habit of not letting limitless wanting set the terms of one's peace; a quiet, low-arousal good rather than an excited one." .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contentment" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/happiness> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/contentment/example> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/contentment.md" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/daoism> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+<https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/contentment-and-self-acceptance-study> .
 <https://github.com/john1hsu/wisdom-graph/id/courage/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/courage/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What exactly am I afraid of losing here, and is that fear in proportion to the real stakes?" .
 <https://github.com/john1hsu/wisdom-graph/id/courage/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/courage> .
@@ -4643,6 +4694,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s4> <https://schema.org/url> <https://journal.psych.ac.cn/acps/EN/Y2021/V53/I4/374> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> <http://purl.org/dc/terms/publisher> "Journal of Happiness Studies, 25, article 15 (Cordaro, Bai, Bradley, Zhu, Han, Keltner, Gatchpazian & Zhao, 2024)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> <http://purl.org/dc/terms/title> "Contentment and Self-acceptance: Wellbeing Beyond Happiness" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1> <https://schema.org/url> <https://link.springer.com/article/10.1007/s10902-024-00729-8> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 7, 30 (Delle Fave et al., 2016)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> <http://purl.org/dc/terms/title> "Lay definitions of happiness across nations: The primacy of inner harmony and relational connectedness" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2> <https://schema.org/url> <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00030/full> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> <http://purl.org/dc/terms/title> "Tao Te Ching, Part II (chapters 38–81), trans. James Legge" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3> <https://schema.org/url> <https://classics.mit.edu/Lao/taote.2.ii.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> <http://purl.org/dc/terms/title> "Epicurus (Konstan; Winter 2005 edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4> <https://schema.org/url> <https://plato.stanford.edu/archives/win2005/entries/epicurus/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> <http://purl.org/dc/terms/publisher> "Digital Library of Buddhist Studies, National Taiwan University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> <http://purl.org/dc/terms/title> "Dhammapada verse 204: Pali text, grammar and translation" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5> <https://schema.org/url> <https://dlbs.liberal.ntu.edu.tw/lesson/pali/reading/gatha204.htm> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> <http://purl.org/dc/terms/publisher> "Access to Insight" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> <http://purl.org/dc/terms/title> "Santuṭṭhi Sutta: Contentment (SN 16.1), trans. Maurice O'Connell Walshe" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6> <https://schema.org/url> <https://www.accesstoinsight.org/ati/tipitaka/sn/sn16/sn16.001.wlsh.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/courage/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/courage/s1> <http://purl.org/dc/terms/publisher> "Toronto Metropolitan University Pressbooks (public-domain edition)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/courage/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book III, chapter 7 (on courage, cowardice and rashness), trans. W. D. Ross" .

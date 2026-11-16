@@ -15,6 +15,7 @@ _Which written skills or virtues have no practice, framework or principle that c
 | skill | type |
 |---|---|
 | `wg:acceptance` | wgo:Skill |
+| `wg:contentment` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -48,6 +49,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:after-action-review` | 1 | Self-reflection |
+| `wg:contentment` | 1 | greed |
 | `wg:courage` | 1 | cowardice |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:dichotomy-of-control` | 1 | Equanimity |
@@ -57,9 +59,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:gratitude` | 1 | ingratitude |
 | `wg:honesty` | 1 | Self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
-| `wg:impermanence` | 1 | Equanimity |
 
-…and 5 more.
+…and 6 more.
 
 ## Toolkit by life situation
 
@@ -116,6 +117,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
+| `wg:contentment` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:emotional-suppression` | mixed | `wg:suppression-paradox-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
@@ -135,9 +137,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:knowing-when-to-quit` | mixed |  |
 | `wg:leading-others` | mixed |  |
 | `wg:logotherapy` | mixed |  |
-| `wg:major-life-decision` | mixed |  |
 
-…and 26 more.
+…and 27 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -177,6 +178,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
 | `wg:buddhism` | `wg:compassion` |
+| `wg:buddhism` | `wg:contentment` |
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:four-immeasurables` |
@@ -188,18 +190,17 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:evening-review` |
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:confucianism` | `wg:moral-habituation` |
+| `wg:daoism` | `wg:contentment` |
 | `wg:daoism` | `wg:humble-leadership` |
+| `wg:epicureanism` | `wg:contentment` |
 | `wg:hebrew-wisdom-literature` | `wg:folly` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:pythagoreanism` | `wg:evening-review` |
 | `wg:seven-sages-of-greece` | `wg:hubris` |
 | `wg:seven-sages-of-greece` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:know-thyself` |
-| `wg:socratic-philosophy` | `wg:self-reflection` |
-| `wg:socratic-philosophy` | `wg:socratic-ignorance` |
-| `wg:stoicism` | `wg:acceptance` |
 
-…and 7 more.
+…and 10 more.
 
 ## The doctrine of the mean
 

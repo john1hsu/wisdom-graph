@@ -503,6 +503,46 @@
    "schema:text": "Decide separately, on the facts, what boundary, conversation or accountability the situation still needs."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/contentment/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If nothing changed tomorrow, would my life be enough, and what exactly would be missing?",
+   "wgo:questionFor": {
+    "@id": "wg:contentment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/contentment/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this want mine, or did a comparison or an advert just switch it on?",
+   "wgo:questionFor": {
+    "@id": "wg:contentment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/contentment/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I confused being content with giving up on something that genuinely needs fixing?",
+   "wgo:questionFor": {
+    "@id": "wg:contentment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/contentment/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I last got what I wanted, how long did the satisfaction actually last?",
+   "wgo:questionFor": {
+    "@id": "wg:contentment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/contentment/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Is anything about my work actually worse than it was yesterday? If there's something I really want, like the scope or the pay, I'll go after that on purpose. If not, I'll let the comparison pass.",
+   "wgo:before": "I need to start interviewing elsewhere this week; I can't be the one who got left behind.",
+   "wgo:situation": "A colleague in a similar role announces a promotion and a bigger title, and your own job, which you liked yesterday, suddenly feels small.",
+   "wgo:why": "Contentment separates a real, specific need from wanting that was switched on by comparison; it keeps ambition but stops it from setting the price of one's peace."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/courage/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "What exactly am I afraid of losing here, and is that fear in proportion to the real stakes?",
@@ -4671,6 +4711,90 @@
     "@id": "https://journal.psych.ac.cn/acps/EN/Y2021/V53/I4/374"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 25, article 15 (Cordaro, Bai, Bradley, Zhu, Han, Keltner, Gatchpazian & Zhao, 2024)",
+   "dcterms:title": "Contentment and Self-acceptance: Wellbeing Beyond Happiness",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s10902-024-00729-8"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 7, 30 (Delle Fave et al., 2016)",
+   "dcterms:title": "Lay definitions of happiness across nations: The primacy of inner harmony and relational connectedness",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00030/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Tao Te Ching, Part II (chapters 38–81), trans. James Legge",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Lao/taote.2.ii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Epicurus (Konstan; Winter 2005 edition)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/win2005/entries/epicurus/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Digital Library of Buddhist Studies, National Taiwan University",
+   "dcterms:title": "Dhammapada verse 204: Pali text, grammar and translation",
+   "schema:url": {
+    "@id": "https://dlbs.liberal.ntu.edu.tw/lesson/pali/reading/gatha204.htm"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Access to Insight",
+   "dcterms:title": "Santuṭṭhi Sutta: Contentment (SN 16.1), trans. Maurice O'Connell Walshe",
+   "schema:url": {
+    "@id": "https://www.accesstoinsight.org/ati/tipitaka/sn/sn16/sn16.001.wlsh.html"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/courage/s1",
@@ -12908,6 +13032,96 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:junzi-personality-mental-health-study"
+   }
+  },
+  {
+   "@id": "wg:contentment",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/contentment/s6"
+    }
+   ],
+   "rdfs:label": "Contentment",
+   "skos:altLabel": [
+    "being content with little",
+    "knowing what is enough",
+    "santuṭṭhi",
+    "santutthi"
+   ],
+   "skos:broader": {
+    "@id": "wg:well-being"
+   },
+   "skos:definition": "The settled sense that one's present life is sufficient and complete as it is, together with the habit of not letting limitless wanting set the terms of one's peace; a quiet, low-arousal good rather than an excited one.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Contentment",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:gratitude"
+    },
+    {
+     "@id": "wg:hedonic-adaptation"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:simplicity"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:greed"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:happiness"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/contentment/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/contentment.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:daoism"
+    },
+    {
+     "@id": "wg:epicureanism"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:contentment-and-self-acceptance-study"
    }
   },
   {
