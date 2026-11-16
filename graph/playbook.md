@@ -784,6 +784,14 @@ Ask yourself:
 - Have I named what I do not know about this situation, and what I would do if things turn out differently than I expect?
 - Am I judging this choice by my own values only, or have I tried to understand the values and priorities behind it?
 
+### [Common wisdom model](../articles/science-of-wisdom/common-wisdom-model.md) — Framework
+
+Ask yourself:
+- What do I not know about this situation, and how might the facts change what I think?
+- Whose perspective have I not yet considered, and what would this look like from where they stand?
+- Is there a way forward that serves both my interests and theirs, rather than one at the other's expense?
+- Am I aiming at what is true and fair here, or only at winning the point?
+
 ### [Solomon's paradox](../articles/science-of-wisdom/solomons-paradox.md) — Obstacle
 
 *You recently helped a teammate think calmly through a clash with another department. This week a peer quietly reassigns part of your own project without asking you.*

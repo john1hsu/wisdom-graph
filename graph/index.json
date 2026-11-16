@@ -1319,6 +1319,120 @@
   ]
  },
  {
+  "id": "wg:common-wisdom-model",
+  "title": "Common wisdom model",
+  "aliases": [
+   "common model of wisdom",
+   "CWM",
+   "Toronto common model of wisdom"
+  ],
+  "type": "Framework",
+  "domain": "science-of-wisdom",
+  "level": "intermediate",
+  "evidenceStatus": "theoretical",
+  "file": "articles/science-of-wisdom/common-wisdom-model.md",
+  "created": "2026-11-16",
+  "summary": "A 2020 consensus framework from an international task force of wisdom scientists that defines wisdom as metacognition applied to reasoning and problem-solving and grounded in morality: perspectival metacognition (knowing the limits of one's knowledge, weighing several viewpoints, adapting to context) joined to moral aspirations (pursuit of truth, prosocial goals, a sense of shared humanity).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:balance-theory-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implicit-theories-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:igor-grossmann",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:science-of-wisdom-in-a-polarized-world",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:three-dimensional-wisdom-model",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:aristotelian-phronesis-model",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:perspective-taking",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "What do I not know about this situation, and how might the facts change what I think?",
+   "Whose perspective have I not yet considered, and what would this look like from where they stand?",
+   "Is there a way forward that serves both my interests and theirs, rather than one at the other's expense?",
+   "Am I aiming at what is true and fair here, or only at winning the point?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/toronto-wisdom-task-force-publishes-common-model-wisdom-guide-future-research",
+   "https://moralitylab.bc.edu/wp-content/uploads/sites/192/2020/06/Lees-and-Young-2020-A-Theory-of-Wisdom-Needs-Theory-of-Mind.pdf",
+   "https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf",
+   "https://selfdeterminationtheory.org/wp-content/uploads/2024/02/2024_Arvanitis_MotSci_Wisdom.pdf",
+   "https://oecs.knowledgefutures.org/pub/wdkwb956"
+  ]
+ },
+ {
   "id": "wg:compassion",
   "title": "Compassion",
   "aliases": [

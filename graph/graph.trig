@@ -456,6 +456,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s3> .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/science-of-wisdom/common-wisdom-model.md" .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/science-of-wisdom/psychology-of-wisdom.md" .
@@ -5719,6 +5728,93 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s5> <https://schema.org/url> <https://med.virginia.edu/wisdom/publications/ardelt/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What do I not know about this situation, and how might the facts change what I think?" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Whose perspective have I not yet considered, and what would this look like from where they stand?" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is there a way forward that serves both my interests and theirs, rather than one at the other's expense?" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I aiming at what is true and fair here, or only at winning the point?" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2000/01/rdf-schema#label> "Common wisdom model" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#altLabel> "CWM" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#altLabel> "Toronto common model of wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#altLabel> "common model of wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#definition> "A 2020 consensus framework from an international task force of wisdom scientists that defines wisdom as metacognition applied to reasoning and problem-solving and grounded in morality: perspectival metacognition (knowing the limits of one's knowledge, weighing several viewpoints, adapting to context) joined to moral aspirations (pursuit of truth, prosocial goals, a sense of shared humanity)." .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Common wisdom model" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "science-of-wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "theoretical" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/science-of-wisdom/common-wisdom-model.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> <http://purl.org/dc/terms/publisher> "University of Chicago Center for Practical Wisdom, listing Grossmann, Weststrate, Ardelt, Brienza, Dong, Ferrari et al. (2020), Psychological Inquiry, 31(2), 103–133 (doi:10.1080/1047840X.2020.1750917)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> <http://purl.org/dc/terms/title> "The science of wisdom in a polarized world: Knowns and unknowns" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> <http://purl.org/dc/terms/publisher> "Chicago Center for Practical Wisdom, University of Chicago" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> <http://purl.org/dc/terms/title> "Toronto Wisdom Task Force publishes common model of wisdom to guide future research" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/news/wisdom-news/toronto-wisdom-task-force-publishes-common-model-wisdom-guide-future-research> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> <http://purl.org/dc/terms/publisher> "Psychological Inquiry, 31(2), 168–173 (Lees & Young, 2020; doi:10.1080/1047840X.2020.1750925), Morality Lab, Boston College" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> <http://purl.org/dc/terms/title> "A theory of wisdom needs theory of mind" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3> <https://schema.org/url> <https://moralitylab.bc.edu/wp-content/uploads/sites/192/2020/06/Lees-and-Young-2020-A-Theory-of-Wisdom-Needs-Theory-of-Mind.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> <http://purl.org/dc/terms/publisher> "Review of General Psychology, 25(3), 239–257 (Kristjánsson, Fowers, Darnell & Pollard, 2021; doi:10.1177/10892680211023063), University of Birmingham repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> <http://purl.org/dc/terms/title> "Phronesis (practical wisdom) as a type of contextual integrative thinking" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> <https://schema.org/url> <https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> <http://purl.org/dc/terms/publisher> "Motivation Science (Arvanitis, 2024; doi:10.1037/mot0000325), author's accepted manuscript, Center for Self-Determination Theory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> <http://purl.org/dc/terms/title> "Expressing and developing wisdom: A self-determination theory approach" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> <https://schema.org/url> <https://selfdeterminationtheory.org/wp-content/uploads/2024/02/2024_Arvanitis_MotSci_Wisdom.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <http://purl.org/dc/terms/publisher> "Open Encyclopedia of Cognitive Science, MIT Press (Igor Grossmann, 2024)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <http://purl.org/dc/terms/title> "Wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <https://schema.org/url> <https://oecs.knowledgefutures.org/pub/wdkwb956> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -9920,6 +10016,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/appreciation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/appreciation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+  <https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -9981,6 +10078,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
@@ -10085,7 +10183,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/collective-genius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/collective-genius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/collective-genius> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
-  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
@@ -10697,6 +10802,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/ikigai-outcome-wide-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/ikigai> .
@@ -10741,6 +10847,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
@@ -10777,6 +10884,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
@@ -10944,6 +11052,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
@@ -11169,6 +11278,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
@@ -11176,6 +11286,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
@@ -11234,6 +11345,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
@@ -11289,10 +11401,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
@@ -11453,6 +11567,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+  <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/search-for-meaning-dynamics-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11783,6 +11900,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
@@ -11790,6 +11908,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/three-facet-model-of-meaning> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/three-good-things-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/three-marks-of-existence> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
@@ -11924,10 +12043,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/folly> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11959,6 +12080,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .

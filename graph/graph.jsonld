@@ -618,6 +618,38 @@
    "schema:text": "After a while, check whether the feeling has shifted; if the reframe isn't landing, switch to another strategy such as acceptance, talking it through or taking a break."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What do I not know about this situation, and how might the facts change what I think?",
+   "wgo:questionFor": {
+    "@id": "wg:common-wisdom-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose perspective have I not yet considered, and what would this look like from where they stand?",
+   "wgo:questionFor": {
+    "@id": "wg:common-wisdom-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there a way forward that serves both my interests and theirs, rather than one at the other's expense?",
+   "wgo:questionFor": {
+    "@id": "wg:common-wisdom-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I aiming at what is true and fair here, or only at winning the point?",
+   "wgo:questionFor": {
+    "@id": "wg:common-wisdom-model"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/compassion/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I actually noticed what this person is going through, or only what their trouble costs me?",
@@ -5060,6 +5092,90 @@
     "@id": "https://sparq.stanford.edu/solutions/save-your-marriage-one-argument-time"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom, listing Grossmann, Weststrate, Ardelt, Brienza, Dong, Ferrari et al. (2020), Psychological Inquiry, 31(2), 103–133 (doi:10.1080/1047840X.2020.1750917)",
+   "dcterms:title": "The science of wisdom in a polarized world: Knowns and unknowns",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/science-wisdom-polarized-world-knowns-and-unknowns"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Chicago Center for Practical Wisdom, University of Chicago",
+   "dcterms:title": "Toronto Wisdom Task Force publishes common model of wisdom to guide future research",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/toronto-wisdom-task-force-publishes-common-model-wisdom-guide-future-research"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Psychological Inquiry, 31(2), 168–173 (Lees & Young, 2020; doi:10.1080/1047840X.2020.1750925), Morality Lab, Boston College",
+   "dcterms:title": "A theory of wisdom needs theory of mind",
+   "schema:url": {
+    "@id": "https://moralitylab.bc.edu/wp-content/uploads/sites/192/2020/06/Lees-and-Young-2020-A-Theory-of-Wisdom-Needs-Theory-of-Mind.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Review of General Psychology, 25(3), 239–257 (Kristjánsson, Fowers, Darnell & Pollard, 2021; doi:10.1177/10892680211023063), University of Birmingham repository",
+   "dcterms:title": "Phronesis (practical wisdom) as a type of contextual integrative thinking",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Motivation Science (Arvanitis, 2024; doi:10.1037/mot0000325), author's accepted manuscript, Center for Self-Determination Theory",
+   "dcterms:title": "Expressing and developing wisdom: A self-determination theory approach",
+   "schema:url": {
+    "@id": "https://selfdeterminationtheory.org/wp-content/uploads/2024/02/2024_Arvanitis_MotSci_Wisdom.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Open Encyclopedia of Cognitive Science, MIT Press (Igor Grossmann, 2024)",
+   "dcterms:title": "Wisdom",
+   "schema:url": {
+    "@id": "https://oecs.knowledgefutures.org/pub/wdkwb956"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/compassion/s1",
@@ -13776,6 +13892,102 @@
     "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/howto"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:common-wisdom-model",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6"
+    }
+   ],
+   "rdfs:label": "Common wisdom model",
+   "skos:altLabel": [
+    "CWM",
+    "Toronto common model of wisdom",
+    "common model of wisdom"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "skos:definition": "A 2020 consensus framework from an international task force of wisdom scientists that defines wisdom as metacognition applied to reasoning and problem-solving and grounded in morality: perspectival metacognition (knowing the limits of one's knowledge, weighing several viewpoints, adapting to context) joined to moral aspirations (pursuit of truth, prosocial goals, a sense of shared humanity).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Common wisdom model",
+   "skos:related": [
+    {
+     "@id": "wg:balance-theory-of-wisdom"
+    },
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:implicit-theories-of-wisdom"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wisdom"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:aristotelian-phronesis-model"
+   },
+   "wgo:complements": {
+    "@id": "wg:perspective-taking"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "theoretical",
+   "wgo:file": "articles/science-of-wisdom/common-wisdom-model.md",
+   "wgo:influencedBy": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:igor-grossmann"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:science-of-wisdom-in-a-polarized-world"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:wisdom"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   }
   },
   {
    "@id": "wg:compassion",
