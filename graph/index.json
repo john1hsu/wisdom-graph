@@ -729,6 +729,107 @@
   ]
  },
  {
+  "id": "wg:confucianism",
+  "title": "Confucianism",
+  "aliases": [
+   "Ruism",
+   "Ru school",
+   "rujia",
+   "Confucian tradition",
+   "Confucian ethics"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/confucianism.md",
+  "created": "2026-11-16",
+  "summary": "The East Asian tradition of thought and practice that grew from the teaching of Confucius (Kong Qiu, 551–479 BCE), which holds that a good life and a good society come from lifelong learning and self-cultivation, expressed through humaneness (ren), ritual propriety (li), care for family and the example of the exemplary person (junzi).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:chinese-philosophy"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mencius"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:xunzi"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:analects"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:golden-rule"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:filial-piety"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:confucius",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:daoism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:mohism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:junzi-personality-mental-health-study",
+    "source": "s4",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/entries/ethics-chinese/",
+   "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download",
+   "https://www.britannica.com/topic/Confucianism",
+   "https://journal.psych.ac.cn/acps/EN/Y2021/V53/I4/374"
+  ]
+ },
+ {
   "id": "wg:courage",
   "title": "Courage",
   "aliases": [

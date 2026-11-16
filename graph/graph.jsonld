@@ -3992,6 +3992,62 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (David Wong; rev. 2023)",
+   "dcterms:title": "Chinese Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/ethics-chinese/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Indiana University ScholarWorks (2015)",
+   "dcterms:title": "The Analects of Confucius: An Online Teaching Translation, version 2.21, trans. Robert Eno",
+   "schema:url": {
+    "@id": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Confucianism",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Confucianism"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Acta Psychologica Sinica, 53(4), 374–386 (Ge & Hou, 2021)",
+   "dcterms:title": "Confucian ideal personality traits (Junzi personality) and mental health: The serial mediating roles of self-control and authenticity",
+   "schema:url": {
+    "@id": "https://journal.psych.ac.cn/acps/EN/Y2021/V53/I4/374"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/courage/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -11632,6 +11688,97 @@
     "@id": "wg:charlotte-witvliet"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:confucianism",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/confucianism/s4"
+    }
+   ],
+   "rdfs:label": "Confucianism",
+   "skos:altLabel": [
+    "Confucian ethics",
+    "Confucian tradition",
+    "Ru school",
+    "Ruism",
+    "rujia"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:chinese-philosophy"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "skos:definition": "The East Asian tradition of thought and practice that grew from the teaching of Confucius (Kong Qiu, 551–479 BCE), which holds that a good life and a good society come from lifelong learning and self-cultivation, expressed through humaneness (ren), ritual propriety (li), care for family and the example of the exemplary person (junzi).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Confucianism",
+   "skos:related": [
+    {
+     "@id": "wg:analects"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:filial-piety"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:mencius"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:xunzi"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:mohism"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:daoism"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/confucianism.md",
+   "wgo:introducedBy": {
+    "@id": "wg:confucius"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:junzi-personality-mental-health-study"
+   }
   },
   {
    "@id": "wg:courage",
