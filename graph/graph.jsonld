@@ -54,6 +54,46 @@
    "wgo:why": "The wiser response stops spending effort on fighting the feeling and the fact, which leaves attention free for the parts of the situation that can still be shaped; it accepts the departure without giving up on the launch."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/adversity/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I adding a \"second arrow\" of blame, catastrophe or self-pity to the pain this situation actually brings?",
+   "wgo:questionFor": {
+    "@id": "wg:adversity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/adversity/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which parts of this are up to me right now, and which are not?",
+   "wgo:questionFor": {
+    "@id": "wg:adversity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/adversity/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I look back on this, am I trying to understand what happened and what it taught me, or only to tie it up neatly?",
+   "wgo:questionFor": {
+    "@id": "wg:adversity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/adversity/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the load more than I can carry alone, so that it is time to lean on others or talk to a professional?",
+   "wgo:questionFor": {
+    "@id": "wg:adversity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/adversity/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "This really hurts, and I don't have to pretend otherwise. I can't change the decision, but I can update my CV, talk to two mentors this week and tell my partner how I'm feeling. In a few months I'll look back at what I'd do differently, not just at how to feel better about it.",
+   "wgo:before": "This is a disaster and it's unfair. I'll replay every meeting tonight to find who's to blame, and tell everyone I'm totally fine.",
+   "wgo:situation": "A team lead learns that the product she spent two years building is being cancelled and her role will end in three months.",
+   "wgo:why": "Separating the loss itself from the stories piled on top of it, acting on what is still controllable and leaning on others protects judgment, and open, exploratory reflection afterwards is the kind linked to wisdom."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?",
@@ -3914,6 +3954,90 @@
    "dcterms:title": "The Handbook (Enchiridion), section 8",
    "schema:url": {
     "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/8"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 99(6), 1025–1041 (Seery, Holman & Silver, 2010); eScholarship, University of California",
+   "dcterms:title": "Whatever does not kill us: Cumulative lifetime adversity, vulnerability, and resilience",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt4b6787gk/qt4b6787gk_noSplash_a002cdc51448609e75d2bc4c162f3da4.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Journal of Value Inquiry, 53(3), 349–370 (Glück, Bluck & Weststrate, 2019); Springer Professional",
+   "dcterms:title": "More on the MORE Life Experience Model: What We Have Learned (So Far)",
+   "schema:url": {
+    "@id": "https://www.springerprofessional.de/more-on-the-more-life-experience-model-what-we-have-learned-so-f/16161638"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Chicago Center for Practical Wisdom",
+   "dcterms:title": "Center for Practical Wisdom Research Forum: Nic M. Weststrate (2017)",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Frontiers in Psychiatry, 9, 378 (Mc Gee, Höltge, Maercker & Thoma, 2018)",
+   "dcterms:title": "Sense of coherence and stress-related resilience: Investigating the mediating and moderating mechanisms in the development of resilience following stress or adversity",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00378/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Perseus Digital Library / Perseids CTS (Tufts University)",
+   "dcterms:title": "Discourses of Epictetus, 1.24 (trans. George Long, 1887)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg001/perseus-eng3/1.21-1.30"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Access to Insight (BCBS Edition)",
+   "dcterms:title": "Sallatha Sutta: The Arrow (SN 36.6), translated by Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html"
    },
    "wgo:sourceType": "primary"
   },
@@ -12285,6 +12409,115 @@
    "wgo:supportedBy": {
     "@id": "wg:acceptance-strategies-meta-analysis"
    }
+  },
+  {
+   "@id": "wg:adversity",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6"
+    }
+   ],
+   "rdfs:label": "Adversity",
+   "skos:altLabel": [
+    "facing adversity",
+    "hardship",
+    "life challenges and hardship",
+    "misfortune",
+    "setbacks"
+   ],
+   "skos:broader": {
+    "@id": "wg:life-challenges"
+   },
+   "skos:definition": "The situation of meeting serious hardship, such as illness, job loss, divorce, failure or other misfortune that cannot simply be avoided. Wisdom here means bearing the pain without adding needless suffering to it, acting on what is still in one's power, and later reflecting on the experience openly rather than forcing a tidy lesson from it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Adversity",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:amor-fati"
+    },
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:dukkha"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:post-traumatic-growth"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:social-support"
+    },
+    {
+     "@id": "wg:stoicism"
+    },
+    {
+     "@id": "wg:viktor-frankl"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:sense-of-coherence-steeling-study"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:cumulative-lifetime-adversity-study"
+    },
+    {
+     "@id": "wg:wisdom-and-life-experience-studies"
+    }
+   ],
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/adversity/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:more-life-experience-model"
+   },
+   "wgo:file": "articles/adversity-and-mortality/adversity.md",
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:after-action-review",

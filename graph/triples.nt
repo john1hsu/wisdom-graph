@@ -53,6 +53,64 @@
 <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> .
 <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/acceptance-strategies-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I adding a \"second arrow\" of blame, catastrophe or self-pity to the pain this situation actually brings?" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Which parts of this are up to me right now, and which are not?" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "When I look back on this, am I trying to understand what happened and what it taught me, or only to tie it up neatly?" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is the load more than I can carry alone, so that it is time to lean on others or talk to a professional?" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "This really hurts, and I don't have to pretend otherwise. I can't change the decision, but I can update my CV, talk to two mentors this week and tell my partner how I'm feeling. In a few months I'll look back at what I'd do differently, not just at how to feel better about it." .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "This is a disaster and it's unfair. I'll replay every meeting tonight to find who's to blame, and tell everyone I'm totally fine." .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead learns that the product she spent two years building is being cancelled and her role will end in three months." .
+<https://github.com/john1hsu/wisdom-graph/id/adversity/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Separating the loss itself from the stories piled on top of it, acting on what is still controllable and leaning on others protects judgment, and open, exploratory reflection afterwards is the kind linked to wisdom." .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2000/01/rdf-schema#label> "Adversity" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#altLabel> "facing adversity" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#altLabel> "hardship" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#altLabel> "life challenges and hardship" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#altLabel> "misfortune" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#altLabel> "setbacks" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/life-challenges> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#definition> "The situation of meeting serious hardship, such as illness, job loss, divorce, failure or other misfortune that cannot simply be avoided. Wisdom here means bearing the pain without adding needless suffering to it, acting on what is still in one's power, and later reflecting on the experience openly rather than forcing a tidy lesson from it." .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adversity" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dukkha> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/sense-of-coherence-steeling-study> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/cumulative-lifetime-adversity-study> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-life-experience-studies> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "adversity-and-mortality" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/adversity/example> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/adversity-and-mortality/adversity.md" .
+<https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?" .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
@@ -4390,6 +4448,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s6> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/8> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 99(6), 1025–1041 (Seery, Holman & Silver, 2010); eScholarship, University of California" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> <http://purl.org/dc/terms/title> "Whatever does not kill us: Cumulative lifetime adversity, vulnerability, and resilience" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s1> <https://schema.org/url> <https://escholarship.org/content/qt4b6787gk/qt4b6787gk_noSplash_a002cdc51448609e75d2bc4c162f3da4.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> <http://purl.org/dc/terms/publisher> "The Journal of Value Inquiry, 53(3), 349–370 (Glück, Bluck & Weststrate, 2019); Springer Professional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> <http://purl.org/dc/terms/title> "More on the MORE Life Experience Model: What We Have Learned (So Far)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s2> <https://schema.org/url> <https://www.springerprofessional.de/more-on-the-more-life-experience-model-what-we-have-learned-so-f/16161638> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> <http://purl.org/dc/terms/publisher> "University of Chicago Center for Practical Wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> <http://purl.org/dc/terms/title> "Center for Practical Wisdom Research Forum: Nic M. Weststrate (2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s3> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> <http://purl.org/dc/terms/publisher> "Frontiers in Psychiatry, 9, 378 (Mc Gee, Höltge, Maercker & Thoma, 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> <http://purl.org/dc/terms/title> "Sense of coherence and stress-related resilience: Investigating the mediating and moderating mechanisms in the development of resilience following stress or adversity" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s4> <https://schema.org/url> <https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00378/pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> <http://purl.org/dc/terms/publisher> "Perseus Digital Library / Perseids CTS (Tufts University)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> <http://purl.org/dc/terms/title> "Discourses of Epictetus, 1.24 (trans. George Long, 1887)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s5> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0557/tlg001/perseus-eng3/1.21-1.30> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> <http://purl.org/dc/terms/publisher> "Access to Insight (BCBS Edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> <http://purl.org/dc/terms/title> "Sallatha Sutta: The Arrow (SN 36.6), translated by Thanissaro Bhikkhu" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/adversity/s6> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://purl.org/dc/terms/publisher> "U.S. Army Research Institute for the Behavioral and Social Sciences, Special Report 42 (Morrison & Meliza, July 1999), via DTIC" .
 <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1> <http://purl.org/dc/terms/title> "Foundations of the After Action Review Process" .

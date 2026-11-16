@@ -111,6 +111,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:ikigai` | contested | `wg:ikigai-outcome-wide-study` |
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
 | `wg:acceptance` | mixed |  |
+| `wg:adversity` | mixed | `wg:sense-of-coherence-steeling-study` |
 | `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:cognitive-defusion` | mixed | `wg:act-mediation-studies-review` |
@@ -135,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:interpersonal-conflict` | mixed |  |
 | `wg:kill-criteria` | mixed |  |
 | `wg:knowing-when-to-quit` | mixed |  |
-| `wg:leading-others` | mixed |  |
 
-…and 28 more.
+…and 29 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:adversity` | wgo:Context |
 | `wg:cognitive-defusion` | wgo:Practice |
 | `wg:cognitive-reappraisal` | wgo:Practice |
 | `wg:major-life-decision` | wgo:Context |

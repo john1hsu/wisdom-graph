@@ -122,6 +122,131 @@
   ]
  },
  {
+  "id": "wg:adversity",
+  "title": "Adversity",
+  "aliases": [
+   "hardship",
+   "facing adversity",
+   "misfortune",
+   "setbacks",
+   "life challenges and hardship"
+  ],
+  "type": "Context",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/adversity.md",
+  "created": "2026-11-16",
+  "summary": "The situation of meeting serious hardship, such as illness, job loss, divorce, failure or other misfortune that cannot simply be avoided. Wisdom here means bearing the pain without adding needless suffering to it, acting on what is still in one's power, and later reflecting on the experience openly rather than forcing a tidy lesson from it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:life-challenges"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:post-traumatic-growth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:amor-fati"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:viktor-frankl"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dukkha"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:social-support"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:cumulative-lifetime-adversity-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:sense-of-coherence-steeling-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:more-life-experience-model",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:wisdom-and-life-experience-studies",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I adding a \"second arrow\" of blame, catastrophe or self-pity to the pain this situation actually brings?",
+   "Which parts of this are up to me right now, and which are not?",
+   "When I look back on this, am I trying to understand what happened and what it taught me, or only to tie it up neatly?",
+   "Is the load more than I can carry alone, so that it is time to lean on others or talk to a professional?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead learns that the product she spent two years building is being cancelled and her role will end in three months.",
+   "before": "This is a disaster and it's unfair. I'll replay every meeting tonight to find who's to blame, and tell everyone I'm totally fine.",
+   "after": "This really hurts, and I don't have to pretend otherwise. I can't change the decision, but I can update my CV, talk to two mentors this week and tell my partner how I'm feeling. In a few months I'll look back at what I'd do differently, not just at how to feel better about it.",
+   "why": "Separating the loss itself from the stories piled on top of it, acting on what is still controllable and leaning on others protects judgment, and open, exploratory reflection afterwards is the kind linked to wisdom."
+  },
+  "source_urls": [
+   "https://escholarship.org/content/qt4b6787gk/qt4b6787gk_noSplash_a002cdc51448609e75d2bc4c162f3da4.pdf",
+   "https://www.springerprofessional.de/more-on-the-more-life-experience-model-what-we-have-learned-so-f/16161638",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/center-practical-wisdom-research-forum-nic-m-weststrate-2017",
+   "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00378/pdf",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg001/perseus-eng3/1.21-1.30",
+   "https://accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html"
+  ]
+ },
+ {
   "id": "wg:after-action-review",
   "title": "After-action review",
   "aliases": [

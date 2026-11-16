@@ -4,6 +4,22 @@ Every before/after example, step-by-step procedure and self-check question in th
 
 ## adversity-and-mortality
 
+### [Adversity](../articles/adversity-and-mortality/adversity.md) — Context
+
+*A team lead learns that the product she spent two years building is being cancelled and her role will end in three months.*
+
+| Before | After |
+|---|---|
+| This is a disaster and it's unfair. I'll replay every meeting tonight to find who's to blame, and tell everyone I'm totally fine. | This really hurts, and I don't have to pretend otherwise. I can't change the decision, but I can update my CV, talk to two mentors this week and tell my partner how I'm feeling. In a few months I'll look back at what I'd do differently, not just at how to feel better about it. |
+
+**Why:** Separating the loss itself from the stories piled on top of it, acting on what is still controllable and leaning on others protects judgment, and open, exploratory reflection afterwards is the kind linked to wisdom.
+
+Ask yourself:
+- Am I adding a "second arrow" of blame, catastrophe or self-pity to the pain this situation actually brings?
+- Which parts of this are up to me right now, and which are not?
+- When I look back on this, am I trying to understand what happened and what it taught me, or only to tie it up neatly?
+- Is the load more than I can carry alone, so that it is time to lean on others or talk to a professional?
+
 ### [Amor fati](../articles/adversity-and-mortality/amor-fati.md) — Principle
 
 *A project manager's carefully planned product launch is cancelled after a reorganisation, and months of her team's work will never ship.*
