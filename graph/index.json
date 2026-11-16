@@ -9718,6 +9718,114 @@
   ]
  },
  {
+  "id": "wg:theoretical-wisdom",
+  "title": "Theoretical wisdom",
+  "aliases": [
+   "sophia",
+   "sophía",
+   "philosophic wisdom",
+   "philosophical wisdom",
+   "sapientia",
+   "contemplative wisdom"
+  ],
+  "type": "Concept",
+  "domain": "foundations",
+  "level": "intermediate",
+  "evidenceStatus": "normative",
+  "file": "articles/foundations/theoretical-wisdom.md",
+  "created": "2026-11-16",
+  "summary": "The kind of wisdom Aristotle called sophia: deep understanding of the most fundamental and highest things, joining grasp of first principles with knowledge of what follows from them, prized for its own sake rather than for use, and distinguished from practical wisdom (phronesis), which is good judgment about how to act.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cleverness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:awe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:nicomachean-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:practical-wisdom",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:eudaimonia",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:intelligence",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://classics.mit.edu/Aristotle/nicomachaen.10.x.html",
+   "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+   "https://plato.stanford.edu/entries/aristotle-ethics/",
+   "https://plato.stanford.edu/entries/wisdom-analytic/",
+   "https://cts.perseids.org/read/greekLit/tlg0059/tlg006/perseus-eng2/172-174"
+  ]
+ },
+ {
   "id": "wg:theory-of-moral-sentiments",
   "title": "The Theory of Moral Sentiments",
   "aliases": [

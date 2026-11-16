@@ -12191,6 +12191,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI (chs. 7, 12–13), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book X (chs. 7–8), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.10.x.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Metaphysics, Book I (parts 1–2), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut; revised 2026)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Shane Ryan and Sharon Ryan)",
+   "dcterms:title": "Wisdom in Contemporary Analytic Philosophy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/wisdom-analytic/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Perseus Digital Library via Perseids (Tufts University)",
+   "dcterms:title": "Theaetetus 172–174, trans. Harold North Fowler (Plato in Twelve Volumes, vol. 7, Harvard University Press, 1921)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0059/tlg006/perseus-eng2/172-174"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theory-of-moral-sentiments/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -21936,6 +22020,104 @@
    "wgo:level": "intermediate",
    "wgo:supportedBy": {
     "@id": "wg:wisdom-can-be-taught-study"
+   }
+  },
+  {
+   "@id": "wg:theoretical-wisdom",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/theoretical-wisdom/s6"
+    }
+   ],
+   "rdfs:label": "Theoretical wisdom",
+   "skos:altLabel": [
+    "contemplative wisdom",
+    "philosophic wisdom",
+    "philosophical wisdom",
+    "sapientia",
+    "sophía",
+    "sophia"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:intellectual-virtues"
+    },
+    {
+     "@id": "wg:wisdom"
+    }
+   ],
+   "skos:definition": "The kind of wisdom Aristotle called sophia: deep understanding of the most fundamental and highest things, joining grasp of first principles with knowledge of what follows from them, prized for its own sake rather than for use, and distinguished from practical wisdom (phronesis), which is good judgment about how to act.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Theoretical wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:awe"
+    },
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:intelligence"
+   },
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/foundations/theoretical-wisdom.md",
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "intermediate",
+   "wgo:partOf": {
+    "@id": "wg:eudaimonia"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
    }
   },
   {
