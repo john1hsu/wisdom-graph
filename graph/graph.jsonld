@@ -1564,6 +1564,46 @@
    "schema:text": "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If our positions were reversed, would I accept being treated the way I'm about to treat this person?",
+   "wgo:questionFor": {
+    "@id": "wg:golden-rule"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I applying my own tastes, or the underlying respect I'd want, and have I asked what they actually want?",
+   "wgo:questionFor": {
+    "@id": "wg:golden-rule"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I be comfortable if everyone in my position acted on the reason I'm acting on now?",
+   "wgo:questionFor": {
+    "@id": "wg:golden-rule"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this relationship's difference in power change what treating them as an equal would require?",
+   "wgo:questionFor": {
+    "@id": "wg:golden-rule"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "What I'd want is to have my effort noticed and valued. I'll ask her how she likes to be recognised; she prefers a note to her director and first pick of the next project, so that is what she gets.",
+   "wgo:before": "I'd love to be praised in front of the whole department, so I'll call her up at the all-hands and give a big speech.",
+   "wgo:situation": "A manager wants to thank a quiet, highly reliable analyst for rescuing a delayed project.",
+   "wgo:why": "The manager keeps the rule's core (give the respect and appreciation you'd want) but stops projecting a personal taste onto someone who doesn't share it, which is the most common way the rule misfires."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I noticed who made this good thing possible, and the effort or intention it took them?",
@@ -6841,6 +6881,90 @@
    "dcterms:title": "Effect of kindness-based meditation on health and well-being: a systematic review and meta-analysis",
    "schema:url": {
     "@id": "https://www.repository.cam.ac.uk/handle/1810/276660"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Golden Rule",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Golden-Rule"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Indiana University ScholarWorks",
+   "dcterms:title": "The Analects of Confucius: A Teaching Translation (Robert Eno, 2015), passages 4.15, 5.12, 6.30 and 15.24",
+   "schema:url": {
+    "@id": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Dao: A Journal of Comparative Philosophy, 21, 347–368 (Junghwan Lee, 2022), Springer",
+   "dcterms:title": "The Golden Rule, Humanity, and Equality: Shu and Ren in Confucius' Teachings and Beyond",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s11712-022-09837-9"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Pittsburgh course reading (Michael Thompson)",
+   "dcterms:title": "Immanuel Kant, Groundwork of the Metaphysics of Morals, Section II (English translation with Academy pagination), footnote at Ak 4:430",
+   "schema:url": {
+    "@id": "https://sites.pitt.edu/~mthompso/readings/GroundworkII.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Philosophia, 51, 505–524 (Pauline Kleingeld, 2023), Springer",
+   "dcterms:title": "A Defense and Development of the Volitional Self-Contradiction Interpretation",
+   "schema:url": {
+    "@id": "https://link.springer.com/10.1007/s11406-023-00641-0"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 114(4), 547–571 (Eyal, Steffel & Epley, 2018), full-text PDF",
+   "dcterms:title": "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective",
+   "schema:url": {
+    "@id": "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cbe54fb71c10bbdc16e0dbc/1555977471661/eyal.steffel.epley.2018.pdf"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -16026,6 +16150,109 @@
     },
     {
      "@id": "wg:loving-kindness-positive-emotions-meta-analysis"
+    }
+   ]
+  },
+  {
+   "@id": "wg:golden-rule",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6"
+    }
+   ],
+   "rdfs:label": "Golden Rule",
+   "skos:altLabel": [
+    "恕",
+    "do unto others",
+    "ethic of reciprocity",
+    "reciprocity (Confucian)",
+    "shu",
+    "silver rule"
+   ],
+   "skos:broader": {
+    "@id": "wg:moral-principles"
+   },
+   "skos:definition": "The widely shared moral maxim to treat others as you would want to be treated, in a positive form (\"do to others what you would have them do to you\") or a negative one (\"do not do to others what you would not want done to you\"); best read as a habit of imaginative fairness, checked against what the other person actually wants.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Golden Rule",
+   "skos:related": [
+    {
+     "@id": "wg:analects"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:impartial-spectator"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:groundwork-of-the-metaphysics-of-morals"
+    },
+    {
+     "@id": "wg:perspective-mistaking-study"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:categorical-imperative"
+   },
+   "wgo:develops": {
+    "@id": "wg:ren"
+   },
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/golden-rule.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:christianity"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:judaism"
     }
    ]
   },

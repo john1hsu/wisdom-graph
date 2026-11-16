@@ -57,7 +57,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
 
-…and 11 more.
+…and 12 more.
 
 ## Toolkit by life situation
 
@@ -89,14 +89,14 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:balance-theory-of-wisdom` |
 | `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
+| `wg:leading-others` | `wg:golden-rule` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:kill-criteria` |
 | `wg:leading-others` | `wg:practical-wisdom` |
 | `wg:leading-others` | `wg:servant-leadership` |
 | `wg:leading-others` | `wg:stewardship` |
-| `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 
-…and 16 more.
+…and 17 more.
 
 ## Myths and contested advice
 
@@ -184,10 +184,12 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:impermanence` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
+| `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:stewardship` |
 | `wg:confucianism` | `wg:compassion` |
 | `wg:confucianism` | `wg:courage` |
 | `wg:confucianism` | `wg:evening-review` |
+| `wg:confucianism` | `wg:golden-rule` |
 | `wg:confucianism` | `wg:intellectual-humility` |
 | `wg:confucianism` | `wg:moral-habituation` |
 | `wg:daoism` | `wg:contentment` |
@@ -196,10 +198,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:epicureanism` | `wg:contentment` |
 | `wg:hebrew-wisdom-literature` | `wg:folly` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
-| `wg:pythagoreanism` | `wg:evening-review` |
-| `wg:seven-sages-of-greece` | `wg:hubris` |
 
-…and 12 more.
+…and 15 more.
 
 ## The doctrine of the mean
 

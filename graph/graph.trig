@@ -116,6 +116,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/forgiveness#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/golden-rule.md" .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/interpersonal-conflict.md" .
@@ -2022,6 +2031,101 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
   <https://github.com/john1hsu/wisdom-graph/id/source/forgiveness/s7> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/golden-rule#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If our positions were reversed, would I accept being treated the way I'm about to treat this person?" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I applying my own tastes, or the underlying respect I'd want, and have I asked what they actually want?" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Would I be comfortable if everyone in my position acted on the reason I'm acting on now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Does this relationship's difference in power change what treating them as an equal would require?" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "What I'd want is to have my effort noticed and valued. I'll ask her how she likes to be recognised; she prefers a note to her director and first pick of the next project, so that is what she gets." .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'd love to be praised in front of the whole department, so I'll call her up at the all-hands and give a big speech." .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A manager wants to thank a quiet, highly reliable analyst for rescuing a delayed project." .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The manager keeps the rule's core (give the respect and appreciation you'd want) but stops projecting a personal taste onto someone who doesn't share it, which is the most common way the rule misfires." .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2000/01/rdf-schema#label> "Golden Rule" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "do unto others" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "ethic of reciprocity" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "reciprocity (Confucian)" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "shu" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "silver rule" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "恕" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-principles> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#definition> "The widely shared moral maxim to treat others as you would want to be treated, in a positive form (\"do to others what you would have them do to you\") or a negative one (\"do not do to others what you would not want done to you\"); best read as a habit of imaginative fairness, checked against what the other person actually wants." .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#prefLabel> "Golden Rule" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/analects> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/groundwork-of-the-metaphysics-of-morals> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-mistaking-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/categorical-imperative> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/ren> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/golden-rule.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/christianity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/judaism> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://purl.org/dc/terms/title> "Golden Rule" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <https://schema.org/url> <https://www.britannica.com/topic/Golden-Rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> <http://purl.org/dc/terms/publisher> "Indiana University ScholarWorks" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> <http://purl.org/dc/terms/title> "The Analects of Confucius: A Teaching Translation (Robert Eno, 2015), passages 4.15, 5.12, 6.30 and 15.24" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s2> <https://schema.org/url> <https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> <http://purl.org/dc/terms/publisher> "Dao: A Journal of Comparative Philosophy, 21, 347–368 (Junghwan Lee, 2022), Springer" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> <http://purl.org/dc/terms/title> "The Golden Rule, Humanity, and Equality: Shu and Ren in Confucius' Teachings and Beyond" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s3> <https://schema.org/url> <https://link.springer.com/article/10.1007/s11712-022-09837-9> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> <http://purl.org/dc/terms/publisher> "University of Pittsburgh course reading (Michael Thompson)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> <http://purl.org/dc/terms/title> "Immanuel Kant, Groundwork of the Metaphysics of Morals, Section II (English translation with Academy pagination), footnote at Ak 4:430" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s4> <https://schema.org/url> <https://sites.pitt.edu/~mthompso/readings/GroundworkII.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> <http://purl.org/dc/terms/publisher> "Philosophia, 51, 505–524 (Pauline Kleingeld, 2023), Springer" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> <http://purl.org/dc/terms/title> "A Defense and Development of the Volitional Self-Contradiction Interpretation" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s5> <https://schema.org/url> <https://link.springer.com/10.1007/s11406-023-00641-0> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 114(4), 547–571 (Eyal, Steffel & Epley, 2018), full-text PDF" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> <http://purl.org/dc/terms/title> "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s6> <https://schema.org/url> <https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cbe54fb71c10bbdc16e0dbc/1555977471661/eyal.steffel.epley.2018.pdf> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> {
@@ -10334,6 +10438,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/amor-fati> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/affirmation-of-life> .
   <https://github.com/john1hsu/wisdom-graph/id/amor-fati> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/analects> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/analects> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
@@ -10467,6 +10572,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/carsten-wrosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/carsten-wrosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/carsten-wrosch> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/categorical-imperative> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/ceo-hubris-acquisition-premiums-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ceo-hubris-acquisition-premiums-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/ceo-hubris-acquisition-premiums-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
@@ -10478,6 +10584,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/christianity> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/christianity> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10561,6 +10668,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -10601,6 +10709,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/confucius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10835,6 +10944,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
@@ -11027,7 +11137,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/goal-adjustment-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
-  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-principles> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
@@ -11062,6 +11179,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-work-hypothesis-review-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-work> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
+  <https://github.com/john1hsu/wisdom-graph/id/groundwork-of-the-metaphysics-of-morals> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/habit-formation-real-world-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/happiness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/happiness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
@@ -11184,6 +11302,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11262,6 +11381,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
@@ -11340,6 +11460,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/john-dewey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/john-dewey> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/journey-to-the-east> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/judaism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/judaism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/judaism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/judaism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/junzi-personality-mental-health-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/karma-yoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11402,6 +11526,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
@@ -11568,6 +11693,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-education> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-principles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-principles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -11660,6 +11787,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/personal-wisdom-performance-measure-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-wisdom-performance-measure-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-wisdom-performance-measure-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-mistaking-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-mistaking-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking-empathic-concern-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking-empathic-concern-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
@@ -11679,6 +11807,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
@@ -11884,6 +12013,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/ren> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/resignation> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .

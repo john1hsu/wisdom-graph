@@ -146,6 +146,22 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Golden Rule](../articles/compassion-and-relationships/golden-rule.md) — Principle
+
+*A manager wants to thank a quiet, highly reliable analyst for rescuing a delayed project.*
+
+| Before | After |
+|---|---|
+| I'd love to be praised in front of the whole department, so I'll call her up at the all-hands and give a big speech. | What I'd want is to have my effort noticed and valued. I'll ask her how she likes to be recognised; she prefers a note to her director and first pick of the next project, so that is what she gets. |
+
+**Why:** The manager keeps the rule's core (give the respect and appreciation you'd want) but stops projecting a personal taste onto someone who doesn't share it, which is the most common way the rule misfires.
+
+Ask yourself:
+- If our positions were reversed, would I accept being treated the way I'm about to treat this person?
+- Am I applying my own tastes, or the underlying respect I'd want, and have I asked what they actually want?
+- Would I be comfortable if everyone in my position acted on the reason I'm acting on now?
+- Does this relationship's difference in power change what treating them as an equal would require?
+
 ### [Interpersonal conflict](../articles/compassion-and-relationships/interpersonal-conflict.md) — Context
 
 *Two siblings are arguing about who should take on more of the care for an ageing parent. One lives nearby; the other earns more and lives two hours away. The latest phone call ended with both hanging up angry.*
