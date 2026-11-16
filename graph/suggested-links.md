@@ -11,21 +11,21 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.03 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:plato`, `wg:practical-wisdom` |
 | 2.99 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom`, `wg:self-distancing` |
 | 2.67 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
-| 2.65 | `wg:equanimity` | `wg:process-model-of-emotion-regulation` | `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:emotional-suppression`, `wg:james-gross` |
+| 2.60 | `wg:equanimity` | `wg:process-model-of-emotion-regulation` | `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:emotional-suppression`, `wg:james-gross` |
 | 2.48 | `wg:igor-grossmann` | `wg:interpersonal-conflict` | `wg:aging-and-wisdom-culture-study`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:self-distancing`, `wg:solomons-paradox` |
 | 2.46 | `wg:courage` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:doctrine-of-the-mean`, `wg:honesty` |
 | 2.36 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
 | 2.32 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
-| 2.22 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.19 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
 | 2.17 | `wg:emulating-moral-exemplars` | `wg:honesty` | `wg:aristotelian-virtue-ethics`, `wg:moral-psychology`, `wg:virtue-ethics` |
 | 2.14 | `wg:four-immeasurables` | `wg:right-speech` | `wg:buddhism`, `wg:buddhist-ethics`, `wg:compassion` |
+| 2.12 | `wg:acceptance` | `wg:resilience` | `wg:amor-fati`, `wg:dichotomy-of-control`, `wg:emotional-suppression`, `wg:equanimity`, `wg:grief-and-loss` |
 | 2.12 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:self-deception`, `wg:self-distancing` |
 | 2.11 | `wg:deliberation` | `wg:moral-habituation` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:doctrine-of-the-mean`, `wg:implementation-intentions`, `wg:practical-wisdom` |
 | 2.10 | `wg:moral-habituation` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:confucianism`, `wg:doctrine-of-the-mean`, `wg:emulating-moral-exemplars` |
-| 2.10 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity`, `wg:process-model-of-emotion-regulation`, `wg:self-distancing` |
-| 2.08 | `wg:compassionate-reappraisal` | `wg:equanimity` | `wg:cognitive-reappraisal`, `wg:compassion`, `wg:emotional-suppression`, `wg:forgiveness`, `wg:regulatory-flexibility` |
+| 2.09 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity`, `wg:process-model-of-emotion-regulation`, `wg:self-distancing` |
+| 2.09 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.08 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:wisdom`, `wg:wise-leadership` |
 | 2.07 | `wg:deliberation` | `wg:regret` | `wg:knowing-when-to-quit`, `wg:major-life-decision`, `wg:rumination`, `wg:satisficing`, `wg:self-distancing` |
 | 2.07 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
-| 2.06 | `wg:personal-and-general-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:self-distancing`, `wg:solomons-paradox`, `wg:wisdom` |
+| 2.07 | `wg:compassionate-reappraisal` | `wg:equanimity` | `wg:cognitive-reappraisal`, `wg:compassion`, `wg:emotional-suppression`, `wg:forgiveness`, `wg:regulatory-flexibility` |

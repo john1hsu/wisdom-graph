@@ -14,6 +14,46 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/acceptance/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I fighting a feeling I'm entitled to have, or criticising myself for having it?",
+   "wgo:questionFor": {
+    "@id": "wg:acceptance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/acceptance/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this situation truly fixed, or am I calling it unchangeable so I don't have to act?",
+   "wgo:questionFor": {
+    "@id": "wg:acceptance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/acceptance/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I accepting what happened, or am I approving of it or giving up?",
+   "wgo:questionFor": {
+    "@id": "wg:acceptance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/acceptance/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Once I've let this be, what is the one step that still matters most?",
+   "wgo:questionFor": {
+    "@id": "wg:acceptance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/acceptance/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'm anxious and a bit hurt, and that makes sense the week before a launch. The departure is settled. What's still open is the handover and which features we cut, so that's where this afternoon goes.",
+   "wgo:before": "I shouldn't be this rattled; I'm the lead. I'll push the worry down, tell everyone it's fine, and keep reopening the decision to let her go in my head all weekend.",
+   "wgo:situation": "A week before a product launch, a team lead learns that a key engineer is leaving and the launch date cannot move.",
+   "wgo:why": "The wiser response stops spending effort on fighting the feeling and the fact, which leaves attention free for the parts of the situation that can still be shaped; it accepts the departure without giving up on the launch."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/after-action-review/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I looking at what happened in order to learn from it, or to find someone to blame, including myself?",
@@ -3651,6 +3691,90 @@
    "wgo:before": "This is a power grab, plain and simple. I know exactly what they're up to, and I'm escalating to our director today.",
    "wgo:situation": "You recently helped a teammate think calmly through a clash with another department. This week a peer quietly reassigns part of your own project without asking you.",
    "wgo:why": "Treating your own conflict as you would a colleague's brings back the habits you already use as an adviser, namely admitting what you don't know, looking for compromise and expecting the situation to change."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 115(6), 1075–1092 (Ford, Lam, John & Mauss, 2018; doi:10.1037/pspp0000157), PubMed Central",
+   "dcterms:title": "The psychological health benefits of accepting negative emotions and thoughts: Laboratory, diary, and longitudinal evidence",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5767148"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Behavior Therapy and Experimental Psychiatry, 43(4), 988–1001 (Kohl, Rief & Glombiewski, 2012; doi:10.1016/j.jbtep.2012.03.004), PubMed",
+   "dcterms:title": "How effective are acceptance strategies? A meta-analytic review of experimental results",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/22561050/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 11, 242 (Wojnarowska, Kobylinska & Lewczuk, 2020; doi:10.3389/fpsyg.2020.00242)",
+   "dcterms:title": "Acceptance as an Emotion Regulation Strategy in Experimental Psychological Research: What We Know and How We Can Improve That Knowledge",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00242/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Swiss Journal of Psychology, 64(4), 281–292 (Nakamura & Orth, 2005; doi:10.1024/1421-0185.64.4.281), Hogrefe",
+   "dcterms:title": "Acceptance as a Coping Reaction: Adaptive or not?",
+   "schema:url": {
+    "@id": "https://econtent.hogrefe.com/doi/10.1024/1421-0185.64.4.281"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Contextual Behavioral Science, 18, 181–192 (Gloster, Walder, Levin, Twohig & Karekla, 2020; doi:10.1016/j.jcbs.2020.09.009), Association for Contextual Behavioral Science",
+   "dcterms:title": "The empirical status of acceptance and commitment therapy: A review of meta-analyses",
+   "schema:url": {
+    "@id": "https://contextualscience.org/publications/empirical_status_acceptance_commitment_therapy_review_metaanalyses"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Epictetus, trans. T. W. Higginson, The Works of Epictetus (Thomas Nelson and Sons, 1890), Perseus Digital Library via Perseids",
+   "dcterms:title": "The Handbook (Enchiridion), section 8",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/8"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s1",
@@ -11752,6 +11876,106 @@
    "wgo:before": "They have clearly sidelined me on purpose. I'll tell the team the plan is a mistake and refuse to hand anything over.",
    "wgo:situation": "Your team lead announces that a project you have run for a year will be merged into another group's work. You learn about it in the same meeting as everyone else.",
    "wgo:why": "The wiser response admits what it does not know, takes the other side's reasons seriously, allows that events can still turn several ways, and looks for an arrangement both sides can live with, which are the four elements researchers score."
+  },
+  {
+   "@id": "wg:acceptance",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/acceptance/s6"
+    }
+   ],
+   "rdfs:label": "Acceptance",
+   "skos:altLabel": [
+    "accepting negative emotions",
+    "active acceptance",
+    "emotional acceptance",
+    "psychological acceptance"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "The learnable capacity to let painful emotions, thoughts and unchangeable facts be what they are, noticing them without judging or fighting them, so that energy goes to what still matters and can still be done. It is not approval of what happened, and not resignation.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Acceptance",
+   "skos:related": [
+    {
+     "@id": "wg:amor-fati"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:regulatory-flexibility"
+    },
+    {
+     "@id": "wg:serenity-prayer"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:adversity"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:resignation"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:emotional-suppression"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:accepting-negative-emotions-study"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/acceptance/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/acceptance.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:acceptance-and-commitment-therapy"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:stoicism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:acceptance-strategies-meta-analysis"
+   }
   },
   {
    "@id": "wg:after-action-review",

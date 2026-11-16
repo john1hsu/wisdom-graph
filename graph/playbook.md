@@ -195,6 +195,22 @@ Ask yourself:
 
 ## emotions-and-equanimity
 
+### [Acceptance](../articles/emotions-and-equanimity/acceptance.md) — Skill
+
+*A week before a product launch, a team lead learns that a key engineer is leaving and the launch date cannot move.*
+
+| Before | After |
+|---|---|
+| I shouldn't be this rattled; I'm the lead. I'll push the worry down, tell everyone it's fine, and keep reopening the decision to let her go in my head all weekend. | I'm anxious and a bit hurt, and that makes sense the week before a launch. The departure is settled. What's still open is the handover and which features we cut, so that's where this afternoon goes. |
+
+**Why:** The wiser response stops spending effort on fighting the feeling and the fact, which leaves attention free for the parts of the situation that can still be shaped; it accepts the departure without giving up on the launch.
+
+Ask yourself:
+- Am I fighting a feeling I'm entitled to have, or criticising myself for having it?
+- Is this situation truly fixed, or am I calling it unchangeable so I don't have to act?
+- Am I accepting what happened, or am I approving of it or giving up?
+- Once I've let this be, what is the one step that still matters most?
+
 ### [Cognitive reappraisal](../articles/emotions-and-equanimity/cognitive-reappraisal.md) — Practice
 
 1. Name the feeling and the specific thought driving it, for example "I'm anxious because I think this mistake will get me fired."

@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:acceptance` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -65,6 +67,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 
 | situation | practice |
 |---|---|
+| `wg:adversity` | `wg:acceptance` |
 | `wg:adversity` | `wg:amor-fati` |
 | `wg:adversity` | `wg:cognitive-reappraisal` |
 | `wg:adversity` | `wg:impermanence` |
@@ -94,9 +97,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:wise-leadership` |
 | `wg:learning-from-experience` | `wg:after-action-review` |
 | `wg:learning-from-experience` | `wg:evening-review` |
-| `wg:learning-from-experience` | `wg:self-reflection` |
 
-…and 11 more.
+…and 12 more.
 
 ## Myths and contested advice
 
@@ -108,6 +110,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:reconsidering-happiness-critique` |
 | `wg:ikigai` | contested | `wg:ikigai-outcome-wide-study` |
 | `wg:post-traumatic-growth` | contested | `wg:perceived-versus-actual-growth-study` |
+| `wg:acceptance` | mixed |  |
 | `wg:after-action-review` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
@@ -133,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:leading-others` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:major-life-decision` | mixed |  |
-| `wg:meaning-in-life` | mixed |  |
 
-…and 25 more.
+…and 26 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -195,9 +197,9 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:socratic-philosophy` | `wg:know-thyself` |
 | `wg:socratic-philosophy` | `wg:self-reflection` |
 | `wg:socratic-philosophy` | `wg:socratic-ignorance` |
-| `wg:stoicism` | `wg:dichotomy-of-control` |
+| `wg:stoicism` | `wg:acceptance` |
 
-…and 6 more.
+…and 7 more.
 
 ## The doctrine of the mean
 

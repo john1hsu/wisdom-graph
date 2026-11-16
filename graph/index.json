@@ -1,5 +1,127 @@
 [
  {
+  "id": "wg:acceptance",
+  "title": "Acceptance",
+  "aliases": [
+   "psychological acceptance",
+   "emotional acceptance",
+   "accepting negative emotions",
+   "active acceptance"
+  ],
+  "type": "Skill",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/acceptance.md",
+  "created": "2026-11-16",
+  "summary": "The learnable capacity to let painful emotions, thoughts and unchangeable facts be what they are, noticing them without judging or fighting them, so that energy goes to what still matters and can still be done. It is not approval of what happened, and not resignation.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regulatory-flexibility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:amor-fati"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:serenity-prayer"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:accepting-negative-emotions-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:acceptance-strategies-meta-analysis",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:emotional-suppression",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:resignation",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:acceptance-and-commitment-therapy",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I fighting a feeling I'm entitled to have, or criticising myself for having it?",
+   "Is this situation truly fixed, or am I calling it unchangeable so I don't have to act?",
+   "Am I accepting what happened, or am I approving of it or giving up?",
+   "Once I've let this be, what is the one step that still matters most?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A week before a product launch, a team lead learns that a key engineer is leaving and the launch date cannot move.",
+   "before": "I shouldn't be this rattled; I'm the lead. I'll push the worry down, tell everyone it's fine, and keep reopening the decision to let her go in my head all weekend.",
+   "after": "I'm anxious and a bit hurt, and that makes sense the week before a launch. The departure is settled. What's still open is the handover and which features we cut, so that's where this afternoon goes.",
+   "why": "The wiser response stops spending effort on fighting the feeling and the fact, which leaves attention free for the parts of the situation that can still be shaped; it accepts the departure without giving up on the launch."
+  },
+  "source_urls": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5767148",
+   "https://pubmed.ncbi.nlm.nih.gov/22561050/",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00242/full",
+   "https://econtent.hogrefe.com/doi/10.1024/1421-0185.64.4.281",
+   "https://contextualscience.org/publications/empirical_status_acceptance_commitment_therapy_review_metaanalyses",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng4/8"
+  ]
+ },
+ {
   "id": "wg:after-action-review",
   "title": "After-action review",
   "aliases": [
