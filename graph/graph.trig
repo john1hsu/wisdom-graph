@@ -365,6 +365,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/classification-of-desires.md" .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/contentment#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/contentment#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
 <https://github.com/john1hsu/wisdom-graph/id/contentment#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/contentment.md" .
@@ -4809,6 +4818,96 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
   <https://github.com/john1hsu/wisdom-graph/id/source/seeking-counsel/s6> <https://schema.org/url> <https://tips.translation.bible/tip_verse/prov-1522/> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/classification-of-desires#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Would going without this actually cause me pain, or would I just feel I had fallen behind someone?" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Does this desire have a natural stopping point, or would more always seem better?" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What am I already giving up, in time, health or peace, to chase it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Which of these would actually hurt to go without? We need more space for the kids, so that's real. The car and the title are mostly about how I look next to others, and I can drop them if they cost my evenings." .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Everyone at my level has these things. Once I have them I'll finally be able to relax." .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "After a good year, a project manager starts eyeing a bigger house, a premium car and a more senior title, and finds herself working weekends and sleeping badly to get all three." .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Sorting the wants separates a real need from desires driven by comparison, so effort goes where it buys security and the rest stops dictating her time." .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2000/01/rdf-schema#label> "Classification of desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#altLabel> "Epicurean classification of desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#altLabel> "Principal Doctrine 29" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#altLabel> "empty desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#altLabel> "natural and necessary desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#altLabel> "vain desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#definition> "Epicurus's teaching that desires are natural and necessary, natural but unnecessary, or empty (born of groundless opinion), and that a good life comes from meeting the first, enjoying the second lightly, and seeing through the third, whose objects can never be had in full." .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#prefLabel> "Classification of desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/classification-of-desires.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/epicurus> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/letter-to-menoeceus> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/materialism-and-well-being-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/wanting-what-you-have-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://purl.org/dc/terms/publisher> "Columbia College Core Curriculum reader, Columbia University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://purl.org/dc/terms/title> "Epicurus, Letter to Menoeceus (English translation)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <https://schema.org/url> <https://www.college.columbia.edu/sites/default/files/Letter%20to%20Menoeceus.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> <http://purl.org/dc/terms/publisher> "Lexundria (Hicks, Diogenes Laertius, Lives of Eminent Philosophers, Book 10)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> <http://purl.org/dc/terms/title> "Epicurus, Principal Doctrines 1–40, trans. R. D. Hicks" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2> <https://schema.org/url> <https://www.lexundria.com/epic_kd/1-40/hks10> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> <http://purl.org/dc/terms/title> "Epicurus (David Konstan; substantive revision 8 July 2022)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3> <https://schema.org/url> <https://plato.stanford.edu/Entries/epicurus/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> <http://purl.org/dc/terms/publisher> "Apeiron, 55(2), 193–217 (Jan Maximilian Robitzsch, 2022), De Gruyter" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> <http://purl.org/dc/terms/title> "A Functional Reading of the Epicurean Classification of Desires" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4> <https://schema.org/url> <https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2020-0048/html?lang=en> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 107(5), 879–924 (Dittmar, Bond, Hurst & Kasser, 2014), via PubMed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> <http://purl.org/dc/terms/title> "The relationship between materialism and personal well-being: A meta-analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/25347131/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> <http://purl.org/dc/terms/publisher> "Association for Psychological Science news release on Larsen & McKibban (2008), Psychological Science" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> <http://purl.org/dc/terms/title> "Is Happiness Having What You Want, Wanting What You Have, or Both?" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6> <https://schema.org/url> <https://www.psychologicalscience.org/news/releases/is-happiness-having-what-you-want-wanting-what-you-have-or-both.html> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/contentment#graph> {
@@ -9940,6 +10039,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
@@ -10064,6 +10170,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+  <https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
   <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/continuing-bonds> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
@@ -10163,6 +10271,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
@@ -10296,13 +10405,19 @@
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicurus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicurus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicurus> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/epistemology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/epistemology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/epistemology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -10471,6 +10586,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ikigai> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10495,6 +10611,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
@@ -10813,6 +10930,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/letter-to-menoeceus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/letter-to-menoeceus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/letter-to-menoeceus> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/life-challenges> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/life-challenges> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/life-challenges> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
@@ -10865,6 +10985,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/many-labs-3> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-seligman> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
+  <https://github.com/john1hsu/wisdom-graph/id/materialism-and-well-being-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/maximizing-tendency-measurement-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/maximizing-versus-satisficing-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/maximizing> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
@@ -11112,6 +11233,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
@@ -11124,6 +11246,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/problem-solving> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11321,6 +11446,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/bounded-rationality> .
+  <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
@@ -11480,6 +11606,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/sigmund-freud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/sigmund-freud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/sigmund-freud> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
+  <https://github.com/john1hsu/wisdom-graph/id/simplicity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/simplicity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/situated-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
@@ -11722,6 +11849,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+  <https://github.com/john1hsu/wisdom-graph/id/wanting-what-you-have-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

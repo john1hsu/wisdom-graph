@@ -384,6 +384,38 @@
    "wgo:why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would going without this actually cause me pain, or would I just feel I had fallen behind someone?",
+   "wgo:questionFor": {
+    "@id": "wg:classification-of-desires"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this desire have a natural stopping point, or would more always seem better?",
+   "wgo:questionFor": {
+    "@id": "wg:classification-of-desires"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What am I already giving up, in time, health or peace, to chase it?",
+   "wgo:questionFor": {
+    "@id": "wg:classification-of-desires"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Which of these would actually hurt to go without? We need more space for the kids, so that's real. The car and the title are mostly about how I look next to others, and I can drop them if they cost my evenings.",
+   "wgo:before": "Everyone at my level has these things. Once I have them I'll finally be able to relax.",
+   "wgo:situation": "After a good year, a project manager starts eyeing a bigger house, a premium car and a more senior title, and finds herself working weekends and sleeping badly to get all three.",
+   "wgo:why": "Sorting the wants separates a real need from desires driven by comparison, so effort goes where it buys security and the rest stops dictating her time."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating this thought as a fact about the world, or as something my mind is saying right now?",
@@ -4762,6 +4794,90 @@
     "@id": "https://journal.equinoxpub.com/BSR/article/view/8856"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Columbia College Core Curriculum reader, Columbia University",
+   "dcterms:title": "Epicurus, Letter to Menoeceus (English translation)",
+   "schema:url": {
+    "@id": "https://www.college.columbia.edu/sites/default/files/Letter%20to%20Menoeceus.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Lexundria (Hicks, Diogenes Laertius, Lives of Eminent Philosophers, Book 10)",
+   "dcterms:title": "Epicurus, Principal Doctrines 1–40, trans. R. D. Hicks",
+   "schema:url": {
+    "@id": "https://www.lexundria.com/epic_kd/1-40/hks10"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Epicurus (David Konstan; substantive revision 8 July 2022)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/Entries/epicurus/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Apeiron, 55(2), 193–217 (Jan Maximilian Robitzsch, 2022), De Gruyter",
+   "dcterms:title": "A Functional Reading of the Epicurean Classification of Desires",
+   "schema:url": {
+    "@id": "https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2020-0048/html?lang=en"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 107(5), 879–924 (Dittmar, Bond, Hurst & Kasser, 2014), via PubMed",
+   "dcterms:title": "The relationship between materialism and personal well-being: A meta-analysis",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/25347131/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Association for Psychological Science news release on Larsen & McKibban (2008), Psychological Science",
+   "dcterms:title": "Is Happiness Having What You Want, Wanting What You Have, or Both?",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/news/releases/is-happiness-having-what-you-want-wanting-what-you-have-or-both.html"
+   },
+   "wgo:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1",
@@ -13362,6 +13478,105 @@
     "@id": "wg:the-buddha"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:classification-of-desires",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s6"
+    }
+   ],
+   "rdfs:label": "Classification of desires",
+   "skos:altLabel": [
+    "Epicurean classification of desires",
+    "Principal Doctrine 29",
+    "empty desires",
+    "natural and necessary desires",
+    "vain desires"
+   ],
+   "skos:broader": {
+    "@id": "wg:epicurean-ethics"
+   },
+   "skos:definition": "Epicurus's teaching that desires are natural and necessary, natural but unnecessary, or empty (born of groundless opinion), and that a good life comes from meeting the first, enjoying the second lightly, and seeing through the third, whose objects can never be had in full.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Classification of desires",
+   "skos:related": [
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:hedonic-adaptation"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:simplicity"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:greed"
+   },
+   "wgo:develops": {
+    "@id": "wg:contentment"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/classification-of-desires.md",
+   "wgo:introducedBy": {
+    "@id": "wg:epicurus"
+   },
+   "wgo:introducedIn": [
+    {
+     "@id": "wg:letter-to-menoeceus"
+    },
+    {
+     "@id": "wg:principal-doctrines"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:epicureanism"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:materialism-and-well-being-meta-analysis"
+    },
+    {
+     "@id": "wg:wanting-what-you-have-study"
+    }
+   ]
   },
   {
    "@id": "wg:cognitive-defusion",

@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:contentment` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -36,6 +34,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
+| `wg:classification-of-desires` | 2 | Contentment, greed |
 | `wg:cognitive-defusion` | 2 | Acceptance, cognitive-fusion |
 | `wg:evening-review` | 2 | Self-reflection, anger |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
@@ -57,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
 | `wg:equanimity` | 1 | Rumination |
-| `wg:gratitude` | 1 | ingratitude |
 
-…and 8 more.
+…and 9 more.
 
 ## Toolkit by life situation
 
@@ -193,15 +191,15 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:moral-habituation` |
 | `wg:daoism` | `wg:contentment` |
 | `wg:daoism` | `wg:humble-leadership` |
+| `wg:epicureanism` | `wg:classification-of-desires` |
 | `wg:epicureanism` | `wg:contentment` |
 | `wg:hebrew-wisdom-literature` | `wg:folly` |
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:pythagoreanism` | `wg:evening-review` |
 | `wg:seven-sages-of-greece` | `wg:hubris` |
 | `wg:seven-sages-of-greece` | `wg:know-thyself` |
-| `wg:socratic-philosophy` | `wg:know-thyself` |
 
-…and 10 more.
+…and 11 more.
 
 ## The doctrine of the mean
 

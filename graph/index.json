@@ -960,6 +960,122 @@
   ]
  },
  {
+  "id": "wg:classification-of-desires",
+  "title": "Classification of desires",
+  "aliases": [
+   "Epicurean classification of desires",
+   "natural and necessary desires",
+   "empty desires",
+   "vain desires",
+   "Principal Doctrine 29"
+  ],
+  "type": "Principle",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/meaning-and-the-good-life/classification-of-desires.md",
+  "created": "2026-11-16",
+  "summary": "Epicurus's teaching that desires are natural and necessary, natural but unnecessary, or empty (born of groundless opinion), and that a good life comes from meeting the first, enjoying the second lightly, and seeing through the third, whose objects can never be had in full.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:epicurean-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:simplicity"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:epicureanism",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:epicurus",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:letter-to-menoeceus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:principal-doctrines",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:contentment",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:greed",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:materialism-and-well-being-meta-analysis",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wanting-what-you-have-study",
+    "source": "s6",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Would going without this actually cause me pain, or would I just feel I had fallen behind someone?",
+   "Does this desire have a natural stopping point, or would more always seem better?",
+   "What am I already giving up, in time, health or peace, to chase it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "After a good year, a project manager starts eyeing a bigger house, a premium car and a more senior title, and finds herself working weekends and sleeping badly to get all three.",
+   "before": "Everyone at my level has these things. Once I have them I'll finally be able to relax.",
+   "after": "Which of these would actually hurt to go without? We need more space for the kids, so that's real. The car and the title are mostly about how I look next to others, and I can drop them if they cost my evenings.",
+   "why": "Sorting the wants separates a real need from desires driven by comparison, so effort goes where it buys security and the rest stops dictating her time."
+  },
+  "source_urls": [
+   "https://www.college.columbia.edu/sites/default/files/Letter%20to%20Menoeceus.pdf",
+   "https://www.lexundria.com/epic_kd/1-40/hks10",
+   "https://plato.stanford.edu/Entries/epicurus/",
+   "https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2020-0048/html?lang=en",
+   "https://pubmed.ncbi.nlm.nih.gov/25347131/",
+   "https://www.psychologicalscience.org/news/releases/is-happiness-having-what-you-want-wanting-what-you-have-or-both.html"
+  ]
+ },
+ {
   "id": "wg:cognitive-defusion",
   "title": "Cognitive defusion",
   "aliases": [

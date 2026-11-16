@@ -656,6 +656,21 @@ Ask yourself:
 
 ## meaning-and-the-good-life
 
+### [Classification of desires](../articles/meaning-and-the-good-life/classification-of-desires.md) — Principle
+
+*After a good year, a project manager starts eyeing a bigger house, a premium car and a more senior title, and finds herself working weekends and sleeping badly to get all three.*
+
+| Before | After |
+|---|---|
+| Everyone at my level has these things. Once I have them I'll finally be able to relax. | Which of these would actually hurt to go without? We need more space for the kids, so that's real. The car and the title are mostly about how I look next to others, and I can drop them if they cost my evenings. |
+
+**Why:** Sorting the wants separates a real need from desires driven by comparison, so effort goes where it buys security and the rest stops dictating her time.
+
+Ask yourself:
+- Would going without this actually cause me pain, or would I just feel I had fallen behind someone?
+- Does this desire have a natural stopping point, or would more always seem better?
+- What am I already giving up, in time, health or peace, to chase it?
+
 ### [Contentment](../articles/meaning-and-the-good-life/contentment.md) — Virtue
 
 *A colleague in a similar role announces a promotion and a bigger title, and your own job, which you liked yesterday, suddenly feels small.*
