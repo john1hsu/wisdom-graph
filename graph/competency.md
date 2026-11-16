@@ -49,6 +49,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:after-action-review` | 1 | Self-reflection |
+| `wg:balance-theory-of-wisdom` | 1 | Folly |
 | `wg:contentment` | 1 | greed |
 | `wg:courage` | 1 | cowardice |
 | `wg:deliberation` | 1 | impetuosity |
@@ -57,9 +58,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
 | `wg:equanimity` | 1 | Rumination |
 | `wg:gratitude` | 1 | ingratitude |
-| `wg:honesty` | 1 | Self-deception |
 
-…and 7 more.
+…and 8 more.
 
 ## Toolkit by life situation
 
@@ -87,6 +87,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:after-action-review` |
+| `wg:leading-others` | `wg:balance-theory-of-wisdom` |
 | `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
@@ -96,9 +97,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
 | `wg:learning-from-experience` | `wg:after-action-review` |
-| `wg:learning-from-experience` | `wg:evening-review` |
 
-…and 12 more.
+…and 14 more.
 
 ## Myths and contested advice
 

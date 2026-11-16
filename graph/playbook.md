@@ -740,6 +740,28 @@ Ask yourself:
 
 ## science-of-wisdom
 
+### [Balance theory of wisdom](../articles/science-of-wisdom/balance-theory-of-wisdom.md) — Framework
+
+1. Name the decision and the outcome you are tempted to choose before you start weighing it.
+2. List the interests at stake on three levels - yours, those of the specific people around you, and those of the wider team, community or environment.
+3. For each option, write down who gains and who pays in the next few weeks and in a few years.
+4. Ask whether to adapt to the situation, try to change it, or leave it for a better one, and why.
+5. Choose the option that best serves a common good you could defend out loud to everyone affected, and say which value settled the trade-off.
+
+*A team lead is offered a high-profile project that would mean handing a struggling junior colleague's half-finished work to someone else three days before the client deadline.*
+
+| Before | After |
+|---|---|
+| This is my shot. Take the project, reassign the work tonight and let the junior person sort themselves out. | I want this project, the junior colleague needs support, and the client needs the deliverable. Can I ask for a one-week start date, pair them with a senior for three days, and take the project after? |
+
+**Why:** The first answer serves only one interest in the short term; the second looks for an option that balances personal, interpersonal and wider interests over a longer horizon, which is what Sternberg means by a wise solution.
+
+Ask yourself:
+- Whose interests have I left off the list, including people who are not in the room?
+- Would this choice still look good to me a year from now, not just this week?
+- Am I adapting, trying to change things, or walking away, and is that the right response here?
+- Is the common good I am appealing to one the other people affected would recognise, or just my own preference dressed up?
+
 ### [Berlin wisdom paradigm](../articles/science-of-wisdom/berlin-wisdom-paradigm.md) — Framework
 
 Ask yourself:

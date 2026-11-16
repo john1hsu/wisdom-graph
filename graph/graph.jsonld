@@ -236,6 +236,98 @@
    "wgo:why": "The wiser response neither pretends the loss was good nor fights the fact that it occurred; it takes the event as given and asks what a life that includes it can become."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose interests have I left off the list, including people who are not in the room?",
+   "wgo:questionFor": {
+    "@id": "wg:balance-theory-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would this choice still look good to me a year from now, not just this week?",
+   "wgo:questionFor": {
+    "@id": "wg:balance-theory-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I adapting, trying to change things, or walking away, and is that the right response here?",
+   "wgo:questionFor": {
+    "@id": "wg:balance-theory-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the common good I am appealing to one the other people affected would recognise, or just my own preference dressed up?",
+   "wgo:questionFor": {
+    "@id": "wg:balance-theory-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I want this project, the junior colleague needs support, and the client needs the deliverable. Can I ask for a one-week start date, pair them with a senior for three days, and take the project after?",
+   "wgo:before": "This is my shot. Take the project, reassign the work tonight and let the junior person sort themselves out.",
+   "wgo:situation": "A team lead is offered a high-profile project that would mean handing a struggling junior colleague's half-finished work to someone else three days before the client deadline.",
+   "wgo:why": "The first answer serves only one interest in the short term; the second looks for an option that balances personal, interpersonal and wider interests over a longer horizon, which is what Sternberg means by a wise solution."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Balance theory of wisdom",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/5"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the decision and the outcome you are tempted to choose before you start weighing it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "List the interests at stake on three levels - yours, those of the specific people around you, and those of the wider team, community or environment."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "For each option, write down who gains and who pays in the next few weeks and in a few years."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Ask whether to adapt to the situation, try to change it, or leave it for a better one, and why."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Choose the option that best serves a common good you could defend out loud to everyone affected, and say which value settled the trade-off."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Have I considered how this problem looks across the person's whole life, past and future, and not only today?",
@@ -4334,6 +4426,118 @@
     "@id": "https://amp.checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do"
    },
    "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Robert J. Sternberg (Cornell University), author's research website",
+   "dcterms:title": "Balance theory of wisdom",
+   "schema:url": {
+    "@id": "https://robertjsternberg.com/wisdom"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The ANNALS of the American Academy of Political and Social Science, 591(1), 164–174 (Sternberg, 2004), RePEc/IDEAS record",
+   "dcterms:title": "What is wisdom and how can we develop it?",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/sae/anname/v591y2004i1p164-174.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 115(6), 1093–1126 (Brienza, Kung, Santos, Bobocel & Grossmann, 2018), University of Waterloo copy",
+   "dcterms:title": "Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/fairness-at-work-lab/sites/default/files/uploads/files/wisdom_bias_and_balance_toward_a_process-sensitive_measurement_ofwisdom-related_cognition.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Personality, 88, 833–855 (Glück, Gussnig & Schrottenbacher, 2020), open-access PMC copy (PMC7383836)",
+   "dcterms:title": "Wisdom and value orientations: Just a projection of our own beliefs?",
+   "schema:url": {
+    "@id": "https://rcastoragev2.blob.core.windows.net/20db9097f04d4ccbc63c875cf3d47c69/PMC7383836.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Cambridge University Press, in R. J. Sternberg & J. Glück (eds.), The Cambridge Handbook of Wisdom (2019), pp. 162–181",
+   "dcterms:title": "Why people often prefer wise guys to guys who are wise: An augmented balance theory of the production and reception of wisdom",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/why-people-often-prefer-wise-guys-to-guys-who-are-wise/F3F1C369DF9116FF8FE6B0D7AB2F249A"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Center for Practical Wisdom, University of Chicago (3 January 2015)",
+   "dcterms:title": "Conversations on wisdom: Robert J. Sternberg",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/discussions/conversations-wisdom-robert-j-sternberg"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Cambridge University Press (Sternberg & Glück)",
+   "dcterms:title": "Wisdom: The psychology of wise thoughts, words, and deeds (excerpt, chapter 1)",
+   "schema:url": {
+    "@id": "https://assets.cambridge.org/97811088/41559/excerpt/9781108841559_excerpt.pdf"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Open Encyclopedia of Cognitive Science, MIT Press (2024)",
+   "dcterms:title": "Wisdom",
+   "schema:url": {
+    "@id": "https://oecs.mit.edu/pub/wdkwb956/release/1"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1",
@@ -12806,6 +13010,121 @@
     "@id": "wg:aristotelian-virtue-ethics"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:balance-theory-of-wisdom",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8"
+    }
+   ],
+   "rdfs:label": "Balance theory of wisdom",
+   "skos:altLabel": [
+    "Sternberg's balance theory of wisdom",
+    "augmented balance theory of wisdom",
+    "balance theory"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "skos:definition": "Robert Sternberg's model of wisdom as the use of intelligence, creativity, knowledge and experience, guided by positive ethical values, to reach a common good by balancing one's own, other people's and wider interests over the short and long term, and by choosing well among adapting to a situation, reshaping it or leaving it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Balance theory of wisdom",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:common-wisdom-model"
+    },
+    {
+     "@id": "wg:implicit-theories-of-wisdom"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:teaching-for-wisdom"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:folly"
+   },
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:wise-reasoning"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "theoretical",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example"
+   },
+   "wgo:file": "articles/science-of-wisdom/balance-theory-of-wisdom.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:robert-sternberg"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:perspective-taking"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:situated-wise-reasoning-scale"
+    },
+    {
+     "@id": "wg:wisdom-and-value-orientations-study"
+    }
+   ]
   },
   {
    "@id": "wg:berlin-wisdom-paradigm",

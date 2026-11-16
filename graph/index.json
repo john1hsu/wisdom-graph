@@ -568,6 +568,139 @@
   ]
  },
  {
+  "id": "wg:balance-theory-of-wisdom",
+  "title": "Balance theory of wisdom",
+  "aliases": [
+   "Sternberg's balance theory of wisdom",
+   "balance theory",
+   "augmented balance theory of wisdom"
+  ],
+  "type": "Framework",
+  "domain": "science-of-wisdom",
+  "level": "intermediate",
+  "evidenceStatus": "theoretical",
+  "file": "articles/science-of-wisdom/balance-theory-of-wisdom.md",
+  "created": "2026-11-16",
+  "summary": "Robert Sternberg's model of wisdom as the use of intelligence, creativity, knowledge and experience, guided by positive ethical values, to reach a common good by balancing one's own, other people's and wider interests over the short and long term, and by choosing well among adapting to a situation, reshaping it or leaving it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implicit-theories-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:teaching-for-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:common-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:robert-sternberg",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:folly",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:wise-reasoning",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:situated-wise-reasoning-scale",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:wisdom-and-value-orientations-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:major-life-decision",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s7",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Whose interests have I left off the list, including people who are not in the room?",
+   "Would this choice still look good to me a year from now, not just this week?",
+   "Am I adapting, trying to change things, or walking away, and is that the right response here?",
+   "Is the common good I am appealing to one the other people affected would recognise, or just my own preference dressed up?"
+  ],
+  "steps": [
+   "Name the decision and the outcome you are tempted to choose before you start weighing it.",
+   "List the interests at stake on three levels - yours, those of the specific people around you, and those of the wider team, community or environment.",
+   "For each option, write down who gains and who pays in the next few weeks and in a few years.",
+   "Ask whether to adapt to the situation, try to change it, or leave it for a better one, and why.",
+   "Choose the option that best serves a common good you could defend out loud to everyone affected, and say which value settled the trade-off."
+  ],
+  "example": {
+   "situation": "A team lead is offered a high-profile project that would mean handing a struggling junior colleague's half-finished work to someone else three days before the client deadline.",
+   "before": "This is my shot. Take the project, reassign the work tonight and let the junior person sort themselves out.",
+   "after": "I want this project, the junior colleague needs support, and the client needs the deliverable. Can I ask for a one-week start date, pair them with a senior for three days, and take the project after?",
+   "why": "The first answer serves only one interest in the short term; the second looks for an option that balances personal, interpersonal and wider interests over a longer horizon, which is what Sternberg means by a wise solution."
+  },
+  "source_urls": [
+   "https://robertjsternberg.com/wisdom",
+   "https://ideas.repec.org/a/sae/anname/v591y2004i1p164-174.html",
+   "https://uwaterloo.ca/fairness-at-work-lab/sites/default/files/uploads/files/wisdom_bias_and_balance_toward_a_process-sensitive_measurement_ofwisdom-related_cognition.pdf",
+   "https://rcastoragev2.blob.core.windows.net/20db9097f04d4ccbc63c875cf3d47c69/PMC7383836.pdf",
+   "https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/why-people-often-prefer-wise-guys-to-guys-who-are-wise/F3F1C369DF9116FF8FE6B0D7AB2F249A",
+   "https://wisdomcenter.uchicago.edu/news/discussions/conversations-wisdom-robert-j-sternberg",
+   "https://assets.cambridge.org/97811088/41559/excerpt/9781108841559_excerpt.pdf",
+   "https://oecs.mit.edu/pub/wdkwb956/release/1"
+  ]
+ },
+ {
   "id": "wg:berlin-wisdom-paradigm",
   "title": "Berlin wisdom paradigm",
   "aliases": [

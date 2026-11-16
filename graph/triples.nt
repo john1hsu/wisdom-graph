@@ -280,6 +280,86 @@
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/plato> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Whose interests have I left off the list, including people who are not in the room?" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Would this choice still look good to me a year from now, not just this week?" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I adapting, trying to change things, or walking away, and is that the right response here?" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is the common good I am appealing to one the other people affected would recognise, or just my own preference dressed up?" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I want this project, the junior colleague needs support, and the client needs the deliverable. Can I ask for a one-week start date, pair them with a senior for three days, and take the project after?" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "This is my shot. Take the project, reassign the work tonight and let the junior person sort themselves out." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead is offered a high-profile project that would mean handing a struggling junior colleague's half-finished work to someone else three days before the client deadline." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first answer serves only one interest in the short term; the second looks for an option that balances personal, interpersonal and wider interests over a longer horizon, which is what Sternberg means by a wise solution." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/1> <https://schema.org/text> "Name the decision and the outcome you are tempted to choose before you start weighing it." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/2> <https://schema.org/text> "List the interests at stake on three levels - yours, those of the specific people around you, and those of the wider team, community or environment." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/3> <https://schema.org/text> "For each option, write down who gains and who pays in the next few weeks and in a few years." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/4> <https://schema.org/text> "Ask whether to adapt to the situation, try to change it, or leave it for a better one, and why." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/5> <https://schema.org/text> "Choose the option that best serves a common good you could defend out loud to everyone affected, and say which value settled the trade-off." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <https://schema.org/name> "Balance theory of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2000/01/rdf-schema#label> "Balance theory of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "Sternberg's balance theory of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "augmented balance theory of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#altLabel> "balance theory" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#definition> "Robert Sternberg's model of wisdom as the use of intelligence, creativity, knowledge and experience, guided by positive ethical values, to reach a common good by balancing one's own, other people's and wider interests over the short and long term, and by choosing well among adapting to a situation, reshaping it or leaving it." .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balance theory of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/folly> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "science-of-wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "theoretical" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/science-of-wisdom/balance-theory-of-wisdom.md" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> .
+<https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-value-orientations-study> .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I considered how this problem looks across the person's whole life, past and future, and not only today?" .
 <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
@@ -4610,6 +4690,54 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <https://schema.org/url> <https://amp.checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://purl.org/dc/terms/publisher> "Robert J. Sternberg (Cornell University), author's research website" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://purl.org/dc/terms/title> "Balance theory of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <https://schema.org/url> <https://robertjsternberg.com/wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> <http://purl.org/dc/terms/publisher> "The ANNALS of the American Academy of Political and Social Science, 591(1), 164–174 (Sternberg, 2004), RePEc/IDEAS record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> <http://purl.org/dc/terms/title> "What is wisdom and how can we develop it?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s2> <https://schema.org/url> <https://ideas.repec.org/a/sae/anname/v591y2004i1p164-174.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 115(6), 1093–1126 (Brienza, Kung, Santos, Bobocel & Grossmann, 2018), University of Waterloo copy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> <http://purl.org/dc/terms/title> "Wisdom, bias, and balance: Toward a process-sensitive measurement of wisdom-related cognition" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s3> <https://schema.org/url> <https://uwaterloo.ca/fairness-at-work-lab/sites/default/files/uploads/files/wisdom_bias_and_balance_toward_a_process-sensitive_measurement_ofwisdom-related_cognition.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> <http://purl.org/dc/terms/publisher> "Journal of Personality, 88, 833–855 (Glück, Gussnig & Schrottenbacher, 2020), open-access PMC copy (PMC7383836)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> <http://purl.org/dc/terms/title> "Wisdom and value orientations: Just a projection of our own beliefs?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s4> <https://schema.org/url> <https://rcastoragev2.blob.core.windows.net/20db9097f04d4ccbc63c875cf3d47c69/PMC7383836.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> <http://purl.org/dc/terms/publisher> "Cambridge University Press, in R. J. Sternberg & J. Glück (eds.), The Cambridge Handbook of Wisdom (2019), pp. 162–181" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> <http://purl.org/dc/terms/title> "Why people often prefer wise guys to guys who are wise: An augmented balance theory of the production and reception of wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s5> <https://schema.org/url> <https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/why-people-often-prefer-wise-guys-to-guys-who-are-wise/F3F1C369DF9116FF8FE6B0D7AB2F249A> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> <http://purl.org/dc/terms/publisher> "Center for Practical Wisdom, University of Chicago (3 January 2015)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> <http://purl.org/dc/terms/title> "Conversations on wisdom: Robert J. Sternberg" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s6> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/news/discussions/conversations-wisdom-robert-j-sternberg> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> <http://purl.org/dc/terms/publisher> "Cambridge University Press (Sternberg & Glück)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> <http://purl.org/dc/terms/title> "Wisdom: The psychology of wise thoughts, words, and deeds (excerpt, chapter 1)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s7> <https://schema.org/url> <https://assets.cambridge.org/97811088/41559/excerpt/9781108841559_excerpt.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> <http://purl.org/dc/terms/publisher> "Open Encyclopedia of Cognitive Science, MIT Press (2024)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> <http://purl.org/dc/terms/title> "Wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s8> <https://schema.org/url> <https://oecs.mit.edu/pub/wdkwb956/release/1> .
 <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society PuRe repository" .
 <https://github.com/john1hsu/wisdom-graph/id/source/berlin-wisdom-paradigm/s1> <http://purl.org/dc/terms/title> "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" .
