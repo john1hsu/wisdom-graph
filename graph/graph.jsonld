@@ -6810,6 +6810,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Harvard Business Review, January 2007 (Linda A. Hill), reprint hosted by UMass Chan Medical School, Human Resources",
+   "dcterms:title": "Becoming the Boss",
+   "schema:url": {
+    "@id": "https://umassmed.edu/globalassets/human-resources/documents/manage-at-umms/becoming-the-boss.pdf"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Harvard Business School Working Knowledge (interview by Carmen Nobel)",
+   "dcterms:title": "Being the Boss (Q&A with Linda A. Hill on Being the Boss: The 3 Imperatives for Becoming a Great Leader, with Kent Lineback)",
+   "schema:url": {
+    "@id": "https://hbswk.hbs.edu/item/6573.html"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The American Review of Public Administration, 49(1), 98–115 (Park & Faerman, 2019; doi:10.1177/0275074018785448), copy hosted by HSE University",
+   "dcterms:title": "Becoming a Manager: Learning the Importance of Emotional and Social Competence in Managerial Transitions",
+   "schema:url": {
+    "@id": "https://olymp.hse.ru/mirror/pubs/share/909591071"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Harvard University, Professional and Lifelong Learning (faculty biography)",
+   "dcterms:title": "Linda A. Hill",
+   "schema:url": {
+    "@id": "https://pll.harvard.edu/node/25335"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Harvard Business School Working Knowledge (Kim Girard, 18 June 2014)",
+   "dcterms:title": "Leading Innovation Is the Art of Creating 'Collective Genius'",
+   "schema:url": {
+    "@id": "https://www.library.hbs.edu/working-knowledge/leading-innovation-is-the-art-of-creating-collective-genius"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Harvard Business Review Press (Linda A. Hill), via O'Reilly Online Learning",
+   "dcterms:title": "Becoming a Manager: How New Managers Master the Challenges of Leadership (table of contents and Part I preview)",
+   "schema:url": {
+    "@id": "https://oreilly.com/library/view/becoming-a-manager/9781422131084/Text/part001.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/logotherapy/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -14707,6 +14791,94 @@
    "wgo:studiedIn": {
     "@id": "wg:organizational-behavior"
    }
+  },
+  {
+   "@id": "wg:linda-hill",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s6"
+    }
+   ],
+   "rdfs:label": "Linda A. Hill",
+   "skos:altLabel": [
+    "L. A. Hill",
+    "Linda Hill"
+   ],
+   "skos:broader": {
+    "@id": "wg:management-scholars"
+   },
+   "skos:definition": "Harvard Business School professor whose year-long study of first-time managers, published as Becoming a Manager (1992), made the move into leading others a subject of research: she showed it to be a slow change of identity learned through experience, in which authority rests on earned credibility rather than on the title.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Linda A. Hill",
+   "skos:related": [
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:organizational-behavior"
+    },
+    {
+     "@id": "wg:psychological-safety-in-work-teams-study"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:authored": [
+    {
+     "@id": "wg:becoming-a-manager"
+    },
+    {
+     "@id": "wg:being-the-boss"
+    },
+    {
+     "@id": "wg:collective-genius"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/linda-hill.md",
+   "wgo:introduced": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:logotherapy",

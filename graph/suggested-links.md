@@ -4,18 +4,18 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 3.86 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues`, `wg:leading-others` |
+| 3.85 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues`, `wg:leading-others` |
 | 3.52 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt`, `wg:robert-sternberg`, `wg:three-dimensional-wisdom-model` |
-| 3.09 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
+| 3.07 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
 | 3.04 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
 | 3.03 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:plato`, `wg:practical-wisdom` |
-| 3.01 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom`, `wg:self-distancing` |
+| 3.00 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom`, `wg:self-distancing` |
 | 2.68 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 2.48 | `wg:igor-grossmann` | `wg:interpersonal-conflict` | `wg:aging-and-wisdom-culture-study`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:self-distancing`, `wg:solomons-paradox` |
-| 2.47 | `wg:courage` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:doctrine-of-the-mean`, `wg:honesty` |
-| 2.37 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
+| 2.46 | `wg:courage` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:doctrine-of-the-mean`, `wg:honesty` |
+| 2.36 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
 | 2.34 | `wg:equanimity` | `wg:process-model-of-emotion-regulation` | `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:emotional-suppression`, `wg:james-gross`, `wg:regulatory-flexibility` |
-| 2.34 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
+| 2.33 | `wg:berlin-wisdom-paradigm` | `wg:self-distancing` | `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom`, `wg:seeking-counsel` |
 | 2.30 | `wg:equanimity` | `wg:grief-and-loss` | `wg:acceptance`, `wg:buddhism`, `wg:compassion`, `wg:impermanence`, `wg:resilience` |
 | 2.19 | `wg:hedonic-and-eudaimonic-well-being` | `wg:negative-visualization` | `wg:epicureanism`, `wg:gratitude`, `wg:hedonic-adaptation` |
 | 2.17 | `wg:emulating-moral-exemplars` | `wg:honesty` | `wg:aristotelian-virtue-ethics`, `wg:moral-psychology`, `wg:virtue-ethics` |
@@ -23,9 +23,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.14 | `wg:four-immeasurables` | `wg:right-speech` | `wg:buddhism`, `wg:buddhist-ethics`, `wg:compassion` |
 | 2.13 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:self-deception`, `wg:self-distancing` |
 | 2.11 | `wg:moral-habituation` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:confucianism`, `wg:doctrine-of-the-mean`, `wg:emulating-moral-exemplars` |
-| 2.09 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:wisdom`, `wg:wise-leadership` |
+| 2.08 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:wisdom`, `wg:wise-leadership` |
 | 2.07 | `wg:compassionate-reappraisal` | `wg:post-traumatic-growth` | `wg:benefit-finding`, `wg:rumination`, `wg:self-distancing` |
 | 2.06 | `wg:dichotomy-of-control` | `wg:james-gross` | `wg:cognitive-reappraisal`, `wg:emotional-suppression`, `wg:equanimity`, `wg:process-model-of-emotion-regulation`, `wg:regulatory-flexibility` |
 | 2.06 | `wg:personal-and-general-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:self-distancing`, `wg:solomons-paradox`, `wg:wisdom` |
-| 2.06 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
+| 2.05 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
 | 2.05 | `wg:igor-grossmann` | `wg:robert-sternberg` | `wg:intellectual-humility`, `wg:psychology-of-wisdom`, `wg:wisdom-researchers` |
