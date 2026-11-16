@@ -11254,6 +11254,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Academy of Management Review 22(1), 20-47 (doi:10.2307/259223); listing by the Centre for Enterprise, Markets and Ethics, Oxford",
+   "dcterms:title": "Toward a stewardship theory of management (Davis, Schoorman & Donaldson, 1997), abstract",
+   "schema:url": {
+    "@id": "https://theceme.org/resources/toward-a-stewardship-theory-of-management"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Doctoral dissertation, Fuqua School of Business, Duke University (DukeSpace repository)",
+   "dcterms:title": "Stewardship: Theoretical development and empirical test of its determinants (Hernandez, 2007)",
+   "schema:url": {
+    "@id": "https://dukespace.lib.duke.edu/server/api/core/bitstreams/031f22ff-98de-43f0-9257-ca1005288546/content"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Psychological Science 23(7), 704-709 (doi:10.1177/0956797612443967); Duke University Scholars@Duke record",
+   "dcterms:title": "It's only a matter of time: Death, legacies, and intergenerational decisions (Wade-Benzoni, Tost, Hernandez & Larrick, 2012)",
+   "schema:url": {
+    "@id": "https://scholars.duke.edu/publication/782607"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Association for Psychological Science, Minds for Business",
+   "dcterms:title": "Fear of death prompts leaders to look towards the future",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/news/minds-business/fear-of-death-prompts-leaders-to-look-towards-the-future.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Religions 14(9), 1187 (MDPI; doi:10.3390/rel14091187)",
+   "dcterms:title": "The anointed steward: A critical review of Western Christian and secular steward leadership literature (Tolbert, 2023)",
+   "schema:url": {
+    "@id": "https://mdpi.com/2077-1444/14/9/1187"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Environmental Ethics (Brennan & Lo), Summer 2006 edition, sections 1-2",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/sum2006/entries/ethics-environmental/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stoicism/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -12358,6 +12442,46 @@
     "@id": "https://uwaterloo.ca/news/media/new-research-shows-we-can-train-ourselves-be-wise"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I handed this role, team or budget to someone tomorrow, would it be in better or worse shape than when I received it?",
+   "wgo:questionFor": {
+    "@id": "wg:stewardship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who will live with the consequences of this decision after I have moved on, and have I counted their interests?",
+   "wgo:questionFor": {
+    "@id": "wg:stewardship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I taking responsibility for this outcome, or quietly protecting my own record?",
+   "wgo:questionFor": {
+    "@id": "wg:stewardship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I calling it stewardship when I am really keeping control that others should share?",
+   "wgo:questionFor": {
+    "@id": "wg:stewardship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Show my director what skipping the work would cost the team that inherits the system, propose a smaller feature set plus the essential fixes, and write a clear handover note either way.",
+   "wgo:before": "Ship the features and skip the maintenance. The target is mine; the next team can deal with the debt.",
+   "wgo:situation": "An engineering manager can hit this quarter's delivery target by skipping overdue maintenance on a system the team will hand over to another group next year.",
+   "wgo:why": "The first response treats the system as a means to one person's quarterly result. The stewardly response treats it as held in trust for its future users and owners, accepts a visible short-term cost, and is honest with the people who set the target."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom/check/1",
@@ -20424,6 +20548,100 @@
    },
    "wgo:undermines": {
     "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "wg:stewardship",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6"
+    }
+   ],
+   "rdfs:label": "Stewardship",
+   "skos:altLabel": [
+    "being a good steward",
+    "oikonomia",
+    "steward leadership",
+    "stewardly leadership",
+    "trusteeship"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "skos:definition": "The disposition to treat a role, a team, an institution or a resource as something held in trust for others, putting the long-term good of the people it serves (including those who will come later) ahead of one's own short-term gain, and taking personal responsibility for leaving it in better shape than one found it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Stewardship",
+   "skos:related": [
+    {
+     "@id": "wg:balance-theory-of-wisdom"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:servant-leadership"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:intergenerational-discounting"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:complements": {
+    "@id": "wg:servant-leadership"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:stewardship-theory"
+   },
+   "wgo:file": "articles/wisdom-at-work/stewardship.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:christianity"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:death-legacies-and-intergenerational-decisions-study"
    }
   },
   {

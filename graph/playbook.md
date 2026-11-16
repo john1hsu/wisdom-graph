@@ -1225,6 +1225,22 @@ Ask yourself:
 - Who outside my team, especially with the least power, is affected by this decision, and have I considered them?
 - Is serving others leaving me exhausted or torn between conflicting demands, and have I asked for the support I need?
 
+### [Stewardship](../articles/wisdom-at-work/stewardship.md) — Virtue
+
+*An engineering manager can hit this quarter's delivery target by skipping overdue maintenance on a system the team will hand over to another group next year.*
+
+| Before | After |
+|---|---|
+| Ship the features and skip the maintenance. The target is mine; the next team can deal with the debt. | Show my director what skipping the work would cost the team that inherits the system, propose a smaller feature set plus the essential fixes, and write a clear handover note either way. |
+
+**Why:** The first response treats the system as a means to one person's quarterly result. The stewardly response treats it as held in trust for its future users and owners, accepts a visible short-term cost, and is honest with the people who set the target.
+
+Ask yourself:
+- If I handed this role, team or budget to someone tomorrow, would it be in better or worse shape than when I received it?
+- Who will live with the consequences of this decision after I have moved on, and have I counted their interests?
+- Am I taking responsibility for this outcome, or quietly protecting my own record?
+- Am I calling it stewardship when I am really keeping control that others should share?
+
 ### [Wise leadership](../articles/wisdom-at-work/wise-leadership.md) — Concept
 
 *A team lead is told to ship a feature by Friday to hit a quarterly target; testing has found that it occasionally shows one customer's order history to another.*

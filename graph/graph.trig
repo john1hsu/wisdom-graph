@@ -801,6 +801,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/stewardship.md" .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/wise-leadership.md" .
@@ -9176,6 +9185,98 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s6> <https://schema.org/url> <https://research.polyu.edu.hk/en/publications/serving-while-being-energized-strained-a-dual-path-model-linking-/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <http://purl.org/dc/terms/publisher> "Academy of Management Review 22(1), 20-47 (doi:10.2307/259223); listing by the Centre for Enterprise, Markets and Ethics, Oxford" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <http://purl.org/dc/terms/title> "Toward a stewardship theory of management (Davis, Schoorman & Donaldson, 1997), abstract" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <https://schema.org/url> <https://theceme.org/resources/toward-a-stewardship-theory-of-management> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> <http://purl.org/dc/terms/publisher> "Doctoral dissertation, Fuqua School of Business, Duke University (DukeSpace repository)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> <http://purl.org/dc/terms/title> "Stewardship: Theoretical development and empirical test of its determinants (Hernandez, 2007)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> <https://schema.org/url> <https://dukespace.lib.duke.edu/server/api/core/bitstreams/031f22ff-98de-43f0-9257-ca1005288546/content> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> <http://purl.org/dc/terms/publisher> "Psychological Science 23(7), 704-709 (doi:10.1177/0956797612443967); Duke University Scholars@Duke record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> <http://purl.org/dc/terms/title> "It's only a matter of time: Death, legacies, and intergenerational decisions (Wade-Benzoni, Tost, Hernandez & Larrick, 2012)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> <https://schema.org/url> <https://scholars.duke.edu/publication/782607> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> <http://purl.org/dc/terms/publisher> "Association for Psychological Science, Minds for Business" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> <http://purl.org/dc/terms/title> "Fear of death prompts leaders to look towards the future" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> <https://schema.org/url> <https://www.psychologicalscience.org/news/minds-business/fear-of-death-prompts-leaders-to-look-towards-the-future.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> <http://purl.org/dc/terms/publisher> "Religions 14(9), 1187 (MDPI; doi:10.3390/rel14091187)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> <http://purl.org/dc/terms/title> "The anointed steward: A critical review of Western Christian and secular steward leadership literature (Tolbert, 2023)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> <https://schema.org/url> <https://mdpi.com/2077-1444/14/9/1187> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> <http://purl.org/dc/terms/title> "Environmental Ethics (Brennan & Lo), Summer 2006 edition, sections 1-2" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> <https://schema.org/url> <https://plato.stanford.edu/archives/sum2006/entries/ethics-environmental/> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If I handed this role, team or budget to someone tomorrow, would it be in better or worse shape than when I received it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Who will live with the consequences of this decision after I have moved on, and have I counted their interests?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I taking responsibility for this outcome, or quietly protecting my own record?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I calling it stewardship when I am really keeping control that others should share?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Show my director what skipping the work would cost the team that inherits the system, propose a smaller feature set plus the essential fixes, and write a clear handover note either way." .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Ship the features and skip the maintenance. The target is mine; the next team can deal with the debt." .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "An engineering manager can hit this quarter's delivery target by skipping overdue maintenance on a system the team will hand over to another group next year." .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response treats the system as a means to one person's quarterly result. The stewardly response treats it as held in trust for its future users and owners, accepts a visible short-term cost, and is honest with the people who set the target." .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2000/01/rdf-schema#label> "Stewardship" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#altLabel> "being a good steward" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#altLabel> "oikonomia" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#altLabel> "steward leadership" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#altLabel> "stewardly leadership" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#altLabel> "trusteeship" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#definition> "The disposition to treat a role, a team, an institution or a resource as something held in trust for others, putting the long-term good of the people it serves (including those who will come later) ahead of one's own short-term gain, and taking personal responsibility for leaving it in better shape than one found it." .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stewardship" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/intergenerational-discounting> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/stewardship-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/stewardship.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/christianity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/death-legacies-and-intergenerational-decisions-study> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 62(1), 34–42 (Sternberg, 2007), listed by the Chicago Center for Practical Wisdom, University of Chicago" .
@@ -10058,6 +10159,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/becoming-a-manager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10137,6 +10239,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/wisdom-graph/id/christianity> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10303,6 +10409,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/cowardice> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/cowardice> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
@@ -10322,6 +10429,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/death-legacies-and-intergenerational-decisions-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -10772,6 +10880,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
+  <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/hubris> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
@@ -10791,6 +10900,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
@@ -10921,6 +11031,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -10930,6 +11041,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/intergenerational-discounting> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/intergroup-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/intergroup-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11025,6 +11137,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
@@ -11189,10 +11302,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -11340,6 +11455,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
@@ -11350,6 +11466,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
@@ -11713,6 +11830,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> .
@@ -11819,7 +11937,19 @@
   <https://github.com/john1hsu/wisdom-graph/id/sternberg-implicit-theories-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/sternberg-implicit-theories-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/sternberg-implicit-theories-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
-  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -12041,6 +12171,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -12060,8 +12191,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .

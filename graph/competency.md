@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:stewardship` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -57,7 +59,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
 | `wg:equanimity` | 1 | Rumination |
 
-…and 9 more.
+…and 10 more.
 
 ## Toolkit by life situation
 
@@ -92,11 +94,11 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:kill-criteria` |
 | `wg:leading-others` | `wg:practical-wisdom` |
 | `wg:leading-others` | `wg:servant-leadership` |
+| `wg:leading-others` | `wg:stewardship` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
 | `wg:leading-others` | `wg:wise-leadership` |
-| `wg:learning-from-experience` | `wg:after-action-review` |
 
-…and 14 more.
+…and 15 more.
 
 ## Myths and contested advice
 
@@ -184,6 +186,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:impermanence` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
+| `wg:christianity` | `wg:stewardship` |
 | `wg:confucianism` | `wg:compassion` |
 | `wg:confucianism` | `wg:courage` |
 | `wg:confucianism` | `wg:evening-review` |
@@ -197,9 +200,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:hebrew-wisdom-literature` | `wg:seeking-counsel` |
 | `wg:pythagoreanism` | `wg:evening-review` |
 | `wg:seven-sages-of-greece` | `wg:hubris` |
-| `wg:seven-sages-of-greece` | `wg:know-thyself` |
 
-…and 11 more.
+…and 12 more.
 
 ## The doctrine of the mean
 

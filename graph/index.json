@@ -8788,6 +8788,115 @@
   ]
  },
  {
+  "id": "wg:stewardship",
+  "title": "Stewardship",
+  "aliases": [
+   "steward leadership",
+   "stewardly leadership",
+   "being a good steward",
+   "trusteeship",
+   "oikonomia"
+  ],
+  "type": "Virtue",
+  "domain": "wisdom-at-work",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-at-work/stewardship.md",
+  "created": "2026-11-16",
+  "summary": "The disposition to treat a role, a team, an institution or a resource as something held in trust for others, putting the long-term good of the people it serves (including those who will come later) ahead of one's own short-term gain, and taking personal responsibility for leaving it in better shape than one found it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:servant-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humble-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:balance-theory-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:stewardship-theory",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:servant-leadership",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:christianity",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:death-legacies-and-intergenerational-decisions-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:intergenerational-discounting",
+    "source": "s3",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "If I handed this role, team or budget to someone tomorrow, would it be in better or worse shape than when I received it?",
+   "Who will live with the consequences of this decision after I have moved on, and have I counted their interests?",
+   "Am I taking responsibility for this outcome, or quietly protecting my own record?",
+   "Am I calling it stewardship when I am really keeping control that others should share?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "An engineering manager can hit this quarter's delivery target by skipping overdue maintenance on a system the team will hand over to another group next year.",
+   "before": "Ship the features and skip the maintenance. The target is mine; the next team can deal with the debt.",
+   "after": "Show my director what skipping the work would cost the team that inherits the system, propose a smaller feature set plus the essential fixes, and write a clear handover note either way.",
+   "why": "The first response treats the system as a means to one person's quarterly result. The stewardly response treats it as held in trust for its future users and owners, accepts a visible short-term cost, and is honest with the people who set the target."
+  },
+  "source_urls": [
+   "https://theceme.org/resources/toward-a-stewardship-theory-of-management",
+   "https://dukespace.lib.duke.edu/server/api/core/bitstreams/031f22ff-98de-43f0-9257-ca1005288546/content",
+   "https://scholars.duke.edu/publication/782607",
+   "https://www.psychologicalscience.org/news/minds-business/fear-of-death-prompts-leaders-to-look-towards-the-future.html",
+   "https://mdpi.com/2077-1444/14/9/1187",
+   "https://plato.stanford.edu/archives/sum2006/entries/ethics-environmental/"
+  ]
+ },
+ {
   "id": "wg:stoicism",
   "title": "Stoicism",
   "aliases": [
