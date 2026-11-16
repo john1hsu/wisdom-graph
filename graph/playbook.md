@@ -503,6 +503,29 @@ Ask yourself:
 - Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?
 - Have I set a point where thinking stops and acting starts?
 
+### [Imaginary future generations](../articles/judgment-and-decisions/imaginary-future-generations.md) — Practice
+
+1. Name the decision and choose a horizon year far enough ahead (often 25–40 years) that most people in the room will no longer be in charge.
+2. Ask one person, or a separate group, to imagine they actually live in that year and to speak as its residents, staff or customers, rather than simply forecasting.
+3. Have the future side describe what the place is like and what they wish today's decision-makers had done, then list their priorities from that standpoint.
+4. Have the present side list its priorities from today's needs, without trying to anticipate the future group.
+5. Bring both sides together to negotiate one shared plan, and record where the future side changed it and where it was overruled and why.
+6. Rotate the role in later sessions so that everyone has spoken for the future at least once, and end by writing down reasons and advice for your successors.
+
+*A department head is drafting next year's budget and is tempted to cut the apprenticeship programme, whose payoff arrives only after the current team has moved on.*
+
+| Before | After |
+|---|---|
+| Cut it. Nobody in this meeting will be here when those apprentices are senior, and we need the money for this year's targets. | Before deciding, ask two colleagues to speak as the department's staff in 2045: what will they need from us, and what would they say about this cut? Then weigh their case against this year's pressures, and write down why we chose what we chose. |
+
+**Why:** The first response counts only the people present. The second gives the people who will inherit the decision a voice in the room and leaves a record they can judge us by, without pretending that their interests automatically win.
+
+Ask yourself:
+- Who will live with this decision after I have moved on, and has anyone in the room spoken for them?
+- If I were a member of that future group, what would I ask today's decision-makers to protect?
+- Am I treating my guess about future people's wishes as a certainty, or as one voice to weigh?
+- Have I written down my reasons so that my successors can see and judge them?
+
 ### [Implementation intentions](../articles/judgment-and-decisions/implementation-intentions.md) — Practice
 
 1. Check that the goal is one you have actually decided on and still endorse; if you are lukewarm about it, deliberate first, because a plan cannot supply commitment you do not have.

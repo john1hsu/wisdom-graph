@@ -1849,6 +1849,107 @@
    "schema:text": "Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who will live with this decision after I have moved on, and has anyone in the room spoken for them?",
+   "wgo:questionFor": {
+    "@id": "wg:imaginary-future-generations"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I were a member of that future group, what would I ask today's decision-makers to protect?",
+   "wgo:questionFor": {
+    "@id": "wg:imaginary-future-generations"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating my guess about future people's wishes as a certainty, or as one voice to weigh?",
+   "wgo:questionFor": {
+    "@id": "wg:imaginary-future-generations"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I written down my reasons so that my successors can see and judge them?",
+   "wgo:questionFor": {
+    "@id": "wg:imaginary-future-generations"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Before deciding, ask two colleagues to speak as the department's staff in 2045: what will they need from us, and what would they say about this cut? Then weigh their case against this year's pressures, and write down why we chose what we chose.",
+   "wgo:before": "Cut it. Nobody in this meeting will be here when those apprentices are senior, and we need the money for this year's targets.",
+   "wgo:situation": "A department head is drafting next year's budget and is tempted to cut the apprenticeship programme, whose payoff arrives only after the current team has moved on.",
+   "wgo:why": "The first response counts only the people present. The second gives the people who will inherit the decision a voice in the room and leaves a record they can judge us by, without pretending that their interests automatically win."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Imaginary future generations",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the decision and choose a horizon year far enough ahead (often 25–40 years) that most people in the room will no longer be in charge."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Ask one person, or a separate group, to imagine they actually live in that year and to speak as its residents, staff or customers, rather than simply forecasting."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Have the future side describe what the place is like and what they wish today's decision-makers had done, then list their priorities from that standpoint."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Have the present side list its priorities from today's needs, without trying to anticipate the future group."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Bring both sides together to negotiate one shared plan, and record where the future side changed it and where it was overruled and why."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Rotate the role in later sessions so that everyone has spoken for the future at least once, and end by writing down reasons and advice for your successors."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/impermanence/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating something that is already changing as if it should stay exactly as it is?",
@@ -7472,6 +7573,90 @@
     "@id": "https://www.mappmagazine.com/articles/a-life-worth-experiencing"
    },
    "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sustainability Science 12(3), 409-420 (doi:10.1007/s11625-016-0419-8); PubMed record",
+   "dcterms:title": "Negotiating with the future: incorporating imaginary future generations into negotiations (Kamijo et al., 2017)",
+   "schema:url": {
+    "@id": "https://www.pubmed.gov/30147758/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sustainability Science 14, 1605-1619 (Springer; doi:10.1007/s11625-019-00684-x)",
+   "dcterms:title": "Reconciling intergenerational conflicts with imaginary future generations: evidence from a participatory deliberation practice in a municipality in Japan (Hara et al., 2019)",
+   "schema:url": {
+    "@id": "https://link.springer.com/10.1007/s11625-019-00684-x"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sustainability Science 16(3), 1001-1016 (Springer; doi:10.1007/s11625-021-00918-x)",
+   "dcterms:title": "Effects of experiencing the role of imaginary future generations in decision-making: a case study of participatory deliberation in a Japanese town (Hara et al., 2021)",
+   "schema:url": {
+    "@id": "https://link.springer.com/doi/10.1007/s11625-021-00918-x"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sustainability 12, 6467 (MDPI; doi:10.3390/su12166467); author copy hosted by Kochi University of Technology",
+   "dcterms:title": "Future Design: Bequeathing sustainable natural environments and sustainable societies to future generations (Saijo, 2020)",
+   "schema:url": {
+    "@id": "https://www.souken.kochi-tech.ac.jp/seido/wsimg/sustainability-12-06467-v2.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sustainability 13(13), 7377 (MDPI; doi:10.3390/su13137377)",
+   "dcterms:title": "Deliberative forms of democracy and intergenerational sustainability dilemma (Koirala, Timilsina & Kotani, 2021)",
+   "schema:url": {
+    "@id": "https://www.mdpi.com/2071-1050/13/13/7377"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Intergenerational Justice (Lukas Meyer), Summer 2006 edition, sections 1 and 3",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/sum2006/entries/justice-intergenerational/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s1",
@@ -16450,6 +16635,99 @@
    }
   },
   {
+   "@id": "wg:imaginary-future-generations",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6"
+    }
+   ],
+   "rdfs:label": "Imaginary future generations",
+   "skos:altLabel": [
+    "Future Design",
+    "IFG",
+    "future-generation role-play",
+    "speaking for future generations"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    }
+   ],
+   "skos:definition": "A deliberation practice from the Future Design movement in which some members of a group are asked to imagine themselves living decades ahead and to argue and negotiate on behalf of those future people, so that a decision made today gives voice to those who will inherit its consequences but cannot take part in it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Imaginary future generations",
+   "skos:related": [
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:stewardship"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:intergenerational-discounting"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:community-decision-making"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:intergenerational-sustainability-in-bangladesh-study"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:negotiating-with-the-future-study"
+   },
+   "wgo:develops": {
+    "@id": "wg:stewardship"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/imaginary-future-generations.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:tatsuyoshi-saijo"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:perspective-taking"
+   }
+  },
+  {
    "@id": "wg:impermanence",
    "@type": "wgo:Principle",
    "dcterms:created": {
@@ -20610,6 +20888,9 @@
     },
     {
      "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:imaginary-future-generations"
     },
     {
      "@id": "wg:practical-wisdom"

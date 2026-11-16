@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: normative
 broader: [wg:moral-virtues, wg:wise-leadership]
-related: [wg:servant-leadership, wg:courage, wg:humble-leadership, wg:hubris, wg:balance-theory-of-wisdom, wg:practical-wisdom]
+related: [wg:servant-leadership, wg:courage, wg:humble-leadership, wg:hubris, wg:balance-theory-of-wisdom, wg:practical-wisdom, wg:imaginary-future-generations]
 requires: []
 relations:
   - {predicate: appliedIn, object: wg:leading-others, source: s2, confidence: high}

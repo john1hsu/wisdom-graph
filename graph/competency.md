@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:stewardship` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -40,6 +38,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:cognitive-defusion` | 2 | Acceptance, cognitive-fusion |
 | `wg:evening-review` | 2 | Self-reflection, anger |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
+| `wg:imaginary-future-generations` | 2 | Stewardship, intergenerational-discounting |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:kill-criteria` | 2 | Knowing when to quit, escalation-of-commitment |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
@@ -57,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:dichotomy-of-control` | 1 | Equanimity |
 | `wg:doctrine-of-the-mean` | 1 | temperance |
 | `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
-| `wg:equanimity` | 1 | Rumination |
 
-…and 10 more.
+…and 11 more.
 
 ## Toolkit by life situation
 
@@ -75,6 +73,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:adversity` | `wg:self-reflection` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
+| `wg:community-decision-making` | `wg:imaginary-future-generations` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
@@ -96,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:servant-leadership` |
 | `wg:leading-others` | `wg:stewardship` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
-| `wg:leading-others` | `wg:wise-leadership` |
 
-…and 15 more.
+…and 16 more.
 
 ## Myths and contested advice
 
@@ -130,14 +128,14 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:grief-and-loss` | mixed |  |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
+| `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:interpersonal-conflict` | mixed |  |
 | `wg:kill-criteria` | mixed |  |
-| `wg:knowing-when-to-quit` | mixed |  |
 
-…and 29 more.
+…and 30 more.
 
 ## Ideas with no recorded origin (gap)
 

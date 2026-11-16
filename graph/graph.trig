@@ -306,6 +306,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/judgment-and-decisions/imaginary-future-generations.md" .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/judgment-and-decisions/implementation-intentions.md" .
@@ -4084,6 +4093,123 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
   <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s6> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/19739881/> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Who will live with this decision after I have moved on, and has anyone in the room spoken for them?" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If I were a member of that future group, what would I ask today's decision-makers to protect?" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating my guess about future people's wishes as a certainty, or as one voice to weigh?" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Have I written down my reasons so that my successors can see and judge them?" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Before deciding, ask two colleagues to speak as the department's staff in 2045: what will they need from us, and what would they say about this cut? Then weigh their case against this year's pressures, and write down why we chose what we chose." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Cut it. Nobody in this meeting will be here when those apprentices are senior, and we need the money for this year's targets." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A department head is drafting next year's budget and is tempted to cut the apprenticeship programme, whose payoff arrives only after the current team has moved on." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response counts only the people present. The second gives the people who will inherit the decision a voice in the room and leaves a record they can judge us by, without pretending that their interests automatically win." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/1> <https://schema.org/text> "Name the decision and choose a horizon year far enough ahead (often 25–40 years) that most people in the room will no longer be in charge." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/2> <https://schema.org/text> "Ask one person, or a separate group, to imagine they actually live in that year and to speak as its residents, staff or customers, rather than simply forecasting." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/3> <https://schema.org/text> "Have the future side describe what the place is like and what they wish today's decision-makers had done, then list their priorities from that standpoint." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/4> <https://schema.org/text> "Have the present side list its priorities from today's needs, without trying to anticipate the future group." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/5> <https://schema.org/text> "Bring both sides together to negotiate one shared plan, and record where the future side changed it and where it was overruled and why." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/6> <https://schema.org/text> "Rotate the role in later sessions so that everyone has spoken for the future at least once, and end by writing down reasons and advice for your successors." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/name> "Imaginary future generations" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2000/01/rdf-schema#label> "Imaginary future generations" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#altLabel> "Future Design" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#altLabel> "IFG" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#altLabel> "future-generation role-play" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#altLabel> "speaking for future generations" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#definition> "A deliberation practice from the Future Design movement in which some members of a group are asked to imagine themselves living decades ahead and to argue and negotiate on behalf of those future people, so that a decision made today gives voice to those who will inherit its consequences but cannot take part in it." .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imaginary future generations" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/intergenerational-discounting> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/community-decision-making> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/intergenerational-sustainability-in-bangladesh-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/imaginary-future-generations.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/tatsuyoshi-saijo> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> <http://purl.org/dc/terms/publisher> "Sustainability Science 12(3), 409-420 (doi:10.1007/s11625-016-0419-8); PubMed record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> <http://purl.org/dc/terms/title> "Negotiating with the future: incorporating imaginary future generations into negotiations (Kamijo et al., 2017)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s1> <https://schema.org/url> <https://www.pubmed.gov/30147758/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> <http://purl.org/dc/terms/publisher> "Sustainability Science 14, 1605-1619 (Springer; doi:10.1007/s11625-019-00684-x)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> <http://purl.org/dc/terms/title> "Reconciling intergenerational conflicts with imaginary future generations: evidence from a participatory deliberation practice in a municipality in Japan (Hara et al., 2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s2> <https://schema.org/url> <https://link.springer.com/10.1007/s11625-019-00684-x> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> <http://purl.org/dc/terms/publisher> "Sustainability Science 16(3), 1001-1016 (Springer; doi:10.1007/s11625-021-00918-x)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> <http://purl.org/dc/terms/title> "Effects of experiencing the role of imaginary future generations in decision-making: a case study of participatory deliberation in a Japanese town (Hara et al., 2021)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s3> <https://schema.org/url> <https://link.springer.com/doi/10.1007/s11625-021-00918-x> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> <http://purl.org/dc/terms/publisher> "Sustainability 12, 6467 (MDPI; doi:10.3390/su12166467); author copy hosted by Kochi University of Technology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> <http://purl.org/dc/terms/title> "Future Design: Bequeathing sustainable natural environments and sustainable societies to future generations (Saijo, 2020)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s4> <https://schema.org/url> <https://www.souken.kochi-tech.ac.jp/seido/wsimg/sustainability-12-06467-v2.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> <http://purl.org/dc/terms/publisher> "Sustainability 13(13), 7377 (MDPI; doi:10.3390/su13137377)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> <http://purl.org/dc/terms/title> "Deliberative forms of democracy and intergenerational sustainability dilemma (Koirala, Timilsina & Kotani, 2021)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s5> <https://schema.org/url> <https://www.mdpi.com/2071-1050/13/13/7377> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> <http://purl.org/dc/terms/title> "Intergenerational Justice (Lukas Meyer), Summer 2006 edition, sections 1 and 3" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/imaginary-future-generations/s6> <https://schema.org/url> <https://plato.stanford.edu/archives/sum2006/entries/justice-intergenerational/> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions#graph> {
@@ -9256,6 +9382,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> .
@@ -10302,6 +10429,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/community-decision-making> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/community-decision-making> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/community-decision-making> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/community-decision-making> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion-based-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion-fade-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion-training-altruism-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10455,8 +10586,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
@@ -10922,6 +11055,19 @@
   <https://github.com/john1hsu/wisdom-graph/id/ikigai> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/ikigai> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/ill-will> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/impermanence/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11023,6 +11169,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
@@ -11041,7 +11188,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/intergenerational-discounting> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/intergenerational-discounting> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/intergenerational-sustainability-in-bangladesh-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/intergroup-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/intergroup-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11327,7 +11476,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11392,6 +11545,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -11404,6 +11559,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/peter-gollwitzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11451,6 +11607,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
@@ -11706,6 +11863,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
@@ -11755,6 +11913,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
@@ -11850,6 +12009,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/social-consequences-of-suppression-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/social-consequences-of-suppression-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -11950,6 +12110,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -11980,6 +12141,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/tatsuyoshi-saijo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/tatsuyoshi-saijo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/tatsuyoshi-saijo> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -12164,6 +12328,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .

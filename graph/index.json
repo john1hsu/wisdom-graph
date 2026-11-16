@@ -4113,6 +4113,117 @@
   ]
  },
  {
+  "id": "wg:imaginary-future-generations",
+  "title": "Imaginary future generations",
+  "aliases": [
+   "Future Design",
+   "IFG",
+   "future-generation role-play",
+   "speaking for future generations"
+  ],
+  "type": "Practice",
+  "domain": "judgment-and-decisions",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/imaginary-future-generations.md",
+  "created": "2026-11-16",
+  "summary": "A deliberation practice from the Future Design movement in which some members of a group are asked to imagine themselves living decades ahead and to argue and negotiate on behalf of those future people, so that a decision made today gives voice to those who will inherit its consequences but cannot take part in it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stewardship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:intergenerational-discounting",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:stewardship",
+    "source": "s3",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:negotiating-with-the-future-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:tatsuyoshi-saijo",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:community-decision-making",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:intergenerational-sustainability-in-bangladesh-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Who will live with this decision after I have moved on, and has anyone in the room spoken for them?",
+   "If I were a member of that future group, what would I ask today's decision-makers to protect?",
+   "Am I treating my guess about future people's wishes as a certainty, or as one voice to weigh?",
+   "Have I written down my reasons so that my successors can see and judge them?"
+  ],
+  "steps": [
+   "Name the decision and choose a horizon year far enough ahead (often 25–40 years) that most people in the room will no longer be in charge.",
+   "Ask one person, or a separate group, to imagine they actually live in that year and to speak as its residents, staff or customers, rather than simply forecasting.",
+   "Have the future side describe what the place is like and what they wish today's decision-makers had done, then list their priorities from that standpoint.",
+   "Have the present side list its priorities from today's needs, without trying to anticipate the future group.",
+   "Bring both sides together to negotiate one shared plan, and record where the future side changed it and where it was overruled and why.",
+   "Rotate the role in later sessions so that everyone has spoken for the future at least once, and end by writing down reasons and advice for your successors."
+  ],
+  "example": {
+   "situation": "A department head is drafting next year's budget and is tempted to cut the apprenticeship programme, whose payoff arrives only after the current team has moved on.",
+   "before": "Cut it. Nobody in this meeting will be here when those apprentices are senior, and we need the money for this year's targets.",
+   "after": "Before deciding, ask two colleagues to speak as the department's staff in 2045: what will they need from us, and what would they say about this cut? Then weigh their case against this year's pressures, and write down why we chose what we chose.",
+   "why": "The first response counts only the people present. The second gives the people who will inherit the decision a voice in the room and leaves a record they can judge us by, without pretending that their interests automatically win."
+  },
+  "source_urls": [
+   "https://www.pubmed.gov/30147758/",
+   "https://link.springer.com/10.1007/s11625-019-00684-x",
+   "https://link.springer.com/doi/10.1007/s11625-021-00918-x",
+   "https://www.souken.kochi-tech.ac.jp/seido/wsimg/sustainability-12-06467-v2.pdf",
+   "https://www.mdpi.com/2071-1050/13/13/7377",
+   "https://plato.stanford.edu/archives/sum2006/entries/justice-intergenerational/"
+  ]
+ },
+ {
   "id": "wg:impermanence",
   "title": "Impermanence",
   "aliases": [
@@ -8836,6 +8947,10 @@
    {
     "predicate": "skos:related",
     "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:imaginary-future-generations"
    },
    {
     "predicate": "wgo:appliedIn",
