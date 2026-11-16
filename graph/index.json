@@ -9945,6 +9945,144 @@
   ]
  },
  {
+  "id": "wg:temperance",
+  "title": "Temperance",
+  "aliases": [
+   "sophrosyne",
+   "sōphrosynē",
+   "moderation (virtue)",
+   "the virtue of moderation",
+   "sophrosune"
+  ],
+  "type": "Virtue",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/temperance.md",
+  "created": "2026-11-16",
+  "summary": "The character trait of wanting and enjoying bodily pleasures such as food, drink and sex in the right amount, at the right time and in the right way, so that appetite agrees with good judgment rather than fighting it; in Aristotle's account it is a mean between self-indulgence and a rare insensibility to pleasure.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:plato"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epicureanism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implementation-intentions"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:intemperance",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:insensibility",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:childhood-self-control-gradient-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:trait-self-control-meta-analysis",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:everyday-temptations-study",
+    "source": "s8",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:positive-psychology",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I choosing this pleasure, or is habit or the people around me choosing it for me?",
+   "Will I still be glad of this amount tomorrow, given what I need to do and who depends on me?",
+   "Am I treating every pleasure as suspect, mistaking joylessness for discipline?",
+   "Where could I change my surroundings so I meet this temptation less often, instead of relying on resisting it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "The night before you present to a client, your team takes them to dinner with an open bar. Colleagues are ordering round after round.",
+   "before": "Either keep pace with the table so you don't look stiff, or refuse everything and sit through the evening tense and joyless.",
+   "after": "Enjoy the meal and a drink with the group, switch to water when the rounds speed up, and leave at a sensible hour with a friendly word to the host.",
+   "why": "Matching the table hands your judgment to the room, and grim refusal mistakes temperance for having no pleasure at all. The temperate response enjoys what fits the occasion while keeping tomorrow's aim in view, which is what Aristotle means by desiring what one ought, as and when one ought."
+  },
+  "source_urls": [
+   "https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/10-of-temperance/",
+   "https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/11/",
+   "https://pressbooks.library.torontomu.ca/nicomacheanethics/?p=144",
+   "https://classics.mit.edu/Plato/charmides.html",
+   "https://plato.stanford.edu/archives/fall2003/entries/plato-ethics/",
+   "https://scholars.duke.edu/publication/739009",
+   "https://research-portal.uu.nl/en/publications/taking-stock-of-self-control-a-meta-analysis-of-how-trait-self-co-2/",
+   "https://carlsonschool-d8.prd.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/hofmann_baumeister_forster_vohs_2012_jpsp.pdf",
+   "https://www.viacharacter.org/character-strengths/self-regulation"
+  ]
+ },
+ {
   "id": "wg:theoretical-wisdom",
   "title": "Theoretical wisdom",
   "aliases": [

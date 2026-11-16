@@ -30,7 +30,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
-| `wg:moral-habituation` | 3 | Courage, cowardice, temperance |
+| `wg:moral-habituation` | 3 | Courage, Temperance, cowardice |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
@@ -48,16 +48,16 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:process-model-of-emotion-regulation` | 2 | Emotion regulatory flexibility, Rumination |
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
+| `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
 | `wg:contentment` | 1 | greed |
 | `wg:courage` | 1 | cowardice |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:dichotomy-of-control` | 1 | Equanimity |
-| `wg:doctrine-of-the-mean` | 1 | temperance |
-| `wg:emulating-moral-exemplars` | 1 | Practical wisdom |
+| `wg:doctrine-of-the-mean` | 1 | Temperance |
 
-…and 12 more.
+…and 13 more.
 
 ## Toolkit by life situation
 
@@ -173,6 +173,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
 | `wg:aristotelian-virtue-ethics` | `wg:moral-habituation` |
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
+| `wg:aristotelian-virtue-ethics` | `wg:temperance` |
 | `wg:aristotelian-virtue-ethics` | `wg:theoretical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
 | `wg:buddhism` | `wg:compassion` |
@@ -195,9 +196,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:epicureanism` | `wg:classification-of-desires` |
 | `wg:epicureanism` | `wg:contentment` |
-| `wg:hebrew-wisdom-literature` | `wg:folly` |
 
-…and 16 more.
+…and 17 more.
 
 ## The doctrine of the mean
 

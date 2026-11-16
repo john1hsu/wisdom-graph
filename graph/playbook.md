@@ -1159,6 +1159,22 @@ Ask yourself:
 - Does this kind of action feel easier or more satisfying than it did a month ago, and if not, is the step the right size?
 - Am I sliding past the mean into the opposite fault, such as rashness instead of courage?
 
+### [Temperance](../articles/virtues-and-character/temperance.md) — Virtue
+
+*The night before you present to a client, your team takes them to dinner with an open bar. Colleagues are ordering round after round.*
+
+| Before | After |
+|---|---|
+| Either keep pace with the table so you don't look stiff, or refuse everything and sit through the evening tense and joyless. | Enjoy the meal and a drink with the group, switch to water when the rounds speed up, and leave at a sensible hour with a friendly word to the host. |
+
+**Why:** Matching the table hands your judgment to the room, and grim refusal mistakes temperance for having no pleasure at all. The temperate response enjoys what fits the occasion while keeping tomorrow's aim in view, which is what Aristotle means by desiring what one ought, as and when one ought.
+
+Ask yourself:
+- Am I choosing this pleasure, or is habit or the people around me choosing it for me?
+- Will I still be glad of this amount tomorrow, given what I need to do and who depends on me?
+- Am I treating every pleasure as suspect, mistaking joylessness for discipline?
+- Where could I change my surroundings so I meet this temptation less often, instead of relying on resisting it?
+
 ### [Weakness of will](../articles/virtues-and-character/weakness-of-will.md) — Obstacle
 
 *You decided on Sunday, for good reasons, to finish a grant report before answering the week's routine email. On Monday morning the inbox shows forty unread messages.*

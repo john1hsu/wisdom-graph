@@ -798,6 +798,18 @@
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/virtues-and-character/temperance.md" .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> .
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> .
 <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
 <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/virtues-and-character/weakness-of-will.md" .
@@ -9128,6 +9140,125 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7> <https://schema.org/url> <https://plato.stanford.edu/entries/xunzi/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/temperance#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> <http://purl.org/dc/terms/publisher> "Toronto Metropolitan University Pressbooks (public-domain edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book III, chapter 10: Of temperance, trans. W. D. Ross" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> <https://schema.org/url> <https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/10-of-temperance/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> <http://purl.org/dc/terms/publisher> "Toronto Metropolitan University Pressbooks (public-domain edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book III, chapter 11 (natural and peculiar desires; the profligate, the insensible and the temperate), trans. W. D. Ross" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> <https://schema.org/url> <https://pressbooks.library.torontomu.ca/nicomacheanethics/chapter/11/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> <http://purl.org/dc/terms/publisher> "Toronto Metropolitan University Pressbooks (public-domain edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book III, chapter 12: How profligacy is more voluntary than cowardice, trans. W. D. Ross" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> <https://schema.org/url> <https://pressbooks.library.torontomu.ca/nicomacheanethics/?p=144> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> <http://purl.org/dc/terms/title> "Plato, Charmides, trans. Benjamin Jowett" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> <https://schema.org/url> <https://classics.mit.edu/Plato/charmides.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> <http://purl.org/dc/terms/title> "Plato's Ethics: An Overview (Fall 2003 edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> <https://schema.org/url> <https://plato.stanford.edu/archives/fall2003/entries/plato-ethics/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> <http://purl.org/dc/terms/publisher> "Proceedings of the National Academy of Sciences, 108(7), 2693-2698 (doi:10.1073/pnas.1010076108; Duke Scholars record)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> <http://purl.org/dc/terms/title> "A gradient of childhood self-control predicts health, wealth, and public safety (Moffitt et al., 2011)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> <https://schema.org/url> <https://scholars.duke.edu/publication/739009> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Review, 16(1), 76-99 (doi:10.1177/1088868311418749; Utrecht University research portal record)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> <http://purl.org/dc/terms/title> "Taking stock of self-control: A meta-analysis of how trait self-control relates to a wide range of behaviors (de Ridder et al., 2012)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> <https://schema.org/url> <https://research-portal.uu.nl/en/publications/taking-stock-of-self-control-a-meta-analysis-of-how-trait-self-co-2/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 102(6), 1318-1335 (doi:10.1037/a0026545; author copy hosted by the University of Minnesota Carlson School)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> <http://purl.org/dc/terms/title> "Everyday temptations: An experience sampling study of desire, conflict, and self-control (Hofmann, Baumeister, Förster & Vohs, 2012)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> <https://schema.org/url> <https://carlsonschool-d8.prd.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/hofmann_baumeister_forster_vohs_2012_jpsp.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> <http://purl.org/dc/terms/publisher> "VIA Institute on Character" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> <http://purl.org/dc/terms/title> "Self-Regulation (character strength, Temperance virtue category)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> <https://schema.org/url> <https://www.viacharacter.org/character-strengths/self-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I choosing this pleasure, or is habit or the people around me choosing it for me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Will I still be glad of this amount tomorrow, given what I need to do and who depends on me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating every pleasure as suspect, mistaking joylessness for discipline?" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Where could I change my surroundings so I meet this temptation less often, instead of relying on resisting it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Enjoy the meal and a drink with the group, switch to water when the rounds speed up, and leave at a sensible hour with a friendly word to the host." .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Either keep pace with the table so you don't look stiff, or refuse everything and sit through the evening tense and joyless." .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "The night before you present to a client, your team takes them to dinner with an open bar. Colleagues are ordering round after round." .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Matching the table hands your judgment to the room, and grim refusal mistakes temperance for having no pleasure at all. The temperate response enjoys what fits the occasion while keeping tomorrow's aim in view, which is what Aristotle means by desiring what one ought, as and when one ought." .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2000/01/rdf-schema#label> "Temperance" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#altLabel> "moderation (virtue)" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#altLabel> "sophrosune" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#altLabel> "sophrosyne" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#altLabel> "sōphrosynē" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#altLabel> "the virtue of moderation" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#definition> "The character trait of wanting and enjoying bodily pleasures such as food, drink and sex in the right amount, at the right time and in the right way, so that appetite agrees with good judgment rather than fighting it; in Aristotle's account it is a mean between self-indulgence and a rare insensibility to pleasure." .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperance" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/plato> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s7> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s8> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/temperance/s9> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/insensibility> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/intemperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/temperance/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/temperance.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/childhood-self-control-gradient-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/everyday-temptations-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/trait-self-control-meta-analysis> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/source/weakness-of-will/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/source/weakness-of-will/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Svirsky and Stroud; substantive revision 2025)" .
@@ -10881,6 +11012,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10974,7 +11106,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
@@ -10988,6 +11122,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/childhood-self-control-gradient-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/christianity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -11183,6 +11318,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/cowardice> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/cowardice> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
@@ -11294,6 +11430,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
+  <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/dogmatism> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
@@ -11411,6 +11548,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-hedonism> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> .
+  <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/epicureanism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
@@ -11489,6 +11627,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/everyday-temptations-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/evolutionary-theory-of-self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-psychotherapy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
@@ -11780,6 +11919,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+  <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11805,6 +11945,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/individual-differences-in-emotion-regulation-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/individual-differences-in-emotion-regulation-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/ingratitude> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/insensibility> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/insight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/insight> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-arrogance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
@@ -11871,6 +12012,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/intelligence> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/intemperance> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/intemperance> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
   <https://github.com/john1hsu/wisdom-graph/id/intention-behavior-gap-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/intention-behavior-gap-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -11944,6 +12086,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+  <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -12151,6 +12294,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-education> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-principles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-principles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -12162,11 +12306,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/more-life-experience-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
@@ -12289,6 +12435,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/pity> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/plato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/plato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+  <https://github.com/john1hsu/wisdom-graph/id/plato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/plato> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/plato> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/poor-judgment> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/folly> .
@@ -12344,12 +12491,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -12624,6 +12773,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/self-control> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/self-control> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception-as-byproduct-critique> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
@@ -12914,6 +13064,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/team-and-individual-debriefs-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/temperance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/temperance> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
@@ -12970,6 +13129,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/three-marks-of-existence> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/three-marks-of-existence> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/too-much-of-a-good-thing-effect> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/trait-self-control-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/trajectories-of-resilience-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/trajectories-of-resilience-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/trajectories-of-resilience-review> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
@@ -13040,6 +13200,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+  <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
