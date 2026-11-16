@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:knowing-when-to-quit` | wgo:Skill |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -39,6 +37,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:evening-review` | 2 | Self-reflection, anger |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
+| `wg:kill-criteria` | 2 | Knowing when to quit, escalation-of-commitment |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
 | `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
 | `wg:memento-mori` | 2 | Equanimity, greed |
@@ -57,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:honesty` | 1 | Self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:impermanence` | 1 | Equanimity |
-| `wg:knowing-when-to-quit` | 1 | escalation-of-commitment |
 
-…and 4 more.
+…and 5 more.
 
 ## Toolkit by life situation
 
@@ -89,6 +87,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:humble-leadership` |
+| `wg:leading-others` | `wg:kill-criteria` |
 | `wg:leading-others` | `wg:practical-wisdom` |
 | `wg:leading-others` | `wg:servant-leadership` |
 | `wg:leading-others` | `wg:three-dimensional-wisdom-model` |
@@ -96,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:learning-from-experience` | `wg:after-action-review` |
 | `wg:learning-from-experience` | `wg:evening-review` |
 | `wg:learning-from-experience` | `wg:self-reflection` |
-| `wg:major-life-decision` | `wg:deliberation` |
 
-…and 10 more.
+…and 11 more.
 
 ## Myths and contested advice
 
@@ -130,14 +128,14 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:interpersonal-conflict` | mixed |  |
+| `wg:kill-criteria` | mixed |  |
 | `wg:knowing-when-to-quit` | mixed |  |
 | `wg:leading-others` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:major-life-decision` | mixed |  |
 | `wg:meaning-in-life` | mixed |  |
-| `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
 
-…and 24 more.
+…and 25 more.
 
 ## Ideas with no recorded origin (gap)
 

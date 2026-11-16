@@ -3912,6 +3912,127 @@
   ]
  },
  {
+  "id": "wg:kill-criteria",
+  "title": "Kill criteria",
+  "aliases": [
+   "precommitted stopping rules",
+   "predetermined stopping rule",
+   "minimum target levels",
+   "exit criteria"
+  ],
+  "type": "Practice",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/kill-criteria.md",
+  "created": "2026-11-16",
+  "summary": "Deciding at the outset of a goal or project which observable signals, checked by which dates, will mean you stop or seriously reconsider, so that the later decision to quit rests on evidence set out in advance rather than on what has already been spent.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:decisions-under-uncertainty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implementation-intentions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:major-life-decision"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:knowing-when-to-quit",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:escalation-of-commitment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:deescalation-strategies-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:new-product-stopping-rules-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:mental-accounting",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:annie-duke",
+    "source": "s4",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Before I started, did I write down what result, by what date, would tell me to stop?",
+   "Is each criterion concrete enough that someone else could tell whether it has been met?",
+   "Now that a criterion has been tripped, is my reason for carrying on new information, or what I have already put in?",
+   "Am I counting my time and effort against the budget, not only the money?",
+   "Who without a stake in the original decision could check this call?"
+  ],
+  "steps": [
+   "When you commit to a goal or project, write down two to four signals that would show it is failing, each paired with a date by which you will check it.",
+   "Make each signal concrete and, where you can, numeric, such as a minimum level of sales, sign-ups, savings or progress, so that someone else could tell whether it has been met.",
+   "Set a budget for the effort as well as the money, counting hours, weekends and favours, because time spent tends to escape the books.",
+   "Share the criteria with someone who had no stake in starting the project and ask them to hold you to them, or to make the stop-or-go call themselves.",
+   "On each review date, compare results with the criteria and ask whether, starting from scratch today, you would begin this.",
+   "When a criterion is tripped, treat stopping as the default; continue only if you can write down new information that justifies it, not the cost already sunk.",
+   "When you stop, record what you learned, give credit for the progress made, and name the next goal the freed time and money will go to."
+  ],
+  "example": {
+   "situation": "A café owner started a weekday lunch-delivery service three months ago, buying a used van and training two drivers. Orders are well below what she hoped and the service loses money every week.",
+   "before": "We've bought the van and trained the drivers, so stopping now would waste all that. Let's push on until the summer and see if word of mouth picks up.",
+   "after": "When we launched I wrote that we'd stop if we weren't at forty orders a day by the end of month three. We're at eighteen. I'll end deliveries next week, sell the van, and put the two most-ordered dishes on the counter menu.",
+   "why": "The first response weighs what has been spent; the second applies a test set before any results came in, when judgment was not yet coloured by investment and pride, and pairs the exit with a next step."
+  },
+  "source_urls": [
+   "https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1992-simonson.pdf",
+   "https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1997-boulding.pdf",
+   "https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1995-heath.pdf",
+   "https://knowledge.wharton.upenn.edu/article/its-not-you-its-your-goals-knowing-when-to-quit/"
+  ]
+ },
+ {
   "id": "wg:know-thyself",
   "title": "Know thyself",
   "aliases": [

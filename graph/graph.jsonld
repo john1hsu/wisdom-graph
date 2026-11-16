@@ -1717,6 +1717,124 @@
    "wgo:why": "The wiser response owns its part, admits what it doesn't know about the other person's position, allows that things can change, and looks for an arrangement both can live with instead of a verdict on who is the better child."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Before I started, did I write down what result, by what date, would tell me to stop?",
+   "wgo:questionFor": {
+    "@id": "wg:kill-criteria"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is each criterion concrete enough that someone else could tell whether it has been met?",
+   "wgo:questionFor": {
+    "@id": "wg:kill-criteria"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Now that a criterion has been tripped, is my reason for carrying on new information, or what I have already put in?",
+   "wgo:questionFor": {
+    "@id": "wg:kill-criteria"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I counting my time and effort against the budget, not only the money?",
+   "wgo:questionFor": {
+    "@id": "wg:kill-criteria"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who without a stake in the original decision could check this call?",
+   "wgo:questionFor": {
+    "@id": "wg:kill-criteria"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "When we launched I wrote that we'd stop if we weren't at forty orders a day by the end of month three. We're at eighteen. I'll end deliveries next week, sell the van, and put the two most-ordered dishes on the counter menu.",
+   "wgo:before": "We've bought the van and trained the drivers, so stopping now would waste all that. Let's push on until the summer and see if word of mouth picks up.",
+   "wgo:situation": "A café owner started a weekday lunch-delivery service three months ago, buying a used van and training two drivers. Orders are well below what she hoped and the service loses money every week.",
+   "wgo:why": "The first response weighs what has been spent; the second applies a test set before any results came in, when judgment was not yet coloured by investment and pride, and pairs the exit with a next step."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Kill criteria",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "When you commit to a goal or project, write down two to four signals that would show it is failing, each paired with a date by which you will check it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Make each signal concrete and, where you can, numeric, such as a minimum level of sales, sign-ups, savings or progress, so that someone else could tell whether it has been met."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Set a budget for the effort as well as the money, counting hours, weekends and favours, because time spent tends to escape the books."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Share the criteria with someone who had no stake in starting the project and ask them to hold you to them, or to make the stop-or-go call themselves."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "On each review date, compare results with the criteria and ask whether, starting from scratch today, you would begin this."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "When a criterion is tripped, treat stopping as the default; continue only if you can write down new information that justifies it, not the cost already sunk."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "When you stop, record what you learned, give credit for the progress made, and name the next goal the freed time and money will go to."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "What would someone who knows me well say about me here that I would rather not hear?",
@@ -6865,6 +6983,62 @@
     "@id": "https://escholarship.org/uc/item/43q6r2fv"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 77(4), 419–426 (Itamar Simonson & Barry M. Staw, 1992; copy hosted by gwern.net)",
+   "dcterms:title": "Deescalation strategies: A comparison of techniques for reducing commitment to losing courses of action",
+   "schema:url": {
+    "@id": "https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1992-simonson.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Journal of Marketing Research, 34(1), 164–176 (William Boulding, Ruskin Morgan & Richard Staelin, 1997; copy hosted by gwern.net)",
+   "dcterms:title": "Pulling the plug to stop the new product drain",
+   "schema:url": {
+    "@id": "https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1997-boulding.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Organizational Behavior and Human Decision Processes, 62(1), 38–54 (Chip Heath, 1995; copy hosted by gwern.net)",
+   "dcterms:title": "Escalation and de-escalation of commitment in response to sunk costs: The role of budgeting in mental accounting",
+   "schema:url": {
+    "@id": "https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1995-heath.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Knowledge at Wharton, University of Pennsylvania (Annie Duke, Nano Tools for Leaders, 30 May 2023)",
+   "dcterms:title": "It's Not You — It's Your Goals: Knowing When to Quit",
+   "schema:url": {
+    "@id": "https://knowledge.wharton.upenn.edu/article/its-not-you-its-your-goals-knowing-when-to-quit/"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1",
@@ -15007,6 +15181,97 @@
     "@id": "wg:emotional-suppression"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:kill-criteria",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4"
+    }
+   ],
+   "rdfs:label": "Kill criteria",
+   "skos:altLabel": [
+    "exit criteria",
+    "minimum target levels",
+    "precommitted stopping rules",
+    "predetermined stopping rule"
+   ],
+   "skos:broader": {
+    "@id": "wg:decisions-under-uncertainty"
+   },
+   "skos:definition": "Deciding at the outset of a goal or project which observable signals, checked by which dates, will mean you stop or seriously reconsider, so that the later decision to quit rests on evidence set out in advance rather than on what has already been spent.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Kill criteria",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:implementation-intentions"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:escalation-of-commitment"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:deescalation-strategies-study"
+   },
+   "wgo:develops": {
+    "@id": "wg:knowing-when-to-quit"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:mental-accounting"
+   },
+   "wgo:file": "articles/judgment-and-decisions/kill-criteria.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:annie-duke"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:new-product-stopping-rules-study"
+   }
   },
   {
    "@id": "wg:know-thyself",

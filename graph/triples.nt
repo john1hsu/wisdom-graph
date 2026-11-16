@@ -2012,6 +2012,91 @@
 <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
 <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
 <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Before I started, did I write down what result, by what date, would tell me to stop?" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is each criterion concrete enough that someone else could tell whether it has been met?" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Now that a criterion has been tripped, is my reason for carrying on new information, or what I have already put in?" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I counting my time and effort against the budget, not only the money?" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Who without a stake in the original decision could check this call?" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "When we launched I wrote that we'd stop if we weren't at forty orders a day by the end of month three. We're at eighteen. I'll end deliveries next week, sell the van, and put the two most-ordered dishes on the counter menu." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "We've bought the van and trained the drivers, so stopping now would waste all that. Let's push on until the summer and see if word of mouth picks up." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A café owner started a weekday lunch-delivery service three months ago, buying a used van and training two drivers. Orders are well below what she hoped and the service loses money every week." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response weighs what has been spent; the second applies a test set before any results came in, when judgment was not yet coloured by investment and pride, and pairs the exit with a next step." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/1> <https://schema.org/text> "When you commit to a goal or project, write down two to four signals that would show it is failing, each paired with a date by which you will check it." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/2> <https://schema.org/text> "Make each signal concrete and, where you can, numeric, such as a minimum level of sales, sign-ups, savings or progress, so that someone else could tell whether it has been met." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/3> <https://schema.org/text> "Set a budget for the effort as well as the money, counting hours, weekends and favours, because time spent tends to escape the books." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/4> <https://schema.org/text> "Share the criteria with someone who had no stake in starting the project and ask them to hold you to them, or to make the stop-or-go call themselves." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/5> <https://schema.org/text> "On each review date, compare results with the criteria and ask whether, starting from scratch today, you would begin this." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/6> <https://schema.org/text> "When a criterion is tripped, treat stopping as the default; continue only if you can write down new information that justifies it, not the cost already sunk." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/7> <https://schema.org/text> "When you stop, record what you learned, give credit for the progress made, and name the next goal the freed time and money will go to." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/name> "Kill criteria" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto/7> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2000/01/rdf-schema#label> "Kill criteria" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#altLabel> "exit criteria" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#altLabel> "minimum target levels" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#altLabel> "precommitted stopping rules" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#altLabel> "predetermined stopping rule" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#definition> "Deciding at the outset of a goal or project which observable signals, checked by which dates, will mean you stop or seriously reconsider, so that the later decision to quit rests on evidence set out in advance rather than on what has already been spent." .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kill criteria" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/escalation-of-commitment> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/deescalation-strategies-study> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/example> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/mental-accounting> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/kill-criteria.md" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/annie-duke> .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/new-product-stopping-rules-study> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What would someone who knows me well say about me here that I would rather not hear?" .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
@@ -5511,6 +5596,30 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6> <https://schema.org/url> <https://escholarship.org/uc/item/43q6r2fv> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology, 77(4), 419–426 (Itamar Simonson & Barry M. Staw, 1992; copy hosted by gwern.net)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://purl.org/dc/terms/title> "Deescalation strategies: A comparison of techniques for reducing commitment to losing courses of action" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <https://schema.org/url> <https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1992-simonson.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> <http://purl.org/dc/terms/publisher> "Journal of Marketing Research, 34(1), 164–176 (William Boulding, Ruskin Morgan & Richard Staelin, 1997; copy hosted by gwern.net)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> <http://purl.org/dc/terms/title> "Pulling the plug to stop the new product drain" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s2> <https://schema.org/url> <https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1997-boulding.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> <http://purl.org/dc/terms/publisher> "Organizational Behavior and Human Decision Processes, 62(1), 38–54 (Chip Heath, 1995; copy hosted by gwern.net)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> <http://purl.org/dc/terms/title> "Escalation and de-escalation of commitment in response to sunk costs: The role of budgeting in mental accounting" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s3> <https://schema.org/url> <https://www.gwern.net/doc/psychology/cognitive-bias/sunk-cost/1995-heath.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton, University of Pennsylvania (Annie Duke, Nano Tools for Leaders, 30 May 2023)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> <http://purl.org/dc/terms/title> "It's Not You — It's Your Goals: Knowing When to Quit" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s4> <https://schema.org/url> <https://knowledge.wharton.upenn.edu/article/its-not-you-its-your-goals-knowing-when-to-quit/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/publisher> "Perseus Digital Library (Perseids CTS reader)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s1> <http://purl.org/dc/terms/title> "Pausanias, Description of Greece 10.24.1, trans. W. H. S. Jones and H. A. Ormerod" .

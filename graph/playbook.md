@@ -494,6 +494,31 @@ Ask yourself:
 - Do I still endorse this goal, or am I making plans to avoid admitting I no longer want it?
 - If I am about to drop the plan, has something genuinely changed, or has the moment of keeping it simply arrived?
 
+### [Kill criteria](../articles/judgment-and-decisions/kill-criteria.md) — Practice
+
+1. When you commit to a goal or project, write down two to four signals that would show it is failing, each paired with a date by which you will check it.
+2. Make each signal concrete and, where you can, numeric, such as a minimum level of sales, sign-ups, savings or progress, so that someone else could tell whether it has been met.
+3. Set a budget for the effort as well as the money, counting hours, weekends and favours, because time spent tends to escape the books.
+4. Share the criteria with someone who had no stake in starting the project and ask them to hold you to them, or to make the stop-or-go call themselves.
+5. On each review date, compare results with the criteria and ask whether, starting from scratch today, you would begin this.
+6. When a criterion is tripped, treat stopping as the default; continue only if you can write down new information that justifies it, not the cost already sunk.
+7. When you stop, record what you learned, give credit for the progress made, and name the next goal the freed time and money will go to.
+
+*A café owner started a weekday lunch-delivery service three months ago, buying a used van and training two drivers. Orders are well below what she hoped and the service loses money every week.*
+
+| Before | After |
+|---|---|
+| We've bought the van and trained the drivers, so stopping now would waste all that. Let's push on until the summer and see if word of mouth picks up. | When we launched I wrote that we'd stop if we weren't at forty orders a day by the end of month three. We're at eighteen. I'll end deliveries next week, sell the van, and put the two most-ordered dishes on the counter menu. |
+
+**Why:** The first response weighs what has been spent; the second applies a test set before any results came in, when judgment was not yet coloured by investment and pride, and pairs the exit with a next step.
+
+Ask yourself:
+- Before I started, did I write down what result, by what date, would tell me to stop?
+- Is each criterion concrete enough that someone else could tell whether it has been met?
+- Now that a criterion has been tripped, is my reason for carrying on new information, or what I have already put in?
+- Am I counting my time and effort against the budget, not only the money?
+- Who without a stake in the original decision could check this call?
+
 ### [Knowing when to quit](../articles/judgment-and-decisions/knowing-when-to-quit.md) — Skill
 
 *A team lead has spent eighteen months on an internal software tool that users keep ignoring; a cheaper commercial product now does the same job, and the next budget review is in a month.*
