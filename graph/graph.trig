@@ -684,6 +684,13 @@
 <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s3> .
 <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/steven-hayes.md" .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
 <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/susan-nolen-hoeksema.md" .
@@ -7991,6 +7998,64 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/s-l-a-marshall/s5> <https://schema.org/url> <https://www.americanheritage.com/secret-soldiers-who-didnt-shoot> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/steven-hayes#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> <http://purl.org/dc/terms/publisher> "Department of Psychology, University of Nevada, Reno (faculty profile)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> <http://purl.org/dc/terms/title> "Steven Hayes" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> <https://schema.org/url> <https://www.unr.edu/psychology/people/steven-hayes> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> <http://purl.org/dc/terms/publisher> "Behaviour Research and Therapy, 44(1), 1–25 (Hayes, Luoma, Bond, Masuda & Lillis, 2006); author PDF, ScholarWorks, Georgia State University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> <http://purl.org/dc/terms/title> "Acceptance and Commitment Therapy: Model, processes and outcomes" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> <https://schema.org/url> <https://scholarworks.gsu.edu/server/api/core/bitstreams/b0825e5b-c84d-46a0-8f77-fb47b62d9104/content> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> <http://purl.org/dc/terms/publisher> "Behaviour Research and Therapy, 61, 105–121 (Öst, 2014); PDF hosted by UNED (Universidad Nacional de Educación a Distancia)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> <http://purl.org/dc/terms/title> "The efficacy of Acceptance and Commitment Therapy: An updated systematic review and meta-analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> <https://schema.org/url> <https://www.uned.es/universidad/inicio/dam/jcr:9e6ff782-52cc-421a-b812-c3ffa03310fd/Ost%20(2014).%20Efficacy%20of%20ACT.Meta-analysis.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> <http://purl.org/dc/terms/publisher> "Behaviour Research and Therapy, 97, 259–272 (Atkins, Ciarrochi, Gaudiano, Bricker, James, Rovner, Smout, Livheim, Lundgren & Hayes, 2017); ACU Research Bank, Australian Catholic University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> <http://purl.org/dc/terms/title> "Departing from the essential features of a high quality systematic review of psychotherapy: A response to Öst (2014) and recommendations for improvement" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> <https://schema.org/url> <https://acuresearchbank.acu.edu.au/download/07e2a4cdefa6662b478b9f7507fa81569f6f612345d0895d88ba44da6aeb0851/465508/AM_Atkins_2017_Departing_from_the_essential_features_of.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2000/01/rdf-schema#label> "Steven C. Hayes" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#altLabel> "S. C. Hayes" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#altLabel> "Steve Hayes" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#altLabel> "Steven Hayes" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#definition> "American clinical psychologist and behaviour analyst at the University of Nevada, Reno, who developed relational frame theory and, with colleagues, acceptance and commitment therapy (ACT), the source of cognitive defusion and of \"psychological flexibility\" as a goal; how strong ACT's evidence is compared with established therapies is still disputed." .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steven C. Hayes" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-fusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/act-model-processes-and-outcomes-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/act-efficacy-updated-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "thinkers-and-works" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/thinkers-and-works/steven-hayes.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/process-based-therapy> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/relational-frame-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/source/susan-nolen-hoeksema/s1> <http://purl.org/dc/terms/publisher> "YaleNews, Yale University (7 January 2013)" .
@@ -10350,6 +10415,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-strategies-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -10363,12 +10429,17 @@
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/act-efficacy-updated-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/act-mediation-studies-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/act-model-processes-and-outcomes-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/act-model-processes-and-outcomes-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/act-model-processes-and-outcomes-review> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/adam-smith> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
@@ -10596,8 +10667,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
+  <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
+  <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-and-integrative-conceptions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-and-integrative-conceptions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -10610,6 +10683,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-fusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-fusion> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11453,6 +11529,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intuitive-judgment> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
@@ -11895,6 +11972,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/problem-solving> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-based-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -12011,8 +12089,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/relational-frame-theory> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/ren> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
@@ -12031,6 +12111,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/resolution-of-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/response-styles-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
   <https://github.com/john1hsu/wisdom-graph/id/response-styles-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/richard-ryan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/richard-ryan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -12191,6 +12274,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
@@ -12364,6 +12448,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/sternberg-implicit-theories-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/sternberg-implicit-theories-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/sternberg-implicit-theories-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

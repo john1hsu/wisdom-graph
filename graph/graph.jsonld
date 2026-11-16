@@ -11687,6 +11687,62 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Department of Psychology, University of Nevada, Reno (faculty profile)",
+   "dcterms:title": "Steven Hayes",
+   "schema:url": {
+    "@id": "https://www.unr.edu/psychology/people/steven-hayes"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Behaviour Research and Therapy, 44(1), 1–25 (Hayes, Luoma, Bond, Masuda & Lillis, 2006); author PDF, ScholarWorks, Georgia State University",
+   "dcterms:title": "Acceptance and Commitment Therapy: Model, processes and outcomes",
+   "schema:url": {
+    "@id": "https://scholarworks.gsu.edu/server/api/core/bitstreams/b0825e5b-c84d-46a0-8f77-fb47b62d9104/content"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Behaviour Research and Therapy, 61, 105–121 (Öst, 2014); PDF hosted by UNED (Universidad Nacional de Educación a Distancia)",
+   "dcterms:title": "The efficacy of Acceptance and Commitment Therapy: An updated systematic review and meta-analysis",
+   "schema:url": {
+    "@id": "https://www.uned.es/universidad/inicio/dam/jcr:9e6ff782-52cc-421a-b812-c3ffa03310fd/Ost%20(2014).%20Efficacy%20of%20ACT.Meta-analysis.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Behaviour Research and Therapy, 97, 259–272 (Atkins, Ciarrochi, Gaudiano, Bricker, James, Rovner, Smout, Livheim, Lundgren & Hayes, 2017); ACU Research Bank, Australian Catholic University",
+   "dcterms:title": "Departing from the essential features of a high quality systematic review of psychotherapy: A response to Öst (2014) and recommendations for improvement",
+   "schema:url": {
+    "@id": "https://acuresearchbank.acu.edu.au/download/07e2a4cdefa6662b478b9f7507fa81569f6f612345d0895d88ba44da6aeb0851/465508/AM_Atkins_2017_Departing_from_the_essential_features_of.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -21292,6 +21348,91 @@
    "wgo:undermines": {
     "@id": "wg:wise-reasoning"
    }
+  },
+  {
+   "@id": "wg:steven-hayes",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s4"
+    }
+   ],
+   "rdfs:label": "Steven C. Hayes",
+   "skos:altLabel": [
+    "S. C. Hayes",
+    "Steve Hayes",
+    "Steven Hayes"
+   ],
+   "skos:broader": {
+    "@id": "wg:clinical-psychologists"
+   },
+   "skos:definition": "American clinical psychologist and behaviour analyst at the University of Nevada, Reno, who developed relational frame theory and, with colleagues, acceptance and commitment therapy (ACT), the source of cognitive defusion and of \"psychological flexibility\" as a goal; how strong ACT's evidence is compared with established therapies is still disputed.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Steven C. Hayes",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:cognitive-defusion"
+    },
+    {
+     "@id": "wg:cognitive-fusion"
+    },
+    {
+     "@id": "wg:james-gross"
+    },
+    {
+     "@id": "wg:regulatory-flexibility"
+    },
+    {
+     "@id": "wg:self-distancing"
+    }
+   ],
+   "wgo:authored": [
+    {
+     "@id": "wg:act-model-processes-and-outcomes-review"
+    },
+    {
+     "@id": "wg:response-to-ost-act-review"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:act-efficacy-updated-meta-analysis"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/steven-hayes.md",
+   "wgo:introduced": [
+    {
+     "@id": "wg:acceptance-and-commitment-therapy"
+    },
+    {
+     "@id": "wg:cognitive-defusion"
+    },
+    {
+     "@id": "wg:process-based-therapy"
+    },
+    {
+     "@id": "wg:relational-frame-theory"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:stewardship",

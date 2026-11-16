@@ -9159,6 +9159,103 @@
   ]
  },
  {
+  "id": "wg:steven-hayes",
+  "title": "Steven C. Hayes",
+  "aliases": [
+   "Steven Hayes",
+   "Steve Hayes",
+   "S. C. Hayes"
+  ],
+  "type": "Person",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/steven-hayes.md",
+  "created": "2026-11-16",
+  "summary": "American clinical psychologist and behaviour analyst at the University of Nevada, Reno, who developed relational frame theory and, with colleagues, acceptance and commitment therapy (ACT), the source of cognitive defusion and of \"psychological flexibility\" as a goal; how strong ACT's evidence is compared with established therapies is still disputed.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:clinical-psychologists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-defusion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-fusion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regulatory-flexibility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:james-gross"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:acceptance-and-commitment-therapy",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:cognitive-defusion",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:relational-frame-theory",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:process-based-therapy",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:act-model-processes-and-outcomes-review",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:response-to-ost-act-review",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:act-efficacy-updated-meta-analysis",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.unr.edu/psychology/people/steven-hayes",
+   "https://scholarworks.gsu.edu/server/api/core/bitstreams/b0825e5b-c84d-46a0-8f77-fb47b62d9104/content",
+   "https://www.uned.es/universidad/inicio/dam/jcr:9e6ff782-52cc-421a-b812-c3ffa03310fd/Ost%20(2014).%20Efficacy%20of%20ACT.Meta-analysis.pdf",
+   "https://acuresearchbank.acu.edu.au/download/07e2a4cdefa6662b478b9f7507fa81569f6f612345d0895d88ba44da6aeb0851/465508/AM_Atkins_2017_Departing_from_the_essential_features_of.pdf"
+  ]
+ },
+ {
   "id": "wg:stewardship",
   "title": "Stewardship",
   "aliases": [
