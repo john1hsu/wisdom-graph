@@ -1749,6 +1749,46 @@
    "wgo:why": "Self-views are least reliable on flattering or unflattering traits, so treating others' observations as evidence rather than an attack is how the maxim is actually followed."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I were deciding today from scratch, with no time or money already spent, would I choose to start this?",
+   "wgo:questionFor": {
+    "@id": "wg:knowing-when-to-quit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I persisting because the goal is still reachable and worth it, or because quitting would mean admitting I was wrong?",
+   "wgo:questionFor": {
+    "@id": "wg:knowing-when-to-quit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What new goal will this time and energy go to if I let this one go?",
+   "wgo:questionFor": {
+    "@id": "wg:knowing-when-to-quit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I giving up because this is unattainable, or only because the current stretch is hard?",
+   "wgo:questionFor": {
+    "@id": "wg:knowing-when-to-quit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "If we were starting today, would we fund this? No. I'll show the review the adoption numbers and the alternative, propose winding it down by the quarter's end, and move the team onto the reporting backlog everyone keeps asking for.",
+   "wgo:before": "We've put too much into this to stop now. One more release and people will come round, so I'll ask for another two developers.",
+   "wgo:situation": "A team lead has spent eighteen months on an internal software tool that users keep ignoring; a cheaper commercial product now does the same job, and the next budget review is in a month.",
+   "wgo:why": "The wiser response judges the project on what it will deliver from here rather than on what it has already cost, which is the pull behind escalation, and it pairs stopping with a clear next goal, which is where the well-being benefits of letting go appear."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I weighing my colleagues' advice as seriously as I would have before I had authority over them?",
@@ -6923,6 +6963,76 @@
     "@id": "https://iep.utm.edu/thales/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 29(12), 1494–1508 (Wrosch, Scheier, Miller, Schulz & Carver, 2003; copy hosted by Carnegie Mellon University)",
+   "dcterms:title": "Adaptive self-regulation of unattainable goals: Goal disengagement, goal reengagement, and subjective well-being",
+   "schema:url": {
+    "@id": "https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Nature Human Behaviour, 10(2), 317–332 (Riddell, Sedikides, Sivaramakrishnan, Wan, Maltagliati, Jackson, Thøgersen-Ntoumani, Gucciardi & Ntoumanis; online 2025; University of Southampton ePrints)",
+   "dcterms:title": "A meta-analytic review and conceptual model of the antecedents and outcomes of goal adjustment in response to striving difficulties",
+   "schema:url": {
+    "@id": "https://eprints.soton.ac.uk/506833/2/s41562-025-02312-4.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "NBER Working Paper 22487 (Steven D. Levitt, 2016); published in The Review of Economic Studies, 88(1), 378–405 (2021)",
+   "dcterms:title": "Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness",
+   "schema:url": {
+    "@id": "https://www.nber.org/papers/w22487"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Academy of Management Journal, 55(3), 541–562 (Sleesman, Conlon, McNamara & Miles, 2012; copy hosted by gwern.net)",
+   "dcterms:title": "Cleaning up the big muddy: A meta-analytic review of the determinants of escalation of commitment",
+   "schema:url": {
+    "@id": "https://www.Gwern.net/doc/psychology/cognitive-bias/sunk-cost/2012-sleesman.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "History News Network (reprinting The New York Times, November 2009)",
+   "dcterms:title": "Serenity Prayer Skeptic Now Credits Niebuhr",
+   "schema:url": {
+    "@id": "https://www.historynewsnetwork.org/article/120699"
+   },
+   "wgo:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1",
@@ -14993,6 +15103,110 @@
     },
     {
      "@id": "wg:socratic-philosophy"
+    }
+   ]
+  },
+  {
+   "@id": "wg:knowing-when-to-quit",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5"
+    }
+   ],
+   "rdfs:label": "Knowing when to quit",
+   "skos:altLabel": [
+    "goal adjustment",
+    "goal disengagement",
+    "letting go of unattainable goals",
+    "strategic quitting"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:decisions-under-uncertainty"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "skos:definition": "The capacity to tell a goal worth persisting with from one that has become unattainable or too costly, to withdraw effort and commitment from the second kind, and to redirect that energy into new goals worth pursuing.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Knowing when to quit",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:implementation-intentions"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:serenity-prayer"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:escalation-of-commitment"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:major-life-decision"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:unattainable-goals-disengagement-study"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/knowing-when-to-quit.md",
+   "wgo:introducedBy": {
+    "@id": "wg:carsten-wrosch"
+   },
+   "wgo:level": "introductory",
+   "wgo:requires": {
+    "@id": "wg:deliberation"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:coin-toss-life-decisions-study"
+    },
+    {
+     "@id": "wg:goal-adjustment-meta-analysis"
     }
    ]
   },

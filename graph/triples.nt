@@ -2063,6 +2063,61 @@
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/delphic-maxims> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
 <https://github.com/john1hsu/wisdom-graph/id/know-thyself> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If I were deciding today from scratch, with no time or money already spent, would I choose to start this?" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I persisting because the goal is still reachable and worth it, or because quitting would mean admitting I was wrong?" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What new goal will this time and energy go to if I let this one go?" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I giving up because this is unattainable, or only because the current stretch is hard?" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "If we were starting today, would we fund this? No. I'll show the review the adoption numbers and the alternative, propose winding it down by the quarter's end, and move the team onto the reporting backlog everyone keeps asking for." .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "We've put too much into this to stop now. One more release and people will come round, so I'll ask for another two developers." .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead has spent eighteen months on an internal software tool that users keep ignoring; a cheaper commercial product now does the same job, and the next budget review is in a month." .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response judges the project on what it will deliver from here rather than on what it has already cost, which is the pull behind escalation, and it pairs stopping with a clear next goal, which is where the well-being benefits of letting go appear." .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Skill> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2000/01/rdf-schema#label> "Knowing when to quit" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#altLabel> "goal adjustment" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#altLabel> "goal disengagement" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#altLabel> "letting go of unattainable goals" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#altLabel> "strategic quitting" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#definition> "The capacity to tell a goal worth persisting with from one that has become unattainable or too costly, to withdraw effort and commitment from the second kind, and to redirect that energy into new goals worth pursuing." .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knowing when to quit" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/escalation-of-commitment> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit/example> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/knowing-when-to-quit.md" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/carsten-wrosch> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/coin-toss-life-decisions-study> .
+<https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/goal-adjustment-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I weighing my colleagues' advice as seriously as I would have before I had authority over them?" .
 <https://github.com/john1hsu/wisdom-graph/id/leading-others/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
@@ -5498,6 +5553,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/wisdom-graph/id/source/know-thyself/s7> <https://schema.org/url> <https://iep.utm.edu/thales/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 29(12), 1494–1508 (Wrosch, Scheier, Miller, Schulz & Carver, 2003; copy hosted by Carnegie Mellon University)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> <http://purl.org/dc/terms/title> "Adaptive self-regulation of unattainable goals: Goal disengagement, goal reengagement, and subjective well-being" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s1> <https://schema.org/url> <https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> <http://purl.org/dc/terms/publisher> "Nature Human Behaviour, 10(2), 317–332 (Riddell, Sedikides, Sivaramakrishnan, Wan, Maltagliati, Jackson, Thøgersen-Ntoumani, Gucciardi & Ntoumanis; online 2025; University of Southampton ePrints)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> <http://purl.org/dc/terms/title> "A meta-analytic review and conceptual model of the antecedents and outcomes of goal adjustment in response to striving difficulties" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s2> <https://schema.org/url> <https://eprints.soton.ac.uk/506833/2/s41562-025-02312-4.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> <http://purl.org/dc/terms/publisher> "NBER Working Paper 22487 (Steven D. Levitt, 2016); published in The Review of Economic Studies, 88(1), 378–405 (2021)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> <http://purl.org/dc/terms/title> "Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s3> <https://schema.org/url> <https://www.nber.org/papers/w22487> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> <http://purl.org/dc/terms/publisher> "Academy of Management Journal, 55(3), 541–562 (Sleesman, Conlon, McNamara & Miles, 2012; copy hosted by gwern.net)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> <http://purl.org/dc/terms/title> "Cleaning up the big muddy: A meta-analytic review of the determinants of escalation of commitment" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s4> <https://schema.org/url> <https://www.Gwern.net/doc/psychology/cognitive-bias/sunk-cost/2012-sleesman.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> <http://purl.org/dc/terms/publisher> "History News Network (reprinting The New York Times, November 2009)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> <http://purl.org/dc/terms/title> "Serenity Prayer Skeptic Now Credits Niebuhr" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/wisdom-graph/id/source/knowing-when-to-quit/s5> <https://schema.org/url> <https://www.historynewsnetwork.org/article/120699> .
 <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://purl.org/dc/terms/publisher> "Organizational Behavior and Human Decision Processes (Elsevier; See, Morrison, Rothman & Soll, 2011; doi:10.1016/j.obhdp.2011.07.006), author copy, NYU Stern School of Business" .
 <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s1> <http://purl.org/dc/terms/title> "The detrimental effects of power on confidence, advice taking, and accuracy" .

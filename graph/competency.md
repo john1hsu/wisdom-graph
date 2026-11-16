@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:knowing-when-to-quit` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -55,9 +57,9 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:honesty` | 1 | Self-deception |
 | `wg:humble-leadership` | 1 | escalation-of-commitment |
 | `wg:impermanence` | 1 | Equanimity |
-| `wg:regulatory-flexibility` | 1 | Emotional suppression |
+| `wg:knowing-when-to-quit` | 1 | escalation-of-commitment |
 
-…and 3 more.
+…and 4 more.
 
 ## Toolkit by life situation
 
@@ -96,7 +98,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:learning-from-experience` | `wg:self-reflection` |
 | `wg:major-life-decision` | `wg:deliberation` |
 
-…and 9 more.
+…and 10 more.
 
 ## Myths and contested advice
 
@@ -128,14 +130,14 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:interpersonal-conflict` | mixed |  |
+| `wg:knowing-when-to-quit` | mixed |  |
 | `wg:leading-others` | mixed |  |
 | `wg:logotherapy` | mixed |  |
 | `wg:major-life-decision` | mixed |  |
 | `wg:meaning-in-life` | mixed |  |
 | `wg:moral-algebra` | mixed | `wg:decisional-balance-and-ambivalence-review` |
-| `wg:personal-and-general-wisdom` | mixed |  |
 
-…and 23 more.
+…and 24 more.
 
 ## Ideas with no recorded origin (gap)
 

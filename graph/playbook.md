@@ -494,6 +494,22 @@ Ask yourself:
 - Do I still endorse this goal, or am I making plans to avoid admitting I no longer want it?
 - If I am about to drop the plan, has something genuinely changed, or has the moment of keeping it simply arrived?
 
+### [Knowing when to quit](../articles/judgment-and-decisions/knowing-when-to-quit.md) — Skill
+
+*A team lead has spent eighteen months on an internal software tool that users keep ignoring; a cheaper commercial product now does the same job, and the next budget review is in a month.*
+
+| Before | After |
+|---|---|
+| We've put too much into this to stop now. One more release and people will come round, so I'll ask for another two developers. | If we were starting today, would we fund this? No. I'll show the review the adoption numbers and the alternative, propose winding it down by the quarter's end, and move the team onto the reporting backlog everyone keeps asking for. |
+
+**Why:** The wiser response judges the project on what it will deliver from here rather than on what it has already cost, which is the pull behind escalation, and it pairs stopping with a clear next goal, which is where the well-being benefits of letting go appear.
+
+Ask yourself:
+- If I were deciding today from scratch, with no time or money already spent, would I choose to start this?
+- Am I persisting because the goal is still reachable and worth it, or because quitting would mean admitting I was wrong?
+- What new goal will this time and energy go to if I let this one go?
+- Am I giving up because this is unattainable, or only because the current stretch is hard?
+
 ### [Major life decisions](../articles/judgment-and-decisions/major-life-decision.md) — Context
 
 *After eight years in a stable accounting job, Priya has an offer to retrain as a teacher at lower pay, and has been going back and forth for months.*

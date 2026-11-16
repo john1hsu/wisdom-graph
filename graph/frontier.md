@@ -6,9 +6,9 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 |---|---|---|---|
 | `wg:aristotelian-virtue-ethics` | 13.87 | Tradition | `wg:aristotle`, `wg:courage`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:emulating-moral-exemplars`, `wg:hedonic-and-eudaimonic-well-being`, `wg:honesty`, `wg:moral-habituation`, `wg:practical-wisdom`, `wg:ubuntu`, `wg:virtue-ethics`, `wg:wise-leadership` |
 | `wg:eudaimonia` | 9.77 | - | `wg:aristotle`, `wg:hedonic-and-eudaimonic-well-being`, `wg:ikigai`, `wg:meaning-in-life`, `wg:practical-wisdom`, `wg:purpose-in-life`, `wg:stoicism`, `wg:virtue-ethics`, `wg:wisdom` |
-| `wg:acceptance` | 7.71 | - | `wg:amor-fati`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:equanimity`, `wg:grief-and-loss`, `wg:impermanence`, `wg:mourning-and-melancholia` |
-| `wg:emotion-regulation` | 7.21 | - | `wg:cognitive-reappraisal`, `wg:emotional-suppression`, `wg:empathy`, `wg:equanimity`, `wg:james-gross`, `wg:process-model-of-emotion-regulation`, `wg:regulatory-flexibility` |
-| `wg:adversity` | 7.19 | Context | `wg:amor-fati`, `wg:cognitive-reappraisal`, `wg:grief-and-loss`, `wg:impermanence`, `wg:regulatory-flexibility`, `wg:self-reflection`, `wg:viktor-frankl` |
+| `wg:acceptance` | 8.73 | - | `wg:amor-fati`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:equanimity`, `wg:grief-and-loss`, `wg:impermanence`, `wg:knowing-when-to-quit`, `wg:mourning-and-melancholia` |
+| `wg:emotion-regulation` | 7.20 | - | `wg:cognitive-reappraisal`, `wg:emotional-suppression`, `wg:empathy`, `wg:equanimity`, `wg:james-gross`, `wg:process-model-of-emotion-regulation`, `wg:regulatory-flexibility` |
+| `wg:adversity` | 7.18 | Context | `wg:amor-fati`, `wg:cognitive-reappraisal`, `wg:grief-and-loss`, `wg:impermanence`, `wg:regulatory-flexibility`, `wg:self-reflection`, `wg:viktor-frankl` |
 | `wg:common-wisdom-model` | 5.71 | - | `wg:igor-grossmann`, `wg:practical-wisdom`, `wg:psychology-of-wisdom`, `wg:wisdom`, `wg:wise-reasoning` |
 | `wg:socratic-philosophy` | 5.68 | Tradition | `wg:know-thyself`, `wg:self-reflection`, `wg:seven-sages-of-greece`, `wg:socratic-ignorance`, `wg:stoicism` |
 | `wg:balance-theory-of-wisdom` | 5.62 | - | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:robert-sternberg`, `wg:teaching-for-wisdom` |
@@ -21,7 +21,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:nicomachean-ethics` | 4.62 | Work | `wg:aristotle`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:practical-wisdom` |
 | `wg:socrates` | 4.61 | Person | `wg:aristotle`, `wg:courage`, `wg:socratic-ignorance`, `wg:weakness-of-will` |
 | `wg:humility` | 4.18 | - | `wg:hubris`, `wg:humble-leadership`, `wg:intellectual-humility`, `wg:view-from-above` |
-| `wg:self-transcendence` | 4.11 | - | `wg:logotherapy`, `wg:meaning-in-life`, `wg:solomons-paradox`, `wg:viktor-frankl` |
+| `wg:self-transcendence` | 4.10 | - | `wg:logotherapy`, `wg:meaning-in-life`, `wg:solomons-paradox`, `wg:viktor-frankl` |
 | `wg:exploring-solomons-paradox-study` | 4.10 | Study | `wg:personal-and-general-wisdom`, `wg:seven-sages-of-greece`, `wg:solomons-paradox`, `wg:theory-of-moral-sentiments` |
 | `wg:existential-vacuum` | 4.08 | - | `wg:logotherapy`, `wg:meaning-in-life`, `wg:viktor-frankl` |
 | `wg:continuing-bonds` | 4.08 | - | `wg:grief-and-loss`, `wg:mourning-and-melancholia` |
@@ -38,14 +38,15 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:egocentric-bias` | 3.11 | - | `wg:morton-deutsch`, `wg:perspective-taking`, `wg:solomons-paradox` |
 | `wg:lifespan-developmental-psychology` | 3.10 | Field | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom`, `wg:socioemotional-selectivity-theory` |
 | `wg:wics-model` | 3.09 | - | `wg:leading-others`, `wg:robert-sternberg`, `wg:wise-leadership` |
-| `wg:moral-virtues` | 3.09 | - | `wg:compassion`, `wg:courage`, `wg:honesty` |
-| `wg:delphic-maxims` | 3.09 | - | `wg:doctrine-of-the-mean`, `wg:know-thyself`, `wg:seven-sages-of-greece` |
 | `wg:impetuosity` | 3.09 | - | `wg:deliberation`, `wg:moral-algebra`, `wg:weakness-of-will` |
+| `wg:delphic-maxims` | 3.09 | - | `wg:doctrine-of-the-mean`, `wg:know-thyself`, `wg:seven-sages-of-greece` |
+| `wg:moral-virtues` | 3.09 | - | `wg:compassion`, `wg:courage`, `wg:honesty` |
 | `wg:plato` | 3.08 | - | `wg:aristotle`, `wg:courage`, `wg:view-from-above` |
 | `wg:wisdom-interventions` | 3.08 | - | `wg:emulating-moral-exemplars`, `wg:psychology-of-wisdom`, `wg:teaching-for-wisdom` |
+| `wg:escalation-of-commitment` | 3.08 | - | `wg:hubris`, `wg:humble-leadership`, `wg:knowing-when-to-quit` |
 | `wg:savoring` | 3.08 | - | `wg:gratitude`, `wg:impermanence`, `wg:mono-no-aware` |
 | `wg:positive-psychology` | 3.07 | Field | `wg:courage`, `wg:hedonic-and-eudaimonic-well-being`, `wg:meaning-in-life` |
-| `wg:workplace-feedback` | 3.07 | Context | `wg:courage`, `wg:honesty`, `wg:right-speech` |
+| `wg:workplace-feedback` | 3.06 | Context | `wg:courage`, `wg:honesty`, `wg:right-speech` |
 | `wg:hebrew-wisdom-literature` | 2.59 | Tradition | `wg:folly`, `wg:seeking-counsel` |
 | `wg:paul-baltes` | 2.58 | Person | `wg:berlin-wisdom-paradigm`, `wg:psychology-of-wisdom` |
 | `wg:loving-kindness-meditation` | 2.57 | - | `wg:compassion`, `wg:four-immeasurables` |
@@ -53,7 +54,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:anger` | 2.54 | - | `wg:courage`, `wg:evening-review` |
 | `wg:intellectual-arrogance` | 2.11 | - | `wg:hubris`, `wg:intellectual-humility` |
 | `wg:egocentric-discounting` | 2.10 | - | `wg:leading-others`, `wg:seeking-counsel` |
-| `wg:distraction` | 2.10 | - | `wg:process-model-of-emotion-regulation`, `wg:self-distancing` |
+| `wg:distraction` | 2.09 | - | `wg:process-model-of-emotion-regulation`, `wg:self-distancing` |
 | `wg:reach-forgiveness` | 2.09 | - | `wg:compassionate-reappraisal`, `wg:forgiveness` |
 | `wg:social-support` | 2.09 | - | `wg:emotional-suppression`, `wg:rumination` |
 | `wg:response-styles-theory` | 2.08 | - | `wg:rumination`, `wg:susan-nolen-hoeksema` |
@@ -67,54 +68,56 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:professional-work` | 2.07 | Context | `wg:leading-others`, `wg:practical-wisdom` |
 | `wg:the-buddha` | 2.07 | Person | `wg:buddhism`, `wg:impermanence` |
 | `wg:this-too-shall-pass-study` | 2.07 | - | `wg:impermanence`, `wg:view-from-above` |
-| `wg:intergroup-conflict` | 2.07 | - | `wg:interpersonal-conflict`, `wg:morton-deutsch` |
 | `wg:reappraisal-controllability-study` | 2.07 | - | `wg:cognitive-reappraisal`, `wg:dichotomy-of-control` |
+| `wg:intergroup-conflict` | 2.07 | - | `wg:interpersonal-conflict`, `wg:morton-deutsch` |
 | `wg:benefit-finding` | 2.07 | - | `wg:compassionate-reappraisal`, `wg:post-traumatic-growth` |
 | `wg:coping-flexibility-meta-analysis` | 2.06 | - | `wg:dichotomy-of-control`, `wg:regulatory-flexibility` |
-| `wg:reconciliation` | 2.06 | Context | `wg:forgiveness`, `wg:ubuntu` |
-| `wg:mental-subtraction` | 2.06 | - | `wg:gratitude`, `wg:negative-visualization` |
 | `wg:aristotelian-phronesis-model` | 2.06 | - | `wg:aristotle`, `wg:practical-wisdom` |
 | `wg:cleverness` | 2.06 | - | `wg:aristotle`, `wg:practical-wisdom` |
 | `wg:theoretical-wisdom` | 2.06 | - | `wg:aristotle`, `wg:practical-wisdom` |
-| `wg:escalation-of-commitment` | 2.06 | - | `wg:hubris`, `wg:humble-leadership` |
+| `wg:reconciliation` | 2.06 | Context | `wg:forgiveness`, `wg:ubuntu` |
+| `wg:mental-subtraction` | 2.06 | - | `wg:gratitude`, `wg:negative-visualization` |
 | `wg:ageing` | 2.06 | Context | `wg:socioemotional-selectivity-theory`, `wg:three-dimensional-wisdom-model` |
+| `wg:serenity-prayer` | 2.06 | - | `wg:dichotomy-of-control`, `wg:knowing-when-to-quit` |
 | `wg:indian-philosophy` | 2.06 | - | `wg:bhagavad-gita`, `wg:buddhism` |
-| `wg:how-to-measure-wisdom-study` | 2.06 | Study | `wg:personal-and-general-wisdom`, `wg:three-dimensional-wisdom-model` |
+| `wg:how-to-measure-wisdom-study` | 2.05 | Study | `wg:personal-and-general-wisdom`, `wg:three-dimensional-wisdom-model` |
 | `wg:wisdom-researchers` | 2.05 | - | `wg:igor-grossmann`, `wg:robert-sternberg` |
 | `wg:organizational-behavior` | 2.05 | Field | `wg:leading-others`, `wg:linda-hill` |
 | `wg:psychological-safety-in-work-teams-study` | 2.05 | Study | `wg:leading-others`, `wg:linda-hill` |
 | `wg:wabi-sabi` | 2.05 | - | `wg:impermanence`, `wg:mono-no-aware` |
 | `wg:xunzi` | 2.05 | - | `wg:confucianism`, `wg:moral-habituation` |
-| `wg:well-being` | 2.05 | - | `wg:hedonic-and-eudaimonic-well-being`, `wg:meaning-in-life` |
 | `wg:decision-theory` | 2.05 | Field | `wg:major-life-decision`, `wg:satisficing` |
+| `wg:well-being` | 2.05 | - | `wg:hedonic-and-eudaimonic-well-being`, `wg:meaning-in-life` |
+| `wg:coin-toss-life-decisions-study` | 2.05 | Study | `wg:knowing-when-to-quit`, `wg:major-life-decision` |
+| `wg:decisions-under-uncertainty` | 2.05 | - | `wg:knowing-when-to-quit`, `wg:major-life-decision` |
 | `wg:ancient-greek-philosophy` | 2.05 | - | `wg:aristotle`, `wg:seven-sages-of-greece` |
 | `wg:reflective-practices` | 2.05 | - | `wg:after-action-review`, `wg:evening-review` |
 | `wg:prosocial-lying` | 2.05 | - | `wg:honesty`, `wg:right-speech` |
-| `wg:impartial-spectator` | 2.05 | - | `wg:self-deception`, `wg:theory-of-moral-sentiments` |
+| `wg:impartial-spectator` | 2.04 | - | `wg:self-deception`, `wg:theory-of-moral-sentiments` |
 | `wg:buddhist-ethics` | 2.04 | - | `wg:four-immeasurables`, `wg:right-speech` |
 | `wg:distanced-self-reflection-diary` | 2.04 | - | `wg:igor-grossmann`, `wg:teaching-for-wisdom` |
-| `wg:george-bonanno` | 2.04 | Person | `wg:james-gross`, `wg:regulatory-flexibility` |
-| `wg:moral-psychology` | 2.04 | Field | `wg:emulating-moral-exemplars`, `wg:honesty` |
 | `wg:self-control` | 2.04 | - | `wg:implementation-intentions`, `wg:weakness-of-will` |
 | `wg:social-psychology` | 2.04 | Field | `wg:morton-deutsch`, `wg:regret` |
+| `wg:george-bonanno` | 2.04 | Person | `wg:james-gross`, `wg:regulatory-flexibility` |
+| `wg:moral-psychology` | 2.04 | Field | `wg:emulating-moral-exemplars`, `wg:honesty` |
 | `wg:clinical-psychologists` | 2.04 | - | `wg:james-gross`, `wg:susan-nolen-hoeksema` |
 | `wg:envy` | 2.04 | - | `wg:emulating-moral-exemplars`, `wg:four-immeasurables` |
 | `wg:dual-process-model-of-bereavement` | 2.04 | - | `wg:grief-and-loss`, `wg:mourning-and-melancholia` |
 | `wg:five-stages-of-grief` | 2.04 | - | `wg:grief-and-loss`, `wg:mourning-and-melancholia` |
 | `wg:prolonged-grief-disorder` | 2.04 | - | `wg:grief-and-loss`, `wg:mourning-and-melancholia` |
+| `wg:fast-and-frugal-heuristics` | 2.04 | - | `wg:moral-algebra`, `wg:satisficing` |
 | `wg:emerging-field-of-emotion-regulation` | 2.04 | Work | `wg:james-gross`, `wg:process-model-of-emotion-regulation` |
 | `wg:existential-psychotherapy` | 2.04 | - | `wg:logotherapy`, `wg:viktor-frankl` |
 | `wg:cowardice` | 2.04 | - | `wg:courage`, `wg:moral-habituation` |
 | `wg:moral-education` | 2.04 | - | `wg:emulating-moral-exemplars`, `wg:moral-habituation` |
-| `wg:fast-and-frugal-heuristics` | 2.04 | - | `wg:moral-algebra`, `wg:satisficing` |
 | `wg:psychoanalysis` | 2.04 | - | `wg:logotherapy`, `wg:mourning-and-melancholia` |
 | `wg:life-review` | 1.54 | - | `wg:memento-mori` |
 | `wg:epictetus` | 1.54 | Person | `wg:dichotomy-of-control` |
 | `wg:introspection-illusion` | 1.53 | - | `wg:know-thyself` |
+| `wg:end-of-history-illusion` | 1.53 | - | `wg:major-life-decision` |
 | `wg:analects` | 1.53 | - | `wg:confucianism` |
 | `wg:confucius` | 1.53 | Person | `wg:confucianism` |
 | `wg:golden-rule` | 1.53 | - | `wg:confucianism` |
-| `wg:end-of-history-illusion` | 1.53 | - | `wg:major-life-decision` |
 | `wg:situated-wisdom` | 1.53 | - | `wg:igor-grossmann` |
 | `wg:contentment` | 1.53 | - | `wg:gratitude` |
 | `wg:positivity-effect-in-ageing` | 1.52 | - | `wg:socioemotional-selectivity-theory` |
@@ -123,8 +126,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:dogmatism` | 1.08 | - | `wg:intellectual-humility` |
 | `wg:open-mindedness` | 1.08 | - | `wg:intellectual-humility` |
 | `wg:virtue-epistemology` | 1.08 | Field | `wg:intellectual-humility` |
-| `wg:construal-level-theory` | 1.08 | - | `wg:self-distancing` |
-| `wg:ozlem-ayduk` | 1.08 | Person | `wg:self-distancing` |
+| `wg:construal-level-theory` | 1.07 | - | `wg:self-distancing` |
+| `wg:ozlem-ayduk` | 1.07 | Person | `wg:self-distancing` |
 | `wg:neighborly-advice-study` | 1.07 | Study | `wg:seeking-counsel` |
 | `wg:wisdom-of-crowds` | 1.07 | - | `wg:seeking-counsel` |
 | `wg:problem-solving` | 1.06 | - | `wg:rumination` |
@@ -136,14 +139,14 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:conflict-reappraisal-marriage-study` | 1.05 | Study | `wg:interpersonal-conflict` |
 | `wg:prospective-reasoning-relationships-study` | 1.05 | Study | `wg:interpersonal-conflict` |
 | `wg:social-relationships` | 1.05 | - | `wg:interpersonal-conflict` |
+| `wg:intuitive-judgment` | 1.05 | - | `wg:deliberation` |
+| `wg:thinking-too-much-study` | 1.05 | - | `wg:deliberation` |
+| `wg:unconscious-thought-advantage-replication` | 1.05 | - | `wg:deliberation` |
 | `wg:compassion-based-interventions-meta-analysis` | 1.05 | - | `wg:compassion` |
 | `wg:compassion-fade-study` | 1.05 | - | `wg:compassion` |
 | `wg:compassion-training-altruism-study` | 1.05 | Study | `wg:compassion` |
 | `wg:pity` | 1.05 | - | `wg:compassion` |
-| `wg:charlotte-witvliet` | 1.05 | Person | `wg:compassionate-reappraisal` |
-| `wg:intuitive-judgment` | 1.05 | - | `wg:deliberation` |
-| `wg:thinking-too-much-study` | 1.05 | - | `wg:deliberation` |
-| `wg:unconscious-thought-advantage-replication` | 1.05 | - | `wg:deliberation` |
+| `wg:charlotte-witvliet` | 1.04 | Person | `wg:compassionate-reappraisal` |
 | `wg:condonation` | 1.04 | - | `wg:forgiveness` |
 | `wg:self-forgiveness` | 1.04 | - | `wg:forgiveness` |
 | `wg:vindictiveness` | 1.04 | - | `wg:forgiveness` |
@@ -158,7 +161,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:greed` | 1.04 | - | `wg:memento-mori` |
 | `wg:mortality-salience` | 1.04 | - | `wg:memento-mori` |
 | `wg:enchiridion` | 1.04 | Work | `wg:dichotomy-of-control` |
-| `wg:serenity-prayer` | 1.04 | - | `wg:dichotomy-of-control` |
 | `wg:stoic-ethics` | 1.04 | - | `wg:dichotomy-of-control` |
 | `wg:mindfulness-based-interventions` | 1.04 | - | `wg:buddhism` |
 | `wg:sramana-movement` | 1.04 | - | `wg:buddhism` |
@@ -175,19 +177,20 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:elizabeth-anscombe` | 1.04 | - | `wg:virtue-ethics` |
 | `wg:normative-ethics` | 1.04 | - | `wg:virtue-ethics` |
 | `wg:situationism` | 1.04 | - | `wg:virtue-ethics` |
+| `wg:arrogance` | 1.03 | - | `wg:hubris` |
+| `wg:ceo-hubris-acquisition-premiums-study` | 1.03 | Study | `wg:hubris` |
+| `wg:many-labs-3` | 1.03 | - | `wg:hubris` |
 | `wg:power-and-advice-taking-study` | 1.03 | Study | `wg:leading-others` |
 | `wg:interactive-minds-study` | 1.03 | Study | `wg:berlin-wisdom-paradigm` |
 | `wg:epistemology` | 1.03 | Field | `wg:wisdom` |
 | `wg:expert-consensus-on-wisdom-study` | 1.03 | - | `wg:wisdom` |
 | `wg:too-much-of-a-good-thing-effect` | 1.03 | - | `wg:doctrine-of-the-mean` |
-| `wg:arrogance` | 1.03 | - | `wg:hubris` |
-| `wg:ceo-hubris-acquisition-premiums-study` | 1.03 | Study | `wg:hubris` |
-| `wg:many-labs-3` | 1.03 | - | `wg:hubris` |
 | `wg:dukkha` | 1.03 | - | `wg:impermanence` |
 | `wg:eternalism` | 1.03 | - | `wg:impermanence` |
 | `wg:heraclitus` | 1.03 | - | `wg:impermanence` |
 | `wg:non-self` | 1.03 | - | `wg:impermanence` |
 | `wg:three-marks-of-existence` | 1.03 | - | `wg:impermanence` |
+| `wg:transformative-experience` | 1.03 | - | `wg:major-life-decision` |
 | `wg:emotion-regulation-and-memory-study` | 1.03 | Study | `wg:emotional-suppression` |
 | `wg:social-consequences-of-suppression-study` | 1.03 | Study | `wg:emotional-suppression` |
 | `wg:suppression-paradox-study` | 1.03 | - | `wg:emotional-suppression` |
@@ -199,9 +202,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:leader-wisdom-and-lmx-study` | 1.03 | - | `wg:wise-leadership` |
 | `wg:wisdom-narcissism-transformational-leadership-study` | 1.03 | - | `wg:wise-leadership` |
 | `wg:wise-organizations-and-well-being-study` | 1.03 | - | `wg:wise-leadership` |
-| `wg:coin-toss-life-decisions-study` | 1.03 | Study | `wg:major-life-decision` |
-| `wg:decisions-under-uncertainty` | 1.03 | - | `wg:major-life-decision` |
-| `wg:transformative-experience` | 1.03 | - | `wg:major-life-decision` |
 | `wg:individual-differences-in-emotion-regulation-study` | 1.03 | Study | `wg:cognitive-reappraisal` |
 | `wg:bradley-owens` | 1.03 | Person | `wg:humble-leadership` |
 | `wg:leader-expressed-humility-meta-analysis` | 1.03 | - | `wg:humble-leadership` |
@@ -211,6 +211,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:empathy-and-its-discontents` | 1.03 | - | `wg:empathy` |
 | `wg:empathy-training-meta-analysis` | 1.03 | - | `wg:empathy` |
 | `wg:social-neuroscience` | 1.03 | Field | `wg:empathy` |
+| `wg:counterfactual-thinking` | 1.03 | - | `wg:regret` |
+| `wg:opportunity-principle` | 1.03 | - | `wg:regret` |
+| `wg:praise-for-regret-study` | 1.03 | Study | `wg:regret` |
+| `wg:temporal-pattern-of-regret-study` | 1.03 | Study | `wg:regret` |
+| `wg:what-we-regret-most-study` | 1.03 | Study | `wg:regret` |
 | `wg:situated-wise-reasoning-scale` | 1.03 | - | `wg:igor-grossmann` |
 | `wg:happiness` | 1.03 | - | `wg:meaning-in-life` |
 | `wg:meaning-and-physical-health-meta-analysis` | 1.03 | - | `wg:meaning-in-life` |
@@ -226,11 +231,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:gratitude-interventions-meta-analysis` | 1.03 | - | `wg:gratitude` |
 | `wg:indebtedness` | 1.03 | - | `wg:gratitude` |
 | `wg:ingratitude` | 1.03 | - | `wg:gratitude` |
-| `wg:counterfactual-thinking` | 1.03 | - | `wg:regret` |
-| `wg:opportunity-principle` | 1.03 | - | `wg:regret` |
-| `wg:praise-for-regret-study` | 1.03 | Study | `wg:regret` |
-| `wg:temporal-pattern-of-regret-study` | 1.03 | Study | `wg:regret` |
-| `wg:what-we-regret-most-study` | 1.03 | Study | `wg:regret` |
 | `wg:emotion-regulation-variability-daily-life-study` | 1.02 | - | `wg:regulatory-flexibility` |
 | `wg:importance-of-being-flexible-study` | 1.02 | Study | `wg:regulatory-flexibility` |
 | `wg:coping` | 1.02 | - | `wg:resilience` |
@@ -261,6 +261,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:cognitive-and-integrative-conceptions-study` | 1.02 | Study | `wg:implicit-theories-of-wisdom` |
 | `wg:concept-of-wisdom-cross-cultural-study` | 1.02 | Study | `wg:implicit-theories-of-wisdom` |
 | `wg:sternberg-implicit-theories-study` | 1.02 | Study | `wg:implicit-theories-of-wisdom` |
+| `wg:age-related-positivity-effect-meta-analysis` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
+| `wg:laura-carstensen` | 1.02 | Person | `wg:socioemotional-selectivity-theory` |
+| `wg:strength-and-vulnerability-integration-theory` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
+| `wg:strength-of-weaker-ties-study` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
+| `wg:theories-of-ageing` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
 | `wg:ill-will` | 1.02 | - | `wg:four-immeasurables` |
 | `wg:kindness-based-meditation-meta-analysis` | 1.02 | - | `wg:four-immeasurables` |
 | `wg:loving-kindness-positive-emotions-meta-analysis` | 1.02 | - | `wg:four-immeasurables` |
@@ -274,17 +279,19 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:lying` | 1.02 | - | `wg:right-speech` |
 | `wg:mispredicting-honest-communication-study` | 1.02 | - | `wg:right-speech` |
 | `wg:noble-eightfold-path` | 1.02 | - | `wg:right-speech` |
-| `wg:age-related-positivity-effect-meta-analysis` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
-| `wg:laura-carstensen` | 1.02 | Person | `wg:socioemotional-selectivity-theory` |
-| `wg:strength-and-vulnerability-integration-theory` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
-| `wg:strength-of-weaker-ties-study` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
-| `wg:theories-of-ageing` | 1.02 | - | `wg:socioemotional-selectivity-theory` |
 | `wg:solon` | 1.02 | Person | `wg:seven-sages-of-greece` |
 | `wg:thales` | 1.02 | Person | `wg:seven-sages-of-greece` |
 | `wg:adam-smith` | 1.02 | Person | `wg:theory-of-moral-sentiments` |
 | `wg:david-hume` | 1.02 | - | `wg:theory-of-moral-sentiments` |
 | `wg:francis-hutcheson` | 1.02 | - | `wg:theory-of-moral-sentiments` |
 | `wg:moral-sentimentalism` | 1.02 | - | `wg:theory-of-moral-sentiments` |
+| `wg:flu-vaccination-planning-prompts-study` | 1.02 | Study | `wg:implementation-intentions` |
+| `wg:implementation-intentions-meta-analysis` | 1.02 | Study | `wg:implementation-intentions` |
+| `wg:mental-contrasting` | 1.02 | - | `wg:implementation-intentions` |
+| `wg:peter-gollwitzer` | 1.02 | Person | `wg:implementation-intentions` |
+| `wg:procrastination` | 1.02 | - | `wg:implementation-intentions` |
+| `wg:self-regulation-strategies` | 1.02 | - | `wg:implementation-intentions` |
+| `wg:strategic-automaticity` | 1.02 | - | `wg:implementation-intentions` |
 | `wg:lawrence-calhoun` | 1.02 | Person | `wg:post-traumatic-growth` |
 | `wg:perceived-versus-actual-growth-study` | 1.02 | - | `wg:post-traumatic-growth` |
 | `wg:personal-growth` | 1.02 | - | `wg:post-traumatic-growth` |
@@ -300,13 +307,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:benjamin-franklin` | 1.02 | Person | `wg:moral-algebra` |
 | `wg:decisional-balance-and-ambivalence-review` | 1.02 | - | `wg:moral-algebra` |
 | `wg:improper-linear-models-study` | 1.02 | - | `wg:moral-algebra` |
-| `wg:flu-vaccination-planning-prompts-study` | 1.02 | Study | `wg:implementation-intentions` |
-| `wg:implementation-intentions-meta-analysis` | 1.02 | Study | `wg:implementation-intentions` |
-| `wg:mental-contrasting` | 1.02 | - | `wg:implementation-intentions` |
-| `wg:peter-gollwitzer` | 1.02 | Person | `wg:implementation-intentions` |
-| `wg:procrastination` | 1.02 | - | `wg:implementation-intentions` |
-| `wg:self-regulation-strategies` | 1.02 | - | `wg:implementation-intentions` |
-| `wg:strategic-automaticity` | 1.02 | - | `wg:implementation-intentions` |
 | `wg:antecedent-and-response-focused-regulation-study` | 1.02 | Study | `wg:process-model-of-emotion-regulation` |
 | `wg:dealing-with-feeling-meta-analysis` | 1.02 | - | `wg:process-model-of-emotion-regulation` |
 | `wg:existential-therapies-meta-analysis` | 1.02 | - | `wg:logotherapy` |
@@ -343,26 +343,28 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:speaking-up-at-work` | 1.02 | Context | `wg:courage` |
 | `wg:which-moral-exemplars-inspire-study` | 1.02 | - | `wg:emulating-moral-exemplars` |
 | `wg:wisdom-can-be-taught-study` | 1.02 | - | `wg:teaching-for-wisdom` |
+| `wg:best-job-search-study` | 1.02 | - | `wg:satisficing` |
+| `wg:bounded-rationality` | 1.02 | - | `wg:satisficing` |
+| `wg:herbert-simon` | 1.02 | Person | `wg:satisficing` |
+| `wg:maximizing` | 1.02 | - | `wg:satisficing` |
+| `wg:maximizing-tendency-measurement-study` | 1.02 | - | `wg:satisficing` |
+| `wg:maximizing-versus-satisficing-study` | 1.02 | - | `wg:satisficing` |
 | `wg:affirmation-of-life` | 1.02 | - | `wg:amor-fati` |
 | `wg:amor-fati-emerging-adults-well-being-study` | 1.02 | - | `wg:amor-fati` |
 | `wg:becoming-a-manager` | 1.02 | Work | `wg:linda-hill` |
 | `wg:being-the-boss` | 1.02 | Work | `wg:linda-hill` |
-| `wg:best-job-search-study` | 1.02 | - | `wg:satisficing` |
-| `wg:bounded-rationality` | 1.02 | - | `wg:satisficing` |
+| `wg:carsten-wrosch` | 1.02 | Person | `wg:knowing-when-to-quit` |
 | `wg:collective-genius` | 1.02 | Work | `wg:linda-hill` |
 | `wg:crude-law-of-social-relations` | 1.02 | - | `wg:morton-deutsch` |
 | `wg:eternal-recurrence` | 1.02 | - | `wg:amor-fati` |
 | `wg:friedrich-nietzsche` | 1.02 | Person | `wg:amor-fati` |
+| `wg:goal-adjustment-meta-analysis` | 1.02 | - | `wg:knowing-when-to-quit` |
 | `wg:grief-work` | 1.02 | - | `wg:mourning-and-melancholia` |
 | `wg:grief-work-hypothesis-review-study` | 1.02 | - | `wg:mourning-and-melancholia` |
-| `wg:herbert-simon` | 1.02 | Person | `wg:satisficing` |
 | `wg:karma-yoga` | 1.02 | - | `wg:bhagavad-gita` |
 | `wg:kurt-lewin` | 1.02 | - | `wg:morton-deutsch` |
 | `wg:mahabharata` | 1.02 | - | `wg:bhagavad-gita` |
 | `wg:management-scholars` | 1.02 | - | `wg:linda-hill` |
-| `wg:maximizing` | 1.02 | - | `wg:satisficing` |
-| `wg:maximizing-tendency-measurement-study` | 1.02 | - | `wg:satisficing` |
-| `wg:maximizing-versus-satisficing-study` | 1.02 | - | `wg:satisficing` |
 | `wg:minima-moralia` | 1.02 | - | `wg:amor-fati` |
 | `wg:personal-wisdom-performance-measure-study` | 1.02 | Study | `wg:personal-and-general-wisdom` |
 | `wg:resolution-of-conflict` | 1.02 | Work | `wg:morton-deutsch` |
@@ -371,5 +373,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `wg:social-psychologists` | 1.02 | - | `wg:morton-deutsch` |
 | `wg:the-gay-science` | 1.02 | Work | `wg:amor-fati` |
 | `wg:theory-of-cooperation-and-competition` | 1.02 | - | `wg:morton-deutsch` |
+| `wg:unattainable-goals-disengagement-study` | 1.02 | Study | `wg:knowing-when-to-quit` |
 | `wg:upanishads` | 1.02 | - | `wg:bhagavad-gita` |
 | `wg:ursula-staudinger` | 1.02 | Person | `wg:personal-and-general-wisdom` |
