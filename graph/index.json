@@ -10256,6 +10256,115 @@
   ]
  },
  {
+  "id": "wg:sage",
+  "title": "The sage",
+  "aliases": [
+   "sage ideal",
+   "sagehood",
+   "ideal sage",
+   "the perfectly wise person",
+   "sophos",
+   "shengren",
+   "聖人"
+  ],
+  "type": "Concept",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/foundations/sage.md",
+  "created": "2026-11-17",
+  "summary": "The figure of the fully wise person that several traditions hold up as an ideal (the Stoic sophos, the Confucian and Daoist shengren): someone whose judgment, character and feeling are entirely in order. Most traditions treat the sage as extremely rare or never actually met, and use the ideal less as a description of anyone than as a direction to grow in and a standard to check oneself against.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seven-sages-of-greece"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socrates"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:analects"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:enchiridion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:junzi"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:daoism",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:folly",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:emulating-moral-exemplars",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:attainable-moral-exemplars-study",
+    "source": "s5",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/archives/win2022/entries/stoicism/",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/41-53",
+   "https://scholarworks.iu.edu/dspace/items/12df6d92-4ac2-47d4-8c20-2f8018f2555d/full",
+   "https://iep.utm.edu/daoism/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5339280",
+   "https://plato.stanford.edu/ENTRIES/confucius/"
+  ]
+ },
+ {
   "id": "wg:satisficing",
   "title": "Satisficing",
   "aliases": [

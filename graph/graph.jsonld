@@ -13086,6 +13086,90 @@
    "wgo:sourceType": "news"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Dirk Baltzly; Winter 2022 edition)",
+   "dcterms:title": "Stoicism",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/win2022/entries/stoicism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Perseus Digital Library via Perseids (Tufts University)",
+   "dcterms:title": "Encheiridion 48 and 51, in The Discourses of Epictetus, with the Encheiridion and Fragments, trans. George Long (George Bell and Sons, 1887)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/41-53"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Indiana University (IUScholarWorks)",
+   "dcterms:title": "The Analects of Confucius: An Online Teaching Translation (version 2.21), trans. Robert Eno, passages 6.30, 7.26, 7.33, 7.34, 9.6",
+   "schema:url": {
+    "@id": "https://scholarworks.iu.edu/dspace/items/12df6d92-4ac2-47d4-8c20-2f8018f2555d/full"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Ronnie Littlejohn, Belmont University)",
+   "dcterms:title": "Daoist Philosophy",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/daoism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 8, 283 (Han, Kim, Jeong & Cohen, 2017; doi:10.3389/fpsyg.2017.00283; PMC full text)",
+   "dcterms:title": "Attainable and relevant moral exemplars are more effective than extraordinary exemplars in promoting voluntary service engagement",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5339280"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Mark Csikszentmihalyi; revised 2024)",
+   "dcterms:title": "Confucius",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/confucius/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/satisficing/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -25617,6 +25701,105 @@
    "wgo:evidenceStatus": "historical",
    "wgo:file": "articles/thinkers-and-works/s-l-a-marshall.md",
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:sage",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/sage/s6"
+    }
+   ],
+   "rdfs:label": "The sage",
+   "skos:altLabel": [
+    "聖人",
+    "ideal sage",
+    "sage ideal",
+    "sagehood",
+    "shengren",
+    "sophos",
+    "the perfectly wise person"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "The figure of the fully wise person that several traditions hold up as an ideal (the Stoic sophos, the Confucian and Daoist shengren): someone whose judgment, character and feeling are entirely in order. Most traditions treat the sage as extremely rare or never actually met, and use the ideal less as a description of anyone than as a direction to grow in and a standard to check oneself against.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "The sage",
+   "skos:related": [
+    {
+     "@id": "wg:analects"
+    },
+    {
+     "@id": "wg:enchiridion"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:junzi"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:seven-sages-of-greece"
+    },
+    {
+     "@id": "wg:socrates"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:attainable-moral-exemplars-study"
+   },
+   "wgo:complements": {
+    "@id": "wg:emulating-moral-exemplars"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:folly"
+   },
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/foundations/sage.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:daoism"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ]
   },
   {
    "@id": "wg:satisficing",

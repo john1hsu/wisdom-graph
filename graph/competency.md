@@ -201,7 +201,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:compassion` |
 | `wg:confucianism` | `wg:courage` |
 
-…and 31 more.
+…and 34 more.
 
 ## The doctrine of the mean
 
