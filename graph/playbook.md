@@ -825,6 +825,29 @@ Ask yourself:
 - Am I treating a bad week or a low mood as a verdict on my whole life?
 - Would I still judge this pursuit worthwhile if I stopped feeling drawn to it, and would I still care about it if no one else valued it?
 
+### [Savoring](../articles/meaning-and-the-good-life/savoring.md) — Practice
+
+1. Pick one ordinary pleasure in the coming day, such as a meal, a walk, a conversation or a finished task, and decide in advance to give it your full attention.
+2. While it is happening, slow down and sharpen your senses; notice one or two specific things that make it good and name to yourself why they appeal to you.
+3. Mark the moment so it lasts, for example by telling someone about it, smiling or saying it aloud, or taking a mental snapshot to recall later.
+4. Remind yourself that the moment is passing and will not come again in quite this form, and let that make it more precious rather than sad.
+5. Later that day or week, spend a few minutes reminiscing about it, or look forward to something good that is coming.
+6. Notice when you are dampening a good moment, by finding fault, worrying about what comes next or telling yourself you don't deserve it, and gently return your attention to what is good.
+
+*After months of work, your team ships a project on time and the client sends a warm thank-you note, but you have three new deadlines waiting.*
+
+| Before | After |
+|---|---|
+| Nice, but that's done. Let's not get complacent; the next quarter looks rough. Archive the email and open the next task. | Before I move on, I'll read this note again, forward it to the team with what each person made possible, and take ten minutes at lunch to enjoy that we pulled it off. The deadlines will still be there at two. |
+
+**Why:** Sharing the success and pausing on it keeps a real achievement from vanishing unnoticed, while the kill-joy reflex of jumping to the next worry spends the good moment before it is felt.
+
+Ask yourself:
+- What good thing happened today that I barely noticed, and can I return to it for a minute now?
+- Am I talking myself out of enjoying this, by finding fault or rushing to the next worry?
+- Who could I share this moment with, so that it lasts longer for both of us?
+- Am I savoring to appreciate my life, or using pleasant moments to avoid something I need to face?
+
 ### [Simplicity](../articles/meaning-and-the-good-life/simplicity.md) — Practice
 
 1. Write down the three to five things you most want more of in your life, such as time with family, health, a craft or community.

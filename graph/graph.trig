@@ -510,6 +510,16 @@
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/savoring.md" .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/meaning-and-the-good-life/simplicity.md" .
@@ -6495,6 +6505,136 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
   <https://github.com/john1hsu/wisdom-graph/id/source/purpose-in-life/s6> <https://schema.org/url> <https://plato.stanford.edu/archives/fall2026/entries/life-meaning/> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/savoring#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What good thing happened today that I barely noticed, and can I return to it for a minute now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I talking myself out of enjoying this, by finding fault or rushing to the next worry?" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Who could I share this moment with, so that it lasts longer for both of us?" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I savoring to appreciate my life, or using pleasant moments to avoid something I need to face?" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Before I move on, I'll read this note again, forward it to the team with what each person made possible, and take ten minutes at lunch to enjoy that we pulled it off. The deadlines will still be there at two." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Nice, but that's done. Let's not get complacent; the next quarter looks rough. Archive the email and open the next task." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "After months of work, your team ships a project on time and the client sends a warm thank-you note, but you have three new deadlines waiting." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Sharing the success and pausing on it keeps a real achievement from vanishing unnoticed, while the kill-joy reflex of jumping to the next worry spends the good moment before it is felt." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/1> <https://schema.org/text> "Pick one ordinary pleasure in the coming day, such as a meal, a walk, a conversation or a finished task, and decide in advance to give it your full attention." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/2> <https://schema.org/text> "While it is happening, slow down and sharpen your senses; notice one or two specific things that make it good and name to yourself why they appeal to you." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/3> <https://schema.org/text> "Mark the moment so it lasts, for example by telling someone about it, smiling or saying it aloud, or taking a mental snapshot to recall later." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/4> <https://schema.org/text> "Remind yourself that the moment is passing and will not come again in quite this form, and let that make it more precious rather than sad." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/5> <https://schema.org/text> "Later that day or week, spend a few minutes reminiscing about it, or look forward to something good that is coming." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/6> <https://schema.org/text> "Notice when you are dampening a good moment, by finding fault, worrying about what comes next or telling yourself you don't deserve it, and gently return your attention to what is good." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/name> "Savoring" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2000/01/rdf-schema#label> "Savoring" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#altLabel> "positive emotion upregulation" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#altLabel> "savoring the moment" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#altLabel> "savouring" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#definition> "Deliberately noticing, appreciating and prolonging the good in an experience, whether by looking forward to it, attending to it as it happens or reminiscing about it afterwards, so that positive moments are not lost to haste, habit or distraction." .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#prefLabel> "Savoring" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/savouring-in-clinical-populations-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/kill-joy-thinking> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/perceived-temporal-scarcity-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/wealth-and-savoring-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/savoring/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/savoring.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/savoring/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/fred-bryant> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/savoring-a-new-model-of-positive-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/savoring-interventions-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> <http://purl.org/dc/terms/publisher> "International Journal of Wellbeing, 1(1), 107–126 (Bryant, Chadwick & Kluwe, 2011)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> <http://purl.org/dc/terms/title> "Understanding the processes that regulate positive emotional experience: Unsolved problems and future directions for theory and research on savoring" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1> <https://schema.org/url> <https://internationaljournalofwellbeing.org/index.php/ijow/article/viewFile/18/87> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> <http://purl.org/dc/terms/publisher> "Applied Psychology Health and Well-Being (Chen et al., 2026), abstract via Information for Practice, NYU Silver School of Social Work" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> <http://purl.org/dc/terms/title> "Effectiveness of savoring interventions: A systematic review and meta-analysis of randomized controlled trials" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2> <https://schema.org/url> <https://ifp.nyu.edu/2026/meta-analyses-systematic-reviews/aphw-70134/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> <http://purl.org/dc/terms/publisher> "International Journal of Applied Positive Psychology, 9(3), 1589–1615 (Cullen, Murphy, Di Blasi & Bryant, 2024)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> <http://purl.org/dc/terms/title> "The effectiveness of savouring interventions in adult clinical populations: A systematic review" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3> <https://schema.org/url> <https://research.ucc.ie/en/publications/the-effectiveness-of-savouring-interventions-in-adult-clinical-po/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, UC Berkeley" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> <http://purl.org/dc/terms/title> "Savoring Walk" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4> <https://schema.org/url> <https://ggia.berkeley.edu/practice/savoring_walk> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> <http://purl.org/dc/terms/publisher> "University of Virginia, Department of Psychology, doctoral dissertation (Kurtz, 2007)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> <http://purl.org/dc/terms/title> "Looking to the future to appreciate the present: The benefits of perceived temporal scarcity" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5> <https://schema.org/url> <https://libraetd.lib.virginia.edu/public_view/7w62f833c> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> <http://purl.org/dc/terms/publisher> "Psychological Science, 21(6), 759–763 (Quoidbach, Dunn, Petrides & Mikolajczak, 2010)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> <http://purl.org/dc/terms/title> "Money giveth, money taketh away: The dual effect of wealth on happiness" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6> <https://schema.org/url> <https://orbi.uliege.be/bitstream/2268/12758/1/QDPM_PS_2010.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> <http://purl.org/dc/terms/publisher> "Journal of Experimental Psychology General, 148(4), 688–712 (Lodder, Ong, Grasman & Wicherts, 2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> <http://purl.org/dc/terms/title> "A comprehensive meta-analysis of money priming" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7> <https://schema.org/url> <https://research.tilburguniversity.edu/en/publications/a-comprehensive-meta-analysis-of-money-priming/> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> {
@@ -13295,6 +13435,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/greed> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/greed> .
   <https://github.com/john1hsu/wisdom-graph/id/contentment> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
@@ -13518,6 +13659,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
@@ -13527,6 +13669,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
@@ -13777,6 +13920,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/francis-hutcheson> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
+  <https://github.com/john1hsu/wisdom-graph/id/fred-bryant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/fred-bryant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/fred-bryant> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/friedrich-nietzsche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/friedrich-nietzsche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/friedrich-nietzsche> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
@@ -13834,6 +13980,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/greed/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/greed/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/greed/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -13842,6 +13989,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/vice> .
+  <https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
@@ -13892,6 +14040,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14238,6 +14387,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/kill-joy-thinking> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14565,6 +14715,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/negativity-bias> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14641,6 +14792,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/perceived-temporal-scarcity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/perceived-temporal-scarcity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/perceived-temporal-scarcity-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/perceived-versus-actual-growth-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15048,12 +15202,19 @@
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
-  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
-  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
-  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
-  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
-  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
-  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring-a-new-model-of-positive-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring-a-new-model-of-positive-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring-a-new-model-of-positive-experience> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/savouring-in-clinical-populations-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -15638,6 +15799,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+  <https://github.com/john1hsu/wisdom-graph/id/wealth-and-savoring-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wealth-and-savoring-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/wealth-and-savoring-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
   <https://github.com/john1hsu/wisdom-graph/id/well-being> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .

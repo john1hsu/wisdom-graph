@@ -10134,6 +10134,153 @@
   ]
  },
  {
+  "id": "wg:savoring",
+  "title": "Savoring",
+  "aliases": [
+   "savouring",
+   "savoring the moment",
+   "positive emotion upregulation"
+  ],
+  "type": "Practice",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/savoring.md",
+  "created": "2026-11-17",
+  "summary": "Deliberately noticing, appreciating and prolonging the good in an experience, whether by looking forward to it, attending to it as it happens or reminiscing about it afterwards, so that positive moments are not lost to haste, habit or distraction.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotion-regulation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mono-no-aware"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:positivity-effect-in-ageing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:greed"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:fred-bryant",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:savoring-a-new-model-of-positive-experience",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:gratitude",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:hedonic-adaptation",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:kill-joy-thinking",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:savoring-interventions-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:savouring-in-clinical-populations-review",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:perceived-temporal-scarcity-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:wealth-and-savoring-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:positive-psychology",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "What good thing happened today that I barely noticed, and can I return to it for a minute now?",
+   "Am I talking myself out of enjoying this, by finding fault or rushing to the next worry?",
+   "Who could I share this moment with, so that it lasts longer for both of us?",
+   "Am I savoring to appreciate my life, or using pleasant moments to avoid something I need to face?"
+  ],
+  "steps": [
+   "Pick one ordinary pleasure in the coming day, such as a meal, a walk, a conversation or a finished task, and decide in advance to give it your full attention.",
+   "While it is happening, slow down and sharpen your senses; notice one or two specific things that make it good and name to yourself why they appeal to you.",
+   "Mark the moment so it lasts, for example by telling someone about it, smiling or saying it aloud, or taking a mental snapshot to recall later.",
+   "Remind yourself that the moment is passing and will not come again in quite this form, and let that make it more precious rather than sad.",
+   "Later that day or week, spend a few minutes reminiscing about it, or look forward to something good that is coming.",
+   "Notice when you are dampening a good moment, by finding fault, worrying about what comes next or telling yourself you don't deserve it, and gently return your attention to what is good."
+  ],
+  "example": {
+   "situation": "After months of work, your team ships a project on time and the client sends a warm thank-you note, but you have three new deadlines waiting.",
+   "before": "Nice, but that's done. Let's not get complacent; the next quarter looks rough. Archive the email and open the next task.",
+   "after": "Before I move on, I'll read this note again, forward it to the team with what each person made possible, and take ten minutes at lunch to enjoy that we pulled it off. The deadlines will still be there at two.",
+   "why": "Sharing the success and pausing on it keeps a real achievement from vanishing unnoticed, while the kill-joy reflex of jumping to the next worry spends the good moment before it is felt."
+  },
+  "source_urls": [
+   "https://internationaljournalofwellbeing.org/index.php/ijow/article/viewFile/18/87",
+   "https://ifp.nyu.edu/2026/meta-analyses-systematic-reviews/aphw-70134/",
+   "https://research.ucc.ie/en/publications/the-effectiveness-of-savouring-interventions-in-adult-clinical-po/",
+   "https://ggia.berkeley.edu/practice/savoring_walk",
+   "https://libraetd.lib.virginia.edu/public_view/7w62f833c",
+   "https://orbi.uliege.be/bitstream/2268/12758/1/QDPM_PS_2010.pdf",
+   "https://research.tilburguniversity.edu/en/publications/a-comprehensive-meta-analysis-of-money-priming/"
+  ]
+ },
+ {
   "id": "wg:seeking-counsel",
   "title": "Seeking counsel",
   "aliases": [

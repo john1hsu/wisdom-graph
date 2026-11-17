@@ -4177,6 +4177,107 @@
    "schema:text": "Keep maximizing-style search for the rare choices where a better option is worth the extra effort and the decision is hard to undo."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What good thing happened today that I barely noticed, and can I return to it for a minute now?",
+   "wgo:questionFor": {
+    "@id": "wg:savoring"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I talking myself out of enjoying this, by finding fault or rushing to the next worry?",
+   "wgo:questionFor": {
+    "@id": "wg:savoring"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who could I share this moment with, so that it lasts longer for both of us?",
+   "wgo:questionFor": {
+    "@id": "wg:savoring"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I savoring to appreciate my life, or using pleasant moments to avoid something I need to face?",
+   "wgo:questionFor": {
+    "@id": "wg:savoring"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Before I move on, I'll read this note again, forward it to the team with what each person made possible, and take ten minutes at lunch to enjoy that we pulled it off. The deadlines will still be there at two.",
+   "wgo:before": "Nice, but that's done. Let's not get complacent; the next quarter looks rough. Archive the email and open the next task.",
+   "wgo:situation": "After months of work, your team ships a project on time and the client sends a warm thank-you note, but you have three new deadlines waiting.",
+   "wgo:why": "Sharing the success and pausing on it keeps a real achievement from vanishing unnoticed, while the kill-joy reflex of jumping to the next worry spends the good moment before it is felt."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Savoring",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Pick one ordinary pleasure in the coming day, such as a meal, a walk, a conversation or a finished task, and decide in advance to give it your full attention."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "While it is happening, slow down and sharpen your senses; notice one or two specific things that make it good and name to yourself why they appeal to you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Mark the moment so it lasts, for example by telling someone about it, smiling or saying it aloud, or taking a mental snapshot to recall later."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Remind yourself that the moment is passing and will not come again in quite this form, and let that make it more precious rather than sad."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Later that day or week, spend a few minutes reminiscing about it, or look forward to something good that is coming."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Notice when you are dampening a good moment, by finding fault, worrying about what comes next or telling yourself you don't deserve it, and gently return your attention to what is good."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Adversity, loss and mortality"
@@ -12857,6 +12958,104 @@
    "dcterms:title": "The price of gaining: Maximization in decision-making, regret and life satisfaction",
    "schema:url": {
     "@id": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3CB62F3EB5B7E8A9B428D78819A1BCB/S1930297500006859a.pdf/the-price-of-gaining-maximization-in-decision-making-regret-and-life-satisfaction.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "International Journal of Wellbeing, 1(1), 107–126 (Bryant, Chadwick & Kluwe, 2011)",
+   "dcterms:title": "Understanding the processes that regulate positive emotional experience: Unsolved problems and future directions for theory and research on savoring",
+   "schema:url": {
+    "@id": "https://internationaljournalofwellbeing.org/index.php/ijow/article/viewFile/18/87"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Applied Psychology Health and Well-Being (Chen et al., 2026), abstract via Information for Practice, NYU Silver School of Social Work",
+   "dcterms:title": "Effectiveness of savoring interventions: A systematic review and meta-analysis of randomized controlled trials",
+   "schema:url": {
+    "@id": "https://ifp.nyu.edu/2026/meta-analyses-systematic-reviews/aphw-70134/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "International Journal of Applied Positive Psychology, 9(3), 1589–1615 (Cullen, Murphy, Di Blasi & Bryant, 2024)",
+   "dcterms:title": "The effectiveness of savouring interventions in adult clinical populations: A systematic review",
+   "schema:url": {
+    "@id": "https://research.ucc.ie/en/publications/the-effectiveness-of-savouring-interventions-in-adult-clinical-po/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Greater Good in Action, Greater Good Science Center, UC Berkeley",
+   "dcterms:title": "Savoring Walk",
+   "schema:url": {
+    "@id": "https://ggia.berkeley.edu/practice/savoring_walk"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "University of Virginia, Department of Psychology, doctoral dissertation (Kurtz, 2007)",
+   "dcterms:title": "Looking to the future to appreciate the present: The benefits of perceived temporal scarcity",
+   "schema:url": {
+    "@id": "https://libraetd.lib.virginia.edu/public_view/7w62f833c"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Science, 21(6), 759–763 (Quoidbach, Dunn, Petrides & Mikolajczak, 2010)",
+   "dcterms:title": "Money giveth, money taketh away: The dual effect of wealth on happiness",
+   "schema:url": {
+    "@id": "https://orbi.uliege.be/bitstream/2268/12758/1/QDPM_PS_2010.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology General, 148(4), 688–712 (Lodder, Ong, Grasman & Wicherts, 2019)",
+   "dcterms:title": "A comprehensive meta-analysis of money priming",
+   "schema:url": {
+    "@id": "https://research.tilburguniversity.edu/en/publications/a-comprehensive-meta-analysis-of-money-priming/"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -24938,6 +25137,122 @@
      "@id": "wg:maximizing-versus-satisficing-study"
     }
    ]
+  },
+  {
+   "@id": "wg:savoring",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/savoring/s7"
+    }
+   ],
+   "rdfs:label": "Savoring",
+   "skos:altLabel": [
+    "positive emotion upregulation",
+    "savoring the moment",
+    "savouring"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "Deliberately noticing, appreciating and prolonging the good in an experience, whether by looking forward to it, attending to it as it happens or reminiscing about it afterwards, so that positive moments are not lost to haste, habit or distraction.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Savoring",
+   "skos:related": [
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:gratitude"
+    },
+    {
+     "@id": "wg:greed"
+    },
+    {
+     "@id": "wg:hedonic-adaptation"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:mono-no-aware"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:positivity-effect-in-ageing"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:hedonic-adaptation"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:savouring-in-clinical-populations-review"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:kill-joy-thinking"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:perceived-temporal-scarcity-study"
+    },
+    {
+     "@id": "wg:wealth-and-savoring-study"
+    }
+   ],
+   "wgo:develops": {
+    "@id": "wg:gratitude"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/savoring.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/savoring/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:fred-bryant"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:savoring-a-new-model-of-positive-experience"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:positive-psychology"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:savoring-interventions-meta-analysis"
+   }
   },
   {
    "@id": "wg:seeking-counsel",

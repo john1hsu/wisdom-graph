@@ -50,14 +50,14 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:process-model-of-emotion-regulation` | 2 | Emotion regulatory flexibility, Rumination |
 | `wg:reflective-journaling` | 2 | Rumination, Self-reflection |
 | `wg:right-speech` | 2 | Honesty, lying |
+| `wg:savoring` | 2 | Gratitude, Hedonic adaptation |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
 | `wg:contentment` | 1 | Greed |
-| `wg:courage` | 1 | cowardice |
 
-…and 16 more.
+…and 17 more.
 
 ## Toolkit by life situation
 
@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
 
-…and 43 more.
+…and 44 more.
 
 ## Ideas with no recorded origin (gap)
 
