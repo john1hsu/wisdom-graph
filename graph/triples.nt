@@ -1861,6 +1861,66 @@
 <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
 <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-positive-emotions-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Did the person actually ask for my advice, or am I volunteering it?" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Do I understand their situation and constraints, or am I answering the problem I once had?" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I explained my reasoning, so they can judge it rather than just obey it?" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I giving this advice for their sake, or because being the one who knows feels good?" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "If they decide differently, can I let it go?" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Congratulations. Before I say what I think, what's making you hesitate? … It sounds as if the worry is managing two close friends. I'm not you, so take this as one view: when I faced that, what helped was talking to them early. Who else knows this team well that you could ask?" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Take it. I did exactly the same thing and it was the best move I ever made. You'll regret it forever if you say no." .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A colleague stops by your desk and says she has been offered a promotion to manage her current team, but isn't sure she wants it. You once took a similar step and loved it." .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response listens first, finds out what the real question is, offers a view as one perspective with its reasoning shown, and leaves the decision with the person who has to live with it." .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2000/01/rdf-schema#label> "Giving advice" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#altLabel> "advice giving" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#altLabel> "advising others" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#altLabel> "being asked for advice" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#altLabel> "giving counsel" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#altLabel> "offering advice" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#definition> "The situation of being asked, or feeling moved, to tell someone else what they should do about a problem in their life or work — a test of wisdom that psychologists have used to measure it, and one where good intentions often go wrong." .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giving advice" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/analects> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/advice-solicitation-study> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/dear-abby-advice-giving-study> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/interactive-minds-study> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/giving-advice.md" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If our positions were reversed, would I accept being treated the way I'm about to treat this person?" .
 <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
@@ -6409,6 +6469,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <https://schema.org/url> <https://www.repository.cam.ac.uk/handle/1810/276660> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society repository" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://purl.org/dc/terms/title> "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <https://schema.org/url> <https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> <http://purl.org/dc/terms/publisher> "Psychological Science, 25(8) (Grossmann & Kross, 2014), PubMed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> <http://purl.org/dc/terms/title> "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2> <https://schema.org/url> <https://pubmed.ncbi.nlm.nih.gov/24916084/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> <http://purl.org/dc/terms/publisher> "Psychological Science, 29(11), 1797–1806 (Eskreis-Winkler, Fishbach & Duckworth, 2018), PubMed Central" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> <http://purl.org/dc/terms/title> "Dear Abby: Should I give advice or receive it?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC6728546> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> <http://purl.org/dc/terms/publisher> "Communication Studies, 68(4), 476–492 (Van Swol, MacGeorge & Prahl, 2017), Penn State research portal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> <http://purl.org/dc/terms/title> "Advise with permission? The effects of advice solicitation on advice outcomes" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4> <https://schema.org/url> <https://pure.psu.edu/en/publications/advise-with-permission-the-effects-of-advice-solicitation-on-advi/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (on Garvin & Margolis, \"The Art of Giving and Receiving Advice\", Harvard Business Review, 2015)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> <http://purl.org/dc/terms/title> "Advice on Advice" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5> <https://schema.org/url> <https://www.library.hbs.edu/working-knowledge/advice-on-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> <http://purl.org/dc/terms/publisher> "Standard Ebooks" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> <http://purl.org/dc/terms/title> "The Analects, Book XII (translated by James Legge)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6> <https://schema.org/url> <https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-12> .
 <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1> <http://purl.org/dc/terms/title> "Golden Rule" .

@@ -125,6 +125,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:equanimity` | mixed |  |
 | `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 | `wg:folly` | mixed |  |
+| `wg:giving-advice` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:grief-and-loss` | mixed |  |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
@@ -133,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implementation-intentions` | mixed |  |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
-| `wg:interpersonal-conflict` | mixed |  |
 
-…and 33 more.
+…and 34 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:adversity` | wgo:Context |
 | `wg:death-awareness` | wgo:Concept |
+| `wg:giving-advice` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |

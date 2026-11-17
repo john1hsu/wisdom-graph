@@ -1612,6 +1612,54 @@
    "schema:text": "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Did the person actually ask for my advice, or am I volunteering it?",
+   "wgo:questionFor": {
+    "@id": "wg:giving-advice"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do I understand their situation and constraints, or am I answering the problem I once had?",
+   "wgo:questionFor": {
+    "@id": "wg:giving-advice"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I explained my reasoning, so they can judge it rather than just obey it?",
+   "wgo:questionFor": {
+    "@id": "wg:giving-advice"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I giving this advice for their sake, or because being the one who knows feels good?",
+   "wgo:questionFor": {
+    "@id": "wg:giving-advice"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If they decide differently, can I let it go?",
+   "wgo:questionFor": {
+    "@id": "wg:giving-advice"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Congratulations. Before I say what I think, what's making you hesitate? … It sounds as if the worry is managing two close friends. I'm not you, so take this as one view: when I faced that, what helped was talking to them early. Who else knows this team well that you could ask?",
+   "wgo:before": "Take it. I did exactly the same thing and it was the best move I ever made. You'll regret it forever if you say no.",
+   "wgo:situation": "A colleague stops by your desk and says she has been offered a promotion to manage her current team, but isn't sure she wants it. You once took a similar step and loved it.",
+   "wgo:why": "The wiser response listens first, finds out what the real question is, offers a view as one perspective with its reasoning shown, and leaves the decision with the person who has to live with it."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "If our positions were reversed, would I accept being treated the way I'm about to treat this person?",
@@ -7378,6 +7426,90 @@
     "@id": "https://www.repository.cam.ac.uk/handle/1810/276660"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society repository",
+   "dcterms:title": "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Science, 25(8) (Grossmann & Kross, 2014), PubMed",
+   "dcterms:title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/24916084/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Science, 29(11), 1797–1806 (Eskreis-Winkler, Fishbach & Duckworth, 2018), PubMed Central",
+   "dcterms:title": "Dear Abby: Should I give advice or receive it?",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6728546"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Communication Studies, 68(4), 476–492 (Van Swol, MacGeorge & Prahl, 2017), Penn State research portal",
+   "dcterms:title": "Advise with permission? The effects of advice solicitation on advice outcomes",
+   "schema:url": {
+    "@id": "https://pure.psu.edu/en/publications/advise-with-permission-the-effects-of-advice-solicitation-on-advi/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Harvard Business School Working Knowledge (on Garvin & Margolis, \"The Art of Giving and Receiving Advice\", Harvard Business Review, 2015)",
+   "dcterms:title": "Advice on Advice",
+   "schema:url": {
+    "@id": "https://www.library.hbs.edu/working-knowledge/advice-on-advice"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Standard Ebooks",
+   "dcterms:title": "The Analects, Book XII (translated by James Legge)",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-12"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/golden-rule/s1",
@@ -17802,6 +17934,112 @@
      "@id": "wg:loving-kindness-positive-emotions-meta-analysis"
     }
    ]
+  },
+  {
+   "@id": "wg:giving-advice",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s6"
+    }
+   ],
+   "rdfs:label": "Giving advice",
+   "skos:altLabel": [
+    "advice giving",
+    "advising others",
+    "being asked for advice",
+    "giving counsel",
+    "offering advice"
+   ],
+   "skos:broader": {
+    "@id": "wg:social-relationships"
+   },
+   "skos:definition": "The situation of being asked, or feeling moved, to tell someone else what they should do about a problem in their life or work — a test of wisdom that psychologists have used to measure it, and one where good intentions often go wrong.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Giving advice",
+   "skos:related": [
+    {
+     "@id": "wg:analects"
+    },
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:friendship"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:personal-and-general-wisdom"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:seeking-counsel"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:advice-solicitation-study"
+    },
+    {
+     "@id": "wg:dear-abby-advice-giving-study"
+    },
+    {
+     "@id": "wg:exploring-solomons-paradox-study"
+    },
+    {
+     "@id": "wg:interactive-minds-study"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:solomons-paradox"
+   },
+   "wgo:file": "articles/compassion-and-relationships/giving-advice.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   }
   },
   {
    "@id": "wg:golden-rule",

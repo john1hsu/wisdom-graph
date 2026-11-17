@@ -146,6 +146,23 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Giving advice](../articles/compassion-and-relationships/giving-advice.md) — Context
+
+*A colleague stops by your desk and says she has been offered a promotion to manage her current team, but isn't sure she wants it. You once took a similar step and loved it.*
+
+| Before | After |
+|---|---|
+| Take it. I did exactly the same thing and it was the best move I ever made. You'll regret it forever if you say no. | Congratulations. Before I say what I think, what's making you hesitate? … It sounds as if the worry is managing two close friends. I'm not you, so take this as one view: when I faced that, what helped was talking to them early. Who else knows this team well that you could ask? |
+
+**Why:** The wiser response listens first, finds out what the real question is, offers a view as one perspective with its reasoning shown, and leaves the decision with the person who has to live with it.
+
+Ask yourself:
+- Did the person actually ask for my advice, or am I volunteering it?
+- Do I understand their situation and constraints, or am I answering the problem I once had?
+- Have I explained my reasoning, so they can judge it rather than just obey it?
+- Am I giving this advice for their sake, or because being the one who knows feels good?
+- If they decide differently, can I let it go?
+
 ### [Golden Rule](../articles/compassion-and-relationships/golden-rule.md) — Principle
 
 *A manager wants to thank a quiet, highly reliable analyst for rescuing a delayed project.*
