@@ -3543,6 +3543,64 @@
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/habit-formation-real-world-study> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I doing the right thing gladly, grudgingly, or only because I would be embarrassed not to?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is my good impulse here being guided by judgment about this situation, or just by my usual temperament?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Would I act the same way if the setting changed, if I were rushed, unobserved or in a different mood?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Which of my virtues reliably show up at work but not at home, or the other way round?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "She asks what is actually blocking the work, offers a specific piece of help and a firm new date, and tells the downstream team plainly what has changed." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"Of course, take another week.\" She absorbs the extra work herself, the downstream team slips, and the colleague never hears that the pattern is a problem." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead is generous by temperament. When a struggling colleague asks for a second extension on a deliverable that other people are waiting on, she feels the familiar pull to say yes again." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Kindness of temperament is what Aristotle would call natural virtue: a good starting point that can still misfire. It becomes a full virtue only when practical wisdom aims it at what genuinely helps everyone involved, at the right time and in the right way." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2000/01/rdf-schema#label> "Moral virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "character virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "ethical virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "ethike arete" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "virtues of character" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "ēthikē aretē" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#definition> "Settled excellences of character, such as courage, temperance, generosity, justice and truthfulness, that dispose a person to feel and act well. Aristotle distinguished them from the intellectual virtues: they are acquired by habit rather than by teaching, and in their full form they cannot exist without practical wisdom." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moral virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/via-character-strengths> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/situationism> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/moral-virtues.md" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/whole-trait-theory> .
 <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
 <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> <http://www.w3.org/2000/01/rdf-schema#label> "Morton Deutsch" .
@@ -7403,6 +7461,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s7> <https://schema.org/url> <https://plato.stanford.edu/entries/xunzi/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book II, trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VI, trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Richard Kraut)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> <http://purl.org/dc/terms/title> "Aristotle's Ethics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3> <https://schema.org/url> <https://plato.stanford.edu/entries/aristotle-ethics/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Christian B. Miller)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> <http://purl.org/dc/terms/title> "Empirical Approaches to Moral Character" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4> <https://schema.org/url> <https://plato.stanford.edu/entries/moral-character-empirical/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Rosalind Hursthouse and Glen Pettigrove)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> <http://purl.org/dc/terms/title> "Virtue Ethics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5> <https://schema.org/url> <https://plato.stanford.edu/entries/ethics-virtue/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 14, 1232637 (doi:10.3389/fpsyg.2023.1232637)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> <http://purl.org/dc/terms/title> "Is the concept of personality capacious enough to incorporate virtues? (Fowers, Novak, Kiknadze & Selim, 2023)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6> <https://schema.org/url> <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1232637/pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1> <http://purl.org/dc/terms/publisher> "Peter T. Coleman, American Psychologist (January 2018), reprinted by Teachers College, Columbia University" .
 <https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1> <http://purl.org/dc/terms/title> "Morton Deutsch (1920–2017)" .

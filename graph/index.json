@@ -6807,6 +6807,137 @@
   ]
  },
  {
+  "id": "wg:moral-virtues",
+  "title": "Moral virtues",
+  "aliases": [
+   "virtues of character",
+   "ethical virtues",
+   "character virtues",
+   "ethike arete",
+   "ēthikē aretē"
+  ],
+  "type": "Concept",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/moral-virtues.md",
+  "created": "2026-11-17",
+  "summary": "Settled excellences of character, such as courage, temperance, generosity, justice and truthfulness, that dispose a person to feel and act well. Aristotle distinguished them from the intellectual virtues: they are acquired by habit rather than by teaching, and in their full form they cannot exist without practical wisdom.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:temperance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:theoretical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:via-character-strengths"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:nicomachean-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:intellectual-virtues",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:practical-wisdom",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:situationism",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:whole-trait-theory",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I doing the right thing gladly, grudgingly, or only because I would be embarrassed not to?",
+   "Is my good impulse here being guided by judgment about this situation, or just by my usual temperament?",
+   "Would I act the same way if the setting changed, if I were rushed, unobserved or in a different mood?",
+   "Which of my virtues reliably show up at work but not at home, or the other way round?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead is generous by temperament. When a struggling colleague asks for a second extension on a deliverable that other people are waiting on, she feels the familiar pull to say yes again.",
+   "before": "\"Of course, take another week.\" She absorbs the extra work herself, the downstream team slips, and the colleague never hears that the pattern is a problem.",
+   "after": "She asks what is actually blocking the work, offers a specific piece of help and a firm new date, and tells the downstream team plainly what has changed.",
+   "why": "Kindness of temperament is what Aristotle would call natural virtue: a good starting point that can still misfire. It becomes a full virtue only when practical wisdom aims it at what genuinely helps everyone involved, at the right time and in the right way."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html",
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://plato.stanford.edu/entries/aristotle-ethics/",
+   "https://plato.stanford.edu/entries/moral-character-empirical/",
+   "https://plato.stanford.edu/entries/ethics-virtue/",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1232637/pdf"
+  ]
+ },
+ {
   "id": "wg:morton-deutsch",
   "title": "Morton Deutsch",
   "aliases": [

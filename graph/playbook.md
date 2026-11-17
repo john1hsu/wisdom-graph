@@ -1176,6 +1176,22 @@ Ask yourself:
 - Does this kind of action feel easier or more satisfying than it did a month ago, and if not, is the step the right size?
 - Am I sliding past the mean into the opposite fault, such as rashness instead of courage?
 
+### [Moral virtues](../articles/virtues-and-character/moral-virtues.md) — Concept
+
+*A team lead is generous by temperament. When a struggling colleague asks for a second extension on a deliverable that other people are waiting on, she feels the familiar pull to say yes again.*
+
+| Before | After |
+|---|---|
+| "Of course, take another week." She absorbs the extra work herself, the downstream team slips, and the colleague never hears that the pattern is a problem. | She asks what is actually blocking the work, offers a specific piece of help and a firm new date, and tells the downstream team plainly what has changed. |
+
+**Why:** Kindness of temperament is what Aristotle would call natural virtue: a good starting point that can still misfire. It becomes a full virtue only when practical wisdom aims it at what genuinely helps everyone involved, at the right time and in the right way.
+
+Ask yourself:
+- Am I doing the right thing gladly, grudgingly, or only because I would be embarrassed not to?
+- Is my good impulse here being guided by judgment about this situation, or just by my usual temperament?
+- Would I act the same way if the setting changed, if I were rushed, unobserved or in a different mood?
+- Which of my virtues reliably show up at work but not at home, or the other way round?
+
 ### [Temperance](../articles/virtues-and-character/temperance.md) — Virtue
 
 *The night before you present to a client, your team takes them to dinner with an open bar. Colleagues are ordering round after round.*

@@ -3139,6 +3139,46 @@
    "schema:text": "Check periodically with someone whose judgment you trust whether you are hitting the mean or drifting toward its excess, such as rashness or rigidity."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I doing the right thing gladly, grudgingly, or only because I would be embarrassed not to?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my good impulse here being guided by judgment about this situation, or just by my usual temperament?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I act the same way if the setting changed, if I were rushed, unobserved or in a different mood?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-virtues/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which of my virtues reliably show up at work but not at home, or the other way round?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "She asks what is actually blocking the work, offers a specific piece of help and a firm new date, and tells the downstream team plainly what has changed.",
+   "wgo:before": "\"Of course, take another week.\" She absorbs the extra work herself, the downstream team slips, and the colleague never hears that the pattern is a problem.",
+   "wgo:situation": "A team lead is generous by temperament. When a struggling colleague asks for a second extension on a deliverable that other people are waiting on, she feels the familiar pull to say yes again.",
+   "wgo:why": "Kindness of temperament is what Aristotle would call natural virtue: a good starting point that can still misfire. It becomes a full virtue only when practical wisdom aims it at what genuinely helps everyone involved, at the right time and in the right way."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/negative-visualization/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I rehearsing a possible loss in order to prepare and appreciate, or am I just worrying?",
@@ -9872,6 +9912,90 @@
     "@id": "https://plato.stanford.edu/entries/xunzi/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book II, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Christian B. Miller)",
+   "dcterms:title": "Empirical Approaches to Moral Character",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/moral-character-empirical/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Rosalind Hursthouse and Glen Pettigrove)",
+   "dcterms:title": "Virtue Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/ethics-virtue/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 14, 1232637 (doi:10.3389/fpsyg.2023.1232637)",
+   "dcterms:title": "Is the concept of personality capacious enough to incorporate virtues? (Fowers, Novak, Kiknadze & Selim, 2023)",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1232637/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/morton-deutsch/s1",
@@ -20337,6 +20461,113 @@
    ],
    "wgo:supportedBy": {
     "@id": "wg:habit-formation-real-world-study"
+   }
+  },
+  {
+   "@id": "wg:moral-virtues",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-virtues/s6"
+    }
+   ],
+   "rdfs:label": "Moral virtues",
+   "skos:altLabel": [
+    "ēthikē aretē",
+    "character virtues",
+    "ethical virtues",
+    "ethike arete",
+    "virtues of character"
+   ],
+   "skos:broader": {
+    "@id": "wg:virtue-ethics"
+   },
+   "skos:definition": "Settled excellences of character, such as courage, temperance, generosity, justice and truthfulness, that dispose a person to feel and act well. Aristotle distinguished them from the intellectual virtues: they are acquired by habit rather than by teaching, and in their full form they cannot exist without practical wisdom.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Moral virtues",
+   "skos:related": [
+    {
+     "@id": "wg:cardinal-virtues"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:intellectual-virtues"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:temperance"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    },
+    {
+     "@id": "wg:via-character-strengths"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:situationism"
+   },
+   "wgo:complements": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:intellectual-virtues"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-virtues/example"
+   },
+   "wgo:file": "articles/virtues-and-character/moral-virtues.md",
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:whole-trait-theory"
    }
   },
   {

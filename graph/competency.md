@@ -172,6 +172,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:emulating-moral-exemplars` |
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
 | `wg:aristotelian-virtue-ethics` | `wg:moral-habituation` |
+| `wg:aristotelian-virtue-ethics` | `wg:moral-virtues` |
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:temperance` |
 | `wg:aristotelian-virtue-ethics` | `wg:theoretical-wisdom` |
@@ -195,9 +196,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:moral-habituation` |
 | `wg:daoism` | `wg:contentment` |
 | `wg:daoism` | `wg:humble-leadership` |
-| `wg:epicureanism` | `wg:classification-of-desires` |
 
-…and 19 more.
+…and 20 more.
 
 ## The doctrine of the mean
 
