@@ -5042,6 +5042,76 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Digital Egypt for Universities, University College London",
+   "dcterms:title": "The Teaching of Ptahhotep (transliteration and translation, after Papyrus Prisse)",
+   "schema:url": {
+    "@id": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ptahhotep.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "UCLA Encyclopedia of Egyptology, 1(1), version 2, 2024 (Lazaridis), eScholarship, University of California",
+   "dcterms:title": "Ethics",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt9q57q53s/qt9q57q53s.pdf?t=slwee8"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Rhetorica, 1(1), 10–22 (Fox, 1983)",
+   "dcterms:title": "Ancient Egyptian Rhetoric",
+   "schema:url": {
+    "@id": "https://www.publicaddressannouncer.org/wp-content/uploads/2019/08/Rhetorica.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bulletin of the Faculty of Arts, Alexandria University (Merzeban), Egyptian Knowledge Bank journals",
+   "dcterms:title": "The virtue of listening in ancient Egypt",
+   "schema:url": {
+    "@id": "https://bfalex.journals.ekb.eg/article_154193_813f9521a58c6d5fbd56f4426d42da04.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "The Instruction of Amenemope",
+   "schema:url": {
+    "@id": "https://britannica.com/topic/The-Instruction-of-Amenemope"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -16067,6 +16137,100 @@
    "wgo:supportedBy": {
     "@id": "wg:amor-fati-emerging-adults-well-being-study"
    }
+  },
+  {
+   "@id": "wg:ancient-egyptian-wisdom-literature",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ancient-egyptian-wisdom-literature/s5"
+    }
+   ],
+   "rdfs:label": "Ancient Egyptian wisdom literature",
+   "skos:altLabel": [
+    "Egyptian instruction literature",
+    "Egyptian instructions",
+    "Egyptian wisdom texts",
+    "Teaching of Ptahhotep tradition",
+    "sebayt"
+   ],
+   "skos:broader": {
+    "@id": "wg:ancient-near-eastern-wisdom-literature"
+   },
+   "skos:definition": "The instruction texts (sebayt, \"teachings\") of ancient Egypt, such as the Teachings of Ptahhotep, Kagemni, Any and Amenemope, in which a famous sage, usually a father addressing his son, gives maxims on conduct. Their recurring lessons are to listen patiently, to speak little and at the right moment, to control one's temper, and not to be proud of what one knows.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Ancient Egyptian wisdom literature",
+   "skos:related": [
+    {
+     "@id": "wg:anger"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:hebrew-wisdom-literature"
+    },
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:instruction-of-amenemope"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:maat"
+    },
+    {
+     "@id": "wg:right-speech"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/ancient-egyptian-wisdom-literature.md",
+   "wgo:influenced": {
+    "@id": "wg:hebrew-wisdom-literature"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:egyptology"
+   },
+   "wgo:teaches": [
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:self-control"
+    }
+   ]
   },
   {
    "@id": "wg:aristotle",

@@ -143,7 +143,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:giving-advice` | wgo:Context |
+| `wg:ancient-egyptian-wisdom-literature` | wgo:Tradition |
 | `wg:greed` | wgo:Vice |
 | `wg:hebrew-wisdom-literature` | wgo:Tradition |
 | `wg:major-life-decision` | wgo:Context |
@@ -170,6 +170,9 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 
 | tradition | teaching |
 |---|---|
+| `wg:ancient-egyptian-wisdom-literature` | `wg:giving-advice` |
+| `wg:ancient-egyptian-wisdom-literature` | `wg:intellectual-humility` |
+| `wg:ancient-egyptian-wisdom-literature` | `wg:self-control` |
 | `wg:aristotelian-virtue-ethics` | `wg:courage` |
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
@@ -197,11 +200,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:courage` |
 | `wg:confucianism` | `wg:evening-review` |
 | `wg:confucianism` | `wg:golden-rule` |
-| `wg:confucianism` | `wg:intellectual-humility` |
-| `wg:confucianism` | `wg:moral-habituation` |
-| `wg:daoism` | `wg:contentment` |
 
-…and 25 more.
+…and 28 more.
 
 ## The doctrine of the mean
 

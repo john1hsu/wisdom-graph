@@ -474,6 +474,110 @@
   ]
  },
  {
+  "id": "wg:ancient-egyptian-wisdom-literature",
+  "title": "Ancient Egyptian wisdom literature",
+  "aliases": [
+   "Egyptian instruction literature",
+   "sebayt",
+   "Egyptian instructions",
+   "Egyptian wisdom texts",
+   "Teaching of Ptahhotep tradition"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/ancient-egyptian-wisdom-literature.md",
+  "created": "2026-11-17",
+  "summary": "The instruction texts (sebayt, \"teachings\") of ancient Egypt, such as the Teachings of Ptahhotep, Kagemni, Any and Amenemope, in which a famous sage, usually a father addressing his son, gives maxims on conduct. Their recurring lessons are to listen patiently, to speak little and at the right moment, to control one's temper, and not to be proud of what one knows.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:ancient-near-eastern-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hebrew-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:instruction-of-amenemope"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:leading-others"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:maat"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:right-speech"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:confucianism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:anger"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humility"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:giving-advice",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:intellectual-humility",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:self-control",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influenced",
+    "object": "wg:hebrew-wisdom-literature",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:egyptology",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ptahhotep.html",
+   "https://escholarship.org/content/qt9q57q53s/qt9q57q53s.pdf?t=slwee8",
+   "https://www.publicaddressannouncer.org/wp-content/uploads/2019/08/Rhetorica.pdf",
+   "https://bfalex.journals.ekb.eg/article_154193_813f9521a58c6d5fbd56f4426d42da04.pdf",
+   "https://britannica.com/topic/The-Instruction-of-Amenemope"
+  ]
+ },
+ {
   "id": "wg:aristotle",
   "title": "Aristotle",
   "aliases": [
