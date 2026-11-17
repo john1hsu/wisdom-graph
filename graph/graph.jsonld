@@ -13401,6 +13401,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Research in Organizational Behavior 31, 3-23 (Elsevier; doi:10.1016/j.riob.2011.09.001); author copy, Swarthmore College",
+   "dcterms:title": "Practical wisdom and organizations (Schwartz, 2011)",
+   "schema:url": {
+    "@id": "https://www.swarthmore.edu/sites/default/files/assets/documents/user_profiles/bschwar1/Schwartz%20ROB.2011-PracWisOrganizations.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book V (trans. W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.5.v.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Legal Studies 29(1), 1-17 (University of Chicago Press); author copy, UC San Diego Rady School of Management",
+   "dcterms:title": "A fine is a price (Gneezy & Rustichini, 2000)",
+   "schema:url": {
+    "@id": "https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/fine.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Economic Perspectives 25(4), 191-210 (doi:10.1257/jep.25.4.191); author copy, UC San Diego Rady School of Management",
+   "dcterms:title": "When and why incentives (don't) work to modify behavior (Gneezy, Meier & Rey-Biel, 2011)",
+   "schema:url": {
+    "@id": "https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/jep_published.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Health Care Analysis 28(2), 158-175 (Springer; doi:10.1007/s10728-020-00398-7); University of Birmingham repository",
+   "dcterms:title": "Phronesis in medical ethics: Courage and motivation to keep on the track of rightness in decision-making (Malik, Conroy & Turner, 2020)",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/95828376/Malik_et_al_Phronesis_in_medical_ethics_Health_Care_Analysis_2020.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New England Journal of Medicine 360(5), 491-499 (doi:10.1056/NEJMsa0810119); Harvard DASH repository",
+   "dcterms:title": "A surgical safety checklist to reduce morbidity and mortality in a global population (Haynes et al., 2009)",
+   "schema:url": {
+    "@id": "https://dash.harvard.edu/server/api/core/bitstreams/c5287a52-75bc-4131-9262-4c598fcde8cc/content"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -13970,6 +14054,54 @@
    "wgo:before": "\"I'll just clear these quickly so my head is free, then start the report.\" By lunch the report is untouched, and you tell yourself that answering email was the responsible choice after all.",
    "wgo:situation": "You decided on Sunday, for good reasons, to finish a grant report before answering the week's routine email. On Monday morning the inbox shows forty unread messages.",
    "wgo:why": "The first response quietly rewrites a sound resolution at the moment temptation is strongest. The second decides in advance when and where the better judgment will be acted on, and removes the cue that would trigger the lapse."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What is this job for, and would the people it serves recognise what I am about to do as serving that purpose?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-in-professions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this a case the rule was written for, or one its authors did not foresee?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-in-professions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I departing from the protocol because the case demands it, or because it is inconvenient or I am overconfident?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-in-professions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I doing this because it is right for the person in front of me, or because it moves the number I am paid on?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-in-professions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who could I talk this case through with before acting, and will I report the misfit so the rule can improve?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-in-professions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Take the extra few minutes to understand what went wrong, explain it in plain terms, and fix or escalate it properly; afterwards, tell my team lead the script failed this case and suggest how to change it.",
+   "wgo:before": "Read the scripted answer, open a ticket, and end the call inside the six-minute target. The metric is what my review looks at.",
+   "wgo:situation": "A customer-support agent is measured on call length. A distressed caller has been wrongly billed for months and is clearly confused by the standard explanation the script provides.",
+   "wgo:why": "The script and the target exist to serve customers, so following them against that purpose gets the letter right and the job wrong. The wiser agent also treats the misfit as information for the system, rather than quietly working around it every time."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/check/1",
@@ -23978,6 +24110,118 @@
    "wgo:supportedBy": {
     "@id": "wg:expert-consensus-on-wisdom-study"
    }
+  },
+  {
+   "@id": "wg:wisdom-in-professions",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6"
+    }
+   ],
+   "rdfs:label": "Wisdom in the professions",
+   "skos:altLabel": [
+    "practical wisdom in professional practice",
+    "professional discretion",
+    "professional wisdom",
+    "rules versus judgment at work"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:professional-work"
+    }
+   ],
+   "skos:definition": "The situation of a doctor, teacher, lawyer, nurse, manager or any other worker whose job serves other people and regularly presents cases that rules, scripts, targets and incentives do not fit, so that doing the work well depends on judging what this case calls for and wanting to serve the purpose the job exists for.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Wisdom in the professions",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:emulating-moral-exemplars"
+    },
+    {
+     "@id": "wg:kill-criteria"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:stewardship"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:a-fine-is-a-price-study"
+    },
+    {
+     "@id": "wg:surgical-safety-checklist-study"
+    }
+   ],
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:motivation-crowding-out"
+   },
+   "wgo:file": "articles/wisdom-at-work/wisdom-in-professions.md",
+   "wgo:introducedBy": {
+    "@id": "wg:barry-schwartz"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:studiedIn": [
+    {
+     "@id": "wg:medical-ethics"
+    },
+    {
+     "@id": "wg:organizational-behavior"
+    }
+   ]
   },
   {
    "@id": "wg:wise-leadership",

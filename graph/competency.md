@@ -18,7 +18,9 @@ _No results._
 
 _Which written life situations have no practice, principle, skill or virtue applied in them?_ — `queries/03-situations-without-guidance.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:wisdom-in-professions` | wgo:Context |
 
 ## Highest-leverage practices and teachings
 
@@ -135,7 +137,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:interpersonal-conflict` | mixed |  |
 | `wg:kill-criteria` | mixed |  |
 
-…and 31 more.
+…and 32 more.
 
 ## Ideas with no recorded origin (gap)
 

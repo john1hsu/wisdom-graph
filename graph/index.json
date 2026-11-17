@@ -11258,6 +11258,135 @@
   ]
  },
  {
+  "id": "wg:wisdom-in-professions",
+  "title": "Wisdom in the professions",
+  "aliases": [
+   "professional wisdom",
+   "professional discretion",
+   "practical wisdom in professional practice",
+   "rules versus judgment at work"
+  ],
+  "type": "Context",
+  "domain": "wisdom-at-work",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/wisdom-in-professions.md",
+  "created": "2026-11-17",
+  "summary": "The situation of a doctor, teacher, lawyer, nurse, manager or any other worker whose job serves other people and regularly presents cases that rules, scripts, targets and incentives do not fit, so that doing the work well depends on judging what this case calls for and wanting to serve the purpose the job exists for.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:professional-work"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:leading-others"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stewardship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emulating-moral-exemplars"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:kill-criteria"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:barry-schwartz",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:motivation-crowding-out",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:a-fine-is-a-price-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:surgical-safety-checklist-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:organizational-behavior",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:medical-ethics",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "What is this job for, and would the people it serves recognise what I am about to do as serving that purpose?",
+   "Is this a case the rule was written for, or one its authors did not foresee?",
+   "Am I departing from the protocol because the case demands it, or because it is inconvenient or I am overconfident?",
+   "Am I doing this because it is right for the person in front of me, or because it moves the number I am paid on?",
+   "Who could I talk this case through with before acting, and will I report the misfit so the rule can improve?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A customer-support agent is measured on call length. A distressed caller has been wrongly billed for months and is clearly confused by the standard explanation the script provides.",
+   "before": "Read the scripted answer, open a ticket, and end the call inside the six-minute target. The metric is what my review looks at.",
+   "after": "Take the extra few minutes to understand what went wrong, explain it in plain terms, and fix or escalate it properly; afterwards, tell my team lead the script failed this case and suggest how to change it.",
+   "why": "The script and the target exist to serve customers, so following them against that purpose gets the letter right and the job wrong. The wiser agent also treats the misfit as information for the system, rather than quietly working around it every time."
+  },
+  "source_urls": [
+   "https://www.swarthmore.edu/sites/default/files/assets/documents/user_profiles/bschwar1/Schwartz%20ROB.2011-PracWisOrganizations.pdf",
+   "https://classics.mit.edu/Aristotle/nicomachaen.5.v.html",
+   "https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/fine.pdf",
+   "https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/jep_published.pdf",
+   "https://research.birmingham.ac.uk/files/95828376/Malik_et_al_Phronesis_in_medical_ethics_Health_Care_Analysis_2020.pdf",
+   "https://dash.harvard.edu/server/api/core/bitstreams/c5287a52-75bc-4131-9262-4c598fcde8cc/content"
+  ]
+ },
+ {
   "id": "wg:wise-leadership",
   "title": "Wise leadership",
   "aliases": [

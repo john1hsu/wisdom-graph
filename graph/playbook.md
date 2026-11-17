@@ -1329,6 +1329,23 @@ Ask yourself:
 - Am I taking responsibility for this outcome, or quietly protecting my own record?
 - Am I calling it stewardship when I am really keeping control that others should share?
 
+### [Wisdom in the professions](../articles/wisdom-at-work/wisdom-in-professions.md) — Context
+
+*A customer-support agent is measured on call length. A distressed caller has been wrongly billed for months and is clearly confused by the standard explanation the script provides.*
+
+| Before | After |
+|---|---|
+| Read the scripted answer, open a ticket, and end the call inside the six-minute target. The metric is what my review looks at. | Take the extra few minutes to understand what went wrong, explain it in plain terms, and fix or escalate it properly; afterwards, tell my team lead the script failed this case and suggest how to change it. |
+
+**Why:** The script and the target exist to serve customers, so following them against that purpose gets the letter right and the job wrong. The wiser agent also treats the misfit as information for the system, rather than quietly working around it every time.
+
+Ask yourself:
+- What is this job for, and would the people it serves recognise what I am about to do as serving that purpose?
+- Is this a case the rule was written for, or one its authors did not foresee?
+- Am I departing from the protocol because the case demands it, or because it is inconvenient or I am overconfident?
+- Am I doing this because it is right for the person in front of me, or because it moves the number I am paid on?
+- Who could I talk this case through with before acting, and will I report the misfit so the rule can improve?
+
 ### [Wise leadership](../articles/wisdom-at-work/wise-leadership.md) — Concept
 
 *A team lead is told to ship a feature by Friday to hit a quarterly target; testing has found that it occasionally shows one customer's order history to another.*

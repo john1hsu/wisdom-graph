@@ -894,6 +894,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/wisdom-in-professions.md" .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/wise-leadership.md" .
@@ -10210,6 +10219,105 @@
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/death-legacies-and-intergenerational-decisions-study> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> <http://purl.org/dc/terms/publisher> "Research in Organizational Behavior 31, 3-23 (Elsevier; doi:10.1016/j.riob.2011.09.001); author copy, Swarthmore College" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> <http://purl.org/dc/terms/title> "Practical wisdom and organizations (Schwartz, 2011)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> <https://schema.org/url> <https://www.swarthmore.edu/sites/default/files/assets/documents/user_profiles/bschwar1/Schwartz%20ROB.2011-PracWisOrganizations.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book V (trans. W. D. Ross)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.5.v.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> <http://purl.org/dc/terms/publisher> "Journal of Legal Studies 29(1), 1-17 (University of Chicago Press); author copy, UC San Diego Rady School of Management" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> <http://purl.org/dc/terms/title> "A fine is a price (Gneezy & Rustichini, 2000)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> <https://schema.org/url> <https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/fine.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 25(4), 191-210 (doi:10.1257/jep.25.4.191); author copy, UC San Diego Rady School of Management" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> <http://purl.org/dc/terms/title> "When and why incentives (don't) work to modify behavior (Gneezy, Meier & Rey-Biel, 2011)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> <https://schema.org/url> <https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/jep_published.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> <http://purl.org/dc/terms/publisher> "Health Care Analysis 28(2), 158-175 (Springer; doi:10.1007/s10728-020-00398-7); University of Birmingham repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> <http://purl.org/dc/terms/title> "Phronesis in medical ethics: Courage and motivation to keep on the track of rightness in decision-making (Malik, Conroy & Turner, 2020)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> <https://schema.org/url> <https://research.birmingham.ac.uk/files/95828376/Malik_et_al_Phronesis_in_medical_ethics_Health_Care_Analysis_2020.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> <http://purl.org/dc/terms/publisher> "New England Journal of Medicine 360(5), 491-499 (doi:10.1056/NEJMsa0810119); Harvard DASH repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> <http://purl.org/dc/terms/title> "A surgical safety checklist to reduce morbidity and mortality in a global population (Haynes et al., 2009)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> <https://schema.org/url> <https://dash.harvard.edu/server/api/core/bitstreams/c5287a52-75bc-4131-9262-4c598fcde8cc/content> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What is this job for, and would the people it serves recognise what I am about to do as serving that purpose?" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is this a case the rule was written for, or one its authors did not foresee?" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I departing from the protocol because the case demands it, or because it is inconvenient or I am overconfident?" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I doing this because it is right for the person in front of me, or because it moves the number I am paid on?" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Who could I talk this case through with before acting, and will I report the misfit so the rule can improve?" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Take the extra few minutes to understand what went wrong, explain it in plain terms, and fix or escalate it properly; afterwards, tell my team lead the script failed this case and suggest how to change it." .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Read the scripted answer, open a ticket, and end the call inside the six-minute target. The metric is what my review looks at." .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A customer-support agent is measured on call length. A distressed caller has been wrongly billed for months and is clearly confused by the standard explanation the script provides." .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The script and the target exist to serve customers, so following them against that purpose gets the letter right and the job wrong. The wiser agent also treats the misfit as information for the system, rather than quietly working around it every time." .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2000/01/rdf-schema#label> "Wisdom in the professions" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#altLabel> "practical wisdom in professional practice" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#altLabel> "professional discretion" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#altLabel> "professional wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#altLabel> "rules versus judgment at work" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#definition> "The situation of a doctor, teacher, lawyer, nurse, manager or any other worker whose job serves other people and regularly presents cases that rules, scripts, targets and incentives do not fit, so that doing the work well depends on judging what this case calls for and wanting to serve the purpose the job exists for." .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wisdom in the professions" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/a-fine-is-a-price-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/surgical-safety-checklist-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/motivation-crowding-out> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/wisdom-in-professions.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/barry-schwartz> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/organizational-behavior> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/wise-leadership#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/source/wise-leadership/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 62(1), 34–42 (Sternberg, 2007), listed by the Chicago Center for Practical Wisdom, University of Chicago" .
@@ -11086,6 +11194,9 @@
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/inferred> {
+  <https://github.com/john1hsu/wisdom-graph/id/a-fine-is-a-price-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/a-fine-is-a-price-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/a-fine-is-a-price-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance-and-commitment-therapy> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
@@ -11151,6 +11262,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
+  <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/after-event-reviews-leadership-development-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/after-event-reviews-leadership-development-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/after-event-reviews-leadership-development-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
@@ -11257,6 +11369,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/barry-schwartz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/barry-schwartz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/barry-schwartz> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/becoming-a-manager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/becoming-a-manager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/becoming-a-manager> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
@@ -11547,6 +11662,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/cowardice> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/cowardice> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
@@ -11609,6 +11725,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
@@ -11763,6 +11880,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-education> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+  <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
@@ -12242,6 +12360,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -12308,6 +12427,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+  <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/know-thyself/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -12357,6 +12477,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
@@ -12466,6 +12587,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-of-life> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -12534,6 +12658,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-principles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-principles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -12559,6 +12684,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/mortality-salience> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-psychologists> .
+  <https://github.com/john1hsu/wisdom-graph/id/motivation-crowding-out> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/motoori-norinaga> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
@@ -12718,6 +12844,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
@@ -12727,6 +12854,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
@@ -12748,6 +12876,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -12774,7 +12903,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/prolonged-grief-disorder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/prolonged-grief-disorder> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
@@ -13020,6 +13151,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -13272,6 +13404,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
@@ -13305,6 +13438,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/stress-appraisal-and-coping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/stress-appraisal-and-coping> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/suppression-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/surgical-safety-checklist-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/surgical-safety-checklist-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/surgical-safety-checklist-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> .
   <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
@@ -13509,6 +13645,18 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-value-orientations-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-can-be-taught-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-components-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
@@ -13545,6 +13693,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -13573,6 +13722,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-organizations-and-well-being-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
