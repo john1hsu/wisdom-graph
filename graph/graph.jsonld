@@ -1644,6 +1644,46 @@
    "schema:text": "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I giving this freely, or to be seen as generous, to be owed something or to avoid saying no?",
+   "wgo:questionFor": {
+    "@id": "wg:generosity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this the right amount and the right moment, given what I can afford and what I have already promised others?",
+   "wgo:questionFor": {
+    "@id": "wg:generosity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this gift actually help the person, or only make me feel helpful?",
+   "wgo:questionFor": {
+    "@id": "wg:generosity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When did I last give my time or attention to someone who could not repay me?",
+   "wgo:questionFor": {
+    "@id": "wg:generosity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "She blocks thirty minutes that afternoon, walks him through how she would structure the report, shares a template, and agrees a longer session once her deadline has passed. She keeps her commitment and he leaves able to do the next one himself.",
+   "wgo:before": "Either she drops her own work again and rewrites his report herself late into the night, missing her deadline and resenting him, or she snaps that she has no time and leaves him stuck.",
+   "wgo:situation": "A project lead is two days from her own deadline when a newer colleague asks, for the third time this week, for \"a quick hand\" with a client report he is struggling to structure.",
+   "wgo:why": "Generosity is giving the right thing, in the right amount, at the right time, without harming yourself or others; unlimited giving that sinks your own commitments and refusing all help are the two failures on either side, and teaching someone often gives more than doing the work for them."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Did the person actually ask for my advice, or am I volunteering it?",
@@ -8102,6 +8142,90 @@
     "@id": "https://www.repository.cam.ac.uk/handle/1810/276660"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book IV, Part 1 (liberality), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Buddhist Publication Society, The Wheel No. 367 (Access to Insight edition)",
+   "dcterms:title": "Dana: The Practice of Giving (introduction by Bhikkhu Bodhi)",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/lib/authors/various/wheel367.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "dhammatalks.org",
+   "dcterms:title": "Sappurisa Dana Sutta: A Person of Integrity's Gifts (AN 5.148), trans. Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://dhammatalks.org/suttas/AN/AN5_148.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Experimental Social Psychology, 76, 320–329 (Curry, Rowland, Van Lissa, Zlotowitz, McAlaney & Whitehouse, 2018; doi:10.1016/j.jesp.2018.02.014; Oxford Research Archive)",
+   "dcterms:title": "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor",
+   "schema:url": {
+    "@id": "https://ora.ox.ac.uk/objects/uuid:4701365b-5760-4ece-a390-857a5f7b3c0c/files/m636b48d703aae252c79789d85933935e"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "PLoS ONE, 17(9), e0272434 (Kim, Adams, Diaw, Celly, Nelson & Jung, 2022; doi:10.1371/journal.pone.0272434)",
+   "dcterms:title": "Prosocial spending encourages happiness: A replication of the only experiment reported in Dunn, Aknin, and Norton (2008)",
+   "schema:url": {
+    "@id": "https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0272434&type=printable"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley (2018)",
+   "dcterms:title": "The Science of Generosity (white paper prepared for the John Templeton Foundation, by Summer Allen)",
+   "schema:url": {
+    "@id": "https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Generosity-FINAL.pdf"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1",
@@ -19757,6 +19881,117 @@
      "@id": "wg:loving-kindness-positive-emotions-meta-analysis"
     }
    ]
+  },
+  {
+   "@id": "wg:generosity",
+   "@type": "wgo:Virtue",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6"
+    }
+   ],
+   "rdfs:label": "Generosity",
+   "skos:altLabel": [
+    "cāga",
+    "dāna",
+    "dana",
+    "eleutheriotēs",
+    "eleutheriotes",
+    "liberality",
+    "the virtue of giving"
+   ],
+   "skos:broader": {
+    "@id": "wg:moral-virtues"
+   },
+   "skos:definition": "The settled disposition to give good things (money, time, attention, help) freely, to the right people, in the right amount and at the right time, without harm to oneself or others; Aristotle placed it as a mean between prodigality and meanness, Buddhism makes giving the first of the perfections, and experiments find that giving modestly raises the giver's own well-being.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Generosity",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:four-immeasurables"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:prodigality"
+    },
+    {
+     "@id": "wg:simplicity"
+    },
+    {
+     "@id": "wg:ubuntu"
+    },
+    {
+     "@id": "wg:well-being"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:greed"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:prosocial-spending-replication-study"
+   },
+   "wgo:complements": {
+    "@id": "wg:gratitude"
+   },
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/generosity.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:ten-perfections"
+   },
+   "wgo:requires": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:aristotelian-virtue-ethics"
+    },
+    {
+     "@id": "wg:buddhism"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:acts-of-kindness-meta-analysis"
+   }
   },
   {
    "@id": "wg:giving-advice",

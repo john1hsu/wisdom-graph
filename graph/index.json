@@ -3982,6 +3982,139 @@
   ]
  },
  {
+  "id": "wg:generosity",
+  "title": "Generosity",
+  "aliases": [
+   "liberality",
+   "eleutheriotes",
+   "eleutheriotēs",
+   "dāna",
+   "dana",
+   "cāga",
+   "the virtue of giving"
+  ],
+  "type": "Virtue",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/generosity.md",
+  "created": "2026-11-17",
+  "summary": "The settled disposition to give good things (money, time, attention, help) freely, to the right people, in the right amount and at the right time, without harm to oneself or others; Aristotle placed it as a mean between prodigality and meanness, Buddhism makes giving the first of the perfections, and experiments find that giving modestly raises the giver's own well-being.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:simplicity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:four-immeasurables"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ubuntu"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:golden-rule"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:prodigality"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:well-being"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:greed",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:ten-perfections",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:acts-of-kindness-meta-analysis",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:prosocial-spending-replication-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:gratitude",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I giving this freely, or to be seen as generous, to be owed something or to avoid saying no?",
+   "Is this the right amount and the right moment, given what I can afford and what I have already promised others?",
+   "Does this gift actually help the person, or only make me feel helpful?",
+   "When did I last give my time or attention to someone who could not repay me?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A project lead is two days from her own deadline when a newer colleague asks, for the third time this week, for \"a quick hand\" with a client report he is struggling to structure.",
+   "before": "Either she drops her own work again and rewrites his report herself late into the night, missing her deadline and resenting him, or she snaps that she has no time and leaves him stuck.",
+   "after": "She blocks thirty minutes that afternoon, walks him through how she would structure the report, shares a template, and agrees a longer session once her deadline has passed. She keeps her commitment and he leaves able to do the next one himself.",
+   "why": "Generosity is giving the right thing, in the right amount, at the right time, without harming yourself or others; unlimited giving that sinks your own commitments and refusing all help are the two failures on either side, and teaching someone often gives more than doing the work for them."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html",
+   "https://accesstoinsight.org/lib/authors/various/wheel367.html",
+   "https://dhammatalks.org/suttas/AN/AN5_148.html",
+   "https://ora.ox.ac.uk/objects/uuid:4701365b-5760-4ece-a390-857a5f7b3c0c/files/m636b48d703aae252c79789d85933935e",
+   "https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0272434&type=printable",
+   "https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Generosity-FINAL.pdf"
+  ]
+ },
+ {
   "id": "wg:giving-advice",
   "title": "Giving advice",
   "aliases": [

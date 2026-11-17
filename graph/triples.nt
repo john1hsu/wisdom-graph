@@ -1984,6 +1984,66 @@
 <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
 <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-positive-emotions-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I giving this freely, or to be seen as generous, to be owed something or to avoid saying no?" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is this the right amount and the right moment, given what I can afford and what I have already promised others?" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Does this gift actually help the person, or only make me feel helpful?" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "When did I last give my time or attention to someone who could not repay me?" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "She blocks thirty minutes that afternoon, walks him through how she would structure the report, shares a template, and agrees a longer session once her deadline has passed. She keeps her commitment and he leaves able to do the next one himself." .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Either she drops her own work again and rewrites his report herself late into the night, missing her deadline and resenting him, or she snaps that she has no time and leaves him stuck." .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A project lead is two days from her own deadline when a newer colleague asks, for the third time this week, for \"a quick hand\" with a client report he is struggling to structure." .
+<https://github.com/john1hsu/wisdom-graph/id/generosity/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Generosity is giving the right thing, in the right amount, at the right time, without harming yourself or others; unlimited giving that sinks your own commitments and refusing all help are the two failures on either side, and teaching someone often gives more than doing the work for them." .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2000/01/rdf-schema#label> "Generosity" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "cāga" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "dana" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "dāna" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "eleutheriotes" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "eleutheriotēs" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "liberality" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "the virtue of giving" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#definition> "The settled disposition to give good things (money, time, attention, help) freely, to the right people, in the right amount and at the right time, without harm to oneself or others; Aristotle placed it as a mean between prodigality and meanness, Buddhism makes giving the first of the perfections, and experiments find that giving modestly raises the giver's own well-being." .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generosity" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/prodigality> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/prosocial-spending-replication-study> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/generosity/example> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/generosity.md" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/ten-perfections> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/generosity> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/acts-of-kindness-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Did the person actually ask for my advice, or am I volunteering it?" .
 <https://github.com/john1hsu/wisdom-graph/id/giving-advice/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
@@ -7175,6 +7235,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/four-immeasurables/s6> <https://schema.org/url> <https://www.repository.cam.ac.uk/handle/1810/276660> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book IV, Part 1 (liberality), trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> <http://purl.org/dc/terms/publisher> "Buddhist Publication Society, The Wheel No. 367 (Access to Insight edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> <http://purl.org/dc/terms/title> "Dana: The Practice of Giving (introduction by Bhikkhu Bodhi)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s2> <https://schema.org/url> <https://accesstoinsight.org/lib/authors/various/wheel367.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> <http://purl.org/dc/terms/publisher> "dhammatalks.org" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> <http://purl.org/dc/terms/title> "Sappurisa Dana Sutta: A Person of Integrity's Gifts (AN 5.148), trans. Thanissaro Bhikkhu" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s3> <https://schema.org/url> <https://dhammatalks.org/suttas/AN/AN5_148.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> <http://purl.org/dc/terms/publisher> "Journal of Experimental Social Psychology, 76, 320–329 (Curry, Rowland, Van Lissa, Zlotowitz, McAlaney & Whitehouse, 2018; doi:10.1016/j.jesp.2018.02.014; Oxford Research Archive)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> <http://purl.org/dc/terms/title> "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s4> <https://schema.org/url> <https://ora.ox.ac.uk/objects/uuid:4701365b-5760-4ece-a390-857a5f7b3c0c/files/m636b48d703aae252c79789d85933935e> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> <http://purl.org/dc/terms/publisher> "PLoS ONE, 17(9), e0272434 (Kim, Adams, Diaw, Celly, Nelson & Jung, 2022; doi:10.1371/journal.pone.0272434)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> <http://purl.org/dc/terms/title> "Prosocial spending encourages happiness: A replication of the only experiment reported in Dunn, Aknin, and Norton (2008)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s5> <https://schema.org/url> <https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0272434&type=printable> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, UC Berkeley (2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> <http://purl.org/dc/terms/title> "The Science of Generosity (white paper prepared for the John Templeton Foundation, by Summer Allen)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/generosity/s6> <https://schema.org/url> <https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Generosity-FINAL.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society repository" .
 <https://github.com/john1hsu/wisdom-graph/id/source/giving-advice/s1> <http://purl.org/dc/terms/title> "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" .

@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:generosity` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -57,7 +59,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
 | `wg:contentment` | 1 | Greed |
 
-…and 17 more.
+…and 18 more.
 
 ## Toolkit by life situation
 
@@ -125,6 +127,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:equanimity` | mixed |  |
 | `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 | `wg:folly` | mixed |  |
+| `wg:generosity` | mixed | `wg:prosocial-spending-replication-study` |
 | `wg:giving-advice` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:greed` | mixed |  |
@@ -133,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
-| `wg:implementation-intentions` | mixed |  |
 
-…and 44 more.
+…and 45 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -176,6 +178,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
 | `wg:aristotelian-virtue-ethics` | `wg:emulating-moral-exemplars` |
+| `wg:aristotelian-virtue-ethics` | `wg:generosity` |
 | `wg:aristotelian-virtue-ethics` | `wg:honesty` |
 | `wg:aristotelian-virtue-ethics` | `wg:intellectual-virtues` |
 | `wg:aristotelian-virtue-ethics` | `wg:moral-habituation` |
@@ -189,6 +192,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:equanimity` |
 | `wg:buddhism` | `wg:forgiveness` |
 | `wg:buddhism` | `wg:four-immeasurables` |
+| `wg:buddhism` | `wg:generosity` |
 | `wg:buddhism` | `wg:impermanence` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
@@ -197,10 +201,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:christianity` | `wg:stewardship` |
 | `wg:confucianism` | `wg:compassion` |
 | `wg:confucianism` | `wg:courage` |
-| `wg:confucianism` | `wg:evening-review` |
-| `wg:confucianism` | `wg:golden-rule` |
 
-…and 28 more.
+…and 30 more.
 
 ## The doctrine of the mean
 

@@ -146,6 +146,22 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Generosity](../articles/compassion-and-relationships/generosity.md) — Virtue
+
+*A project lead is two days from her own deadline when a newer colleague asks, for the third time this week, for "a quick hand" with a client report he is struggling to structure.*
+
+| Before | After |
+|---|---|
+| Either she drops her own work again and rewrites his report herself late into the night, missing her deadline and resenting him, or she snaps that she has no time and leaves him stuck. | She blocks thirty minutes that afternoon, walks him through how she would structure the report, shares a template, and agrees a longer session once her deadline has passed. She keeps her commitment and he leaves able to do the next one himself. |
+
+**Why:** Generosity is giving the right thing, in the right amount, at the right time, without harming yourself or others; unlimited giving that sinks your own commitments and refusing all help are the two failures on either side, and teaching someone often gives more than doing the work for them.
+
+Ask yourself:
+- Am I giving this freely, or to be seen as generous, to be owed something or to avoid saying no?
+- Is this the right amount and the right moment, given what I can afford and what I have already promised others?
+- Does this gift actually help the person, or only make me feel helpful?
+- When did I last give my time or attention to someone who could not repay me?
+
 ### [Giving advice](../articles/compassion-and-relationships/giving-advice.md) — Context
 
 *A colleague stops by your desk and says she has been offered a promotion to manage her current team, but isn't sure she wants it. You once took a similar step and loved it.*
