@@ -481,6 +481,57 @@
 <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/mahabharata> .
 <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I applying a saying or rule of thumb as if it fit every situation, or have I checked whether it fits this one?" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is my way of seeing this right only in my own eyes, and whose counsel have I actually asked?" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Will my words here calm the situation or stir up more anger?" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Will answering help the room see the facts, or just drag me into a shouting match? Here the claim will shape a decision, so I'll correct it briefly and calmly, with the data, and leave the rest for a private conversation." .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I always shut this kind of thing down on the spot, so I'll tear the claim apart in front of everyone, whatever it costs." .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "In a team meeting, a colleague confidently repeats a misleading claim about why a project failed and invites you to argue about it." .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Proverbs sets two opposite sayings about answering a fool side by side, which pushes the reader to judge each situation rather than apply one rule mechanically." .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2000/01/rdf-schema#label> "Book of Proverbs" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#altLabel> "Liber Proverbiorum" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#altLabel> "Mishle" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#altLabel> "Mishlei" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#altLabel> "Proverbs of Solomon" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#altLabel> "Proverbs" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#definition> "A book of the Hebrew Bible that gathers instructions, poems and short two-line sayings on how to live well, framed by the motto that the fear of the LORD is the beginning of knowledge. Traditionally credited to Solomon, it is an anthology of several collections assembled over centuries and is probably the oldest surviving work of Hebrew wisdom literature." .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#prefLabel> "Book of Proverbs" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humility> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/judaism> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-traditions" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-traditions/book-of-proverbs.md" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/hebrew-bible> .
+<https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/biblical-studies> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <http://www.w3.org/2000/01/rdf-schema#label> "Buddhism" .
@@ -6007,6 +6058,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/bhagavad-gita/s5> <https://schema.org/url> <https://data.zhenzhi.com/details/1/860964303> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> <http://purl.org/dc/terms/publisher> "Scottish Journal of Theology, Cambridge University Press (Matthew A. O'Kelly, University of Aberdeen, 2025)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> <http://purl.org/dc/terms/title> "Introductory matters: Tracing the aims of Proverbs 1:1–7 through the book's first collection" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1> <https://schema.org/url> <https://resolve.cambridge.org/core/journals/scottish-journal-of-theology/article/introductory-matters-tracing-the-aims-of-proverbs-117-through-the-books-first-collection/93053797C0BCF4A816A95101D35BC5C6> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale / Oxford University Press)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> <http://purl.org/dc/terms/title> "Proverbs, Book of (Encyclopaedia Judaica entry by R. B. Y. Scott and M. Lichtenstein; New Catholic Encyclopedia entry by W. G. Heidt; Oxford World Encyclopedia entry)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2> <https://schema.org/url> <https://encyclopedia.com/philosophy-and-religion/bible/old-testament/proverbs> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> <http://purl.org/dc/terms/publisher> "Jewish Publication Society of America (1917), via eBible.org" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> <http://purl.org/dc/terms/title> "The Book of Proverbs (JPS Tanakh, 1917 translation)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3> <https://schema.org/url> <https://ebible.org/pdf/engjps/engjps_PRO.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> <http://purl.org/dc/terms/publisher> "Biblical eLearning (Ted Hildebrandt)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> <http://purl.org/dc/terms/title> "Proverbs 26:4–5: answering and not answering a fool (lecture transcript)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4> <https://schema.org/url> <https://biblicalelearning.org/wp-content/uploads/2025/02/Hildebrandt_Prov_Prov26_4_5.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> <http://purl.org/dc/terms/publisher> "TheTorah.com (Bernd U. Schipper, Humboldt University of Berlin)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> <http://purl.org/dc/terms/title> "Proverbs in Egyptian Scribal Style" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5> <https://schema.org/url> <https://www.thetorah.com/article/proverbs-in-egyptian-scribal-style> .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Mark Siderits; rev. 2023)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1> <http://purl.org/dc/terms/title> "Buddha" .

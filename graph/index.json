@@ -985,6 +985,119 @@
   ]
  },
  {
+  "id": "wg:book-of-proverbs",
+  "title": "Book of Proverbs",
+  "aliases": [
+   "Proverbs",
+   "Mishlei",
+   "Mishle",
+   "Proverbs of Solomon",
+   "Liber Proverbiorum"
+  ],
+  "type": "Work",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/wisdom-traditions/book-of-proverbs.md",
+  "created": "2026-11-17",
+  "summary": "A book of the Hebrew Bible that gathers instructions, poems and short two-line sayings on how to live well, framed by the motto that the fear of the LORD is the beginning of knowledge. Traditionally credited to Solomon, it is an anthology of several collections assembled over centuries and is probably the oldest surviving work of Hebrew wisdom literature.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:hebrew-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:anger"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:right-speech"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:friendship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ancient-egyptian-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:judaism"
+   },
+   {
+    "predicate": "wgo:introduces",
+    "object": "wg:hebrew-wisdom-literature",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:instruction-of-amenemope",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:ancient-egyptian-wisdom-literature",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:hebrew-bible",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:biblical-studies",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Am I applying a saying or rule of thumb as if it fit every situation, or have I checked whether it fits this one?",
+   "Is my way of seeing this right only in my own eyes, and whose counsel have I actually asked?",
+   "Will my words here calm the situation or stir up more anger?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "In a team meeting, a colleague confidently repeats a misleading claim about why a project failed and invites you to argue about it.",
+   "before": "I always shut this kind of thing down on the spot, so I'll tear the claim apart in front of everyone, whatever it costs.",
+   "after": "Will answering help the room see the facts, or just drag me into a shouting match? Here the claim will shape a decision, so I'll correct it briefly and calmly, with the data, and leave the rest for a private conversation.",
+   "why": "Proverbs sets two opposite sayings about answering a fool side by side, which pushes the reader to judge each situation rather than apply one rule mechanically."
+  },
+  "source_urls": [
+   "https://resolve.cambridge.org/core/journals/scottish-journal-of-theology/article/introductory-matters-tracing-the-aims-of-proverbs-117-through-the-books-first-collection/93053797C0BCF4A816A95101D35BC5C6",
+   "https://encyclopedia.com/philosophy-and-religion/bible/old-testament/proverbs",
+   "https://ebible.org/pdf/engjps/engjps_PRO.pdf",
+   "https://biblicalelearning.org/wp-content/uploads/2025/02/Hildebrandt_Prov_Prov26_4_5.pdf",
+   "https://www.thetorah.com/article/proverbs-in-egyptian-scribal-style"
+  ]
+ },
+ {
   "id": "wg:buddhism",
   "title": "Buddhism",
   "aliases": [

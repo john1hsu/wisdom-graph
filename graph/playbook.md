@@ -1523,6 +1523,21 @@ Ask yourself:
 - If the result goes against me, will I still be able to say I acted well?
 - Is my calm steadiness, or have I quietly stopped caring about the people my action affects?
 
+### [Book of Proverbs](../articles/wisdom-traditions/book-of-proverbs.md) — Work
+
+*In a team meeting, a colleague confidently repeats a misleading claim about why a project failed and invites you to argue about it.*
+
+| Before | After |
+|---|---|
+| I always shut this kind of thing down on the spot, so I'll tear the claim apart in front of everyone, whatever it costs. | Will answering help the room see the facts, or just drag me into a shouting match? Here the claim will shape a decision, so I'll correct it briefly and calmly, with the data, and leave the rest for a private conversation. |
+
+**Why:** Proverbs sets two opposite sayings about answering a fool side by side, which pushes the reader to judge each situation rather than apply one rule mechanically.
+
+Ask yourself:
+- Am I applying a saying or rule of thumb as if it fit every situation, or have I checked whether it fits this one?
+- Is my way of seeing this right only in my own eyes, and whose counsel have I actually asked?
+- Will my words here calm the situation or stir up more anger?
+
 ### [Impermanence](../articles/wisdom-traditions/impermanence.md) — Principle
 
 *A project manager's team is reorganised; her favourite colleague moves to another group and the weekly rhythm she relied on disappears.*

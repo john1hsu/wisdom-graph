@@ -384,6 +384,38 @@
    "wgo:why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I applying a saying or rule of thumb as if it fit every situation, or have I checked whether it fits this one?",
+   "wgo:questionFor": {
+    "@id": "wg:book-of-proverbs"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my way of seeing this right only in my own eyes, and whose counsel have I actually asked?",
+   "wgo:questionFor": {
+    "@id": "wg:book-of-proverbs"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Will my words here calm the situation or stir up more anger?",
+   "wgo:questionFor": {
+    "@id": "wg:book-of-proverbs"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Will answering help the room see the facts, or just drag me into a shouting match? Here the claim will shape a decision, so I'll correct it briefly and calmly, with the data, and leave the rest for a private conversation.",
+   "wgo:before": "I always shut this kind of thing down on the spot, so I'll tear the claim apart in front of everyone, whatever it costs.",
+   "wgo:situation": "In a team meeting, a colleague confidently repeats a misleading claim about why a project failed and invites you to argue about it.",
+   "wgo:why": "Proverbs sets two opposite sayings about answering a fool side by side, which pushes the reader to judge each situation rather than apply one rule mechanically."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "What do I actually know here, and what am I only assuming or hoping?",
@@ -5561,6 +5593,76 @@
     "@id": "https://data.zhenzhi.com/details/1/860964303"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Scottish Journal of Theology, Cambridge University Press (Matthew A. O'Kelly, University of Aberdeen, 2025)",
+   "dcterms:title": "Introductory matters: Tracing the aims of Proverbs 1:1–7 through the book's first collection",
+   "schema:url": {
+    "@id": "https://resolve.cambridge.org/core/journals/scottish-journal-of-theology/article/introductory-matters-tracing-the-aims-of-proverbs-117-through-the-books-first-collection/93053797C0BCF4A816A95101D35BC5C6"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Gale / Oxford University Press)",
+   "dcterms:title": "Proverbs, Book of (Encyclopaedia Judaica entry by R. B. Y. Scott and M. Lichtenstein; New Catholic Encyclopedia entry by W. G. Heidt; Oxford World Encyclopedia entry)",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/philosophy-and-religion/bible/old-testament/proverbs"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jewish Publication Society of America (1917), via eBible.org",
+   "dcterms:title": "The Book of Proverbs (JPS Tanakh, 1917 translation)",
+   "schema:url": {
+    "@id": "https://ebible.org/pdf/engjps/engjps_PRO.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical eLearning (Ted Hildebrandt)",
+   "dcterms:title": "Proverbs 26:4–5: answering and not answering a fool (lecture transcript)",
+   "schema:url": {
+    "@id": "https://biblicalelearning.org/wp-content/uploads/2025/02/Hildebrandt_Prov_Prov26_4_5.pdf"
+   },
+   "wgo:sourceType": "community"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "TheTorah.com (Bernd U. Schipper, Humboldt University of Berlin)",
+   "dcterms:title": "Proverbs in Egyptian Scribal Style",
+   "schema:url": {
+    "@id": "https://www.thetorah.com/article/proverbs-in-egyptian-scribal-style"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s1",
@@ -16867,6 +16969,103 @@
    },
    "wgo:studiedIn": {
     "@id": "wg:psychology-of-wisdom"
+   }
+  },
+  {
+   "@id": "wg:book-of-proverbs",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s5"
+    }
+   ],
+   "rdfs:label": "Book of Proverbs",
+   "skos:altLabel": [
+    "Liber Proverbiorum",
+    "Mishle",
+    "Mishlei",
+    "Proverbs of Solomon",
+    "Proverbs"
+   ],
+   "skos:broader": {
+    "@id": "wg:hebrew-wisdom-literature"
+   },
+   "skos:definition": "A book of the Hebrew Bible that gathers instructions, poems and short two-line sayings on how to live well, framed by the motto that the fear of the LORD is the beginning of knowledge. Traditionally credited to Solomon, it is an anthology of several collections assembled over centuries and is probably the oldest surviving work of Hebrew wisdom literature.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Book of Proverbs",
+   "skos:related": [
+    {
+     "@id": "wg:ancient-egyptian-wisdom-literature"
+    },
+    {
+     "@id": "wg:anger"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:friendship"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:judaism"
+    },
+    {
+     "@id": "wg:right-speech"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "historical",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/example"
+   },
+   "wgo:file": "articles/wisdom-traditions/book-of-proverbs.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:ancient-egyptian-wisdom-literature"
+    },
+    {
+     "@id": "wg:instruction-of-amenemope"
+    }
+   ],
+   "wgo:introduces": {
+    "@id": "wg:hebrew-wisdom-literature"
+   },
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:hebrew-bible"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:biblical-studies"
    }
   },
   {

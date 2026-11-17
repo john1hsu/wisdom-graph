@@ -145,7 +145,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:ancient-egyptian-wisdom-literature` | wgo:Tradition |
 | `wg:greed` | wgo:Vice |
-| `wg:hebrew-wisdom-literature` | wgo:Tradition |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
