@@ -35,6 +35,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, Hedonic adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
+| `wg:simplicity` | 3 | Contentment, greed, materialism |
 | `wg:classification-of-desires` | 2 | Contentment, greed |
 | `wg:cognitive-defusion` | 2 | Acceptance, cognitive-fusion |
 | `wg:evening-review` | 2 | Self-reflection, anger |
@@ -55,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:contentment` | 1 | greed |
 | `wg:courage` | 1 | cowardice |
 | `wg:deliberation` | 1 | impetuosity |
-| `wg:dichotomy-of-control` | 1 | Equanimity |
 
-…and 14 more.
+…and 15 more.
 
 ## Toolkit by life situation
 
@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implementation-intentions` | mixed |  |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 
-…and 36 more.
+…and 37 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -200,7 +200,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:moral-habituation` |
 | `wg:daoism` | `wg:contentment` |
 
-…and 23 more.
+…and 25 more.
 
 ## The doctrine of the mean
 

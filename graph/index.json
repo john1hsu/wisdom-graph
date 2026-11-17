@@ -10093,6 +10093,140 @@
   ]
  },
  {
+  "id": "wg:simplicity",
+  "title": "Simplicity",
+  "aliases": [
+   "voluntary simplicity",
+   "simple living",
+   "living simply",
+   "minimalism as a way of life",
+   "low-consumption lifestyle"
+  ],
+  "type": "Practice",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/simplicity.md",
+  "created": "2026-11-17",
+  "summary": "The deliberate choice to own, buy and pursue less than one could, so that time, attention and money go to what one values most; an ideal taught by Epicurus, the Daoist classics and Thoreau, and studied today as \"voluntary simplicity\".",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:classification-of-desires"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:temperance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epicureanism"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:epicureanism",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:daoism",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:henry-david-thoreau",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:contentment",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:greed",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:materialism",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:voluntary-simplicity-wellbeing-review",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:materialism-and-well-being-meta-analysis",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:changes-in-materialism-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "What is this purchase or commitment for, and does it serve something I said I value most?",
+   "If I removed it for a month, would I genuinely miss it or just feel I had fallen behind others?",
+   "Am I simplifying to free time and attention, or just replacing one kind of acquiring and comparing with another?",
+   "Who or what will get the time or money I free up?"
+  ],
+  "steps": [
+   "Write down the three to five things you most want more of in your life, such as time with family, health, a craft or community.",
+   "List where your money, hours and attention actually went last month, and mark each item as serving one of those priorities or not.",
+   "Choose one item that serves none of them and cut or shrink it for a trial month, rather than overhauling everything at once.",
+   "Redirect what you free up, whether hours or money, deliberately into one of your priorities, preferably something shared with other people.",
+   "At the end of the month, ask whether you miss what you dropped; keep the change, reverse it, or try the next item."
+  ],
+  "example": {
+   "situation": "A team lead gets a raise and, within weeks, has a larger car loan, three new subscriptions and a habit of browsing for upgrades at lunch, while saying no to a weekly community football game because money now feels tight.",
+   "before": "I've earned this. Once the new setup is sorted, I'll have time for the things I actually enjoy.",
+   "after": "What did I want the raise for? More breathing room and time with people. The subscriptions and the upgrades aren't buying that, so I'll cancel two, keep the old car another year, and say yes to football.",
+   "why": "Simplicity here is not austerity but alignment; cutting spending that serves no priority frees money and attention for the social and personal goods that the evidence links to well-being."
+  },
+  "source_urls": [
+   "https://internationaljournalofwellbeing.org/index.php/ijow/article/view/589",
+   "https://ourarchive.otago.ac.nz/esploro/outputs/journalArticle/Consume-Less-Live-Well-Examining-the/9926743705901891",
+   "https://pubmed.ncbi.nlm.nih.gov/25347131/",
+   "https://pure.ewha.ac.kr/en/publications/changes-in-materialism-changes-in-psychological-well-being-eviden/",
+   "https://lexundria.com/epic_kd/15/hks10",
+   "https://classics.mit.edu/Lao/taote.mb.txt",
+   "https://courses.lumenlearning.com/suny-americanlit1/chapter/reading-where-i-lived-and-what-i-lived-for/"
+  ]
+ },
+ {
   "id": "wg:socioemotional-selectivity-theory",
   "title": "Socioemotional selectivity theory",
   "aliases": [

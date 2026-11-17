@@ -825,6 +825,28 @@ Ask yourself:
 - Am I treating a bad week or a low mood as a verdict on my whole life?
 - Would I still judge this pursuit worthwhile if I stopped feeling drawn to it, and would I still care about it if no one else valued it?
 
+### [Simplicity](../articles/meaning-and-the-good-life/simplicity.md) — Practice
+
+1. Write down the three to five things you most want more of in your life, such as time with family, health, a craft or community.
+2. List where your money, hours and attention actually went last month, and mark each item as serving one of those priorities or not.
+3. Choose one item that serves none of them and cut or shrink it for a trial month, rather than overhauling everything at once.
+4. Redirect what you free up, whether hours or money, deliberately into one of your priorities, preferably something shared with other people.
+5. At the end of the month, ask whether you miss what you dropped; keep the change, reverse it, or try the next item.
+
+*A team lead gets a raise and, within weeks, has a larger car loan, three new subscriptions and a habit of browsing for upgrades at lunch, while saying no to a weekly community football game because money now feels tight.*
+
+| Before | After |
+|---|---|
+| I've earned this. Once the new setup is sorted, I'll have time for the things I actually enjoy. | What did I want the raise for? More breathing room and time with people. The subscriptions and the upgrades aren't buying that, so I'll cancel two, keep the old car another year, and say yes to football. |
+
+**Why:** Simplicity here is not austerity but alignment; cutting spending that serves no priority frees money and attention for the social and personal goods that the evidence links to well-being.
+
+Ask yourself:
+- What is this purchase or commitment for, and does it serve something I said I value most?
+- If I removed it for a month, would I genuinely miss it or just feel I had fallen behind others?
+- Am I simplifying to free time and attention, or just replacing one kind of acquiring and comparing with another?
+- Who or what will get the time or money I free up?
+
 ## science-of-wisdom
 
 ### [Balance theory of wisdom](../articles/science-of-wisdom/balance-theory-of-wisdom.md) — Framework
