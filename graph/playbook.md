@@ -258,6 +258,29 @@ Ask yourself:
 - Am I holding back something true and useful only because saying it would be awkward for me?
 - Did anything I said today divide people, wound someone needlessly or pass on gossip, and is there something I should put right?
 
+### [Tzedakah](../articles/compassion-and-relationships/tzedakah.md) — Practice
+
+1. Decide in advance how much you will give over a month or year, in proportion to your means, and treat it as a commitment rather than a mood.
+2. When you see a need, offer help before the person has to ask.
+3. Give warmly and say a kind word; if you cannot give, still answer with kindness and never with a rebuke.
+4. Protect the recipient's dignity by giving quietly, through a channel that spares them from knowing or thanking you where you can, and don't advertise the gift.
+5. Where it fits, give in a form that helps the person stand on their own, such as a loan, work, a partnership or a skill, and ask what they actually need.
+6. Stay within your means so that your giving does not make you dependent on others in turn.
+
+*The owner of a small business learns that a long-serving employee has fallen behind on rent after a family emergency and is too embarrassed to ask for help.*
+
+| Before | After |
+|---|---|
+| She hands him an envelope of cash in front of the team and later mentions it in a staff meeting as proof that the company looks after its own. He thanks her, avoids eye contact for weeks and starts looking for another job. | She speaks to him privately, offers an interest-free pay advance with a repayment schedule he sets, and asks whether extra paid hours would help, which he takes up. Nobody else is told. |
+
+**Why:** Maimonides places help that makes someone self-supporting at the top of the ladder of giving and treats giving that shames the recipient as a failure; the private advance meets the need, protects his standing at work and leaves him in charge of his own recovery.
+
+Ask yourself:
+- Am I giving in proportion to what I have, or only when it is convenient or visible?
+- Would the person I am helping feel diminished by how I am giving, and could I give more quietly?
+- Is there a way to help that leaves them more able to stand on their own, without deciding for them what they need?
+- If I can't give anything right now, did I at least answer kindly?
+
 ## emotions-and-equanimity
 
 ### [Acceptance](../articles/emotions-and-equanimity/acceptance.md) — Skill

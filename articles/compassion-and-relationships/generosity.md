@@ -12,7 +12,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:moral-virtues]
-related: [wg:compassion, wg:empathy, wg:contentment, wg:simplicity, wg:doctrine-of-the-mean, wg:four-immeasurables, wg:ubuntu, wg:golden-rule, wg:prodigality, wg:well-being]
+related: [wg:compassion, wg:empathy, wg:contentment, wg:simplicity, wg:doctrine-of-the-mean, wg:four-immeasurables, wg:ubuntu, wg:golden-rule, wg:prodigality, wg:well-being, wg:tzedakah]
 requires: [wg:practical-wisdom]
 relations:
   - {predicate: rootedIn, object: wg:aristotelian-virtue-ethics, source: s1, confidence: high}

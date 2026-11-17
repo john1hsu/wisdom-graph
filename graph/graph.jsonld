@@ -14934,6 +14934,76 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Moznaim Publishing (Chabad.org edition)",
+   "dcterms:title": "Mishneh Torah, Hilchot Matnot Aniyim (Laws of Gifts to the Poor), Chapter 10, trans. Eliyahu Touger",
+   "schema:url": {
+    "@id": "https://www.chabad.org/library/article_cdo/aid/986711/jewish/Matnot-Aniyim-Chapter-10.htm"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Judaica (Gale Group, 2008), Jewish Virtual Library edition",
+   "dcterms:title": "Charity (Tzedakah): Charity Throughout Jewish History",
+   "schema:url": {
+    "@id": "https://www.jewishvirtuallibrary.org/jsource/Judaism/charity.html"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Reich, Lechterman & Saunders-Hastings, 2024)",
+   "dcterms:title": "Philanthropy",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/philanthropy/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology General, 148(1), 158–173 (De Freitas, DeScioli, Thomas & Pinker, 2019; doi:10.1037/xge0000507)",
+   "dcterms:title": "Maimonides' ladder: States of mutual knowledge and the perception of charitability",
+   "schema:url": {
+    "@id": "https://stevenpinker.com/publications/maimonides-ladder-states-mutual-knowledge-and-perception-charitability-0"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 91(1), 97–110 (Nadler & Halabi, 2006; doi:10.1037/0022-3514.91.1.97)",
+   "dcterms:title": "Intergroup helping as status relations: Effects of status stability, identification, and type of help on receptivity to high-status group's help",
+   "schema:url": {
+    "@id": "https://www.humiliationstudies.org/documents/NadlerIntergroupHelping2.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ubuntu/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -16126,6 +16196,107 @@
    "wgo:questionFor": {
     "@id": "wg:three-dimensional-wisdom-model"
    }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I giving in proportion to what I have, or only when it is convenient or visible?",
+   "wgo:questionFor": {
+    "@id": "wg:tzedakah"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would the person I am helping feel diminished by how I am giving, and could I give more quietly?",
+   "wgo:questionFor": {
+    "@id": "wg:tzedakah"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there a way to help that leaves them more able to stand on their own, without deciding for them what they need?",
+   "wgo:questionFor": {
+    "@id": "wg:tzedakah"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I can't give anything right now, did I at least answer kindly?",
+   "wgo:questionFor": {
+    "@id": "wg:tzedakah"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "She speaks to him privately, offers an interest-free pay advance with a repayment schedule he sets, and asks whether extra paid hours would help, which he takes up. Nobody else is told.",
+   "wgo:before": "She hands him an envelope of cash in front of the team and later mentions it in a staff meeting as proof that the company looks after its own. He thanks her, avoids eye contact for weeks and starts looking for another job.",
+   "wgo:situation": "The owner of a small business learns that a long-serving employee has fallen behind on rent after a family emergency and is too embarrassed to ask for help.",
+   "wgo:why": "Maimonides places help that makes someone self-supporting at the top of the ladder of giving and treats giving that shames the recipient as a failure; the private advance meets the need, protects his standing at work and leaves him in charge of his own recovery."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Tzedakah",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Decide in advance how much you will give over a month or year, in proportion to your means, and treat it as a commitment rather than a mood."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "When you see a need, offer help before the person has to ask."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Give warmly and say a kind word; if you cannot give, still answer with kindness and never with a rebuke."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Protect the recipient's dignity by giving quietly, through a channel that spares them from knowing or thanking you where you can, and don't advertise the gift."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Where it fits, give in a form that helps the person stand on their own, such as a loan, work, a partnership or a skill, and ask what they actually need."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Stay within your means so that your giving does not make you dependent on others in turn."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/check/1",
@@ -19951,6 +20122,9 @@
     },
     {
      "@id": "wg:simplicity"
+    },
+    {
+     "@id": "wg:tzedakah"
     },
     {
      "@id": "wg:ubuntu"
@@ -27316,6 +27490,99 @@
     },
     {
      "@id": "wg:wisdom-and-hard-times-study"
+    }
+   ]
+  },
+  {
+   "@id": "wg:tzedakah",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/tzedakah/s5"
+    }
+   ],
+   "rdfs:label": "Tzedakah",
+   "skos:altLabel": [
+    "Maimonides' eight levels of giving",
+    "Maimonides' ladder of charity",
+    "Rambam's ladder",
+    "ṣedaqah",
+    "eight degrees of charity",
+    "tsedakah",
+    "zedakah"
+   ],
+   "skos:broader": {
+    "@id": "wg:judaism"
+   },
+   "skos:definition": "The Jewish practice of giving to people in need as an obligation of justice rather than an optional kindness, done regularly, in proportion to one's means, cheerfully and in ways that protect the recipient's dignity; Maimonides ranked eight levels of giving, with helping someone become self-supporting at the top.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Tzedakah",
+   "skos:related": [
+    {
+     "@id": "wg:book-of-proverbs"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:generosity"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:hebrew-wisdom-literature"
+    },
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:zakat"
+    }
+   ],
+   "wgo:develops": {
+    "@id": "wg:generosity"
+   },
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/tzedakah.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/tzedakah/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:maimonides"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:judaism"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:autonomy-oriented-help-study"
+    },
+    {
+     "@id": "wg:maimonides-ladder-charitability-study"
     }
    ]
   },

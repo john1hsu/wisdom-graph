@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:generosity` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -59,7 +57,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
 | `wg:contentment` | 1 | Greed |
 
-…and 18 more.
+…and 19 more.
 
 ## Toolkit by life situation
 
@@ -202,7 +200,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:compassion` |
 | `wg:confucianism` | `wg:courage` |
 
-…and 30 more.
+…and 31 more.
 
 ## The doctrine of the mean
 

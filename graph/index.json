@@ -4046,6 +4046,10 @@
     "object": "wg:well-being"
    },
    {
+    "predicate": "skos:related",
+    "object": "wg:tzedakah"
+   },
+   {
     "predicate": "wgo:requires",
     "object": "wg:practical-wisdom"
    },
@@ -12468,6 +12472,117 @@
    "https://escholarship.org/uc/item/6p02d3qw",
    "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00692/pdf",
    "https://wisdomcenter.uchicago.edu/news/wisdom-news/essential-components-wisdom-and-ways-measure-trait"
+  ]
+ },
+ {
+  "id": "wg:tzedakah",
+  "title": "Tzedakah",
+  "aliases": [
+   "tsedakah",
+   "zedakah",
+   "ṣedaqah",
+   "Maimonides' ladder of charity",
+   "Maimonides' eight levels of giving",
+   "eight degrees of charity",
+   "Rambam's ladder"
+  ],
+  "type": "Practice",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/compassion-and-relationships/tzedakah.md",
+  "created": "2026-11-17",
+  "summary": "The Jewish practice of giving to people in need as an obligation of justice rather than an optional kindness, done regularly, in proportion to one's means, cheerfully and in ways that protect the recipient's dignity; Maimonides ranked eight levels of giving, with helping someone become self-supporting at the top.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:generosity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:golden-rule"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hebrew-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:book-of-proverbs"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:zakat"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humility"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:judaism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:generosity",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:maimonides",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:maimonides-ladder-charitability-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:autonomy-oriented-help-study",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I giving in proportion to what I have, or only when it is convenient or visible?",
+   "Would the person I am helping feel diminished by how I am giving, and could I give more quietly?",
+   "Is there a way to help that leaves them more able to stand on their own, without deciding for them what they need?",
+   "If I can't give anything right now, did I at least answer kindly?"
+  ],
+  "steps": [
+   "Decide in advance how much you will give over a month or year, in proportion to your means, and treat it as a commitment rather than a mood.",
+   "When you see a need, offer help before the person has to ask.",
+   "Give warmly and say a kind word; if you cannot give, still answer with kindness and never with a rebuke.",
+   "Protect the recipient's dignity by giving quietly, through a channel that spares them from knowing or thanking you where you can, and don't advertise the gift.",
+   "Where it fits, give in a form that helps the person stand on their own, such as a loan, work, a partnership or a skill, and ask what they actually need.",
+   "Stay within your means so that your giving does not make you dependent on others in turn."
+  ],
+  "example": {
+   "situation": "The owner of a small business learns that a long-serving employee has fallen behind on rent after a family emergency and is too embarrassed to ask for help.",
+   "before": "She hands him an envelope of cash in front of the team and later mentions it in a staff meeting as proof that the company looks after its own. He thanks her, avoids eye contact for weeks and starts looking for another job.",
+   "after": "She speaks to him privately, offers an interest-free pay advance with a repayment schedule he sets, and asks whether extra paid hours would help, which he takes up. Nobody else is told.",
+   "why": "Maimonides places help that makes someone self-supporting at the top of the ladder of giving and treats giving that shames the recipient as a failure; the private advance meets the need, protects his standing at work and leaves him in charge of his own recovery."
+  },
+  "source_urls": [
+   "https://www.chabad.org/library/article_cdo/aid/986711/jewish/Matnot-Aniyim-Chapter-10.htm",
+   "https://www.jewishvirtuallibrary.org/jsource/Judaism/charity.html",
+   "https://plato.stanford.edu/ENTRIES/philanthropy/",
+   "https://stevenpinker.com/publications/maimonides-ladder-states-mutual-knowledge-and-perception-charitability-0",
+   "https://www.humiliationstudies.org/documents/NadlerIntergroupHelping2.pdf"
   ]
  },
  {
