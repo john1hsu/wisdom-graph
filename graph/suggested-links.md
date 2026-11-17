@@ -4,25 +4,25 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 4.35 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues` |
+| 4.70 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues` |
 | 3.63 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt`, `wg:robert-sternberg` |
 | 3.27 | `wg:adversity` | `wg:emotional-suppression` | `wg:acceptance`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:regulatory-flexibility`, `wg:resilience` |
 | 3.16 | `wg:aristotle` | `wg:socratic-philosophy` | `wg:ancient-greek-philosophy`, `wg:eudaimonia`, `wg:plato`, `wg:socrates`, `wg:virtue-ethics` |
-| 3.13 | `wg:balance-theory-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:leading-others`, `wg:perspective-taking` |
+| 3.12 | `wg:balance-theory-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:leading-others`, `wg:perspective-taking` |
 | 3.06 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 3.05 | `wg:adversity` | `wg:equanimity` | `wg:acceptance`, `wg:buddhism`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:impermanence` |
 | 2.99 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
 | 2.96 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
 | 2.92 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
-| 2.89 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom`, `wg:self-distancing` |
+| 2.88 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom`, `wg:self-distancing` |
 | 2.86 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:plato` |
 | 2.73 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity` |
 | 2.71 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom` |
 | 2.71 | `wg:balance-theory-of-wisdom` | `wg:wisdom` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:practical-wisdom` |
-| 2.71 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
+| 2.70 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
 | 2.67 | `wg:practical-wisdom` | `wg:three-dimensional-wisdom-model` | `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:leading-others`, `wg:psychology-of-wisdom`, `wg:vivian-clayton` |
 | 2.65 | `wg:berlin-wisdom-paradigm` | `wg:vivian-clayton` | `wg:implicit-theories-of-wisdom`, `wg:paul-baltes`, `wg:psychology-of-wisdom`, `wg:robert-sternberg`, `wg:three-dimensional-wisdom-model` |
-| 2.62 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
+| 2.61 | `wg:berlin-wisdom-paradigm` | `wg:solomons-paradox` | `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 2.60 | `wg:emotional-suppression` | `wg:richard-lazarus` | `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:james-gross` |
 | 2.58 | `wg:aristotle` | `wg:temperance` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:plato` |
 | 2.49 | `wg:equanimity` | `wg:process-model-of-emotion-regulation` | `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation`, `wg:emotional-suppression`, `wg:james-gross` |

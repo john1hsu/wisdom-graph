@@ -1289,6 +1289,32 @@ Ask yourself:
 - Whose interests does this decision touch beyond the targets I am measured on?
 - Am I still doing the work myself because it is needed, or because it is where I feel competent?
 
+### [Moral case deliberation](../articles/wisdom-at-work/moral-case-deliberation.md) — Practice
+
+1. Choose a real, current case from your own work that leaves you or your team unsure what is right, and ask someone trained and not involved in the decision to facilitate.
+2. State the moral question as a concrete choice between two options, and name the harm each option would do.
+3. Ask factual questions until everyone can stand in the case presenter's shoes, without judging how they handled it.
+4. List everyone with a stake in the case and the values and norms that pull each of them towards one option or the other.
+5. Look for alternatives beyond the original two options.
+6. Each write down privately what you would do, the value behind it, what you would sacrifice, how you would limit that damage and what you would need to act on it.
+7. Compare the answers in dialogue, exploring the reasons behind disagreements rather than voting or trying to win.
+8. Close by asking what has changed in each person's view, who will act on what, and what to improve in the next session.
+
+*A home-care team disagrees about an elderly client who refuses help with washing. Some nurses want to insist for hygiene and dignity; others say his refusal must be respected. Tension is growing and each shift handles it differently.*
+
+| Before | After |
+|---|---|
+| The team lead sends an email setting a rule, help with washing twice a week whether he likes it or not, and treats further objections as insubordination. | The team lead books an hour with a trained facilitator. The nurse closest to the client presents the case, the team names what is at stake on each side (his autonomy, his health, the relationship, staff integrity), finds an option nobody had considered, and agrees a shared approach to try and review in a month. |
+
+**Why:** The rule settles the behaviour but not the moral question, so the disagreement and distress go underground. Deliberation surfaces the values in play, draws on everyone's knowledge of the client and lets the team own a considered judgment it can revisit.
+
+Ask yourself:
+- Can I state the dilemma as two concrete options, and say what harm each would do and to whom?
+- Have I understood the case from the position of the person who has to act, before judging it?
+- Whose values and perspective are missing from how we have framed this case?
+- Am I trying to understand my colleagues' reasons, or only to win them over to my view?
+- Who will act on what we concluded, and when will we look again at how it went?
+
 ### [Servant leadership](../articles/wisdom-at-work/servant-leadership.md) — Practice
 
 1. Before a decision that affects your team, write down who it serves and what each person directly affected needs from it.

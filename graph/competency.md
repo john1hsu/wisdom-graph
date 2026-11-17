@@ -18,9 +18,7 @@ _No results._
 
 _Which written life situations have no practice, principle, skill or virtue applied in them?_ — `queries/03-situations-without-guidance.rq`
 
-| node | type |
-|---|---|
-| `wg:wisdom-in-professions` | wgo:Context |
+_No results._
 
 ## Highest-leverage practices and teachings
 
@@ -32,6 +30,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
+| `wg:moral-case-deliberation` | 3 | Practical wisdom, moral-competence, moral-distress |
 | `wg:moral-habituation` | 3 | Courage, Temperance, cowardice |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
@@ -57,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:courage` | 1 | cowardice |
 | `wg:deliberation` | 1 | impetuosity |
 | `wg:dichotomy-of-control` | 1 | Equanimity |
-| `wg:doctrine-of-the-mean` | 1 | Temperance |
 
-…and 13 more.
+…and 14 more.
 
 ## Toolkit by life situation
 
@@ -98,7 +96,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:practical-wisdom` |
 | `wg:leading-others` | `wg:servant-leadership` |
 
-…and 18 more.
+…and 19 more.
 
 ## Myths and contested advice
 
@@ -147,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:adversity` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
+| `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:self-deception` | wgo:Obstacle |

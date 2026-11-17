@@ -6516,6 +6516,150 @@
   ]
  },
  {
+  "id": "wg:moral-case-deliberation",
+  "title": "Moral case deliberation",
+  "aliases": [
+   "MCD",
+   "the dilemma method",
+   "moreel beraad",
+   "structured ethics case reflection"
+  ],
+  "type": "Practice",
+  "domain": "wisdom-at-work",
+  "level": "intermediate",
+  "evidenceStatus": "practitioner",
+  "file": "articles/wisdom-at-work/moral-case-deliberation.md",
+  "created": "2026-11-17",
+  "summary": "A facilitated group dialogue in which professionals take a morally difficult case from their own work, state the dilemma, weigh the values of everyone involved and each say what they would do and why, so as to understand the case better, act more wisely in it and build the team's practical judgment.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:clinical-ethics-support"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-in-professions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:wisdom-in-professions",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:practical-wisdom",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:moral-competence",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:moral-distress",
+    "source": "s2",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:philosophical-hermeneutics",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:clinical-ethics-consultation",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:shared-decision-making",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:medical-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:mcd-impact-multiple-case-study",
+    "source": "s5",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Can I state the dilemma as two concrete options, and say what harm each would do and to whom?",
+   "Have I understood the case from the position of the person who has to act, before judging it?",
+   "Whose values and perspective are missing from how we have framed this case?",
+   "Am I trying to understand my colleagues' reasons, or only to win them over to my view?",
+   "Who will act on what we concluded, and when will we look again at how it went?"
+  ],
+  "steps": [
+   "Choose a real, current case from your own work that leaves you or your team unsure what is right, and ask someone trained and not involved in the decision to facilitate.",
+   "State the moral question as a concrete choice between two options, and name the harm each option would do.",
+   "Ask factual questions until everyone can stand in the case presenter's shoes, without judging how they handled it.",
+   "List everyone with a stake in the case and the values and norms that pull each of them towards one option or the other.",
+   "Look for alternatives beyond the original two options.",
+   "Each write down privately what you would do, the value behind it, what you would sacrifice, how you would limit that damage and what you would need to act on it.",
+   "Compare the answers in dialogue, exploring the reasons behind disagreements rather than voting or trying to win.",
+   "Close by asking what has changed in each person's view, who will act on what, and what to improve in the next session."
+  ],
+  "example": {
+   "situation": "A home-care team disagrees about an elderly client who refuses help with washing. Some nurses want to insist for hygiene and dignity; others say his refusal must be respected. Tension is growing and each shift handles it differently.",
+   "before": "The team lead sends an email setting a rule, help with washing twice a week whether he likes it or not, and treats further objections as insubordination.",
+   "after": "The team lead books an hour with a trained facilitator. The nurse closest to the client presents the case, the team names what is at stake on each side (his autonomy, his health, the relationship, staff integrity), finds an option nobody had considered, and agrees a shared approach to try and review in a month.",
+   "why": "The rule settles the behaviour but not the moral question, so the disagreement and distress go underground. Deliberation surfaces the values in play, draws on everyone's knowledge of the client and lets the team own a considered judgment it can revisit."
+  },
+  "source_urls": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2725278",
+   "https://www.zaansmedischcentrum.nl/default/assets/File/Moral%20case%20deliberation.pdf",
+   "https://journalofethics.ama-assn.org/article/how-moral-case-deliberation-supports-good-clinical-decision-making/2019-10",
+   "https://link.springer.com/content/pdf/10.1186/s12910-018-0324-z.pdf",
+   "https://link.springer.com/content/pdf/10.1186/s12910-022-00747-2.pdf",
+   "https://dx.doi.org/10.1002/14651858.CD012636.pub2"
+  ]
+ },
+ {
   "id": "wg:moral-habituation",
   "title": "Moral habituation",
   "aliases": [

@@ -876,6 +876,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/leading-others#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/leading-others#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/leading-others#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/moral-case-deliberation.md" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/servant-leadership.md" .
@@ -10004,6 +10013,140 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/leading-others/s6> <https://schema.org/url> <https://wisdomcenter.uchicago.edu/publications/systems-model-leadership-wics> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Can I state the dilemma as two concrete options, and say what harm each would do and to whom?" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I understood the case from the position of the person who has to act, before judging it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Whose values and perspective are missing from how we have framed this case?" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I trying to understand my colleagues' reasons, or only to win them over to my view?" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Who will act on what we concluded, and when will we look again at how it went?" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The team lead books an hour with a trained facilitator. The nurse closest to the client presents the case, the team names what is at stake on each side (his autonomy, his health, the relationship, staff integrity), finds an option nobody had considered, and agrees a shared approach to try and review in a month." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "The team lead sends an email setting a rule, help with washing twice a week whether he likes it or not, and treats further objections as insubordination." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A home-care team disagrees about an elderly client who refuses help with washing. Some nurses want to insist for hygiene and dignity; others say his refusal must be respected. Tension is growing and each shift handles it differently." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The rule settles the behaviour but not the moral question, so the disagreement and distress go underground. Deliberation surfaces the values in play, draws on everyone's knowledge of the client and lets the team own a considered judgment it can revisit." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/1> <https://schema.org/text> "Choose a real, current case from your own work that leaves you or your team unsure what is right, and ask someone trained and not involved in the decision to facilitate." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/2> <https://schema.org/text> "State the moral question as a concrete choice between two options, and name the harm each option would do." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/3> <https://schema.org/text> "Ask factual questions until everyone can stand in the case presenter's shoes, without judging how they handled it." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/4> <https://schema.org/text> "List everyone with a stake in the case and the values and norms that pull each of them towards one option or the other." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/5> <https://schema.org/text> "Look for alternatives beyond the original two options." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/6> <https://schema.org/text> "Each write down privately what you would do, the value behind it, what you would sacrifice, how you would limit that damage and what you would need to act on it." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/7> <https://schema.org/text> "Compare the answers in dialogue, exploring the reasons behind disagreements rather than voting or trying to win." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/8> <https://schema.org/position> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/8> <https://schema.org/text> "Close by asking what has changed in each person's view, who will act on what, and what to improve in the next session." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/name> "Moral case deliberation" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/7> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/8> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2000/01/rdf-schema#label> "Moral case deliberation" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#altLabel> "MCD" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#altLabel> "moreel beraad" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#altLabel> "structured ethics case reflection" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#altLabel> "the dilemma method" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-support> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#definition> "A facilitated group dialogue in which professionals take a morally difficult case from their own work, state the dilemma, weigh the values of everyone involved and each say what they would do and why, so as to understand the case better, act more wisely in it and build the team's practical judgment." .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moral case deliberation" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/moral-distress> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-consultation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/shared-decision-making> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/moral-competence> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "practitioner" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/moral-case-deliberation.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/mcd-impact-multiple-case-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://purl.org/dc/terms/publisher> "Health Care Analysis 17(3), 217-235 (Springer; doi:10.1007/s10728-008-0102-z); PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://purl.org/dc/terms/title> "Good care in ongoing dialogue: Improving the quality of care through moral deliberation and responsive evaluation (Abma, Molewijk & Widdershoven, 2009)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC2725278> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> <http://purl.org/dc/terms/publisher> "Practical Neurology (BMJ; doi:10.1136/practneurol-2017-001740); copy hosted by Zaans Medisch Centrum" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> <http://purl.org/dc/terms/title> "Moral case deliberation (Tan, ter Meulen, Molewijk & Widdershoven, 2017)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2> <https://schema.org/url> <https://www.zaansmedischcentrum.nl/default/assets/File/Moral%20case%20deliberation.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> <http://purl.org/dc/terms/publisher> "AMA Journal of Ethics 21(10), E913-919 (doi:10.1001/amajethics.2019.913)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> <http://purl.org/dc/terms/title> "How moral case deliberation supports good clinical decision making (Inguaggiato, Metselaar, Molewijk & Widdershoven, 2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3> <https://schema.org/url> <https://journalofethics.ama-assn.org/article/how-moral-case-deliberation-supports-good-clinical-decision-making/2019-10> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> <http://purl.org/dc/terms/publisher> "BMC Medical Ethics 19, 88 (doi:10.1186/s12910-018-0324-z)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> <http://purl.org/dc/terms/title> "Defining and categorizing outcomes of Moral Case Deliberation (MCD): concept mapping with experienced MCD participants (de Snoo-Trimp, Molewijk & de Vet, 2018)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4> <https://schema.org/url> <https://link.springer.com/content/pdf/10.1186/s12910-018-0324-z.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> <http://purl.org/dc/terms/publisher> "BMC Medical Ethics 23, 10 (doi:10.1186/s12910-022-00747-2)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> <http://purl.org/dc/terms/title> "Conceptualizing the impact of moral case deliberation: a multiple-case study in a health care institution for people with intellectual disabilities (de Snoo-Trimp, van Gurp & Molewijk, 2022)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5> <https://schema.org/url> <https://link.springer.com/content/pdf/10.1186/s12910-022-00747-2.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> <http://purl.org/dc/terms/publisher> "Cochrane Database of Systematic Reviews, CD012636.pub2 (doi:10.1002/14651858.CD012636.pub2)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> <http://purl.org/dc/terms/title> "Ethical case interventions for adult patients (Cochrane systematic review)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6> <https://schema.org/url> <https://dx.doi.org/10.1002/14651858.CD012636.pub2> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Are the people I lead growing - more capable, more independent - because of how I lead them?" .
@@ -11261,6 +11404,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/after-action-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/after-event-reviews-leadership-development-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -11479,6 +11623,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-consultation> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-support> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-support> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-psychologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
@@ -11660,6 +11807,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
@@ -11712,9 +11860,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
@@ -12330,6 +12480,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
@@ -12353,6 +12504,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
@@ -12386,6 +12538,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
@@ -12568,6 +12721,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/maximizing-tendency-measurement-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/maximizing-versus-satisficing-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/maximizing> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+  <https://github.com/john1hsu/wisdom-graph/id/mcd-impact-multiple-case-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-and-physical-health-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-group-psychotherapy-trial> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-psychotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
@@ -12642,6 +12796,21 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-support> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-competence> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-distress> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-education> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-education> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-education> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
@@ -12786,6 +12955,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
@@ -12794,11 +12964,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/peter-gollwitzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/peter-gollwitzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/peter-gollwitzer> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+  <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/philosophy-of-action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/philosophy-of-action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/philosophy-of-action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -12851,6 +13023,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
@@ -12873,6 +13046,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
@@ -13146,6 +13320,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
@@ -13279,6 +13454,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+  <https://github.com/john1hsu/wisdom-graph/id/shared-decision-making> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/shared-virtue-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/shattered-assumptions-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/shiawase> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/ikigai> .
@@ -13657,6 +13833,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
@@ -13686,6 +13864,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .

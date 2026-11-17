@@ -2903,6 +2903,133 @@
    "schema:text": "Wait a day or two; if no important new reason appears, decide by the balance and act on it."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Can I state the dilemma as two concrete options, and say what harm each would do and to whom?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-case-deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I understood the case from the position of the person who has to act, before judging it?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-case-deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose values and perspective are missing from how we have framed this case?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-case-deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I trying to understand my colleagues' reasons, or only to win them over to my view?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-case-deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who will act on what we concluded, and when will we look again at how it went?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-case-deliberation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The team lead books an hour with a trained facilitator. The nurse closest to the client presents the case, the team names what is at stake on each side (his autonomy, his health, the relationship, staff integrity), finds an option nobody had considered, and agrees a shared approach to try and review in a month.",
+   "wgo:before": "The team lead sends an email setting a rule, help with washing twice a week whether he likes it or not, and treats further objections as insubordination.",
+   "wgo:situation": "A home-care team disagrees about an elderly client who refuses help with washing. Some nurses want to insist for hygiene and dignity; others say his refusal must be respected. Tension is growing and each shift handles it differently.",
+   "wgo:why": "The rule settles the behaviour but not the moral question, so the disagreement and distress go underground. Deliberation surfaces the values in play, draws on everyone's knowledge of the client and lets the team own a considered judgment it can revisit."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Moral case deliberation",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/8"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Choose a real, current case from your own work that leaves you or your team unsure what is right, and ask someone trained and not involved in the decision to facilitate."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "State the moral question as a concrete choice between two options, and name the harm each option would do."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Ask factual questions until everyone can stand in the case presenter's shoes, without judging how they handled it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "List everyone with a stake in the case and the values and norms that pull each of them towards one option or the other."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Look for alternatives beyond the original two options."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Each write down privately what you would do, the value behind it, what you would sacrifice, how you would limit that damage and what you would need to act on it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Compare the answers in dialogue, exploring the reasons behind disagreements rather than voting or trying to win."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto/8",
+   "@type": "schema:HowToStep",
+   "schema:position": 8,
+   "schema:text": "Close by asking what has changed in each person's view, who will act on what, and what to improve in the next session."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "What small act this week would be a genuine rung up the ladder for me, rather than a leap or no step at all?",
@@ -9563,6 +9690,90 @@
     "@id": "https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Health Care Analysis 17(3), 217-235 (Springer; doi:10.1007/s10728-008-0102-z); PubMed Central",
+   "dcterms:title": "Good care in ongoing dialogue: Improving the quality of care through moral deliberation and responsive evaluation (Abma, Molewijk & Widdershoven, 2009)",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2725278"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Practical Neurology (BMJ; doi:10.1136/practneurol-2017-001740); copy hosted by Zaans Medisch Centrum",
+   "dcterms:title": "Moral case deliberation (Tan, ter Meulen, Molewijk & Widdershoven, 2017)",
+   "schema:url": {
+    "@id": "https://www.zaansmedischcentrum.nl/default/assets/File/Moral%20case%20deliberation.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "AMA Journal of Ethics 21(10), E913-919 (doi:10.1001/amajethics.2019.913)",
+   "dcterms:title": "How moral case deliberation supports good clinical decision making (Inguaggiato, Metselaar, Molewijk & Widdershoven, 2019)",
+   "schema:url": {
+    "@id": "https://journalofethics.ama-assn.org/article/how-moral-case-deliberation-supports-good-clinical-decision-making/2019-10"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "BMC Medical Ethics 19, 88 (doi:10.1186/s12910-018-0324-z)",
+   "dcterms:title": "Defining and categorizing outcomes of Moral Case Deliberation (MCD): concept mapping with experienced MCD participants (de Snoo-Trimp, Molewijk & de Vet, 2018)",
+   "schema:url": {
+    "@id": "https://link.springer.com/content/pdf/10.1186/s12910-018-0324-z.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "BMC Medical Ethics 23, 10 (doi:10.1186/s12910-022-00747-2)",
+   "dcterms:title": "Conceptualizing the impact of moral case deliberation: a multiple-case study in a health care institution for people with intellectual disabilities (de Snoo-Trimp, van Gurp & Molewijk, 2022)",
+   "schema:url": {
+    "@id": "https://link.springer.com/content/pdf/10.1186/s12910-022-00747-2.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Cochrane Database of Systematic Reviews, CD012636.pub2 (doi:10.1002/14651858.CD012636.pub2)",
+   "dcterms:title": "Ethical case interventions for adult patients (Cochrane systematic review)",
+   "schema:url": {
+    "@id": "https://dx.doi.org/10.1002/14651858.CD012636.pub2"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-habituation/s1",
@@ -19891,6 +20102,121 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:improper-linear-models-study"
+   }
+  },
+  {
+   "@id": "wg:moral-case-deliberation",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s6"
+    }
+   ],
+   "rdfs:label": "Moral case deliberation",
+   "skos:altLabel": [
+    "MCD",
+    "moreel beraad",
+    "structured ethics case reflection",
+    "the dilemma method"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:clinical-ethics-support"
+    },
+    {
+     "@id": "wg:deliberation"
+    }
+   ],
+   "skos:definition": "A facilitated group dialogue in which professionals take a morally difficult case from their own work, state the dilemma, weigh the values of everyone involved and each say what they would do and why, so as to understand the case better, act more wisely in it and build the team's practical judgment.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Moral case deliberation",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:wisdom-in-professions"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:moral-distress"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:wisdom-in-professions"
+   },
+   "wgo:contrastsWith": [
+    {
+     "@id": "wg:clinical-ethics-consultation"
+    },
+    {
+     "@id": "wg:shared-decision-making"
+    }
+   ],
+   "wgo:develops": [
+    {
+     "@id": "wg:moral-competence"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "practitioner",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/moral-case-deliberation.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/howto"
+   },
+   "wgo:influencedBy": {
+    "@id": "wg:philosophical-hermeneutics"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:perspective-taking"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:medical-ethics"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:mcd-impact-multiple-case-study"
    }
   },
   {
