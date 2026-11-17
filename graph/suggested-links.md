@@ -6,7 +6,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 4.24 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues` |
 | 3.59 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt`, `wg:robert-sternberg` |
-| 3.54 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom` |
+| 3.53 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom` |
 | 3.28 | `wg:giving-advice` | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:perspective-taking`, `wg:psychology-of-wisdom`, `wg:self-distancing` |
 | 3.24 | `wg:adversity` | `wg:emotional-suppression` | `wg:acceptance`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:regulatory-flexibility`, `wg:resilience` |
 | 3.16 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
@@ -17,7 +17,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.98 | `wg:personal-and-general-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:learning-from-experience`, `wg:self-distancing` |
 | 2.95 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
 | 2.90 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
-| 2.90 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
+| 2.88 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
 | 2.88 | `wg:aristotle` | `wg:temperance` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
 | 2.72 | `wg:doctrine-of-the-mean` | `wg:intellectual-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-humility`, `wg:moral-virtues` |
 | 2.71 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity` |

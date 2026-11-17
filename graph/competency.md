@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
 
-…and 41 more.
+…and 43 more.
 
 ## Ideas with no recorded origin (gap)
 
