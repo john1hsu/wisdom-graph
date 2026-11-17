@@ -8886,6 +8886,144 @@
   ]
  },
  {
+  "id": "wg:reflective-journaling",
+  "title": "Reflective journaling",
+  "aliases": [
+   "journaling",
+   "reflective writing",
+   "expressive writing",
+   "written emotional disclosure",
+   "the Pennebaker writing paradigm"
+  ],
+  "type": "Practice",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/reflective-journaling.md",
+  "created": "2026-11-17",
+  "summary": "Writing privately and in your own words about an experience that matters to you, exploring both what you felt and what it means, so that a tangle of reactions becomes an organised account you can learn from; its best-studied form is Pennebaker's expressive-writing exercise, whose benefits are real but small and uneven.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:reflective-practices"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:insight"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:james-pennebaker",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:self-distancing",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:self-reflection",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:learning-from-experience",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:experimental-disclosure-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:writing-talking-thinking-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:chasing-elusive-expressive-writing-effects-study",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is my writing moving from what happened towards why it happened and what I now understand, or circling the same complaint?",
+   "Am I picking apart a good experience I would be better off simply enjoying?",
+   "After writing, do I feel more able to act, or more stirred up than when I began?",
+   "Have I looked at this episode from the other people's side, at least once?"
+  ],
+  "steps": [
+   "Pick one experience that still bothers you or that you want to understand, and that you feel able to face now; leave a fresh or overwhelming trauma for another time or for professional support.",
+   "Set aside 15 to 20 minutes in a private place on three or four days, ideally spread out rather than crammed together.",
+   "Write continuously about both what happened and how you felt, without editing, judging or worrying about grammar.",
+   "On later days, move from venting to making sense - ask why it happened, what it connects to and what you now see that you did not before.",
+   "In a final session, describe the episode as a neutral observer or as the other people involved would, and note one thing you will do differently.",
+   "Keep analysis for painful or puzzling events; for happy ones, replay and enjoy them rather than dissecting them."
+  ],
+  "example": {
+   "situation": "A project you led for eight months is cancelled at a quarterly review, and you suspect a peer argued against it behind your back.",
+   "before": "For two weeks you replay the meeting in your head every night, draft and delete a long angry message to the peer, and tell yourself you are fine during the day.",
+   "after": "You write for twenty minutes on three evenings that week. The first page is pure anger; by the third you have listed what the review actually said, the budget pressure behind it, the warning signs you missed and what you would scope differently next time. You then ask the peer for a short conversation about their concerns.",
+   "why": "Writing forces a disorganised memory into a sequence with causes, which tends to calm reactivity and produce lessons, whereas silent replaying keeps the same scene running without resolving it."
+  },
+  "source_urls": [
+   "https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Pennebaker_Psychscience_1997.pdf",
+   "https://Www.Gwern.net/doc/psychology/2006-frattaroli.pdf",
+   "https://sonjalyubomirsky.com/wp-content/uploads/2024/03/LSD2006.pdf",
+   "https://koasas.kaist.ac.kr/handle/10203/307362",
+   "https://ggia.berkeley.edu/practice/expressive_writing",
+   "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1192595/full"
+  ]
+ },
+ {
   "id": "wg:regret",
   "title": "Regret",
   "aliases": [

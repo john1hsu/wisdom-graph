@@ -3705,6 +3705,107 @@
    "schema:text": "After a few minutes, check whether the strategy is helping; keep it, switch, or stop."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my writing moving from what happened towards why it happened and what I now understand, or circling the same complaint?",
+   "wgo:questionFor": {
+    "@id": "wg:reflective-journaling"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I picking apart a good experience I would be better off simply enjoying?",
+   "wgo:questionFor": {
+    "@id": "wg:reflective-journaling"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "After writing, do I feel more able to act, or more stirred up than when I began?",
+   "wgo:questionFor": {
+    "@id": "wg:reflective-journaling"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I looked at this episode from the other people's side, at least once?",
+   "wgo:questionFor": {
+    "@id": "wg:reflective-journaling"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "You write for twenty minutes on three evenings that week. The first page is pure anger; by the third you have listed what the review actually said, the budget pressure behind it, the warning signs you missed and what you would scope differently next time. You then ask the peer for a short conversation about their concerns.",
+   "wgo:before": "For two weeks you replay the meeting in your head every night, draft and delete a long angry message to the peer, and tell yourself you are fine during the day.",
+   "wgo:situation": "A project you led for eight months is cancelled at a quarterly review, and you suspect a peer argued against it behind your back.",
+   "wgo:why": "Writing forces a disorganised memory into a sequence with causes, which tends to calm reactivity and produce lessons, whereas silent replaying keeps the same scene running without resolving it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Reflective journaling",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Pick one experience that still bothers you or that you want to understand, and that you feel able to face now; leave a fresh or overwhelming trauma for another time or for professional support."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Set aside 15 to 20 minutes in a private place on three or four days, ideally spread out rather than crammed together."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Write continuously about both what happened and how you felt, without editing, judging or worrying about grammar."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "On later days, move from venting to making sense - ask why it happened, what it connects to and what you now see that you did not before."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "In a final session, describe the episode as a neutral observer or as the other people involved would, and note one thing you will do differently."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Keep analysis for painful or puzzling events; for happy ones, replay and enjoy them rather than dissecting them."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/regret/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Is there still something I can do about this, or is it time to let the goal go and invest in another?",
@@ -11718,6 +11819,90 @@
     "@id": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Science, 8(3), 162–166 (James W. Pennebaker, 1997), copy hosted by the UCLA Social Affective Neuroscience Lab",
+   "dcterms:title": "Writing about emotional experiences as a therapeutic process",
+   "schema:url": {
+    "@id": "https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Pennebaker_Psychscience_1997.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Bulletin, 132(6), 823–865 (Joanne Frattaroli, 2006)",
+   "dcterms:title": "Experimental disclosure and its moderators: A meta-analysis",
+   "schema:url": {
+    "@id": "https://Www.Gwern.net/doc/psychology/2006-frattaroli.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 90(4), 692–708 (Lyubomirsky, Sousa & Dickerhoof, 2006), author copy",
+   "dcterms:title": "The costs and benefits of writing, talking, and thinking about life's triumphs and defeats",
+   "schema:url": {
+    "@id": "https://sonjalyubomirsky.com/wp-content/uploads/2024/03/LSD2006.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Emotion, 16(3), 349–364 (Park, Ayduk & Kross, 2016), KAIST repository record",
+   "dcterms:title": "Stepping back to move forward: Expressive writing promotes self-distancing",
+   "schema:url": {
+    "@id": "https://koasas.kaist.ac.kr/handle/10203/307362"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Greater Good in Action, Greater Good Science Center, University of California, Berkeley",
+   "dcterms:title": "Expressive Writing",
+   "schema:url": {
+    "@id": "https://ggia.berkeley.edu/practice/expressive_writing"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 14 (Rude, Lantrip, Aguirre & Schraegle, 2023)",
+   "dcterms:title": "Chasing elusive expressive writing effects: Emotion-acceptance instructions and writer engagement improve outcomes",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1192595/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/regret/s1",
@@ -23463,6 +23648,117 @@
      "@id": "wg:purpose-and-mortality-meta-analysis"
     }
    ]
+  },
+  {
+   "@id": "wg:reflective-journaling",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6"
+    }
+   ],
+   "rdfs:label": "Reflective journaling",
+   "skos:altLabel": [
+    "expressive writing",
+    "journaling",
+    "reflective writing",
+    "the Pennebaker writing paradigm",
+    "written emotional disclosure"
+   ],
+   "skos:broader": {
+    "@id": "wg:reflective-practices"
+   },
+   "skos:definition": "Writing privately and in your own words about an experience that matters to you, exploring both what you felt and what it means, so that a tangle of reactions becomes an organised account you can learn from; its best-studied form is Pennebaker's expressive-writing exercise, whose benefits are real but small and uneven.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Reflective journaling",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:insight"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:savoring"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:self-reflection"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:rumination"
+   },
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:chasing-elusive-expressive-writing-effects-study"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:experimental-disclosure-meta-analysis"
+    },
+    {
+     "@id": "wg:writing-talking-thinking-study"
+    }
+   ],
+   "wgo:develops": {
+    "@id": "wg:self-reflection"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:self-distancing"
+   },
+   "wgo:file": "articles/self-knowledge/reflective-journaling.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:james-pennebaker"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:regret",

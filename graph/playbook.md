@@ -1029,6 +1029,29 @@ Ask yourself:
 - Have I looked at what went well and why, not only at what went wrong?
 - Whose view of this experience would challenge my own version of it?
 
+### [Reflective journaling](../articles/self-knowledge/reflective-journaling.md) — Practice
+
+1. Pick one experience that still bothers you or that you want to understand, and that you feel able to face now; leave a fresh or overwhelming trauma for another time or for professional support.
+2. Set aside 15 to 20 minutes in a private place on three or four days, ideally spread out rather than crammed together.
+3. Write continuously about both what happened and how you felt, without editing, judging or worrying about grammar.
+4. On later days, move from venting to making sense - ask why it happened, what it connects to and what you now see that you did not before.
+5. In a final session, describe the episode as a neutral observer or as the other people involved would, and note one thing you will do differently.
+6. Keep analysis for painful or puzzling events; for happy ones, replay and enjoy them rather than dissecting them.
+
+*A project you led for eight months is cancelled at a quarterly review, and you suspect a peer argued against it behind your back.*
+
+| Before | After |
+|---|---|
+| For two weeks you replay the meeting in your head every night, draft and delete a long angry message to the peer, and tell yourself you are fine during the day. | You write for twenty minutes on three evenings that week. The first page is pure anger; by the third you have listed what the review actually said, the budget pressure behind it, the warning signs you missed and what you would scope differently next time. You then ask the peer for a short conversation about their concerns. |
+
+**Why:** Writing forces a disorganised memory into a sequence with causes, which tends to calm reactivity and produce lessons, whereas silent replaying keeps the same scene running without resolving it.
+
+Ask yourself:
+- Is my writing moving from what happened towards why it happened and what I now understand, or circling the same complaint?
+- Am I picking apart a good experience I would be better off simply enjoying?
+- After writing, do I feel more able to act, or more stirred up than when I began?
+- Have I looked at this episode from the other people's side, at least once?
+
 ### [Regret](../articles/self-knowledge/regret.md) — Phenomenon
 
 *Two years ago you decided not to apply for a team-lead role; a colleague got it and is thriving, and the news of their promotion brings the old decision back.*

@@ -634,6 +634,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/reflective-journaling.md" .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/regret> .
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/regret.md" .
@@ -7817,6 +7826,129 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/learning-from-experience/s6> <https://schema.org/url> <https://www.slideshare.net/slideshow/a-spurious-john-dewey-quotation-on-reflection/259649444> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/reflective-journaling#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is my writing moving from what happened towards why it happened and what I now understand, or circling the same complaint?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I picking apart a good experience I would be better off simply enjoying?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "After writing, do I feel more able to act, or more stirred up than when I began?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Have I looked at this episode from the other people's side, at least once?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "You write for twenty minutes on three evenings that week. The first page is pure anger; by the third you have listed what the review actually said, the budget pressure behind it, the warning signs you missed and what you would scope differently next time. You then ask the peer for a short conversation about their concerns." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "For two weeks you replay the meeting in your head every night, draft and delete a long angry message to the peer, and tell yourself you are fine during the day." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A project you led for eight months is cancelled at a quarterly review, and you suspect a peer argued against it behind your back." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Writing forces a disorganised memory into a sequence with causes, which tends to calm reactivity and produce lessons, whereas silent replaying keeps the same scene running without resolving it." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/1> <https://schema.org/text> "Pick one experience that still bothers you or that you want to understand, and that you feel able to face now; leave a fresh or overwhelming trauma for another time or for professional support." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/2> <https://schema.org/text> "Set aside 15 to 20 minutes in a private place on three or four days, ideally spread out rather than crammed together." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/3> <https://schema.org/text> "Write continuously about both what happened and how you felt, without editing, judging or worrying about grammar." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/4> <https://schema.org/text> "On later days, move from venting to making sense - ask why it happened, what it connects to and what you now see that you did not before." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/5> <https://schema.org/text> "In a final session, describe the episode as a neutral observer or as the other people involved would, and note one thing you will do differently." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/6> <https://schema.org/text> "Keep analysis for painful or puzzling events; for happy ones, replay and enjoy them rather than dissecting them." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/name> "Reflective journaling" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2000/01/rdf-schema#label> "Reflective journaling" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#altLabel> "expressive writing" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#altLabel> "journaling" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#altLabel> "reflective writing" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#altLabel> "the Pennebaker writing paradigm" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#altLabel> "written emotional disclosure" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#definition> "Writing privately and in your own words about an experience that matters to you, exploring both what you felt and what it means, so that a tangle of reactions becomes an organised account you can learn from; its best-studied form is Pennebaker's expressive-writing exercise, whose benefits are real but small and uneven." .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reflective journaling" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/insight> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/chasing-elusive-expressive-writing-effects-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/experimental-disclosure-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/reflective-journaling.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/james-pennebaker> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> <http://purl.org/dc/terms/publisher> "Psychological Science, 8(3), 162–166 (James W. Pennebaker, 1997), copy hosted by the UCLA Social Affective Neuroscience Lab" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> <http://purl.org/dc/terms/title> "Writing about emotional experiences as a therapeutic process" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s1> <https://schema.org/url> <https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Pennebaker_Psychscience_1997.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> <http://purl.org/dc/terms/publisher> "Psychological Bulletin, 132(6), 823–865 (Joanne Frattaroli, 2006)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> <http://purl.org/dc/terms/title> "Experimental disclosure and its moderators: A meta-analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s2> <https://schema.org/url> <https://Www.Gwern.net/doc/psychology/2006-frattaroli.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 90(4), 692–708 (Lyubomirsky, Sousa & Dickerhoof, 2006), author copy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> <http://purl.org/dc/terms/title> "The costs and benefits of writing, talking, and thinking about life's triumphs and defeats" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s3> <https://schema.org/url> <https://sonjalyubomirsky.com/wp-content/uploads/2024/03/LSD2006.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> <http://purl.org/dc/terms/publisher> "Emotion, 16(3), 349–364 (Park, Ayduk & Kross, 2016), KAIST repository record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> <http://purl.org/dc/terms/title> "Stepping back to move forward: Expressive writing promotes self-distancing" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s4> <https://schema.org/url> <https://koasas.kaist.ac.kr/handle/10203/307362> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, University of California, Berkeley" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> <http://purl.org/dc/terms/title> "Expressive Writing" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s5> <https://schema.org/url> <https://ggia.berkeley.edu/practice/expressive_writing> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 14 (Rude, Lantrip, Aguirre & Schraegle, 2023)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> <http://purl.org/dc/terms/title> "Chasing elusive expressive writing effects: Emotion-acceptance instructions and writer engagement improve outcomes" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reflective-journaling/s6> <https://schema.org/url> <https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1192595/full> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/regret#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/regret/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/regret/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is there still something I can do about this, or is it time to let the goal go and invest in another?" .
@@ -12541,6 +12673,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+  <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/adversity> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
@@ -12783,6 +12916,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/chasing-elusive-expressive-writing-effects-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/childhood-self-control-gradient-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/chinese-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
@@ -13365,6 +13499,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/existential-vacuum> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
+  <https://github.com/john1hsu/wisdom-graph/id/experimental-disclosure-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/experimental-disclosure-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/experimental-disclosure-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/expert-consensus-on-wisdom-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -13516,6 +13653,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
+  <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/grief-work-hypothesis-review-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
@@ -13729,6 +13867,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ingratitude> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/insensibility> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/insight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/insight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/insight> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
@@ -13858,6 +13997,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/james-gross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-pennebaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-pennebaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/james-pennebaker> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/japanese-aesthetics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/john-dewey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -13963,6 +14105,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/letter-to-menoeceus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14530,14 +14673,20 @@
   <https://github.com/john1hsu/wisdom-graph/id/reconsidering-happiness-critique> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/recovery-after-adversity> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/redeeming-the-unredeemable-critique> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
-  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
-  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
-  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
-  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/regret/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/regret/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/regret/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14657,6 +14806,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
@@ -14682,6 +14832,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+  <https://github.com/john1hsu/wisdom-graph/id/savoring> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/science-of-wisdom-in-a-polarized-world> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -14778,6 +14929,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
@@ -14787,6 +14939,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/self-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
@@ -14822,6 +14975,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -15462,6 +15616,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/worldview-defense> <https://github.com/john1hsu/wisdom-graph/ontology#causedBy> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/worry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/worry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
+  <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/xunzi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/xunzi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/zeno-of-citium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

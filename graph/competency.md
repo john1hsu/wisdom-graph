@@ -48,6 +48,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:memento-mori` | 2 | Equanimity, Greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:process-model-of-emotion-regulation` | 2 | Emotion regulatory flexibility, Rumination |
+| `wg:reflective-journaling` | 2 | Rumination, Self-reflection |
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:temperance` | 2 | insensibility, intemperance |
@@ -55,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
 | `wg:contentment` | 1 | Greed |
 | `wg:courage` | 1 | cowardice |
-| `wg:deliberation` | 1 | impetuosity |
 
-…and 15 more.
+…and 16 more.
 
 ## Toolkit by life situation
 
@@ -69,6 +69,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:adversity` | `wg:amor-fati` |
 | `wg:adversity` | `wg:cognitive-reappraisal` |
 | `wg:adversity` | `wg:impermanence` |
+| `wg:adversity` | `wg:reflective-journaling` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:golden-rule` |
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:kill-criteria` |
-| `wg:leading-others` | `wg:practical-wisdom` |
 
-…and 20 more.
+…and 22 more.
 
 ## Myths and contested advice
 
@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
 
-…and 40 more.
+…and 41 more.
 
 ## Ideas with no recorded origin (gap)
 
