@@ -7172,6 +7172,104 @@
    "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Macmillan Encyclopedia of Death and Dying (Adrian Tomer), via Encyclopedia.com",
+   "dcterms:title": "Becker, Ernest",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/becker-ernest"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Keith Helmuth, Ernest Becker Foundation (5 March 2019)",
+   "dcterms:title": "Ernest Becker: A Memoir and an Appreciation",
+   "schema:url": {
+    "@id": "https://www.ernestbecker.org/helmuth-on-becker"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Pulitzer Prizes, Columbia University",
+   "dcterms:title": "Ernest Becker — 1974 Pulitzer Prize in General Nonfiction (The Denial of Death)",
+   "schema:url": {
+    "@id": "https://www.pulitzer.org/winners/ernest-becker"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Zygon, 33(1), 71–86 (Eugene Webb, 1998), author copy via University of Washington",
+   "dcterms:title": "Ernest Becker and the Psychology of World Views",
+   "schema:url": {
+    "@id": "https://faculty.washington.edu/ewebb/Zygon.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Religion, Brain & Behavior (Jong, Ross, Philip, Chang, Simons & Halberstadt, 2017), doi:10.1080/2153599X.2016.1238844, accepted manuscript via CORE",
+   "dcterms:title": "The religious correlates of death anxiety: A systematic review and meta-analysis",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/228140886.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Review, 14(2), 155–195 (Burke, Martens & Faucher, 2010), doi:10.1177/1088868309352321, Scilit record",
+   "dcterms:title": "Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research",
+   "schema:url": {
+    "@id": "https://www.scilit.net/publications/27daf4efecb792fbe2eec04ecab67a64"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Center for Open Science blog (Klein, Vitiello & Ratliff, 10 December 2019), summarising the 21-lab replication later published in Collabra",
+   "dcterms:title": "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement",
+   "schema:url": {
+    "@id": "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -18101,6 +18199,108 @@
    "wgo:studiedIn": {
     "@id": "wg:contemplative-science"
    }
+  },
+  {
+   "@id": "wg:ernest-becker",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s7"
+    }
+   ],
+   "rdfs:label": "Ernest Becker",
+   "skos:altLabel": [
+    "Becker",
+    "author of The Denial of Death"
+   ],
+   "skos:broader": {
+    "@id": "wg:cultural-anthropologists"
+   },
+   "skos:definition": "American-born cultural anthropologist (1924–1974) whose Pulitzer Prize-winning book The Denial of Death argued that awareness of mortality, and the effort to deny it through culture, self-esteem and hero projects, drives much human striving and conflict; his ideas inspired terror management theory.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Ernest Becker",
+   "skos:related": [
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:existential-concerns"
+    },
+    {
+     "@id": "wg:existential-psychotherapy"
+    },
+    {
+     "@id": "wg:facing-mortality"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:mortality-salience"
+    },
+    {
+     "@id": "wg:psychoanalysis"
+    },
+    {
+     "@id": "wg:viktor-frankl"
+    },
+    {
+     "@id": "wg:worldview-defense"
+    }
+   ],
+   "wgo:authored": [
+    {
+     "@id": "wg:escape-from-evil"
+    },
+    {
+     "@id": "wg:the-denial-of-death"
+    }
+   ],
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/ernest-becker.md",
+   "wgo:influenced": {
+    "@id": "wg:terror-management-theory"
+   },
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:otto-rank"
+    },
+    {
+     "@id": "wg:sigmund-freud"
+    },
+    {
+     "@id": "wg:soren-kierkegaard"
+    }
+   ],
+   "wgo:introduced": {
+    "@id": "wg:death-awareness"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:evening-review",

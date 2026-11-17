@@ -143,7 +143,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:death-awareness` | wgo:Concept |
 | `wg:giving-advice` | wgo:Context |
 | `wg:hebrew-wisdom-literature` | wgo:Tradition |
 | `wg:major-life-decision` | wgo:Context |

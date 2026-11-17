@@ -3172,6 +3172,117 @@
   ]
  },
  {
+  "id": "wg:ernest-becker",
+  "title": "Ernest Becker",
+  "aliases": [
+   "Becker",
+   "author of The Denial of Death"
+  ],
+  "type": "Person",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/ernest-becker.md",
+  "created": "2026-11-17",
+  "summary": "American-born cultural anthropologist (1924–1974) whose Pulitzer Prize-winning book The Denial of Death argued that awareness of mortality, and the effort to deny it through culture, self-esteem and hero projects, drives much human striving and conflict; his ideas inspired terror management theory.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:cultural-anthropologists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mortality-salience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:existential-concerns"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:facing-mortality"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:viktor-frankl"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:existential-psychotherapy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:psychoanalysis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:worldview-defense"
+   },
+   {
+    "predicate": "wgo:introduced",
+    "object": "wg:death-awareness",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:the-denial-of-death",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:authored",
+    "object": "wg:escape-from-evil",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influenced",
+    "object": "wg:terror-management-theory",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:otto-rank",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:soren-kierkegaard",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:sigmund-freud",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/becker-ernest",
+   "https://www.ernestbecker.org/helmuth-on-becker",
+   "https://www.pulitzer.org/winners/ernest-becker",
+   "https://faculty.washington.edu/ewebb/Zygon.pdf",
+   "https://core.ac.uk/download/228140886.pdf",
+   "https://www.scilit.net/publications/27daf4efecb792fbe2eec04ecab67a64",
+   "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
+  ]
+ },
+ {
   "id": "wg:evening-review",
   "title": "Evening review",
   "aliases": [
