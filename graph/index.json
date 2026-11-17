@@ -960,6 +960,144 @@
   ]
  },
  {
+  "id": "wg:cardinal-virtues",
+  "title": "Cardinal virtues",
+  "aliases": [
+   "four cardinal virtues",
+   "the four cardinal virtues",
+   "virtutes cardinales",
+   "principal virtues",
+   "classical virtues"
+  ],
+  "type": "Framework",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/cardinal-virtues.md",
+  "created": "2026-11-17",
+  "summary": "The classical grouping of four virtues on which a good character was said to hinge: practical wisdom (prudence), justice, courage (fortitude) and temperance (moderation). First set out as the virtues of a well-ordered city and soul in Plato's Republic, it was taken up by the Stoics, Cicero and Christian moral theology, where it gained the name \"cardinal\", from the Latin cardo, hinge.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:temperance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:justice-as-a-virtue"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:theological-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:via-character-strengths"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:confucianism"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:plato",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:republic",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:christianity",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:shared-virtue-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:hierarchical-structure-of-character-strengths-study",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:roots-of-virtue-lexical-study",
+    "source": "s8",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "What do I actually know here, and what am I only assuming or hoping?",
+   "What do I owe each person affected, including the people who are not in the room?",
+   "Is fear of discomfort stopping me from doing what I already judge to be right?",
+   "Is appetite, anger or the wish to look good pushing me past the right measure?",
+   "Am I leaning hard on one virtue, such as boldness or caution, at the expense of the others?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Your director asks you to present quarterly figures to the board with a forecast you believe is unrealistically rosy. Several colleagues' jobs depend on the board approving the plan.",
+   "before": "Either keep quiet because it isn't my call, or stand up in the board meeting and announce that the numbers are fudged.",
+   "after": "Check what the data actually support, raise the concern privately with the director first with the evidence and an honest alternative framing, and escalate calmly if it is ignored.",
+   "why": "Silence fails courage and justice, while a public outburst is courage without prudence or temperance. Asking all four questions together (what is true, what is owed, what must be faced, what is the right measure) produces a response that is honest, fair, brave and proportionate at once, which is the point of treating the virtues as a set."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Plato/republic.5.iv.html",
+   "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/1F*.html",
+   "https://ccel.org/ccel/aquinas/summa/FS/FS061.html",
+   "https://iep.utm.edu/aq-moral",
+   "https://iep.utm.edu/StoicEth/",
+   "https://www.ovid.com/journals/regep/pdf/00063906-200509000-00001~shared-virtue-the-convergence-of-valued-human-strengths",
+   "https://1100lu.viacharacter.org/pdf/McGrath%20(2015%20JPosPsych)%20Three%20virtues.pdf",
+   "https://core.ac.uk/download/219376057.pdf"
+  ]
+ },
+ {
   "id": "wg:classification-of-desires",
   "title": "Classification of desires",
   "aliases": [

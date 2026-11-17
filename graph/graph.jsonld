@@ -384,6 +384,54 @@
    "wgo:why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What do I actually know here, and what am I only assuming or hoping?",
+   "wgo:questionFor": {
+    "@id": "wg:cardinal-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What do I owe each person affected, including the people who are not in the room?",
+   "wgo:questionFor": {
+    "@id": "wg:cardinal-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is fear of discomfort stopping me from doing what I already judge to be right?",
+   "wgo:questionFor": {
+    "@id": "wg:cardinal-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is appetite, anger or the wish to look good pushing me past the right measure?",
+   "wgo:questionFor": {
+    "@id": "wg:cardinal-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I leaning hard on one virtue, such as boldness or caution, at the expense of the others?",
+   "wgo:questionFor": {
+    "@id": "wg:cardinal-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Check what the data actually support, raise the concern privately with the director first with the evidence and an honest alternative framing, and escalate calmly if it is ignored.",
+   "wgo:before": "Either keep quiet because it isn't my call, or stand up in the board meeting and announce that the numbers are fudged.",
+   "wgo:situation": "Your director asks you to present quarterly figures to the board with a forecast you believe is unrealistically rosy. Several colleagues' jobs depend on the board approving the plan.",
+   "wgo:why": "Silence fails courage and justice, while a public outburst is courage without prudence or temperance. Asking all four questions together (what is true, what is owed, what must be faced, what is the right measure) produces a response that is honest, fair, brave and proportionate at once, which is the point of treating the virtues as a set."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Would going without this actually cause me pain, or would I just feel I had fallen behind someone?",
@@ -5005,6 +5053,118 @@
    "dcterms:title": "Doubting the Kālāma-Sutta: Epistemology, ethics, and the 'sacred'",
    "schema:url": {
     "@id": "https://journal.equinoxpub.com/BSR/article/view/8856"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "The Republic, Book IV, trans. Benjamin Jowett",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Plato/republic.5.iv.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "LacusCurtius, University of Chicago (Bill Thayer)",
+   "dcterms:title": "Cicero, De Officiis, Book I (sections 152-161), Loeb Classical Library edition (1913)",
+   "schema:url": {
+    "@id": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/1F*.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library (Calvin University)",
+   "dcterms:title": "Summa Theologica, First Part of the Second Part, Question 61: Of the cardinal virtues, trans. Fathers of the English Dominican Province",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/aquinas/summa/FS/FS061.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Shawn Floyd)",
+   "dcterms:title": "Thomas Aquinas: Moral Philosophy",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/aq-moral"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (William O. Stephens)",
+   "dcterms:title": "Stoic Ethics",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/StoicEth/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Review of General Psychology, 9(3), 203-213 (American Psychological Association; Ovid abstract page)",
+   "dcterms:title": "Shared virtue: The convergence of valued human strengths across culture and history (Dahlsgaard, Peterson & Seligman, 2005)",
+   "schema:url": {
+    "@id": "https://www.ovid.com/journals/regep/pdf/00063906-200509000-00001~shared-virtue-the-convergence-of-valued-human-strengths"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Journal of Positive Psychology, 10(5), 407-424 (doi:10.1080/17439760.2014.994222; author copy hosted by the VIA Institute on Character)",
+   "dcterms:title": "Integrating psychological and cultural perspectives on virtue: The hierarchical structure of character strengths (McGrath, 2015)",
+   "schema:url": {
+    "@id": "https://1100lu.viacharacter.org/pdf/McGrath%20(2015%20JPosPsych)%20Three%20virtues.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies (author manuscript, CORE open-access repository)",
+   "dcterms:title": "The roots of virtue: A cross-cultural lexical analysis (Lomas)",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/219376057.pdf"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -14779,6 +14939,126 @@
     "@id": "wg:the-buddha"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:cardinal-virtues",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8"
+    }
+   ],
+   "rdfs:label": "Cardinal virtues",
+   "skos:altLabel": [
+    "classical virtues",
+    "four cardinal virtues",
+    "principal virtues",
+    "the four cardinal virtues",
+    "virtutes cardinales"
+   ],
+   "skos:broader": {
+    "@id": "wg:virtue-ethics"
+   },
+   "skos:definition": "The classical grouping of four virtues on which a good character was said to hinge: practical wisdom (prudence), justice, courage (fortitude) and temperance (moderation). First set out as the virtues of a well-ordered city and soul in Plato's Republic, it was taken up by the Stoics, Cicero and Christian moral theology, where it gained the name \"cardinal\", from the Latin cardo, hinge.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Cardinal virtues",
+   "skos:related": [
+    {
+     "@id": "wg:aristotle"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:justice-as-a-virtue"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:temperance"
+    },
+    {
+     "@id": "wg:theological-virtues"
+    },
+    {
+     "@id": "wg:via-character-strengths"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:hierarchical-structure-of-character-strengths-study"
+    },
+    {
+     "@id": "wg:roots-of-virtue-lexical-study"
+    }
+   ],
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example"
+   },
+   "wgo:file": "articles/virtues-and-character/cardinal-virtues.md",
+   "wgo:introducedBy": {
+    "@id": "wg:plato"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:republic"
+   },
+   "wgo:level": "introductory",
+   "wgo:requires": {
+    "@id": "wg:virtue-ethics"
+   },
+   "wgo:rootedIn": [
+    {
+     "@id": "wg:christianity"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:shared-virtue-study"
+   }
   },
   {
    "@id": "wg:classification-of-desires",

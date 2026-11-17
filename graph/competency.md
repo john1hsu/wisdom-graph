@@ -183,6 +183,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:impermanence` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
+| `wg:christianity` | `wg:cardinal-virtues` |
 | `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:stewardship` |
 | `wg:confucianism` | `wg:compassion` |
@@ -194,9 +195,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:daoism` | `wg:contentment` |
 | `wg:daoism` | `wg:humble-leadership` |
 | `wg:epicureanism` | `wg:classification-of-desires` |
-| `wg:epicureanism` | `wg:contentment` |
 
-…and 17 more.
+…and 19 more.
 
 ## The doctrine of the mean
 

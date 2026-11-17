@@ -476,6 +476,70 @@
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/sramana-movement> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/the-buddha> .
 <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What do I actually know here, and what am I only assuming or hoping?" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What do I owe each person affected, including the people who are not in the room?" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is fear of discomfort stopping me from doing what I already judge to be right?" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is appetite, anger or the wish to look good pushing me past the right measure?" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Am I leaning hard on one virtue, such as boldness or caution, at the expense of the others?" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Check what the data actually support, raise the concern privately with the director first with the evidence and an honest alternative framing, and escalate calmly if it is ignored." .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Either keep quiet because it isn't my call, or stand up in the board meeting and announce that the numbers are fudged." .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Your director asks you to present quarterly figures to the board with a forecast you believe is unrealistically rosy. Several colleagues' jobs depend on the board approving the plan." .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Silence fails courage and justice, while a public outburst is courage without prudence or temperance. Asking all four questions together (what is true, what is owed, what must be faced, what is the right measure) produces a response that is honest, fair, brave and proportionate at once, which is the point of treating the virtues as a set." .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2000/01/rdf-schema#label> "Cardinal virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "classical virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "four cardinal virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "principal virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "the four cardinal virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "virtutes cardinales" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#definition> "The classical grouping of four virtues on which a good character was said to hinge: practical wisdom (prudence), justice, courage (fortitude) and temperance (moderation). First set out as the virtues of a well-ordered city and soul in Plato's Republic, it was taken up by the Stoics, Cicero and Christian moral theology, where it gained the name \"cardinal\", from the Latin cardo, hinge." .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cardinal virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/justice-as-a-virtue> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theological-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/via-character-strengths> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/hierarchical-structure-of-character-strengths-study> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/roots-of-virtue-lexical-study> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/example> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/cardinal-virtues.md" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/plato> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/republic> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/christianity> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+<https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/shared-virtue-study> .
 <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Would going without this actually cause me pain, or would I just feel I had fallen behind someone?" .
 <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
@@ -5234,6 +5298,54 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/buddhism/s6> <https://schema.org/url> <https://journal.equinoxpub.com/BSR/article/view/8856> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> <http://purl.org/dc/terms/title> "The Republic, Book IV, trans. Benjamin Jowett" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1> <https://schema.org/url> <https://classics.mit.edu/Plato/republic.5.iv.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> <http://purl.org/dc/terms/publisher> "LacusCurtius, University of Chicago (Bill Thayer)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> <http://purl.org/dc/terms/title> "Cicero, De Officiis, Book I (sections 152-161), Loeb Classical Library edition (1913)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s2> <https://schema.org/url> <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/1F*.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library (Calvin University)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> <http://purl.org/dc/terms/title> "Summa Theologica, First Part of the Second Part, Question 61: Of the cardinal virtues, trans. Fathers of the English Dominican Province" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s3> <https://schema.org/url> <https://ccel.org/ccel/aquinas/summa/FS/FS061.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> <http://purl.org/dc/terms/publisher> "Internet Encyclopedia of Philosophy (Shawn Floyd)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> <http://purl.org/dc/terms/title> "Thomas Aquinas: Moral Philosophy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s4> <https://schema.org/url> <https://iep.utm.edu/aq-moral> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> <http://purl.org/dc/terms/publisher> "Internet Encyclopedia of Philosophy (William O. Stephens)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> <http://purl.org/dc/terms/title> "Stoic Ethics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s5> <https://schema.org/url> <https://iep.utm.edu/StoicEth/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> <http://purl.org/dc/terms/publisher> "Review of General Psychology, 9(3), 203-213 (American Psychological Association; Ovid abstract page)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> <http://purl.org/dc/terms/title> "Shared virtue: The convergence of valued human strengths across culture and history (Dahlsgaard, Peterson & Seligman, 2005)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s6> <https://schema.org/url> <https://www.ovid.com/journals/regep/pdf/00063906-200509000-00001~shared-virtue-the-convergence-of-valued-human-strengths> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> <http://purl.org/dc/terms/publisher> "The Journal of Positive Psychology, 10(5), 407-424 (doi:10.1080/17439760.2014.994222; author copy hosted by the VIA Institute on Character)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> <http://purl.org/dc/terms/title> "Integrating psychological and cultural perspectives on virtue: The hierarchical structure of character strengths (McGrath, 2015)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s7> <https://schema.org/url> <https://1100lu.viacharacter.org/pdf/McGrath%20(2015%20JPosPsych)%20Three%20virtues.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> <http://purl.org/dc/terms/publisher> "Journal of Happiness Studies (author manuscript, CORE open-access repository)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> <http://purl.org/dc/terms/title> "The roots of virtue: A cross-cultural lexical analysis (Lomas)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s8> <https://schema.org/url> <https://core.ac.uk/download/219376057.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://purl.org/dc/terms/publisher> "Columbia College Core Curriculum reader, Columbia University" .
 <https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1> <http://purl.org/dc/terms/title> "Epicurus, Letter to Menoeceus (English translation)" .

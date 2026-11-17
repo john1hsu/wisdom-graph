@@ -1063,6 +1063,23 @@ Ask yourself:
 - Am I calling a choice "balanced" just because it sits halfway between two options, rather than because it fits the situation?
 - Is the strength of my reaction proportionate to how serious this actually is?
 
+### [Cardinal virtues](../articles/virtues-and-character/cardinal-virtues.md) — Framework
+
+*Your director asks you to present quarterly figures to the board with a forecast you believe is unrealistically rosy. Several colleagues' jobs depend on the board approving the plan.*
+
+| Before | After |
+|---|---|
+| Either keep quiet because it isn't my call, or stand up in the board meeting and announce that the numbers are fudged. | Check what the data actually support, raise the concern privately with the director first with the evidence and an honest alternative framing, and escalate calmly if it is ignored. |
+
+**Why:** Silence fails courage and justice, while a public outburst is courage without prudence or temperance. Asking all four questions together (what is true, what is owed, what must be faced, what is the right measure) produces a response that is honest, fair, brave and proportionate at once, which is the point of treating the virtues as a set.
+
+Ask yourself:
+- What do I actually know here, and what am I only assuming or hoping?
+- What do I owe each person affected, including the people who are not in the room?
+- Is fear of discomfort stopping me from doing what I already judge to be right?
+- Is appetite, anger or the wish to look good pushing me past the right measure?
+- Am I leaning hard on one virtue, such as boldness or caution, at the expense of the others?
+
 ### [Courage](../articles/virtues-and-character/courage.md) — Virtue
 
 *In a planning meeting, a senior director presents a launch date that you know the test results cannot support. Everyone else is nodding.*
