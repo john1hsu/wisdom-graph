@@ -6974,6 +6974,102 @@
   ]
  },
  {
+  "id": "wg:lifespan-developmental-psychology",
+  "title": "Lifespan developmental psychology",
+  "aliases": [
+   "life-span developmental psychology",
+   "lifespan psychology",
+   "life-span psychology",
+   "lifespan perspective",
+   "life-span approach to development"
+  ],
+  "type": "Field",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/lifespan-developmental-psychology.md",
+  "created": "2026-11-17",
+  "summary": "The branch of developmental psychology that studies how people change from conception into very old age, treating development as lifelong, multidirectional, a mix of gains and losses, plastic, and shaped by history and context; the field in which much of the modern science of wisdom grew up.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:developmental-psychology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socioemotional-selectivity-theory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:positivity-effect-in-ageing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:selective-optimization-with-compensation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:paul-baltes",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:erik-erikson",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:ageing",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:soc-at-work-meta-analysis",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:soc-resources-successful-aging-study",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://core.ac.uk/download/191914562.pdf",
+   "https://pure.mpg.de/pubman/item/item_2103220_7/component/file_2103219/PB_On_1997.pdf",
+   "https://www.andrews.edu/~rbailey/Chapter%20one/1776893.pdf",
+   "https://www.deepdyve.com/lp/wiley/the-selection-optimization-and-compensation-model-in-the-work-context-ycMNivEinx",
+   "https://research.library.fordham.edu/psych_facultypubs/50"
+  ]
+ },
+ {
   "id": "wg:linda-hill",
   "title": "Linda A. Hill",
   "aliases": [

@@ -10454,6 +10454,76 @@
    "wgo:sourceType": "community"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Developmental Psychology, 23(5), 611–626 (Paul B. Baltes, 1987), via CORE",
+   "dcterms:title": "Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/191914562.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Psychologist, 52(4), 366–380 (Paul B. Baltes, 1997), Max Planck Society repository",
+   "dcterms:title": "On the incomplete architecture of human ontogeny: Selection, optimization, and compensation as foundation of developmental theory",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2103220_7/component/file_2103219/PB_On_1997.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Annual Review of Psychology, 50, 471–507 (Baltes, Staudinger & Lindenberger, 1999), course copy at Andrews University",
+   "dcterms:title": "Lifespan psychology: Theory and application to intellectual functioning",
+   "schema:url": {
+    "@id": "https://www.andrews.edu/~rbailey/Chapter%20one/1776893.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Organizational Behavior, 38(2) (Moghimi, Zacher, Scheibe & Van Yperen, 2017; doi:10.1002/job.2108), via DeepDyve",
+   "dcterms:title": "The selection, optimization, and compensation model in the work context: A systematic review and meta-analysis of two decades of research",
+   "schema:url": {
+    "@id": "https://www.deepdyve.com/lp/wiley/the-selection-optimization-and-compensation-model-in-the-work-context-ycMNivEinx"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychology and Aging, 21(2), 253–265 (Jopp & Smith, 2006; doi:10.1037/0882-7974.21.2.253), Fordham University Research Commons",
+   "dcterms:title": "Resources and life-management strategies as determinants of successful aging: On the protective effect of selection, optimization, and compensation",
+   "schema:url": {
+    "@id": "https://research.library.fordham.edu/psych_facultypubs/50"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/linda-hill/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -22650,6 +22720,96 @@
    "wgo:requires": {
     "@id": "wg:self-reflection"
    }
+  },
+  {
+   "@id": "wg:lifespan-developmental-psychology",
+   "@type": "wgo:Field",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5"
+    }
+   ],
+   "rdfs:label": "Lifespan developmental psychology",
+   "skos:altLabel": [
+    "life-span approach to development",
+    "life-span developmental psychology",
+    "life-span psychology",
+    "lifespan perspective",
+    "lifespan psychology"
+   ],
+   "skos:broader": {
+    "@id": "wg:developmental-psychology"
+   },
+   "skos:definition": "The branch of developmental psychology that studies how people change from conception into very old age, treating development as lifelong, multidirectional, a mix of gains and losses, plastic, and shaped by history and context; the field in which much of the modern science of wisdom grew up.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Lifespan developmental psychology",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:positivity-effect-in-ageing"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:selective-optimization-with-compensation"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    },
+    {
+     "@id": "wg:wisdom-and-age"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:ageing"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/science-of-wisdom/lifespan-developmental-psychology.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:erik-erikson"
+    },
+    {
+     "@id": "wg:paul-baltes"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:soc-at-work-meta-analysis"
+    },
+    {
+     "@id": "wg:soc-resources-successful-aging-study"
+    }
+   ]
   },
   {
    "@id": "wg:linda-hill",

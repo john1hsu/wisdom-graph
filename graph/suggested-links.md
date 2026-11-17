@@ -12,12 +12,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.14 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
 | 3.13 | `wg:aristotle` | `wg:socratic-philosophy` | `wg:ancient-greek-philosophy`, `wg:eudaimonia`, `wg:plato`, `wg:socrates`, `wg:virtue-ethics` |
 | 3.05 | `wg:balance-theory-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:leading-others`, `wg:perspective-taking` |
+| 3.02 | `wg:lifespan-developmental-psychology` | `wg:vivian-clayton` | `wg:ageing`, `wg:erik-erikson`, `wg:paul-baltes`, `wg:psychology-of-wisdom` |
 | 3.01 | `wg:adversity` | `wg:equanimity` | `wg:acceptance`, `wg:buddhism`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:impermanence` |
 | 2.99 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 2.97 | `wg:personal-and-general-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:learning-from-experience`, `wg:self-distancing` |
 | 2.94 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
 | 2.90 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
-| 2.87 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
+| 2.86 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
 | 2.86 | `wg:aristotle` | `wg:temperance` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
 | 2.71 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity` |
 | 2.70 | `wg:doctrine-of-the-mean` | `wg:intellectual-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-humility`, `wg:moral-virtues` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.64 | `wg:balance-theory-of-wisdom` | `wg:wisdom` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:practical-wisdom` |
 | 2.64 | `wg:practical-wisdom` | `wg:three-dimensional-wisdom-model` | `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:leading-others`, `wg:psychology-of-wisdom`, `wg:vivian-clayton` |
 | 2.62 | `wg:perspective-taking` | `wg:psychology-of-wisdom` | `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict` |
-| 2.62 | `wg:theoretical-wisdom` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:eudaimonia`, `wg:intellectual-humility`, `wg:intellectual-virtues` |

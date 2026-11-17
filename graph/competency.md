@@ -72,6 +72,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:adversity` | `wg:reflective-journaling` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
+| `wg:ageing` | `wg:lifespan-developmental-psychology` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:community-decision-making` | `wg:imaginary-future-generations` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:golden-rule` |
 | `wg:leading-others` | `wg:humble-leadership` |
-| `wg:leading-others` | `wg:kill-criteria` |
 
-…and 22 more.
+…and 23 more.
 
 ## Myths and contested advice
 
@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 
-…and 45 more.
+…and 46 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 |---|---|
 | `wg:ancient-egyptian-wisdom-literature` | wgo:Tradition |
 | `wg:greed` | wgo:Vice |
+| `wg:lifespan-developmental-psychology` | wgo:Field |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |

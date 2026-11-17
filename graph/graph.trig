@@ -575,6 +575,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/science-of-wisdom/lifespan-developmental-psychology.md" .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/science-of-wisdom/psychology-of-wisdom.md" .
@@ -7283,6 +7291,73 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/common-wisdom-model/s6> <https://schema.org/url> <https://oecs.knowledgefutures.org/pub/wdkwb956> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2000/01/rdf-schema#label> "Lifespan developmental psychology" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#altLabel> "life-span approach to development" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#altLabel> "life-span developmental psychology" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#altLabel> "life-span psychology" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#altLabel> "lifespan perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#altLabel> "lifespan psychology" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#definition> "The branch of developmental psychology that studies how people change from conception into very old age, treating development as lifelong, multidirectional, a mix of gains and losses, plastic, and shaped by history and context; the field in which much of the modern science of wisdom grew up." .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lifespan developmental psychology" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/selective-optimization-with-compensation> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "science-of-wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/science-of-wisdom/lifespan-developmental-psychology.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/erik-erikson> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/soc-at-work-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/soc-resources-successful-aging-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> <http://purl.org/dc/terms/publisher> "Developmental Psychology, 23(5), 611–626 (Paul B. Baltes, 1987), via CORE" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> <http://purl.org/dc/terms/title> "Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1> <https://schema.org/url> <https://core.ac.uk/download/191914562.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> <http://purl.org/dc/terms/publisher> "American Psychologist, 52(4), 366–380 (Paul B. Baltes, 1997), Max Planck Society repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> <http://purl.org/dc/terms/title> "On the incomplete architecture of human ontogeny: Selection, optimization, and compensation as foundation of developmental theory" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s2> <https://schema.org/url> <https://pure.mpg.de/pubman/item/item_2103220_7/component/file_2103219/PB_On_1997.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> <http://purl.org/dc/terms/publisher> "Annual Review of Psychology, 50, 471–507 (Baltes, Staudinger & Lindenberger, 1999), course copy at Andrews University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> <http://purl.org/dc/terms/title> "Lifespan psychology: Theory and application to intellectual functioning" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s3> <https://schema.org/url> <https://www.andrews.edu/~rbailey/Chapter%20one/1776893.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> <http://purl.org/dc/terms/publisher> "Journal of Organizational Behavior, 38(2) (Moghimi, Zacher, Scheibe & Van Yperen, 2017; doi:10.1002/job.2108), via DeepDyve" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> <http://purl.org/dc/terms/title> "The selection, optimization, and compensation model in the work context: A systematic review and meta-analysis of two decades of research" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s4> <https://schema.org/url> <https://www.deepdyve.com/lp/wiley/the-selection-optimization-and-compensation-model-in-the-work-context-ycMNivEinx> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> <http://purl.org/dc/terms/publisher> "Psychology and Aging, 21(2), 253–265 (Jopp & Smith, 2006; doi:10.1037/0882-7974.21.2.253), Fordham University Research Commons" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> <http://purl.org/dc/terms/title> "Resources and life-management strategies as determinants of successful aging: On the protective effect of selection, optimization, and compensation" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s5> <https://schema.org/url> <https://research.library.fordham.edu/psych_facultypubs/50> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -13264,6 +13339,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
+  <https://github.com/john1hsu/wisdom-graph/id/ageing> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -13373,6 +13449,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
@@ -13397,12 +13474,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
@@ -13567,6 +13646,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
@@ -13807,6 +13887,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14026,6 +14115,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+  <https://github.com/john1hsu/wisdom-graph/id/erik-erikson> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/erik-erikson> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
   <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/cultural-anthropologists> .
@@ -14457,6 +14547,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -14722,6 +14813,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
@@ -14745,7 +14837,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/life-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
-  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
@@ -15055,6 +15147,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
+  <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/perceived-temporal-scarcity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15147,6 +15240,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-growth> .
@@ -15264,6 +15358,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
@@ -15279,6 +15374,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/robert-sternberg> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
@@ -15375,6 +15471,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/resilience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/resilience> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/post-traumatic-growth> .
@@ -15533,6 +15630,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+  <https://github.com/john1hsu/wisdom-graph/id/selective-optimization-with-compensation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/self-centeredness> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
@@ -15689,6 +15787,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/soc-at-work-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/soc-resources-successful-aging-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
@@ -15718,6 +15818,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ikigai> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
@@ -15935,6 +16036,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
@@ -16114,8 +16216,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/william-damon> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-fluid-intelligence-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-hard-times-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
