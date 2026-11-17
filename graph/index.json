@@ -12459,6 +12459,121 @@
   ]
  },
  {
+  "id": "wg:wisdom-and-age",
+  "title": "Wisdom and age",
+  "aliases": [
+   "age and wisdom",
+   "older and wiser",
+   "does wisdom come with age",
+   "age differences in wisdom",
+   "wisdom across the lifespan"
+  ],
+  "type": "Phenomenon",
+  "domain": "science-of-wisdom",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/wisdom-and-age.md",
+  "created": "2026-11-17",
+  "summary": "The observed, uneven relationship between chronological age and wisdom: some kinds of wise reasoning are stronger in older adults, other measures show no gain or a slight decline, and age seems to matter only when combined with the right experiences, reflection and culture.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ageing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socioemotional-selectivity-theory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:personal-and-general-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:reasoning-about-social-conflicts-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:aging-and-wisdom-culture-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:how-to-measure-wisdom-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:wisdom-and-fluid-intelligence-study",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:learning-from-experience",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:lifespan-developmental-psychology",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf",
+   "https://www.scilit.net/publications/e0aa82747956559ce21adf08fa9e686b",
+   "https://core.ac.uk/download/215255572.pdf",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full",
+   "https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/development-of-wisdom-during-adulthood/36DD0A95F11176DE7042CEFD5ADA50C1",
+   "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/wisdom-and-fluid-intelligence-are-dissociable-in-healthy-older-adults/43B96A4356BF006EFEF38CBBF0FF7B4F"
+  ]
+ },
+ {
   "id": "wg:wisdom-and-well-being",
   "title": "Wisdom and well-being",
   "aliases": [

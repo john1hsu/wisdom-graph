@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
 
-…and 38 more.
+…and 40 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -155,6 +155,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:virtue-ethics` | wgo:Field |
 | `wg:weakness-of-will` | wgo:Obstacle |
 | `wg:wisdom` | wgo:Concept |
+| `wg:wisdom-and-age` | wgo:Phenomenon |
 | `wg:wisdom-and-well-being` | wgo:Phenomenon |
 
 ## Orphan articles (gap)

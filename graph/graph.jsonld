@@ -14660,6 +14660,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000; doi:10.1037/0003-066X.55.1.122); Max Planck Society repository",
+   "dcterms:title": "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Proceedings of the National Academy of Sciences, 107(16), 7246–7250 (Grossmann, Na, Varnum, Park, Kitayama & Nisbett, 2010; doi:10.1073/pnas.1001715107); Scilit record",
+   "dcterms:title": "Reasoning about social conflicts improves into old age",
+   "schema:url": {
+    "@id": "https://www.scilit.net/publications/e0aa82747956559ce21adf08fa9e686b"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Science, 23(10), 1059–1066 (Grossmann, Karasawa, Izumi, Na, Varnum, Kitayama & Nisbett, 2012; doi:10.1177/0956797612446025); CORE open-access copy",
+   "dcterms:title": "Aging and wisdom: Culture matters",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/215255572.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng, Redzanowski, Dorner, Straßer & Wiedermann, 2013; doi:10.3389/fpsyg.2013.00405)",
+   "dcterms:title": "How to measure wisdom: Content, reliability, and validity of five measures",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "In R. J. Sternberg & J. Glück (eds.), The Cambridge Handbook of Wisdom, ch. 15, pp. 323–346 (Glück, 2019); Cambridge University Press",
+   "dcterms:title": "The development of wisdom during adulthood",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/books/cambridge-handbook-of-wisdom/development-of-wisdom-during-adulthood/36DD0A95F11176DE7042CEFD5ADA50C1"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "International Psychogeriatrics, 34(3), 229–239 (Lindbergh, Romero-Kornblum, … Jeste, Kramer & Chiong, 2022); Cambridge University Press",
+   "dcterms:title": "Wisdom and fluid intelligence are dissociable in healthy older adults",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/wisdom-and-fluid-intelligence-are-dissociable-in-healthy-older-adults/43B96A4356BF006EFEF38CBBF0FF7B4F"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -26492,6 +26576,111 @@
    ],
    "wgo:supportedBy": {
     "@id": "wg:expert-consensus-on-wisdom-study"
+   }
+  },
+  {
+   "@id": "wg:wisdom-and-age",
+   "@type": "wgo:Phenomenon",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-age/s6"
+    }
+   ],
+   "rdfs:label": "Wisdom and age",
+   "skos:altLabel": [
+    "age and wisdom",
+    "age differences in wisdom",
+    "does wisdom come with age",
+    "older and wiser",
+    "wisdom across the lifespan"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "skos:definition": "The observed, uneven relationship between chronological age and wisdom: some kinds of wise reasoning are stronger in older adults, other measures show no gain or a slight decline, and age seems to matter only when combined with the right experiences, reflection and culture.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Wisdom and age",
+   "skos:related": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:personal-and-general-wisdom"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wisdom-and-well-being"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:how-to-measure-wisdom-study"
+    },
+    {
+     "@id": "wg:wisdom-and-fluid-intelligence-study"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:aging-and-wisdom-culture-study"
+    },
+    {
+     "@id": "wg:reasoning-about-social-conflicts-study"
+    }
+   ],
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:explainedBy": {
+    "@id": "wg:learning-from-experience"
+   },
+   "wgo:file": "articles/science-of-wisdom/wisdom-and-age.md",
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:wisdom"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:lifespan-developmental-psychology"
    }
   },
   {
