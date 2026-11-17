@@ -11879,6 +11879,123 @@
   ]
  },
  {
+  "id": "wg:wisdom-and-well-being",
+  "title": "Wisdom and well-being",
+  "aliases": [
+   "are wise people happier",
+   "wisdom and happiness",
+   "wisdom and life satisfaction",
+   "wisdom–well-being link"
+  ],
+  "type": "Phenomenon",
+  "domain": "foundations",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/foundations/wisdom-and-well-being.md",
+  "created": "2026-11-17",
+  "summary": "The observed, modest and uneven association between wisdom and well-being: people who score high on wisdom tend to report good lives, but many people are satisfied without being especially wise, and the link depends heavily on how wisdom and well-being are measured.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:personal-and-general-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-philosophy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:wisdom-and-life-satisfaction-in-old-age-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:route-to-well-being-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:self-reported-wisdom-and-happiness-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:looking-beyond-linear-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:wisdom-related-knowledge-correlates-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:resilience",
+    "source": "s7",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9546793/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053",
+   "https://repub.eur.nl/pub/65694/Repub_65694_O-A.pdf",
+   "https://psychsoc.gerontologyjournals.org/cgi/content/abstract/52/1/P15",
+   "https://scilit.com/publications/e58de4494c2d4001850d989e1e92e37b",
+   "https://plato.stanford.edu/entries/ethics-ancient/",
+   "https://wisdomcenter.uchicago.edu/news/wisdom-news/how-wisdom-resilience-and-mastery-work-together-boost-well-being-old-age"
+  ]
+ },
+ {
   "id": "wg:wisdom-in-professions",
   "title": "Wisdom in the professions",
   "aliases": [

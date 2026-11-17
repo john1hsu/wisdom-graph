@@ -14040,6 +14040,104 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 23(7), 3285–3313 (Glück, Weststrate & Scherpf, 2022; doi:10.1007/s10902-022-00540-3); PubMed Central",
+   "dcterms:title": "Looking beyond linear: A closer examination of the relationship between wisdom and wellbeing",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9546793/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology General, 142(3), 944–953 (Grossmann, Na, Varnum, Kitayama & Nisbett, 2013; doi:10.1037/a0029560); PubMed Central",
+   "dcterms:title": "A route to well-being: Intelligence versus wise reasoning",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Happiness Studies, 13, 481–499 (Bergsma & Ardelt, 2012; doi:10.1007/s10902-011-9275-5); Erasmus University Rotterdam repository",
+   "dcterms:title": "Self-reported wisdom and happiness: An empirical investigation",
+   "schema:url": {
+    "@id": "https://repub.eur.nl/pub/65694/Repub_65694_O-A.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journals of Gerontology Series B, Psychological Sciences and Social Sciences, 52(1), P15–P27 (Ardelt, 1997)",
+   "dcterms:title": "Wisdom and life satisfaction in old age",
+   "schema:url": {
+    "@id": "https://psychsoc.gerontologyjournals.org/cgi/content/abstract/52/1/P15"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 29(9), 1104–1119 (Kunzmann & Baltes, 2003; doi:10.1177/0146167203254506); Scilit record",
+   "dcterms:title": "Wisdom-related knowledge: Affective, motivational, and interpersonal correlates",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/e58de4494c2d4001850d989e1e92e37b"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Thorsrud; substantive revision 2021)",
+   "dcterms:title": "Ancient Ethical Theory",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/ethics-ancient/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Center for Practical Wisdom, University of Chicago (Wisdom in the News; report on Ardelt & Jeste, 2022)",
+   "dcterms:title": "How wisdom, resilience and mastery work together to boost well-being in old age",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/news/wisdom-news/how-wisdom-resilience-and-mastery-work-together-boost-well-being-old-age"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-in-professions/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -25265,6 +25363,113 @@
    "wgo:supportedBy": {
     "@id": "wg:expert-consensus-on-wisdom-study"
    }
+  },
+  {
+   "@id": "wg:wisdom-and-well-being",
+   "@type": "wgo:Phenomenon",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-and-well-being/s7"
+    }
+   ],
+   "rdfs:label": "Wisdom and well-being",
+   "skos:altLabel": [
+    "are wise people happier",
+    "wisdom and happiness",
+    "wisdom and life satisfaction",
+    "wisdom–well-being link"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "The observed, modest and uneven association between wisdom and well-being: people who score high on wisdom tend to report good lives, but many people are satisfied without being especially wise, and the link depends heavily on how wisdom and well-being are measured.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Wisdom and well-being",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:personal-and-general-wisdom"
+    },
+    {
+     "@id": "wg:socratic-philosophy"
+    },
+    {
+     "@id": "wg:stoicism"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:wisdom-related-knowledge-correlates-study"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:route-to-well-being-study"
+    },
+    {
+     "@id": "wg:wisdom-and-life-satisfaction-in-old-age-study"
+    }
+   ],
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:explainedBy": {
+    "@id": "wg:resilience"
+   },
+   "wgo:file": "articles/foundations/wisdom-and-well-being.md",
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:wisdom"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:looking-beyond-linear-study"
+    },
+    {
+     "@id": "wg:self-reported-wisdom-and-happiness-study"
+    }
+   ]
   },
   {
    "@id": "wg:wisdom-in-professions",
