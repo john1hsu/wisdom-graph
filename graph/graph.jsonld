@@ -1740,6 +1740,46 @@
    "wgo:why": "Gratitude notices both the benefit and the goodwill behind it, then answers with thanks and goodwill rather than taking it for granted or treating it as a debt to settle and forget."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/greed/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I got this, would I actually feel I had enough, or would I immediately want the next thing?",
+   "wgo:questionFor": {
+    "@id": "wg:greed"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/greed/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who loses something if I take this, and would I be comfortable explaining the trade to them face to face?",
+   "wgo:questionFor": {
+    "@id": "wg:greed"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/greed/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating \"more\" as a goal in itself, without being able to say what it is for?",
+   "wgo:questionFor": {
+    "@id": "wg:greed"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/greed/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I comparing what I have with what someone else has, rather than with what I need?",
+   "wgo:questionFor": {
+    "@id": "wg:greed"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/greed/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "\"I've made my number. What would I advise someone else to do here?\" She moves the order as the client asked, processes the colleague's deal on time, and writes down what the extra money would actually have changed for her. Her number is lower; the client and the colleague both keep working with her.",
+   "wgo:before": "\"A target is a floor, not a ceiling.\" She leans on the client to keep the full order this quarter, quietly lets the colleague's paperwork slip down the queue, and books the record number. The client is cooler at the next renewal, and the colleague stops sharing leads.",
+   "wgo:situation": "A sales lead has already hit this quarter's target. Two days before the books close, a long-standing client asks to move part of an order to next quarter for budget reasons, and a colleague's deal could share a bonus pool with hers.",
+   "wgo:why": "Greed is defined by never feeling that enough is enough and by discounting others' losses; naming a point of \"enough\" in advance and counting the costs to people around you puts back the two checks that the desire for more switches off."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I judging my grief, or someone else's, against a schedule of stages that the evidence does not support?",
@@ -7940,6 +7980,90 @@
     "@id": "https://gutenberg.org/cache/epub/3794/pg3794-images.html"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 108(6), 917–933 (Seuntjens, Zeelenberg, van de Ven & Breugelmans, 2015; doi:10.1037/pspp0000031; Tilburg University research portal)",
+   "dcterms:title": "Dispositional greed",
+   "schema:url": {
+    "@id": "https://research.tilburguniversity.edu/en/publications/dispositional-greed/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "British Journal of Psychology, 106(3), 505–525 (Seuntjens, Zeelenberg, Breugelmans & van de Ven, 2015; doi:10.1111/bjop.12100; Tilburg University research portal)",
+   "dcterms:title": "Defining greed",
+   "schema:url": {
+    "@id": "https://research.tilburguniversity.edu/en/publications/defining-greed/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Current Opinion in Psychology, 46, 101323 (Zeelenberg & Breugelmans, 2022; doi:10.1016/j.copsyc.2022.101323; author manuscript via CORE)",
+   "dcterms:title": "The good, bad and ugly of dispositional greed",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/498163486.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book IV, Part 1, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Access to Insight (Legacy Edition)",
+   "dcterms:title": "Mula Sutta: Roots (AN 3.69), trans. Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/an/an03/an03.069.than.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Scientific Data, 4, 160120 (Balakrishnan, Palma, Patenaude & Campbell, 2017; doi:10.1038/sdata.2016.120; open-access copy via CORE)",
+   "dcterms:title": "A 4-study replication of the moderating effects of greed on socioeconomic status and unethical behaviour",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/129542995.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1",
@@ -19007,6 +19131,105 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:counting-blessings-study"
+   }
+  },
+  {
+   "@id": "wg:greed",
+   "@type": "wgo:Vice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/greed/s6"
+    }
+   ],
+   "rdfs:label": "Greed",
+   "skos:altLabel": [
+    "acquisitiveness",
+    "avarice",
+    "avariciousness",
+    "dispositional greed",
+    "graspingness",
+    "lobha"
+   ],
+   "skos:broader": {
+    "@id": "wg:vice"
+   },
+   "skos:definition": "A persistent, never-satisfied desire to acquire more of what one values (money, possessions, status, power), typically pursued with little regard for what others lose; wisdom traditions treat it as a root of wrongdoing, and psychologists now measure it as a stable trait linked to taking more from others and to lower life satisfaction.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Greed",
+   "skos:related": [
+    {
+     "@id": "wg:classification-of-desires"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:envy"
+    },
+    {
+     "@id": "wg:hedonic-adaptation"
+    },
+    {
+     "@id": "wg:hubris"
+    },
+    {
+     "@id": "wg:materialism"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:simplicity"
+    },
+    {
+     "@id": "wg:temperance"
+    }
+   ],
+   "wgo:causes": {
+    "@id": "wg:envy"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:contentment"
+   },
+   "wgo:deficiencyOf": {
+    "@id": "wg:generosity"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:dispositional-greed-study"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/greed/example"
+   },
+   "wgo:file": "articles/virtues-and-character/greed.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:three-unwholesome-roots"
+   },
+   "wgo:undermines": {
+    "@id": "wg:well-being"
    }
   },
   {

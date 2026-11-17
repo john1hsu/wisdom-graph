@@ -2061,6 +2061,62 @@
 <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
 <https://github.com/john1hsu/wisdom-graph/id/gratitude> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/counting-blessings-study> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If I got this, would I actually feel I had enough, or would I immediately want the next thing?" .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Who loses something if I take this, and would I be comfortable explaining the trade to them face to face?" .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating \"more\" as a goal in itself, without being able to say what it is for?" .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I comparing what I have with what someone else has, rather than with what I need?" .
+<https://github.com/john1hsu/wisdom-graph/id/greed/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/greed/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"I've made my number. What would I advise someone else to do here?\" She moves the order as the client asked, processes the colleague's deal on time, and writes down what the extra money would actually have changed for her. Her number is lower; the client and the colleague both keep working with her." .
+<https://github.com/john1hsu/wisdom-graph/id/greed/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"A target is a floor, not a ceiling.\" She leans on the client to keep the full order this quarter, quietly lets the colleague's paperwork slip down the queue, and books the record number. The client is cooler at the next renewal, and the colleague stops sharing leads." .
+<https://github.com/john1hsu/wisdom-graph/id/greed/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A sales lead has already hit this quarter's target. Two days before the books close, a long-standing client asks to move part of an order to next quarter for budget reasons, and a colleague's deal could share a bonus pool with hers." .
+<https://github.com/john1hsu/wisdom-graph/id/greed/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Greed is defined by never feeling that enough is enough and by discounting others' losses; naming a point of \"enough\" in advance and counting the costs to people around you puts back the two checks that the desire for more switches off." .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Vice> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2000/01/rdf-schema#label> "Greed" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#altLabel> "acquisitiveness" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#altLabel> "avarice" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#altLabel> "avariciousness" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#altLabel> "dispositional greed" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#altLabel> "graspingness" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#altLabel> "lobha" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/vice> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#definition> "A persistent, never-satisfied desire to acquire more of what one values (money, possessions, status, power), typically pursued with little regard for what others lose; wisdom traditions treat it as a root of wrongdoing, and psychologists now measure it as a stable trait linked to taking more from others and to lower life satisfaction." .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greed" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/envy> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/materialism> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#causes> <https://github.com/john1hsu/wisdom-graph/id/envy> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#deficiencyOf> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/dispositional-greed-study> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/greed/example> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/greed.md" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/three-unwholesome-roots> .
+<https://github.com/john1hsu/wisdom-graph/id/greed> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
 <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I judging my grief, or someone else's, against a schedule of stages that the evidence does not support?" .
 <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
@@ -6876,6 +6932,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/gratitude/s6> <https://schema.org/url> <https://gutenberg.org/cache/epub/3794/pg3794-images.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 108(6), 917–933 (Seuntjens, Zeelenberg, van de Ven & Breugelmans, 2015; doi:10.1037/pspp0000031; Tilburg University research portal)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> <http://purl.org/dc/terms/title> "Dispositional greed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s1> <https://schema.org/url> <https://research.tilburguniversity.edu/en/publications/dispositional-greed/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> <http://purl.org/dc/terms/publisher> "British Journal of Psychology, 106(3), 505–525 (Seuntjens, Zeelenberg, Breugelmans & van de Ven, 2015; doi:10.1111/bjop.12100; Tilburg University research portal)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> <http://purl.org/dc/terms/title> "Defining greed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s2> <https://schema.org/url> <https://research.tilburguniversity.edu/en/publications/defining-greed/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> <http://purl.org/dc/terms/publisher> "Current Opinion in Psychology, 46, 101323 (Zeelenberg & Breugelmans, 2022; doi:10.1016/j.copsyc.2022.101323; author manuscript via CORE)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> <http://purl.org/dc/terms/title> "The good, bad and ugly of dispositional greed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s3> <https://schema.org/url> <https://core.ac.uk/download/498163486.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book IV, Part 1, trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s4> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> <http://purl.org/dc/terms/publisher> "Access to Insight (Legacy Edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> <http://purl.org/dc/terms/title> "Mula Sutta: Roots (AN 3.69), trans. Thanissaro Bhikkhu" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s5> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/an/an03/an03.069.than.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> <http://purl.org/dc/terms/publisher> "Scientific Data, 4, 160120 (Balakrishnan, Palma, Patenaude & Campbell, 2017; doi:10.1038/sdata.2016.120; open-access copy via CORE)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> <http://purl.org/dc/terms/title> "A 4-study replication of the moderating effects of greed on socioeconomic status and unethical behaviour" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/greed/s6> <https://schema.org/url> <https://core.ac.uk/download/129542995.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://purl.org/dc/terms/publisher> "Death Studies, 23(3), 197–224 (Stroebe & Schut, 1999); Utrecht University research portal" .
 <https://github.com/john1hsu/wisdom-graph/id/source/grief-and-loss/s1> <http://purl.org/dc/terms/title> "The Dual Process Model of coping with bereavement: Rationale and description" .

@@ -15,7 +15,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.02 | `wg:adversity` | `wg:equanimity` | `wg:acceptance`, `wg:buddhism`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:impermanence` |
 | 3.02 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 2.97 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
-| 2.93 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
+| 2.92 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
 | 2.91 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
 | 2.88 | `wg:aristotle` | `wg:temperance` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
 | 2.72 | `wg:doctrine-of-the-mean` | `wg:intellectual-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-humility`, `wg:moral-virtues` |

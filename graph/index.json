@@ -4108,6 +4108,124 @@
   ]
  },
  {
+  "id": "wg:greed",
+  "title": "Greed",
+  "aliases": [
+   "avarice",
+   "avariciousness",
+   "acquisitiveness",
+   "dispositional greed",
+   "graspingness",
+   "lobha"
+  ],
+  "type": "Vice",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/virtues-and-character/greed.md",
+  "created": "2026-11-17",
+  "summary": "A persistent, never-satisfied desire to acquire more of what one values (money, possessions, status, power), typically pursued with little regard for what others lose; wisdom traditions treat it as a root of wrongdoing, and psychologists now measure it as a stable trait linked to taking more from others and to lower life satisfaction.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:vice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:classification-of-desires"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:simplicity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:materialism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:envy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:temperance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hubris"
+   },
+   {
+    "predicate": "wgo:deficiencyOf",
+    "object": "wg:generosity",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:three-unwholesome-roots",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:dispositional-greed-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:causes",
+    "object": "wg:envy",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:well-being",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:contentment",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "If I got this, would I actually feel I had enough, or would I immediately want the next thing?",
+   "Who loses something if I take this, and would I be comfortable explaining the trade to them face to face?",
+   "Am I treating \"more\" as a goal in itself, without being able to say what it is for?",
+   "Am I comparing what I have with what someone else has, rather than with what I need?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A sales lead has already hit this quarter's target. Two days before the books close, a long-standing client asks to move part of an order to next quarter for budget reasons, and a colleague's deal could share a bonus pool with hers.",
+   "before": "\"A target is a floor, not a ceiling.\" She leans on the client to keep the full order this quarter, quietly lets the colleague's paperwork slip down the queue, and books the record number. The client is cooler at the next renewal, and the colleague stops sharing leads.",
+   "after": "\"I've made my number. What would I advise someone else to do here?\" She moves the order as the client asked, processes the colleague's deal on time, and writes down what the extra money would actually have changed for her. Her number is lower; the client and the colleague both keep working with her.",
+   "why": "Greed is defined by never feeling that enough is enough and by discounting others' losses; naming a point of \"enough\" in advance and counting the costs to people around you puts back the two checks that the desire for more switches off."
+  },
+  "source_urls": [
+   "https://research.tilburguniversity.edu/en/publications/dispositional-greed/",
+   "https://research.tilburguniversity.edu/en/publications/defining-greed/",
+   "https://core.ac.uk/download/498163486.pdf",
+   "https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html",
+   "https://accesstoinsight.org/tipitaka/an/an03/an03.069.than.html",
+   "https://core.ac.uk/download/129542995.pdf"
+  ]
+ },
+ {
   "id": "wg:grief-and-loss",
   "title": "Grief and bereavement",
   "aliases": [

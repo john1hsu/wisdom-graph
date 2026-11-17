@@ -35,8 +35,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, Hedonic adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
-| `wg:simplicity` | 3 | Contentment, greed, materialism |
-| `wg:classification-of-desires` | 2 | Contentment, greed |
+| `wg:simplicity` | 3 | Contentment, Greed, materialism |
+| `wg:classification-of-desires` | 2 | Contentment, Greed |
 | `wg:cognitive-defusion` | 2 | Acceptance, cognitive-fusion |
 | `wg:evening-review` | 2 | Self-reflection, anger |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
@@ -45,7 +45,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:kill-criteria` | 2 | Knowing when to quit, escalation-of-commitment |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
 | `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
-| `wg:memento-mori` | 2 | Equanimity, greed |
+| `wg:memento-mori` | 2 | Equanimity, Greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
 | `wg:process-model-of-emotion-regulation` | 2 | Emotion regulatory flexibility, Rumination |
 | `wg:right-speech` | 2 | Honesty, lying |
@@ -53,7 +53,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
-| `wg:contentment` | 1 | greed |
+| `wg:contentment` | 1 | Greed |
 | `wg:courage` | 1 | cowardice |
 | `wg:deliberation` | 1 | impetuosity |
 
@@ -127,15 +127,15 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:folly` | mixed |  |
 | `wg:giving-advice` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
+| `wg:greed` | mixed |  |
 | `wg:grief-and-loss` | mixed |  |
 | `wg:hedonic-adaptation` | mixed | `wg:lottery-wealth-well-being-study` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
-| `wg:implicit-theories-of-wisdom` | mixed |  |
 
-…and 37 more.
+…and 38 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -144,6 +144,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:giving-advice` | wgo:Context |
+| `wg:greed` | wgo:Vice |
 | `wg:hebrew-wisdom-literature` | wgo:Tradition |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
@@ -205,5 +206,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 
 _For each virtue, which vices lie on either side of it (deficiency and excess)?_ — `queries/10-doctrine-of-the-mean.rq`
 
-_No results._
+| virtue | deficiency | excess |
+|---|---|---|
+| `wg:generosity` | `wg:greed` |  |
 

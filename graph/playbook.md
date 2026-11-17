@@ -1175,6 +1175,22 @@ Ask yourself:
 - Is the person I'm learning from close enough to my own circumstances that their example is one I can actually follow?
 - Are there flaws in my role model I've stopped being willing to see?
 
+### [Greed](../articles/virtues-and-character/greed.md) — Vice
+
+*A sales lead has already hit this quarter's target. Two days before the books close, a long-standing client asks to move part of an order to next quarter for budget reasons, and a colleague's deal could share a bonus pool with hers.*
+
+| Before | After |
+|---|---|
+| "A target is a floor, not a ceiling." She leans on the client to keep the full order this quarter, quietly lets the colleague's paperwork slip down the queue, and books the record number. The client is cooler at the next renewal, and the colleague stops sharing leads. | "I've made my number. What would I advise someone else to do here?" She moves the order as the client asked, processes the colleague's deal on time, and writes down what the extra money would actually have changed for her. Her number is lower; the client and the colleague both keep working with her. |
+
+**Why:** Greed is defined by never feeling that enough is enough and by discounting others' losses; naming a point of "enough" in advance and counting the costs to people around you puts back the two checks that the desire for more switches off.
+
+Ask yourself:
+- If I got this, would I actually feel I had enough, or would I immediately want the next thing?
+- Who loses something if I take this, and would I be comfortable explaining the trade to them face to face?
+- Am I treating "more" as a goal in itself, without being able to say what it is for?
+- Am I comparing what I have with what someone else has, rather than with what I need?
+
 ### [Honesty](../articles/virtues-and-character/honesty.md) — Virtue
 
 *Your manager asks, in front of the team, whether the migration you lead is on track for Friday. It is not; a data problem surfaced yesterday and you have not yet told anyone.*
