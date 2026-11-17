@@ -346,6 +346,22 @@ Ask yourself:
 - If this turned out well, or badly, would I still be able to act on my values?
 - What part of this is up to me, and am I putting my energy there?
 
+### [Hedonic adaptation](../articles/emotions-and-equanimity/hedonic-adaptation.md) — Obstacle
+
+*Six months after a long-awaited move into a bigger flat with a garden, it no longer feels special, and you find yourself browsing listings for something larger still.*
+
+| Before | After |
+|---|---|
+| The thrill's gone, so this place obviously wasn't enough. The next one will fix it. | This is what getting used to things feels like, not proof the flat was a mistake. I'll use the garden in new ways, have friends over, and notice what I actually like here before I decide whether I truly need more. |
+
+**Why:** When joy fades, expectations tend to rise; deliberate variety and appreciation slow that drift, and naming it stops a normal fading from being misread as a reason to chase the next upgrade.
+
+Ask yourself:
+- Is this dissatisfaction about something actually wrong, or have I simply got used to something good?
+- When I last got what I wanted, how long did the lift last, and what did I want next?
+- Am I still noticing and varying how I enjoy this, or just owning it?
+- Am I assuming I will bounce back from this setback on my own, when it may need real action or support?
+
 ### [Negative visualization](../articles/emotions-and-equanimity/negative-visualization.md) — Practice
 
 1. Choose one thing you value and tend to take for granted, such as a relationship, your health, your job or an ordinary comfort.

@@ -2112,6 +2112,59 @@
 <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
 <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is this dissatisfaction about something actually wrong, or have I simply got used to something good?" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "When I last got what I wanted, how long did the lift last, and what did I want next?" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I still noticing and varying how I enjoy this, or just owning it?" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I assuming I will bounce back from this setback on my own, when it may need real action or support?" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "This is what getting used to things feels like, not proof the flat was a mistake. I'll use the garden in new ways, have friends over, and notice what I actually like here before I decide whether I truly need more." .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "The thrill's gone, so this place obviously wasn't enough. The next one will fix it." .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Six months after a long-awaited move into a bigger flat with a garden, it no longer feels special, and you find yourself browsing listings for something larger still." .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "When joy fades, expectations tend to rise; deliberate variety and appreciation slow that drift, and naming it stops a normal fading from being misread as a reason to chase the next upgrade." .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Obstacle> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2000/01/rdf-schema#label> "Hedonic adaptation" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#altLabel> "adaptation to life events" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#altLabel> "getting used to good things" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#altLabel> "happiness set point" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#altLabel> "hedonic treadmill" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#definition> "The tendency for the emotional impact of a lasting change, good or bad, to fade as it becomes the new normal; it quietly erodes the joy of gains and raises what we expect, though it is weaker and less complete than the popular \"treadmill\" image suggests." .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hedonic adaptation" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/lottery-wealth-well-being-study> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/life-events-adaptation-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation-prevention-model> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/hedonic-adaptation.md" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/philip-brickman> .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
 <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating enjoyment as frivolous, or meaning as a duty, rather than letting each do its own work in my life?" .
 <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
@@ -6737,6 +6790,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s6> <https://schema.org/url> <https://ebible.org/engjps/JOB42.htm> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 61(4), 305–314 (Diener, Lucas & Scollon, 2006), author copy via CORE" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> <http://purl.org/dc/terms/title> "Beyond the hedonic treadmill: Revising the adaptation theory of well-being" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1> <https://schema.org/url> <https://core.ac.uk/download/13249191.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology, 102(3), 592–615 (Luhmann, Hofmann, Eid & Lucas, 2012), DIW Berlin record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> <http://purl.org/dc/terms/title> "Subjective well-being and adaptation to life events: A meta-analysis" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2> <https://schema.org/url> <https://www.diw.de/de/diw_01.c.775342.de/s_7285.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> <http://purl.org/dc/terms/publisher> "Review of Economic Studies, 87, 2703–2726 (Lindqvist, Östling & Cesarini, 2020), Research Institute of Industrial Economics (IFN)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> <http://purl.org/dc/terms/title> "Long-run effects of lottery wealth on psychological well-being" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3> <https://schema.org/url> <https://www.ifn.se:443/media/tgufbbv5/2020-lindqvist-östling-cesarini-long-run-effects-of-lottery-wealth-on-psychological-well-being.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 38(5), 670–680 (Sheldon & Lyubomirsky, 2012), author copy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> <http://purl.org/dc/terms/title> "The challenge of staying happier: Testing the hedonic adaptation prevention model" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4> <https://schema.org/url> <https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Sheldon-Lyubomirsky-2012.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> <http://purl.org/dc/terms/publisher> "IZA Discussion Paper No. 6426 (Clark & Georgellis, 2012)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> <http://purl.org/dc/terms/title> "Back to baseline in Britain: Adaptation in the BHPS" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5> <https://schema.org/url> <https://docs.iza.org/dp6426.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (David Konstan; rev. 2022), section 4, \"Psychology and Ethics\"" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> <http://purl.org/dc/terms/title> "Epicurus" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/epicurus/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1> <http://purl.org/dc/terms/publisher> "Annual Review of Psychology, 52, 141–166 (Ryan & Deci, 2001; PDF hosted by the Wellspring Institute)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1> <http://purl.org/dc/terms/title> "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being" .

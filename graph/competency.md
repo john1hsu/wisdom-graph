@@ -32,7 +32,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
 | `wg:moral-case-deliberation` | 3 | Practical wisdom, moral-competence, moral-distress |
 | `wg:moral-habituation` | 3 | Courage, Temperance, cowardice |
-| `wg:negative-visualization` | 3 | Equanimity, Gratitude, hedonic-adaptation |
+| `wg:negative-visualization` | 3 | Equanimity, Gratitude, Hedonic adaptation |
 | `wg:perspective-taking` | 3 | Empathy, Wise reasoning, egocentric-bias |
 | `wg:self-distancing` | 3 | Rumination, Solomon's paradox, Wise reasoning |
 | `wg:classification-of-desires` | 2 | Contentment, greed |
@@ -128,14 +128,14 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:giving-advice` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:grief-and-loss` | mixed |  |
+| `wg:hedonic-adaptation` | mixed | `wg:lottery-wealth-well-being-study` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 | `wg:implementation-intentions` | mixed |  |
 | `wg:implicit-theories-of-wisdom` | mixed |  |
-| `wg:intellectual-humility` | mixed |  |
 
-…and 35 more.
+…and 36 more.
 
 ## Ideas with no recorded origin (gap)
 

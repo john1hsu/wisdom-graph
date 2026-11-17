@@ -4207,6 +4207,116 @@
   ]
  },
  {
+  "id": "wg:hedonic-adaptation",
+  "title": "Hedonic adaptation",
+  "aliases": [
+   "hedonic treadmill",
+   "adaptation to life events",
+   "getting used to good things",
+   "happiness set point"
+  ],
+  "type": "Obstacle",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/hedonic-adaptation.md",
+  "created": "2026-11-17",
+  "summary": "The tendency for the emotional impact of a lasting change, good or bad, to fade as it becomes the new normal; it quietly erodes the joy of gains and raises what we expect, though it is weaker and less complete than the popular \"treadmill\" image suggests.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:classification-of-desires"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:greed"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:life-events-adaptation-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:lottery-wealth-well-being-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:hedonic-adaptation-prevention-model",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:well-being",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:philip-brickman",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is this dissatisfaction about something actually wrong, or have I simply got used to something good?",
+   "When I last got what I wanted, how long did the lift last, and what did I want next?",
+   "Am I still noticing and varying how I enjoy this, or just owning it?",
+   "Am I assuming I will bounce back from this setback on my own, when it may need real action or support?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Six months after a long-awaited move into a bigger flat with a garden, it no longer feels special, and you find yourself browsing listings for something larger still.",
+   "before": "The thrill's gone, so this place obviously wasn't enough. The next one will fix it.",
+   "after": "This is what getting used to things feels like, not proof the flat was a mistake. I'll use the garden in new ways, have friends over, and notice what I actually like here before I decide whether I truly need more.",
+   "why": "When joy fades, expectations tend to rise; deliberate variety and appreciation slow that drift, and naming it stops a normal fading from being misread as a reason to chase the next upgrade."
+  },
+  "source_urls": [
+   "https://core.ac.uk/download/13249191.pdf",
+   "https://www.diw.de/de/diw_01.c.775342.de/s_7285.html",
+   "https://www.ifn.se:443/media/tgufbbv5/2020-lindqvist-östling-cesarini-long-run-effects-of-lottery-wealth-on-psychological-well-being.pdf",
+   "https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Sheldon-Lyubomirsky-2012.pdf",
+   "https://docs.iza.org/dp6426.pdf",
+   "https://plato.stanford.edu/ENTRIES/epicurus/"
+  ]
+ },
+ {
   "id": "wg:hedonic-and-eudaimonic-well-being",
   "title": "Hedonic and eudaimonic well-being",
   "aliases": [

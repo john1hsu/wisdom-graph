@@ -1772,6 +1772,46 @@
    "wgo:why": "Research finds no fixed sequence of stages, and moving back and forth between facing the loss and rebuilding daily life is a normal, healthy pattern rather than a sign of loving less."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this dissatisfaction about something actually wrong, or have I simply got used to something good?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-adaptation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When I last got what I wanted, how long did the lift last, and what did I want next?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-adaptation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I still noticing and varying how I enjoy this, or just owning it?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-adaptation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I assuming I will bounce back from this setback on my own, when it may need real action or support?",
+   "wgo:questionFor": {
+    "@id": "wg:hedonic-adaptation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "This is what getting used to things feels like, not proof the flat was a mistake. I'll use the garden in new ways, have friends over, and notice what I actually like here before I decide whether I truly need more.",
+   "wgo:before": "The thrill's gone, so this place obviously wasn't enough. The next one will fix it.",
+   "wgo:situation": "Six months after a long-awaited move into a bigger flat with a garden, it no longer feels special, and you find yourself browsing listings for something larger still.",
+   "wgo:why": "When joy fades, expectations tend to rise; deliberate variety and appreciation slow that drift, and naming it stops a normal fading from being misread as a reason to chase the next upgrade."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating enjoyment as frivolous, or meaning as a duty, rather than letting each do its own work in my life?",
@@ -7878,6 +7918,90 @@
     "@id": "https://ebible.org/engjps/JOB42.htm"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Psychologist, 61(4), 305–314 (Diener, Lucas & Scollon, 2006), author copy via CORE",
+   "dcterms:title": "Beyond the hedonic treadmill: Revising the adaptation theory of well-being",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/13249191.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 102(3), 592–615 (Luhmann, Hofmann, Eid & Lucas, 2012), DIW Berlin record",
+   "dcterms:title": "Subjective well-being and adaptation to life events: A meta-analysis",
+   "schema:url": {
+    "@id": "https://www.diw.de/de/diw_01.c.775342.de/s_7285.html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Review of Economic Studies, 87, 2703–2726 (Lindqvist, Östling & Cesarini, 2020), Research Institute of Industrial Economics (IFN)",
+   "dcterms:title": "Long-run effects of lottery wealth on psychological well-being",
+   "schema:url": {
+    "@id": "https://www.ifn.se:443/media/tgufbbv5/2020-lindqvist-östling-cesarini-long-run-effects-of-lottery-wealth-on-psychological-well-being.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 38(5), 670–680 (Sheldon & Lyubomirsky, 2012), author copy",
+   "dcterms:title": "The challenge of staying happier: Testing the hedonic adaptation prevention model",
+   "schema:url": {
+    "@id": "https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Sheldon-Lyubomirsky-2012.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "IZA Discussion Paper No. 6426 (Clark & Georgellis, 2012)",
+   "dcterms:title": "Back to baseline in Britain: Adaptation in the BHPS",
+   "schema:url": {
+    "@id": "https://docs.iza.org/dp6426.pdf"
+   },
+   "wgo:sourceType": "preprint"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (David Konstan; rev. 2022), section 4, \"Psychology and Ethics\"",
+   "dcterms:title": "Epicurus",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/epicurus/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1",
@@ -18689,6 +18813,100 @@
      "@id": "wg:contentment"
     }
    ]
+  },
+  {
+   "@id": "wg:hedonic-adaptation",
+   "@type": "wgo:Obstacle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-adaptation/s6"
+    }
+   ],
+   "rdfs:label": "Hedonic adaptation",
+   "skos:altLabel": [
+    "adaptation to life events",
+    "getting used to good things",
+    "happiness set point",
+    "hedonic treadmill"
+   ],
+   "skos:broader": {
+    "@id": "wg:well-being"
+   },
+   "skos:definition": "The tendency for the emotional impact of a lasting change, good or bad, to fade as it becomes the new normal; it quietly erodes the joy of gains and raises what we expect, though it is weaker and less complete than the popular \"treadmill\" image suggests.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Hedonic adaptation",
+   "skos:related": [
+    {
+     "@id": "wg:classification-of-desires"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:gratitude"
+    },
+    {
+     "@id": "wg:greed"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:savoring"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:lottery-wealth-well-being-study"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:life-events-adaptation-meta-analysis"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:hedonic-adaptation-prevention-model"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/hedonic-adaptation.md",
+   "wgo:introducedBy": {
+    "@id": "wg:philip-brickman"
+   },
+   "wgo:level": "introductory",
+   "wgo:undermines": {
+    "@id": "wg:well-being"
+   }
   },
   {
    "@id": "wg:hedonic-and-eudaimonic-well-being",

@@ -18,7 +18,6 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.93 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
 | 2.91 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
 | 2.88 | `wg:aristotle` | `wg:temperance` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
-| 2.72 | `wg:contentment` | `wg:meaning-in-life` | `wg:happiness`, `wg:hebrew-wisdom-literature`, `wg:well-being` |
 | 2.72 | `wg:doctrine-of-the-mean` | `wg:intellectual-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-humility`, `wg:moral-virtues` |
 | 2.72 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity` |
 | 2.68 | `wg:robert-sternberg` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:intellectual-humility`, `wg:psychology-of-wisdom` |
@@ -29,3 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.66 | `wg:personal-and-general-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:learning-from-experience`, `wg:self-distancing` |
 | 2.65 | `wg:practical-wisdom` | `wg:three-dimensional-wisdom-model` | `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:leading-others`, `wg:psychology-of-wisdom`, `wg:vivian-clayton` |
 | 2.64 | `wg:perspective-taking` | `wg:psychology-of-wisdom` | `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:giving-advice`, `wg:intellectual-humility`, `wg:interpersonal-conflict` |
+| 2.64 | `wg:theoretical-wisdom` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:eudaimonia`, `wg:intellectual-humility`, `wg:intellectual-virtues` |
