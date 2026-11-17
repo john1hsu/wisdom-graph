@@ -1616,6 +1616,21 @@ Ask yourself:
 - Is this good thing worth savouring more because it will not last?
 - Am I using "nothing lasts" to avoid caring or committing, rather than to see clearly?
 
+### [Instruction of Hardjedef](../articles/wisdom-traditions/instruction-of-hardjedef.md) — Work
+
+*A manager in her forties keeps postponing a will, a conversation with her family about her wishes, and a handover plan for the team she built, because work always feels more urgent.*
+
+| Before | After |
+|---|---|
+| Thinking about the end is morbid, and there's plenty of time; I'll deal with it when things calm down. | While things are going well is exactly when I can do this calmly. This month I'll draft the will, tell my family what I'd want, and start training a successor. |
+
+**Why:** Hardjedef's advice ties preparing for death to the prosperous middle of life, when there is time and means to do it well, and treats that preparation as a service to the living.
+
+Ask yourself:
+- Am I putting off a task that only matters because I will not be here forever, and is now actually the calm moment to do it?
+- If I left tomorrow, who would carry on what I care about, and have I made it possible for them to?
+- Am I counting on heirs or successors to remember and look after things I could arrange myself?
+
 ### [The four immeasurables](../articles/wisdom-traditions/four-immeasurables.md) — Framework
 
 1. Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands.

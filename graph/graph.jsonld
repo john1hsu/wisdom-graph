@@ -2403,6 +2403,38 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I putting off a task that only matters because I will not be here forever, and is now actually the calm moment to do it?",
+   "wgo:questionFor": {
+    "@id": "wg:instruction-of-hardjedef"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I left tomorrow, who would carry on what I care about, and have I made it possible for them to?",
+   "wgo:questionFor": {
+    "@id": "wg:instruction-of-hardjedef"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I counting on heirs or successors to remember and look after things I could arrange myself?",
+   "wgo:questionFor": {
+    "@id": "wg:instruction-of-hardjedef"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "While things are going well is exactly when I can do this calmly. This month I'll draft the will, tell my family what I'd want, and start training a successor.",
+   "wgo:before": "Thinking about the end is morbid, and there's plenty of time; I'll deal with it when things calm down.",
+   "wgo:situation": "A manager in her forties keeps postponing a will, a conversation with her family about her wishes, and a handover plan for the team she built, because work always feels more urgent.",
+   "wgo:why": "Hardjedef's advice ties preparing for death to the prosperous middle of life, when there is time and means to do it well, and treats that preparation as a service to the living."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-humility/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Which part of my view have I actually checked, and which part am I only sure of?",
@@ -9752,6 +9784,48 @@
     "@id": "https://www.cambridge.org/core/books/psychology-of-wisdom/folk-conceptions-of-wisdom-around-the-world/70AE60F18895C49146408CE162477914"
    },
    "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "University of California Press (Miriam Lichtheim, 1973), via Academia.edu",
+   "dcterms:title": "Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms (Introduction; The Instruction of Prince Hardjedef; The Song from the Tomb of King Intef)",
+   "schema:url": {
+    "@id": "https://www.academia.edu/11753014"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Staatliches Museum Ägyptischer Kunst (State Museum of Egyptian Art), Munich",
+   "dcterms:title": "Teaching of Hordjedef (ostracon ÄS 3400)",
+   "schema:url": {
+    "@id": "https://smaek.de/en/news/lehre-des-hordjedef/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Arts and Humanities Through the Eras, via Encyclopedia.com",
+   "dcterms:title": "Hordjedef",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/humanities/culture-magazines/hordjedef"
+   },
+   "wgo:sourceType": "encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s1",
@@ -21929,6 +22003,74 @@
    "wgo:level": "introductory",
    "wgo:studiedIn": {
     "@id": "wg:psychology-of-wisdom"
+   }
+  },
+  {
+   "@id": "wg:instruction-of-hardjedef",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3"
+    }
+   ],
+   "rdfs:label": "Instruction of Hardjedef",
+   "skos:altLabel": [
+    "Instruction of Hordedef",
+    "Instruction of Prince Hardjedef",
+    "Lehre des Hordjedef",
+    "Teaching of Djedefhor",
+    "Teaching of Hordjedef"
+   ],
+   "skos:broader": {
+    "@id": "wg:ancient-egyptian-wisdom-literature"
+   },
+   "skos:definition": "The earliest known Egyptian instruction (sebayt), credited to Prince Hardjedef, a son of King Khufu, and addressed to his son. Only its opening survives, and it advises the reader to found a household while prospering and to prepare tomb and funerary endowment in good time, because the house of death serves life.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Instruction of Hardjedef",
+   "skos:related": [
+    {
+     "@id": "wg:book-of-proverbs"
+    },
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:instruction-of-amenemope"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:sage"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:harpers-songs"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "historical",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example"
+   },
+   "wgo:file": "articles/wisdom-traditions/instruction-of-hardjedef.md",
+   "wgo:introduces": {
+    "@id": "wg:ancient-egyptian-wisdom-literature"
+   },
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:egyptology"
    }
   },
   {

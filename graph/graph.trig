@@ -1150,6 +1150,12 @@
 <https://github.com/john1hsu/wisdom-graph/id/impermanence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/impermanence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/impermanence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-traditions/instruction-of-hardjedef.md" .
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> .
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-traditions/seven-sages-of-greece.md" .
@@ -13046,6 +13052,69 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/impermanence/s6> <https://schema.org/url> <https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I putting off a task that only matters because I will not be here forever, and is now actually the calm moment to do it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If I left tomorrow, who would carry on what I care about, and have I made it possible for them to?" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I counting on heirs or successors to remember and look after things I could arrange myself?" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "While things are going well is exactly when I can do this calmly. This month I'll draft the will, tell my family what I'd want, and start training a successor." .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Thinking about the end is morbid, and there's plenty of time; I'll deal with it when things calm down." .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A manager in her forties keeps postponing a will, a conversation with her family about her wishes, and a handover plan for the team she built, because work always feels more urgent." .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Hardjedef's advice ties preparing for death to the prosperous middle of life, when there is time and means to do it well, and treats that preparation as a service to the living." .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2000/01/rdf-schema#label> "Instruction of Hardjedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#altLabel> "Instruction of Hordedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#altLabel> "Instruction of Prince Hardjedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#altLabel> "Lehre des Hordjedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#altLabel> "Teaching of Djedefhor" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#altLabel> "Teaching of Hordjedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#definition> "The earliest known Egyptian instruction (sebayt), credited to Prince Hardjedef, a son of King Khufu, and addressed to his son. Only its opening survives, and it advises the reader to found a household while prospering and to prepare tomb and funerary endowment in good time, because the house of death serves life." .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instruction of Hardjedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/sage> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/harpers-songs> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-traditions" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-traditions/instruction-of-hardjedef.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/egyptology> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> <http://purl.org/dc/terms/publisher> "University of California Press (Miriam Lichtheim, 1973), via Academia.edu" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> <http://purl.org/dc/terms/title> "Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms (Introduction; The Instruction of Prince Hardjedef; The Song from the Tomb of King Intef)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s1> <https://schema.org/url> <https://www.academia.edu/11753014> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> <http://purl.org/dc/terms/publisher> "Staatliches Museum Ägyptischer Kunst (State Museum of Egyptian Art), Munich" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> <http://purl.org/dc/terms/title> "Teaching of Hordjedef (ostracon ÄS 3400)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s2> <https://schema.org/url> <https://smaek.de/en/news/lehre-des-hordjedef/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> <http://purl.org/dc/terms/publisher> "Arts and Humanities Through the Eras, via Encyclopedia.com" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> <http://purl.org/dc/terms/title> "Hordjedef" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/instruction-of-hardjedef/s3> <https://schema.org/url> <https://encyclopedia.com/humanities/culture-magazines/hordjedef> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
@@ -13455,8 +13524,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
+  <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
+  <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
@@ -13468,6 +13540,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
@@ -13597,6 +13670,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/judaism> .
+  <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/tzedakah> .
   <https://github.com/john1hsu/wisdom-graph/id/bounded-rationality> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/bounded-rationality> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
@@ -13915,6 +13989,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/death-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/death-legacies-and-intergenerational-decisions-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
@@ -14455,6 +14530,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hard-earned-wisdom-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/hard-earned-wisdom-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/hard-earned-wisdom-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/harpers-songs> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-bible> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14670,8 +14746,16 @@
   <https://github.com/john1hsu/wisdom-graph/id/insight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
   <https://github.com/john1hsu/wisdom-graph/id/insight> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/instruction-of-amenemope> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/ancient-near-eastern-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-arrogance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-arrogance> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
@@ -15036,6 +15120,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/greed> .
+  <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
@@ -15657,6 +15742,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/sage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/sage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/sage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/sage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
   <https://github.com/john1hsu/wisdom-graph/id/samkhya> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

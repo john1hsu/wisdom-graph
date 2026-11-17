@@ -143,7 +143,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:ancient-egyptian-wisdom-literature` | wgo:Tradition |
 | `wg:greed` | wgo:Vice |
 | `wg:lifespan-developmental-psychology` | wgo:Field |
 | `wg:major-life-decision` | wgo:Context |
