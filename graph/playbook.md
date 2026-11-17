@@ -1169,6 +1169,14 @@ Ask yourself:
 - When I was shown a mistake just now, did I feel curiosity or did I feel attacked?
 - Am I underselling a strength I really do have, out of false modesty or fear of conflict?
 
+### [Intellectual virtues](../articles/virtues-and-character/intellectual-virtues.md) — Concept
+
+Ask yourself:
+- Before I settled on this view, did I actually look for the strongest case against it?
+- Am I being careful and thorough here, or just quick and confident?
+- Is my curiosity about this question real, or do I mainly want to be proved right?
+- Whose knowledge or testimony am I discounting, and is that because of the evidence or because of who they are?
+
 ### [Moral habituation](../articles/virtues-and-character/moral-habituation.md) — Practice
 
 1. Name one virtue you want more of and the concrete situations where you currently fall short of it (for courage, perhaps raising concerns in meetings or declining unreasonable requests).

@@ -2680,6 +2680,56 @@
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Before I settled on this view, did I actually look for the strongest case against it?" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I being careful and thorough here, or just quick and confident?" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is my curiosity about this question real, or do I mainly want to be proved right?" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Whose knowledge or testimony am I discounting, and is that because of the evidence or because of who they are?" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2000/01/rdf-schema#label> "Intellectual virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "aretai dianoetikai" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "dianoetic virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "epistemic virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "intellectual character virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "virtues of thought" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#definition> "Excellences of the mind: the states and traits that make someone good at grasping truth and thinking well. Aristotle named five (craft, scientific knowledge, practical wisdom, intuitive reason and theoretical wisdom); modern virtue epistemology adds character traits of a good inquirer such as curiosity, open-mindedness, intellectual humility, intellectual courage, carefulness and tenacity." .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#prefLabel> "Intellectual virtues" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dogmatism> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/open-mindedness> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/situationism> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/intellectual-virtues.md" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/predictors-and-consequences-of-intellectual-humility-review> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I sure I know why the other person acted as they did, or am I filling the gap with the least charitable story?" .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
@@ -7051,6 +7101,30 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://schema.org/url> <https://bps.org.uk/research-digest/something-we-could-use-little-more> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VI, trans. W. D. Ross" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (John Greco; rev. 2021)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://purl.org/dc/terms/title> "Virtue Epistemology" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/epistemology-virtue/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://purl.org/dc/terms/publisher> "Internet Encyclopedia of Philosophy (Jason S. Baehr)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://purl.org/dc/terms/title> "Virtue Epistemology" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <https://schema.org/url> <https://iep.utm.edu/virtue-ep/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://purl.org/dc/terms/publisher> "Nature Reviews Psychology, 1(9), 524-536 (PMC author manuscript)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://purl.org/dc/terms/title> "Predictors and consequences of intellectual humility (Porter, Elnakouri, Meyers, Shibayama, Jayawickreme & Grossmann, 2022)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574> .
 <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://purl.org/dc/terms/publisher> "Psychological Science (SAGE), author copy via CORE (University of Oklahoma SHAREOK repository)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1> <http://purl.org/dc/terms/title> "Aging and Wisdom: Culture Matters" .

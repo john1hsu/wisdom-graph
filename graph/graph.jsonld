@@ -2291,6 +2291,38 @@
    "wgo:why": "Owning the gap, rather than blaming circumstances or brushing it off, fixes the forecast, shows the team that errors can be raised safely, and treats the critic as an ally in getting it right."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Before I settled on this view, did I actually look for the strongest case against it?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I being careful and thorough here, or just quick and confident?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my curiosity about this question real, or do I mainly want to be proved right?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Whose knowledge or testimony am I discounting, and is that because of the evidence or because of who they are?",
+   "wgo:questionFor": {
+    "@id": "wg:intellectual-virtues"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I sure I know why the other person acted as they did, or am I filling the gap with the least charitable story?",
@@ -8784,6 +8816,62 @@
     "@id": "https://bps.org.uk/research-digest/something-we-could-use-little-more"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (John Greco; rev. 2021)",
+   "dcterms:title": "Virtue Epistemology",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/epistemology-virtue/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Jason S. Baehr)",
+   "dcterms:title": "Virtue Epistemology",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/virtue-ep/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Nature Reviews Psychology, 1(9), 524-536 (PMC author manuscript)",
+   "dcterms:title": "Predictors and consequences of intellectual humility (Porter, Elnakouri, Meyers, Shibayama, Jayawickreme & Grossmann, 2022)",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s1",
@@ -19339,6 +19427,104 @@
    },
    "wgo:studiedIn": {
     "@id": "wg:virtue-epistemology"
+   }
+  },
+  {
+   "@id": "wg:intellectual-virtues",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4"
+    }
+   ],
+   "rdfs:label": "Intellectual virtues",
+   "skos:altLabel": [
+    "aretai dianoetikai",
+    "dianoetic virtues",
+    "epistemic virtues",
+    "intellectual character virtues",
+    "virtues of thought"
+   ],
+   "skos:broader": {
+    "@id": "wg:virtue-ethics"
+   },
+   "skos:definition": "Excellences of the mind: the states and traits that make someone good at grasping truth and thinking well. Aristotle named five (craft, scientific knowledge, practical wisdom, intuitive reason and theoretical wisdom); modern virtue epistemology adds character traits of a good inquirer such as curiosity, open-mindedness, intellectual humility, intellectual courage, carefulness and tenacity.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character"
+   },
+   "skos:prefLabel": "Intellectual virtues",
+   "skos:related": [
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:dogmatism"
+    },
+    {
+     "@id": "wg:intellectual-courage"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:open-mindedness"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:teaching-for-wisdom"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:situationism"
+   },
+   "wgo:domain": "virtues-and-character",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/virtues-and-character/intellectual-virtues.md",
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "intermediate",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:virtue-epistemology"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:predictors-and-consequences-of-intellectual-humility-review"
    }
   },
   {

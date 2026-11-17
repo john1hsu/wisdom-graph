@@ -826,6 +826,13 @@
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/virtues-and-character/intellectual-virtues.md" .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/virtues-and-character/moral-habituation.md" .
@@ -9433,6 +9440,83 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-humility/s6> <https://schema.org/url> <https://bps.org.uk/research-digest/something-we-could-use-little-more> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Before I settled on this view, did I actually look for the strongest case against it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I being careful and thorough here, or just quick and confident?" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is my curiosity about this question real, or do I mainly want to be proved right?" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Whose knowledge or testimony am I discounting, and is that because of the evidence or because of who they are?" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2000/01/rdf-schema#label> "Intellectual virtues" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "aretai dianoetikai" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "dianoetic virtues" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "epistemic virtues" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "intellectual character virtues" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#altLabel> "virtues of thought" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#definition> "Excellences of the mind: the states and traits that make someone good at grasping truth and thinking well. Aristotle named five (craft, scientific knowledge, practical wisdom, intuitive reason and theoretical wisdom); modern virtue epistemology adds character traits of a good inquirer such as curiosity, open-mindedness, intellectual humility, intellectual courage, carefulness and tenacity." .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#prefLabel> "Intellectual virtues" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dogmatism> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/open-mindedness> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/situationism> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/intellectual-virtues.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/virtue-epistemology> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/predictors-and-consequences-of-intellectual-humility-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive (MIT)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VI, trans. W. D. Ross" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (John Greco; rev. 2021)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://purl.org/dc/terms/title> "Virtue Epistemology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s2> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/epistemology-virtue/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://purl.org/dc/terms/publisher> "Internet Encyclopedia of Philosophy (Jason S. Baehr)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://purl.org/dc/terms/title> "Virtue Epistemology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s3> <https://schema.org/url> <https://iep.utm.edu/virtue-ep/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://purl.org/dc/terms/publisher> "Nature Reviews Psychology, 1(9), 524-536 (PMC author manuscript)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://purl.org/dc/terms/title> "Predictors and consequences of intellectual humility (Porter, Elnakouri, Meyers, Shibayama, Jayawickreme & Grossmann, 2022)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/intellectual-virtues/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/moral-habituation#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-habituation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What small act this week would be a genuine rung up the ladder for me, rather than a leap or no step at all?" .
@@ -11778,6 +11862,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
@@ -11791,6 +11876,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
@@ -11924,6 +12010,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+  <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/cleverness> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-consultation> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -12165,7 +12252,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
@@ -12178,6 +12267,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
@@ -12241,6 +12331,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
+  <https://github.com/john1hsu/wisdom-graph/id/dogmatism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/dogmatism> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/dual-existential-systems> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/dual-process-model-of-bereavement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
@@ -12674,7 +12765,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
@@ -12712,9 +12805,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
+  <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
@@ -12781,6 +12876,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-arrogance> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-courage> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
@@ -12793,6 +12889,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
@@ -12805,6 +12903,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
@@ -12822,6 +12921,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
@@ -12844,7 +12950,6 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
-  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intelligence> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intemperance> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
@@ -12937,7 +13042,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
@@ -13126,7 +13233,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
@@ -13141,7 +13250,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/clinical-ethics-support> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-competence> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/moral-distress> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -13229,6 +13340,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
@@ -13240,17 +13352,36 @@
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/ohsaki-ikigai-mortality-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/ikigai> .
   <https://github.com/john1hsu/wisdom-graph/id/open-mindedness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/open-mindedness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/opportunity-principle> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/organizational-behavior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/organizational-behavior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -13272,6 +13403,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/personal-growth> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
@@ -13363,6 +13496,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
@@ -13387,6 +13522,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
@@ -13406,6 +13542,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/praise-for-regret-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/predictors-and-consequences-of-intellectual-humility-review> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/principal-doctrines> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
@@ -13653,7 +13790,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
@@ -13721,6 +13860,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
@@ -13798,7 +13938,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
@@ -13821,6 +13963,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/situated-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/situated-wise-reasoning-scale> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/situationism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/social-cognition> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
@@ -13868,6 +14011,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
@@ -13994,6 +14139,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-interventions> .
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+  <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/team-and-individual-debriefs-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/temperance/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/temperance/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -14032,8 +14178,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/theological-virtues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+  <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/theories-of-ageing> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> .
@@ -14114,6 +14263,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
@@ -14121,14 +14271,32 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
@@ -14202,8 +14370,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -14226,6 +14396,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
@@ -14260,7 +14432,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
@@ -14286,10 +14460,13 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .

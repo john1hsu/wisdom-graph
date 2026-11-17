@@ -5256,6 +5256,128 @@
   ]
  },
  {
+  "id": "wg:intellectual-virtues",
+  "title": "Intellectual virtues",
+  "aliases": [
+   "virtues of thought",
+   "dianoetic virtues",
+   "epistemic virtues",
+   "aretai dianoetikai",
+   "intellectual character virtues"
+  ],
+  "type": "Concept",
+  "domain": "virtues-and-character",
+  "level": "intermediate",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/intellectual-virtues.md",
+  "created": "2026-11-17",
+  "summary": "Excellences of the mind: the states and traits that make someone good at grasping truth and thinking well. Aristotle named five (craft, scientific knowledge, practical wisdom, intuitive reason and theoretical wisdom); modern virtue epistemology adds character traits of a good inquirer such as curiosity, open-mindedness, intellectual humility, intellectual courage, carefulness and tenacity.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:theoretical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:open-mindedness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cleverness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:teaching-for-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dogmatism"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:nicomachean-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:virtue-epistemology",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:situationism",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:predictors-and-consequences-of-intellectual-humility-review",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Before I settled on this view, did I actually look for the strongest case against it?",
+   "Am I being careful and thorough here, or just quick and confident?",
+   "Is my curiosity about this question real, or do I mainly want to be proved right?",
+   "Whose knowledge or testimony am I discounting, and is that because of the evidence or because of who they are?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://plato.stanford.edu/ENTRIES/epistemology-virtue/",
+   "https://iep.utm.edu/virtue-ep/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574"
+  ]
+ },
+ {
   "id": "wg:interpersonal-conflict",
   "title": "Interpersonal conflict",
   "aliases": [
