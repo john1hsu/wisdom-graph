@@ -4100,6 +4100,113 @@
   ]
  },
  {
+  "id": "wg:hebrew-wisdom-literature",
+  "title": "Hebrew wisdom literature",
+  "aliases": [
+   "biblical wisdom literature",
+   "wisdom books of the Bible",
+   "sapiential books",
+   "hokhmah literature",
+   "Israelite wisdom tradition"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/hebrew-wisdom-literature.md",
+  "created": "2026-11-17",
+  "summary": "The wisdom tradition of ancient Israel preserved in the Hebrew Bible, above all in Proverbs, Job and Ecclesiastes (with later books such as Ben Sira and the Wisdom of Solomon). Proverbs teaches practical skill in living well, while Job and Ecclesiastes test that teaching against undeserved suffering, chance and the limits of human understanding.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:ancient-near-eastern-wisdom-literature"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:adversity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:christianity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:adversity",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:contentment",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:instruction-of-amenemope",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:will-kynes",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.britannica.com/topic/biblical-literature/Job",
+   "https://www.britannica.com/print/article/480617",
+   "https://assets.cambridge.org/97811084/83162/excerpt/9781108483162_excerpt.pdf",
+   "https://assets.cambridge.org/97810091/00250/excerpt/9781009100250_excerpt.pdf",
+   "https://posenlibrary.com/node/9466",
+   "https://ebible.org/engjps/JOB42.htm"
+  ]
+ },
+ {
   "id": "wg:hedonic-and-eudaimonic-well-being",
   "title": "Hedonic and eudaimonic well-being",
   "aliases": [

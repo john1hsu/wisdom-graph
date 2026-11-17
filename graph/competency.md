@@ -143,9 +143,9 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:adversity` | wgo:Context |
 | `wg:death-awareness` | wgo:Concept |
 | `wg:giving-advice` | wgo:Context |
+| `wg:hebrew-wisdom-literature` | wgo:Tradition |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
@@ -200,7 +200,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:confucianism` | `wg:moral-habituation` |
 | `wg:daoism` | `wg:contentment` |
 
-…and 21 more.
+…and 23 more.
 
 ## The doctrine of the mean
 

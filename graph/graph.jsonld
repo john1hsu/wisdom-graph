@@ -7796,6 +7796,90 @@
    "wgo:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Biblical literature: Job (and Ecclesiastes)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/biblical-literature/Job"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Proverbs (Old Testament)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/print/article/480617"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Cambridge University Press (ed. Katharine J. Dell, Suzanna R. Millar & Arthur Jan Keefer)",
+   "dcterms:title": "The Cambridge Companion to Biblical Wisdom Literature (front matter and introduction)",
+   "schema:url": {
+    "@id": "https://assets.cambridge.org/97811084/83162/excerpt/9781108483162_excerpt.pdf"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Cambridge University Press (Arthur Keefer)",
+   "dcterms:title": "Ecclesiastes and the Meaning of Life in the Ancient World (introduction and chapter 1)",
+   "schema:url": {
+    "@id": "https://assets.cambridge.org/97810091/00250/excerpt/9781009100250_excerpt.pdf"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Posen Library of Jewish Culture and Civilization, vol. 1 (Yale University Press)",
+   "dcterms:title": "Living a Good Life according to Biblical Wisdom Literature",
+   "schema:url": {
+    "@id": "https://posenlibrary.com/node/9466"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jewish Publication Society of America (1917), via eBible.org",
+   "dcterms:title": "Job 42 (JPS Tanakh, 1917 translation)",
+   "schema:url": {
+    "@id": "https://ebible.org/engjps/JOB42.htm"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hedonic-and-eudaimonic-well-being/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -18503,6 +18587,108 @@
    ],
    "wgo:file": "articles/adversity-and-mortality/grief-and-loss.md",
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:hebrew-wisdom-literature",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/hebrew-wisdom-literature/s6"
+    }
+   ],
+   "rdfs:label": "Hebrew wisdom literature",
+   "skos:altLabel": [
+    "Israelite wisdom tradition",
+    "biblical wisdom literature",
+    "hokhmah literature",
+    "sapiential books",
+    "wisdom books of the Bible"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:ancient-near-eastern-wisdom-literature"
+    },
+    {
+     "@id": "wg:judaism"
+    }
+   ],
+   "skos:definition": "The wisdom tradition of ancient Israel preserved in the Hebrew Bible, above all in Proverbs, Job and Ecclesiastes (with later books such as Ben Sira and the Wisdom of Solomon). Proverbs teaches practical skill in living well, while Job and Ecclesiastes test that teaching against undeserved suffering, chance and the limits of human understanding.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Hebrew wisdom literature",
+   "skos:related": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:christianity"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:will-kynes"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/hebrew-wisdom-literature.md",
+   "wgo:influencedBy": {
+    "@id": "wg:instruction-of-amenemope"
+   },
+   "wgo:level": "introductory",
+   "wgo:teaches": [
+    {
+     "@id": "wg:adversity"
+    },
+    {
+     "@id": "wg:contentment"
+    }
+   ]
   },
   {
    "@id": "wg:hedonic-and-eudaimonic-well-being",
