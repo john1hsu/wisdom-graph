@@ -74,6 +74,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:community-decision-making` | `wg:imaginary-future-generations` |
+| `wg:facing-mortality` | `wg:death-awareness` |
 | `wg:facing-mortality` | `wg:epicureanism` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:grief-and-loss` | `wg:resilience` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:humble-leadership` |
 | `wg:leading-others` | `wg:kill-criteria` |
 | `wg:leading-others` | `wg:practical-wisdom` |
-| `wg:leading-others` | `wg:servant-leadership` |
 
-…and 19 more.
+…and 20 more.
 
 ## Myths and contested advice
 
@@ -117,6 +117,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:contentment` | mixed |  |
+| `wg:death-awareness` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:emotional-suppression` | mixed | `wg:suppression-paradox-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
@@ -133,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:implicit-theories-of-wisdom` | mixed |  |
 | `wg:intellectual-humility` | mixed |  |
 | `wg:interpersonal-conflict` | mixed |  |
-| `wg:kill-criteria` | mixed |  |
 
-…and 32 more.
+…and 33 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -144,6 +144,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:adversity` | wgo:Context |
+| `wg:death-awareness` | wgo:Concept |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |

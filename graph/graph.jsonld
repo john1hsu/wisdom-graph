@@ -6176,6 +6176,90 @@
    "wgo:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Steven Luper; substantive revision 25 August 2021), Summer 2026 edition",
+   "dcterms:title": "Death",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/sum2026/entries/death/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Tim Connolly, East Stroudsburg University)",
+   "dcterms:title": "Plato: Phaedo",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/phaedo"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Review, 16(4), 303–329 (Vail, Juhl, Arndt, Vess, Routledge & Rutjens, 2012), via University of Amsterdam repository",
+   "dcterms:title": "When death is good for life: Considering the positive trajectories of terror management",
+   "schema:url": {
+    "@id": "https://dare.uva.nl/id/41af92e5-5541-474f-849d-8a0686a72d5c"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Social Sciences, 4(4), 1020–1045 (Vail & Juhl, 2015), via University of Southampton ePrints",
+   "dcterms:title": "An appreciative view of the brighter side of terror management processes",
+   "schema:url": {
+    "@id": "https://eprints.soton.ac.uk/383507/1/Vail%2520%2526%2520Juhl%252C%25202015.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Psychological Inquiry, 17(4), 278–287 (Cozzolino, 2006), via University of Essex Research Repository",
+   "dcterms:title": "Death contemplation, growth, and defense: Converging evidence of dual-existential systems?",
+   "schema:url": {
+    "@id": "https://repository.essex.ac.uk/12454/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Klein et al., 21 labs, 2,220 participants (PsyArXiv 2019; published in Collabra: Psychology 8(1), 2022), via Tilburg University research portal",
+   "dcterms:title": "Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement",
+   "schema:url": {
+    "@id": "https://research.tilburguniversity.edu/en/publications/many-labs-4-failure-to-replicate-mortality-salience-effect-with-a"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -16437,6 +16521,96 @@
    ],
    "wgo:studiedIn": {
     "@id": "wg:positive-psychology"
+   }
+  },
+  {
+   "@id": "wg:death-awareness",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s6"
+    }
+   ],
+   "rdfs:label": "Death awareness",
+   "skos:altLabel": [
+    "awareness of death",
+    "awareness of mortality",
+    "consciousness of mortality",
+    "mortality awareness"
+   ],
+   "skos:broader": {
+    "@id": "wg:existential-concerns"
+   },
+   "skos:definition": "The knowledge that one will die, and the ways that knowledge shapes how people think, feel and choose: it can prompt anxious defence of one's worldview and self-image, or a clearer sense of what matters and a turn towards growth, relationships and values.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Death awareness",
+   "skos:related": [
+    {
+     "@id": "wg:epicureanism"
+    },
+    {
+     "@id": "wg:grief-and-loss"
+    },
+    {
+     "@id": "wg:impermanence"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:mono-no-aware"
+    },
+    {
+     "@id": "wg:mortality-salience"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:facing-mortality"
+   },
+   "wgo:causes": {
+    "@id": "wg:worldview-defense"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:explainedBy": [
+    {
+     "@id": "wg:dual-existential-systems"
+    },
+    {
+     "@id": "wg:terror-management-theory"
+    }
+   ],
+   "wgo:file": "articles/adversity-and-mortality/death-awareness.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:social-psychology"
    }
   },
   {

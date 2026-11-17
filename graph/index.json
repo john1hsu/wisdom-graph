@@ -2165,6 +2165,102 @@
   ]
  },
  {
+  "id": "wg:death-awareness",
+  "title": "Death awareness",
+  "aliases": [
+   "mortality awareness",
+   "awareness of mortality",
+   "awareness of death",
+   "consciousness of mortality"
+  ],
+  "type": "Concept",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/death-awareness.md",
+  "created": "2026-11-17",
+  "summary": "The knowledge that one will die, and the ways that knowledge shapes how people think, feel and choose: it can prompt anxious defence of one's worldview and self-image, or a clearer sense of what matters and a turn towards growth, relationships and values.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:existential-concerns"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mortality-salience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socioemotional-selectivity-theory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epicureanism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mono-no-aware"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:impermanence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:terror-management-theory",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:dual-existential-systems",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:causes",
+    "object": "wg:worldview-defense",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:social-psychology",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:facing-mortality",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/archives/sum2026/entries/death/",
+   "https://iep.utm.edu/phaedo",
+   "https://dare.uva.nl/id/41af92e5-5541-474f-849d-8a0686a72d5c",
+   "https://eprints.soton.ac.uk/383507/1/Vail%2520%2526%2520Juhl%252C%25202015.pdf",
+   "https://repository.essex.ac.uk/12454/",
+   "https://research.tilburguniversity.edu/en/publications/many-labs-4-failure-to-replicate-mortality-salience-effect-with-a"
+  ]
+ },
+ {
   "id": "wg:deliberation",
   "title": "Deliberation",
   "aliases": [
