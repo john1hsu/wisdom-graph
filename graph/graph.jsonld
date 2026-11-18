@@ -204,6 +204,46 @@
    "schema:text": "Agree on one to three concrete things to sustain or change, name who will apply each, and check at the start of the next similar task that they were applied."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ageing/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I declining this because of what I can actually do, or because of what I assume people my age can't do?",
+   "wgo:questionFor": {
+    "@id": "wg:ageing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ageing/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "With the time and energy I have, which few things deserve most of it, and what can I let go?",
+   "wgo:questionFor": {
+    "@id": "wg:ageing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ageing/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there something I still want to learn, or someone younger I could help, this year?",
+   "wgo:questionFor": {
+    "@id": "wg:ageing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ageing/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating a real health change as \"just age\", when it might deserve a doctor's attention?",
+   "wgo:questionFor": {
+    "@id": "wg:ageing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ageing/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'm slower at new software, but I know budgets and this community. I'll say yes, ask for a training session, and pair up with someone who knows the tool.",
+   "wgo:before": "My memory isn't what it was and computers were never my thing. I'll decline before I embarrass myself.",
+   "wgo:situation": "At 66, Ruth is invited to join a volunteer board that is adopting new budgeting software. Her first thought is that she is \"too old to learn this stuff\" and should leave it to younger members.",
+   "wgo:why": "Treating a stereotype as a fact about yourself narrows your life, and beliefs about ageing are linked, modestly, to later health; choosing where to invest and getting help for the rest keeps both the contribution and the learning."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/amor-fati/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I spending my energy wishing this had not happened, or deciding what to make of the fact that it did?",
@@ -5367,6 +5407,90 @@
     "@id": "https://www.cbsnews.com/news/learning-in-the-thick-of-it"
    },
    "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 83(2), 261–270 (Levy, Slade, Kunkel & Kasl, 2002); PubMed",
+   "dcterms:title": "Longevity increased by positive self-perceptions of aging",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/12150226/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Psychology and Aging, 29(4), 793–802 (Westerhof et al., 2014); PubMed",
+   "dcterms:title": "The influence of subjective aging on health and longevity: A meta-analysis of longitudinal data",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/25365689/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "American Journal of Public Health, 109(8), e1–e9 (Burnes et al., 2019); PubMed Central",
+   "dcterms:title": "Interventions to Reduce Ageism Against Older Adults: A Systematic Review and Meta-Analysis",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6611108"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United Nations Department of Economic and Social Affairs, with WHO, OHCHR and UNFPA",
+   "dcterms:title": "Ageist attitudes held by half of the world's population cause serious social and economic ills (Global Report on Ageism, 2021)",
+   "schema:url": {
+    "@id": "https://social.desa.un.org/issues/ageing/news/ageist-attitudes-held-by-half-of-the-worlds-population-cause-serious-social-and"
+   },
+   "wgo:sourceType": "intergovernmental"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Loeb Classical Library, Harvard University Press (1923); LacusCurtius, University of Chicago",
+   "dcterms:title": "Cato Maior de Senectute (On Old Age), translated by W. A. Falconer",
+   "schema:url": {
+    "@id": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Cato_Maior_de_Senectute/text*.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Research Square preprint (Richter, Schäfer, Wurm, Hoffmann & Ittermann)",
+   "dcterms:title": "Reconsidering the 'Predictive' Value of Subjective Aging for Longevity and the Impact of Confounding: Insights from Epidemiology",
+   "schema:url": {
+    "@id": "https://assets-eu.researchsquare.com/files/rs-5711429/v1/63b1019108de5b05770c907c.html"
+   },
+   "wgo:sourceType": "preprint"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s1",
@@ -17774,6 +17898,110 @@
    "wgo:supportedBy": {
     "@id": "wg:team-and-individual-debriefs-meta-analysis"
    }
+  },
+  {
+   "@id": "wg:ageing",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ageing/s6"
+    }
+   ],
+   "rdfs:label": "Ageing",
+   "skos:altLabel": [
+    "ageing well",
+    "aging",
+    "getting older",
+    "growing older",
+    "later life",
+    "old age"
+   ],
+   "skos:broader": {
+    "@id": "wg:life-transitions"
+   },
+   "skos:definition": "The life situation of growing older, with its mix of losses (of strength, roles and people) and gains (experience, perspective, freedom to choose what matters). Wisdom here means seeing ageing accurately rather than through stereotypes, choosing priorities deliberately, and staying engaged with learning and with others.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Ageing",
+   "skos:related": [
+    {
+     "@id": "wg:ageism"
+    },
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:facing-mortality"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:life-review"
+    },
+    {
+     "@id": "wg:lifespan-developmental-psychology"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:on-old-age"
+    },
+    {
+     "@id": "wg:positivity-effect-in-ageing"
+    },
+    {
+     "@id": "wg:socioemotional-selectivity-theory"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:wisdom-and-age"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:subjective-aging-confounding-study"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:ageism-interventions-meta-analysis"
+    },
+    {
+     "@id": "wg:self-perceptions-of-aging-longevity-study"
+    },
+    {
+     "@id": "wg:subjective-aging-health-meta-analysis"
+    }
+   ],
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/ageing/example"
+   },
+   "wgo:file": "articles/adversity-and-mortality/ageing.md",
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:amor-fati",

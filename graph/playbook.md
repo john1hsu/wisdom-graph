@@ -20,6 +20,22 @@ Ask yourself:
 - When I look back on this, am I trying to understand what happened and what it taught me, or only to tie it up neatly?
 - Is the load more than I can carry alone, so that it is time to lean on others or talk to a professional?
 
+### [Ageing](../articles/adversity-and-mortality/ageing.md) — Context
+
+*At 66, Ruth is invited to join a volunteer board that is adopting new budgeting software. Her first thought is that she is "too old to learn this stuff" and should leave it to younger members.*
+
+| Before | After |
+|---|---|
+| My memory isn't what it was and computers were never my thing. I'll decline before I embarrass myself. | I'm slower at new software, but I know budgets and this community. I'll say yes, ask for a training session, and pair up with someone who knows the tool. |
+
+**Why:** Treating a stereotype as a fact about yourself narrows your life, and beliefs about ageing are linked, modestly, to later health; choosing where to invest and getting help for the rest keeps both the contribution and the learning.
+
+Ask yourself:
+- Am I declining this because of what I can actually do, or because of what I assume people my age can't do?
+- With the time and energy I have, which few things deserve most of it, and what can I let go?
+- Is there something I still want to learn, or someone younger I could help, this year?
+- Am I treating a real health change as "just age", when it might deserve a doctor's attention?
+
 ### [Amor fati](../articles/adversity-and-mortality/amor-fati.md) — Principle
 
 *A project manager's carefully planned product launch is cancelled after a reorganisation, and months of her team's work will never ship.*

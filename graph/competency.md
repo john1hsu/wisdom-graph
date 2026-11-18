@@ -111,6 +111,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:acceptance` | mixed |  |
 | `wg:adversity` | mixed | `wg:sense-of-coherence-steeling-study` |
 | `wg:after-action-review` | mixed |  |
+| `wg:ageing` | mixed | `wg:subjective-aging-confounding-study` |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:cognitive-defusion` | mixed | `wg:act-mediation-studies-review` |
 | `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
@@ -133,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hedonic-adaptation` | mixed | `wg:lottery-wealth-well-being-study` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
-| `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 
-…and 47 more.
+…and 48 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -143,6 +143,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:ageing` | wgo:Context |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
