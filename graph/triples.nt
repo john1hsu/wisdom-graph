@@ -1997,6 +1997,89 @@
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/bounded-ethicality-loss-framing-study> .
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Could this decision damage someone, or benefit some people unevenly, and have I said so in plain words?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating this only as a question of legality, cost or efficiency?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Which lenses favour my preferred option, which count against it, and have I faced the ones that count against it?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Would I be comfortable explaining this choice to someone whose judgement I respect?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "After acting, did I look back at how it turned out for the people affected?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"Who does this screen out? Parents, carers, people who were ill or caring for someone. That's a fairness question, not just an efficiency one. Through the justice and rights lenses it judges people on something unrelated to the job; would I be comfortable explaining it to the candidates? Let's drop the rule and save time with a short structured scorecard instead.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"It's a filter, not a decision about anyone. It saves the team hours, and it's legal, so let's switch it on.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A hiring manager under pressure to fill roles quickly is offered a new screening rule that automatically rejects any applicant with a gap of more than a year in their employment history." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response stays inside the technical and legal frame, so the people affected never come into view. The second asks the framework's first question, notices the issue is about more than legality or efficiency, and then lets several lenses and a publicity test shape a better option." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/1> <https://schema.org/text> "Before deciding, ask whether the choice could harm someone, or benefit some people at others' expense, and whether it is about more than legality or efficiency." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/2> <https://schema.org/text> "List the facts you have, the facts you are missing, everyone with a stake, and at least three options, including a creative one." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/3> <https://schema.org/text> "Run each option through the lenses in turn - rights, fairness, overall good and harm, the common good, the person you want to be, and the relationships involved - and note where they disagree." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/4> <https://schema.org/text> "Choose the option that holds up best across the lenses, then imagine explaining it to someone you respect." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/5> <https://schema.org/text> "Act with as much care for those affected as the decision allows, and later review how it turned out and what you would do differently." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <https://schema.org/name> "Ethical lenses framework" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Framework> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2000/01/rdf-schema#label> "Ethical lenses framework" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "Markkula framework for ethical decision making" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "framework for ethical decision making" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "six ethical lenses" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "thinking ethically" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/applied-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#definition> "A five-stage method for ethical decisions from Santa Clara University's Markkula Center for Applied Ethics: recognise the ethical issue, get the facts, test the options through several ethical lenses (rights, justice, utilitarian, common good, virtue and care), choose and test the choice, then act and reflect." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethical lenses framework" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "practitioner" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/ethical-lenses-framework.md" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/care-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/consequentialism> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/manuel-velasquez> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/ethics-instruction-in-the-sciences-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?" .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
@@ -8321,6 +8404,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <https://schema.org/url> <https://wrap.warwick.ac.uk/110268/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> <http://purl.org/dc/terms/publisher> "Markkula Center for Applied Ethics, Santa Clara University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> <http://purl.org/dc/terms/title> "A framework for ethical decision making (Velasquez, Moberg, Meyer, Shanks, McLean, DeCosse, André, Hanson, Raicu & Kwan; revised 2021)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1> <https://schema.org/url> <https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> <http://purl.org/dc/terms/publisher> "Markkula Center for Applied Ethics, Santa Clara University (All About Ethics blog)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> <http://purl.org/dc/terms/title> "How to make more ethical decisions (2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2> <https://schema.org/url> <https://www.scu.edu/ethics/all-about-ethics/all-about-ethics-blog/how-to-make-more-ethical-decisions.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> <http://purl.org/dc/terms/publisher> "Markkula Center for Applied Ethics, Santa Clara University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> <http://purl.org/dc/terms/title> "Thinking ethically (Velasquez, Andre, Shanks & Meyer)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3> <https://schema.org/url> <https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/thinking-ethically/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> <http://purl.org/dc/terms/publisher> "Ethics & Behavior 27(5), 351-384 (doi:10.1080/10508422.2016.1182025); Boise State University research portal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> <http://purl.org/dc/terms/title> "Are ethics training programs improving? A meta-analytic review of past and present ethics instruction in the sciences (Watts et al., 2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4> <https://schema.org/url> <https://experts.boisestate.edu/en/publications/are-ethics-training-programs-improving-a-meta-analytic-review-of-/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> <http://purl.org/dc/terms/publisher> "Journal of Academic Ethics 15(3), 245-275 (Springer)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> <http://purl.org/dc/terms/title> "What is working, what is not, and what we need to know: A meta-analytic review of business ethics instruction (Medeiros et al., 2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5> <https://schema.org/url> <https://link.springer.com/article/10.1007/s10805-017-9281-2> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> <http://purl.org/dc/terms/publisher> "Journal of Dental Education 49(4), 225-235; University of Minnesota research portal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> <http://purl.org/dc/terms/title> "Measuring dental students' ethical sensitivity (Bebeau, Rest & Yamoor, 1985)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6> <https://schema.org/url> <https://experts.umn.edu/en/publications/measuring-dental-students-ethical-sensitivity/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1> <http://purl.org/dc/terms/publisher> "George Bell and Sons, London (1889); Project Gutenberg edition" .
 <https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1> <http://purl.org/dc/terms/title> "Seneca, Of Anger (De Ira), Book III, ch. 36, in Minor Dialogues, Together with the Dialogue on Clemency, trans. Aubrey Stewart (1889)" .

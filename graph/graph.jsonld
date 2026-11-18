@@ -1515,6 +1515,106 @@
    "wgo:why": "The first response treats the choice as a timing and money problem, framed as a loss, so the ethical question never comes up. Naming the act in plain words and slowing down puts the moral dimension back on the table before the decision is made."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Could this decision damage someone, or benefit some people unevenly, and have I said so in plain words?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-lenses-framework"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating this only as a question of legality, cost or efficiency?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-lenses-framework"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which lenses favour my preferred option, which count against it, and have I faced the ones that count against it?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-lenses-framework"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would I be comfortable explaining this choice to someone whose judgement I respect?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-lenses-framework"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "After acting, did I look back at how it turned out for the people affected?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-lenses-framework"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "\"Who does this screen out? Parents, carers, people who were ill or caring for someone. That's a fairness question, not just an efficiency one. Through the justice and rights lenses it judges people on something unrelated to the job; would I be comfortable explaining it to the candidates? Let's drop the rule and save time with a short structured scorecard instead.\"",
+   "wgo:before": "\"It's a filter, not a decision about anyone. It saves the team hours, and it's legal, so let's switch it on.\"",
+   "wgo:situation": "A hiring manager under pressure to fill roles quickly is offered a new screening rule that automatically rejects any applicant with a gap of more than a year in their employment history.",
+   "wgo:why": "The first response stays inside the technical and legal frame, so the people affected never come into view. The second asks the framework's first question, notices the issue is about more than legality or efficiency, and then lets several lenses and a publicity test shape a better option."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Ethical lenses framework",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/5"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Before deciding, ask whether the choice could harm someone, or benefit some people at others' expense, and whether it is about more than legality or efficiency."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "List the facts you have, the facts you are missing, everyone with a stake, and at least three options, including a creative one."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Run each option through the lenses in turn - rights, fairness, overall good and harm, the common good, the person you want to be, and the relationships involved - and note where they disagree."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Choose the option that holds up best across the lenses, then imagine explaining it to someone you respect."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Act with as much care for those affected as the decision allows, and later review how it turned out and what you would do differently."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?",
@@ -8765,6 +8865,90 @@
    "dcterms:title": "Registered Replication Report on Mazar, Amir, and Ariely (2008) (Verschuere et al., 2018)",
    "schema:url": {
     "@id": "https://wrap.warwick.ac.uk/110268/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Markkula Center for Applied Ethics, Santa Clara University",
+   "dcterms:title": "A framework for ethical decision making (Velasquez, Moberg, Meyer, Shanks, McLean, DeCosse, André, Hanson, Raicu & Kwan; revised 2021)",
+   "schema:url": {
+    "@id": "https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Markkula Center for Applied Ethics, Santa Clara University (All About Ethics blog)",
+   "dcterms:title": "How to make more ethical decisions (2017)",
+   "schema:url": {
+    "@id": "https://www.scu.edu/ethics/all-about-ethics/all-about-ethics-blog/how-to-make-more-ethical-decisions.html"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Markkula Center for Applied Ethics, Santa Clara University",
+   "dcterms:title": "Thinking ethically (Velasquez, Andre, Shanks & Meyer)",
+   "schema:url": {
+    "@id": "https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/thinking-ethically/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Ethics & Behavior 27(5), 351-384 (doi:10.1080/10508422.2016.1182025); Boise State University research portal",
+   "dcterms:title": "Are ethics training programs improving? A meta-analytic review of past and present ethics instruction in the sciences (Watts et al., 2017)",
+   "schema:url": {
+    "@id": "https://experts.boisestate.edu/en/publications/are-ethics-training-programs-improving-a-meta-analytic-review-of-/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Academic Ethics 15(3), 245-275 (Springer)",
+   "dcterms:title": "What is working, what is not, and what we need to know: A meta-analytic review of business ethics instruction (Medeiros et al., 2017)",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s10805-017-9281-2"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Dental Education 49(4), 225-235; University of Minnesota research portal",
+   "dcterms:title": "Measuring dental students' ethical sensitivity (Bebeau, Rest & Yamoor, 1985)",
+   "schema:url": {
+    "@id": "https://experts.umn.edu/en/publications/measuring-dental-students-ethical-sensitivity/"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -22683,6 +22867,121 @@
    },
    "wgo:undermines": {
     "@id": "wg:moral-awareness"
+   }
+  },
+  {
+   "@id": "wg:ethical-lenses-framework",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-lenses-framework/s6"
+    }
+   ],
+   "rdfs:label": "Ethical lenses framework",
+   "skos:altLabel": [
+    "Markkula framework for ethical decision making",
+    "framework for ethical decision making",
+    "six ethical lenses",
+    "thinking ethically"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:applied-ethics"
+    },
+    {
+     "@id": "wg:deliberation"
+    }
+   ],
+   "skos:definition": "A five-stage method for ethical decisions from Santa Clara University's Markkula Center for Applied Ethics: recognise the ethical issue, get the facts, test the options through several ethical lenses (rights, justice, utilitarian, common good, virtue and care), choose and test the choice, then act and reflect.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Ethical lenses framework",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:ethical-fading"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:moral-algebra"
+    },
+    {
+     "@id": "wg:moral-awareness"
+    },
+    {
+     "@id": "wg:moral-case-deliberation"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:ethical-fading"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:wisdom-in-professions"
+   },
+   "wgo:develops": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:moral-awareness"
+    }
+   ],
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "practitioner",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/ethical-lenses-framework.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework/howto"
+   },
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:care-ethics"
+    },
+    {
+     "@id": "wg:consequentialism"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    }
+   ],
+   "wgo:introducedBy": {
+    "@id": "wg:manuel-velasquez"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:ethics-instruction-in-the-sciences-meta-analysis"
    }
   },
   {

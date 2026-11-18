@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:moral-awareness` | wgo:Skill |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -33,6 +31,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:four-immeasurables` | 4 | Compassion, Equanimity, envy, ill-will |
 | `wg:view-from-above` | 4 | Equanimity, Hubris, Rumination, humility |
 | `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
+| `wg:ethical-lenses-framework` | 3 | Deliberation, Ethical fading, Moral awareness |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
 | `wg:moral-case-deliberation` | 3 | Practical wisdom, moral-competence, moral-distress |
 | `wg:moral-habituation` | 3 | Courage, Temperance, cowardice |
@@ -59,9 +58,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
-| `wg:balance-theory-of-wisdom` | 1 | Folly |
 
-…and 21 more.
+…and 22 more.
 
 ## Toolkit by life situation
 
@@ -100,7 +98,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:golden-rule` |
 
-…and 27 more.
+…and 28 more.
 
 ## Myths and contested advice
 

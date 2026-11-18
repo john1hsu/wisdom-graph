@@ -631,6 +631,29 @@ Ask yourself:
 - Is my confidence here earned by long, well-fed-back experience, or is it just a strong feeling?
 - Have I set a point where thinking stops and acting starts?
 
+### [Ethical lenses framework](../articles/judgment-and-decisions/ethical-lenses-framework.md) — Framework
+
+1. Before deciding, ask whether the choice could harm someone, or benefit some people at others' expense, and whether it is about more than legality or efficiency.
+2. List the facts you have, the facts you are missing, everyone with a stake, and at least three options, including a creative one.
+3. Run each option through the lenses in turn - rights, fairness, overall good and harm, the common good, the person you want to be, and the relationships involved - and note where they disagree.
+4. Choose the option that holds up best across the lenses, then imagine explaining it to someone you respect.
+5. Act with as much care for those affected as the decision allows, and later review how it turned out and what you would do differently.
+
+*A hiring manager under pressure to fill roles quickly is offered a new screening rule that automatically rejects any applicant with a gap of more than a year in their employment history.*
+
+| Before | After |
+|---|---|
+| "It's a filter, not a decision about anyone. It saves the team hours, and it's legal, so let's switch it on." | "Who does this screen out? Parents, carers, people who were ill or caring for someone. That's a fairness question, not just an efficiency one. Through the justice and rights lenses it judges people on something unrelated to the job; would I be comfortable explaining it to the candidates? Let's drop the rule and save time with a short structured scorecard instead." |
+
+**Why:** The first response stays inside the technical and legal frame, so the people affected never come into view. The second asks the framework's first question, notices the issue is about more than legality or efficiency, and then lets several lenses and a publicity test shape a better option.
+
+Ask yourself:
+- Could this decision damage someone, or benefit some people unevenly, and have I said so in plain words?
+- Am I treating this only as a question of legality, cost or efficiency?
+- Which lenses favour my preferred option, which count against it, and have I faced the ones that count against it?
+- Would I be comfortable explaining this choice to someone whose judgement I respect?
+- After acting, did I look back at how it turned out for the people affected?
+
 ### [Imaginary future generations](../articles/judgment-and-decisions/imaginary-future-generations.md) — Practice
 
 1. Name the decision and choose a horizon year far enough ahead (often 25–40 years) that most people in the room will no longer be in charge.
