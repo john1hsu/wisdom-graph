@@ -172,6 +172,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:ancient-egyptian-wisdom-literature` | `wg:intellectual-humility` |
 | `wg:ancient-egyptian-wisdom-literature` | `wg:self-control` |
 | `wg:ancient-greek-philosophy` | `wg:kairos` |
+| `wg:aristotelian-virtue-ethics` | `wg:cleverness` |
 | `wg:aristotelian-virtue-ethics` | `wg:courage` |
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
@@ -197,9 +198,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:christianity` | `wg:cardinal-virtues` |
 | `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:greed` |
-| `wg:christianity` | `wg:seven-deadly-sins` |
 
-…and 38 more.
+…and 39 more.
 
 ## The doctrine of the mean
 

@@ -502,6 +502,13 @@ Ask yourself:
 
 ## foundations
 
+### [Cleverness](../articles/foundations/cleverness.md) — Concept
+
+Ask yourself:
+- Have I checked whether this goal is worth reaching, or only how to reach it?
+- If the people affected could see my plan, would they call it wise or just clever?
+- Am I trusting my track record of solving problems to excuse me from asking what this one is for?
+
 ### [Folly](../articles/foundations/folly.md) — Vice
 
 *A senior engineer, the most experienced person on the team, wants to push a database change to the live system late on a Friday. A junior colleague asks whether it has been tested against a copy of the real data.*

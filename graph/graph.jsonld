@@ -536,6 +536,30 @@
    "wgo:why": "Sorting the wants separates a real need from desires driven by comparison, so effort goes where it buys security and the rest stops dictating her time."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cleverness/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I checked whether this goal is worth reaching, or only how to reach it?",
+   "wgo:questionFor": {
+    "@id": "wg:cleverness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cleverness/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If the people affected could see my plan, would they call it wise or just clever?",
+   "wgo:questionFor": {
+    "@id": "wg:cleverness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/cleverness/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I trusting my track record of solving problems to excuse me from asking what this one is for?",
+   "wgo:questionFor": {
+    "@id": "wg:cleverness"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating this thought as a fact about the world, or as something my mind is saying right now?",
@@ -6471,6 +6495,90 @@
     "@id": "https://www.psychologicalscience.org/news/releases/is-happiness-having-what-you-want-wanting-what-you-have-or-both.html"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI (chs. 12–13), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VII (ch. 10), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut)",
+   "dcterms:title": "Aristotle's Ethics (Spring 2025 Edition)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/spr2025/entries/aristotle-ethics/index.html"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Monitor on Psychology, 34(3), American Psychological Association (Robert J. Sternberg, 2003)",
+   "dcterms:title": "President's column: Responsibility: One of the other three Rs",
+   "schema:url": {
+    "@id": "https://www.apa.org/monitor/mar03/pc"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "APS Observer, Association for Psychological Science (Kim Armstrong, 2017)",
+   "dcterms:title": "The IQ of Smart Fools",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/observer/the-iq-of-smart-fools"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Jubilee Centre for Character and Virtues, University of Birmingham (Igor Grossmann; conference version of the paper in Perspectives on Psychological Science, 2017)",
+   "dcterms:title": "Wisdom in Context",
+   "schema:url": {
+    "@id": "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/Grossmann_I.pdf"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s1",
@@ -19273,6 +19381,105 @@
      "@id": "wg:wanting-what-you-have-study"
     }
    ]
+  },
+  {
+   "@id": "wg:cleverness",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cleverness/s6"
+    }
+   ],
+   "rdfs:label": "Cleverness",
+   "skos:altLabel": [
+    "deinotēs",
+    "deinotes",
+    "means-end cleverness",
+    "mere smartness"
+   ],
+   "skos:broader": {
+    "@id": "wg:intelligence"
+   },
+   "skos:definition": "The capacity Aristotle called deinotēs: skill at finding and taking the steps that reach whatever goal one has set, good or bad. Admirable when the goal is good and mere smartness when it is not, it is a component of practical wisdom but not a virtue, because it does not ask whether the goal is worth reaching.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Cleverness",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:general-intelligence"
+    },
+    {
+     "@id": "wg:intellectual-virtues"
+    },
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:wisdom"
+   },
+   "wgo:contrastsWith": [
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/foundations/cleverness.md",
+   "wgo:introducedBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:nicomachean-ethics"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   }
   },
   {
    "@id": "wg:cognitive-defusion",
