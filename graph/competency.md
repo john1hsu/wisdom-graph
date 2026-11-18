@@ -6,15 +6,15 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-| node | type |
-|---|---|
-| `wg:ethical-fading` | wgo:Obstacle |
+_No results._
 
 ## Skills and virtues with no practice (gap)
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:moral-awareness` | wgo:Skill |
 
 ## Life situations with no guidance (gap)
 
@@ -59,7 +59,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:after-action-review` | 1 | Self-reflection |
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
 
-…and 20 more.
+…and 21 more.
 
 ## Toolkit by life situation
 
@@ -137,7 +137,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hedonic-adaptation` | mixed | `wg:lottery-wealth-well-being-study` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 
-…and 54 more.
+…and 55 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:moral-awareness` | wgo:Skill |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:reversible-and-irreversible-decisions` | wgo:Principle |

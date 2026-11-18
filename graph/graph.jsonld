@@ -3444,6 +3444,54 @@
    "schema:text": "Wait a day or two; if no important new reason appears, decide by the balance and act on it."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who could be harmed or wronged by this, even slightly, and would they agree to it if they knew?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-awareness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I describing this choice only in technical, financial or procedural terms?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-awareness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would most of my colleagues, or the people affected, see an ethical issue here that I am not seeing?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-awareness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there a rule, promise or duty in play that I am treating as a mere formality?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-awareness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do I feel a flicker of unease about this, and have I stopped to ask what it is telling me?",
+   "wgo:questionFor": {
+    "@id": "wg:moral-awareness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "\"Before I build it: who is affected, and how? Customers would be charged because we made it harder to see how to cancel. That's a fairness question, not just a design one. I'll raise it with my lead and propose a test that improves sign-ups without hiding the exit.\"",
+   "wgo:before": "\"It's an A/B test like any other. Legal will flag it if there's a problem, and my job is to move the metric.\"",
+   "wgo:situation": "A product analyst is asked to tune a subscription sign-up page so that fewer people notice the button for cancelling their free trial. The request arrives as an ordinary ticket, labelled \"conversion optimisation\".",
+   "wgo:why": "The first response accepts the technical frame of the ticket, so the harm never registers as a moral issue. The second asks who could be harmed and names it in plain moral terms, which is exactly what research finds switches moral awareness on, before any judgment about what to do."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Can I state the dilemma as two concrete options, and say what harm each would do and to whom?",
@@ -12297,6 +12345,90 @@
     "@id": "https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology 91(1), 233-243 (doi:10.1037/0021-9010.91.1.233); abstract listing by Shanghai University of Finance and Economics",
+   "dcterms:title": "Moral awareness and ethical predispositions: Investigating the role of individual differences in the recognition of moral issues (Reynolds, 2006)",
+   "schema:url": {
+    "@id": "https://academicnewsletter.sufe.edu.cn/info/372265"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Human Relations 53(7), 981-1018 (doi:10.1177/0018726700537004); Scilit record with abstract",
+   "dcterms:title": "Moral awareness in business organizations: Influences of issue-related and social context factors (Butterfield, Trevino & Weaver, 2000)",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/bd939e4767ba0638a447c13262465341"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology 93(5), 1027-1041 (doi:10.1037/0021-9010.93.5.1027); abstract listing by Shanghai University of Finance and Economics",
+   "dcterms:title": "Moral attentiveness: Who pays attention to the moral aspects of life? (Reynolds, 2008)",
+   "schema:url": {
+    "@id": "https://academicnewsletter.sufe.edu.cn/info/371916"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Business Ethics 64, 381-404 (Springer)",
+   "dcterms:title": "An analysis of the factor structure of Jones' moral intensity construct (McMahon & Harvey, 2006)",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s10551-006-0006-5"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Ethics Unwrapped, McCombs School of Business, University of Texas at Austin (written and narrated by Robert Prentice)",
+   "dcterms:title": "Being your best self, part 1: Moral awareness",
+   "schema:url": {
+    "@id": "https://ethicsunwrapped.utexas.edu/video/best-self-part-1-moral-awareness"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Iris Murdoch (Blum, 2022)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/murdoch/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1",
@@ -26312,6 +26444,113 @@
    "wgo:level": "introductory",
    "wgo:supportedBy": {
     "@id": "wg:improper-linear-models-study"
+   }
+  },
+  {
+   "@id": "wg:moral-awareness",
+   "@type": "wgo:Skill",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6"
+    }
+   ],
+   "rdfs:label": "Moral awareness",
+   "skos:altLabel": [
+    "ethical awareness",
+    "ethical sensitivity",
+    "moral recognition",
+    "moral sensitivity"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:moral-competence"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "skos:definition": "The capacity to notice that a situation has an ethical dimension, that someone could be harmed or a duty or norm is at stake, before deciding what to do; the first step in acting ethically, and the direct counter to ethical fading.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Moral awareness",
+   "skos:related": [
+    {
+     "@id": "wg:bounded-ethicality"
+    },
+    {
+     "@id": "wg:ethical-fading"
+    },
+    {
+     "@id": "wg:iris-murdoch"
+    },
+    {
+     "@id": "wg:moral-attentiveness"
+    },
+    {
+     "@id": "wg:moral-case-deliberation"
+    },
+    {
+     "@id": "wg:moral-intensity"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:self-deception"
+    },
+    {
+     "@id": "wg:speaking-up-at-work"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:ethical-fading"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:moral-awareness-in-business-organizations-study"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example"
+   },
+   "wgo:explainedBy": [
+    {
+     "@id": "wg:moral-attentiveness"
+    },
+    {
+     "@id": "wg:moral-intensity"
+    }
+   ],
+   "wgo:file": "articles/wisdom-at-work/moral-awareness.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:four-component-model"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:moral-awareness-and-ethical-predispositions-study"
    }
   },
   {

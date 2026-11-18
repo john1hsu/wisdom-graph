@@ -4326,6 +4326,65 @@
 <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/benjamin-franklin> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/improper-linear-models-study> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Who could be harmed or wronged by this, even slightly, and would they agree to it if they knew?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I describing this choice only in technical, financial or procedural terms?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Would most of my colleagues, or the people affected, see an ethical issue here that I am not seeing?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is there a rule, promise or duty in play that I am treating as a mere formality?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Do I feel a flicker of unease about this, and have I stopped to ask what it is telling me?" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"Before I build it: who is affected, and how? Customers would be charged because we made it harder to see how to cancel. That's a fairness question, not just a design one. I'll raise it with my lead and propose a test that improves sign-ups without hiding the exit.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"It's an A/B test like any other. Legal will flag it if there's a problem, and my job is to move the metric.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A product analyst is asked to tune a subscription sign-up page so that fewer people notice the button for cancelling their free trial. The request arrives as an ordinary ticket, labelled \"conversion optimisation\"." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response accepts the technical frame of the ticket, so the harm never registers as a moral issue. The second asks who could be harmed and names it in plain moral terms, which is exactly what research finds switches moral awareness on, before any judgment about what to do." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Skill> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2000/01/rdf-schema#label> "Moral awareness" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#altLabel> "ethical awareness" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#altLabel> "ethical sensitivity" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#altLabel> "moral recognition" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#altLabel> "moral sensitivity" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-competence> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#definition> "The capacity to notice that a situation has an ethical dimension, that someone could be harmed or a duty or norm is at stake, before deciding what to do; the first step in acting ethically, and the direct counter to ethical fading." .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moral awareness" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bounded-ethicality> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/iris-murdoch> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-attentiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-intensity> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness-in-business-organizations-study> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness/example> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-attentiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-intensity> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/moral-awareness.md" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/four-component-model> .
+<https://github.com/john1hsu/wisdom-graph/id/moral-awareness> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness-and-ethical-predispositions-study> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Can I state the dilemma as two concrete options, and say what harm each would do and to whom?" .
 <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -9708,6 +9767,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> <https://schema.org/url> <https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 91(1), 233-243 (doi:10.1037/0021-9010.91.1.233); abstract listing by Shanghai University of Finance and Economics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> <http://purl.org/dc/terms/title> "Moral awareness and ethical predispositions: Investigating the role of individual differences in the recognition of moral issues (Reynolds, 2006)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s1> <https://schema.org/url> <https://academicnewsletter.sufe.edu.cn/info/372265> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> <http://purl.org/dc/terms/publisher> "Human Relations 53(7), 981-1018 (doi:10.1177/0018726700537004); Scilit record with abstract" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> <http://purl.org/dc/terms/title> "Moral awareness in business organizations: Influences of issue-related and social context factors (Butterfield, Trevino & Weaver, 2000)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s2> <https://schema.org/url> <https://scilit.com/publications/bd939e4767ba0638a447c13262465341> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 93(5), 1027-1041 (doi:10.1037/0021-9010.93.5.1027); abstract listing by Shanghai University of Finance and Economics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> <http://purl.org/dc/terms/title> "Moral attentiveness: Who pays attention to the moral aspects of life? (Reynolds, 2008)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s3> <https://schema.org/url> <https://academicnewsletter.sufe.edu.cn/info/371916> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> <http://purl.org/dc/terms/publisher> "Journal of Business Ethics 64, 381-404 (Springer)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> <http://purl.org/dc/terms/title> "An analysis of the factor structure of Jones' moral intensity construct (McMahon & Harvey, 2006)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s4> <https://schema.org/url> <https://link.springer.com/article/10.1007/s10551-006-0006-5> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> <http://purl.org/dc/terms/publisher> "Ethics Unwrapped, McCombs School of Business, University of Texas at Austin (written and narrated by Robert Prentice)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> <http://purl.org/dc/terms/title> "Being your best self, part 1: Moral awareness" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s5> <https://schema.org/url> <https://ethicsunwrapped.utexas.edu/video/best-self-part-1-moral-awareness> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> <http://purl.org/dc/terms/title> "Iris Murdoch (Blum, 2022)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/moral-awareness/s6> <https://schema.org/url> <https://plato.stanford.edu/entries/murdoch/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://purl.org/dc/terms/publisher> "Health Care Analysis 17(3), 217-235 (Springer; doi:10.1007/s10728-008-0102-z); PubMed Central" .
 <https://github.com/john1hsu/wisdom-graph/id/source/moral-case-deliberation/s1> <http://purl.org/dc/terms/title> "Good care in ongoing dialogue: Improving the quality of care through moral deliberation and responsive evaluation (Abma, Molewijk & Widdershoven, 2009)" .

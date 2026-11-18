@@ -1610,6 +1610,23 @@ Ask yourself:
 - Whose interests does this decision touch beyond the targets I am measured on?
 - Am I still doing the work myself because it is needed, or because it is where I feel competent?
 
+### [Moral awareness](../articles/wisdom-at-work/moral-awareness.md) — Skill
+
+*A product analyst is asked to tune a subscription sign-up page so that fewer people notice the button for cancelling their free trial. The request arrives as an ordinary ticket, labelled "conversion optimisation".*
+
+| Before | After |
+|---|---|
+| "It's an A/B test like any other. Legal will flag it if there's a problem, and my job is to move the metric." | "Before I build it: who is affected, and how? Customers would be charged because we made it harder to see how to cancel. That's a fairness question, not just a design one. I'll raise it with my lead and propose a test that improves sign-ups without hiding the exit." |
+
+**Why:** The first response accepts the technical frame of the ticket, so the harm never registers as a moral issue. The second asks who could be harmed and names it in plain moral terms, which is exactly what research finds switches moral awareness on, before any judgment about what to do.
+
+Ask yourself:
+- Who could be harmed or wronged by this, even slightly, and would they agree to it if they knew?
+- Am I describing this choice only in technical, financial or procedural terms?
+- Would most of my colleagues, or the people affected, see an ethical issue here that I am not seeing?
+- Is there a rule, promise or duty in play that I am treating as a mere formality?
+- Do I feel a flicker of unease about this, and have I stopped to ask what it is telling me?
+
 ### [Moral case deliberation](../articles/wisdom-at-work/moral-case-deliberation.md) — Practice
 
 1. Choose a real, current case from your own work that leaves you or your team unsure what is right, and ask someone trained and not involved in the decision to facilitate.
