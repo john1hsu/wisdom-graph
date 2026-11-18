@@ -7120,6 +7120,137 @@
   ]
  },
  {
+  "id": "wg:judaism",
+  "title": "Judaism",
+  "aliases": [
+   "Jewish tradition",
+   "Jewish religious tradition",
+   "Jewish wisdom tradition",
+   "Jewish ethics",
+   "Yahadut"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/judaism.md",
+  "created": "2026-11-18",
+  "summary": "The monotheistic religious tradition of the Jewish people, rooted in the Hebrew Bible and above all the Torah, and reshaped after 70 CE into rabbinic Judaism, whose wisdom teaching centres on lifelong study, argument conducted with humility, and the deliberate shaping of character through law and practice.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:abrahamic-religions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hebrew-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:book-of-proverbs"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:tzedakah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:golden-rule"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:christianity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:maimonides"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:pirkei-avot"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:talmud"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:anger"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:humility"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:intellectual-humility",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:contentment",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:self-control",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:doctrine-of-the-mean",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:mussar",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.britannica.com/summary/Judaism",
+   "https://www.britannica.com:443/topic/Judaism/Rabbinic-Judaism-2nd-18th-century",
+   "https://www.sefaria.org/api/texts/Pirkei_Avot.4",
+   "https://plato.stanford.edu/Entries/maimonides/",
+   "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/musar-movement",
+   "https://www.myjewishlearning.com/article/eruvin-13/"
+  ]
+ },
+ {
   "id": "wg:kairos",
   "title": "Kairos",
   "aliases": [

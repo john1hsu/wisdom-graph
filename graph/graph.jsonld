@@ -11101,6 +11101,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Judaism (summary)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/summary/Judaism"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Judaism: Rabbinic Judaism (2nd–18th century) (Theodor H. Gaster)",
+   "schema:url": {
+    "@id": "https://www.britannica.com:443/topic/Judaism/Rabbinic-Judaism-2nd-18th-century"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Sefaria (text API)",
+   "dcterms:title": "Pirkei Avot, chapter 4 (Mishnah Yomit translation by Joshua Kulp)",
+   "schema:url": {
+    "@id": "https://www.sefaria.org/api/texts/Pirkei_Avot.4"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy",
+   "dcterms:title": "Maimonides (Kenneth Seeskin; substantive revision 2024)",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/Entries/maimonides/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Macmillan Reference / Gale)",
+   "dcterms:title": "Musar Movement (Gershon C. Bacon), Encyclopedia of Religion",
+   "schema:url": {
+    "@id": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/musar-movement"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "My Jewish Learning",
+   "dcterms:title": "Eruvin 13 (Rabbi Shuli Passow)",
+   "schema:url": {
+    "@id": "https://www.myjewishlearning.com/article/eruvin-13/"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -25030,6 +25114,121 @@
     "@id": "wg:emotional-suppression"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:judaism",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/judaism/s6"
+    }
+   ],
+   "rdfs:label": "Judaism",
+   "skos:altLabel": [
+    "Jewish ethics",
+    "Jewish religious tradition",
+    "Jewish tradition",
+    "Jewish wisdom tradition",
+    "Yahadut"
+   ],
+   "skos:broader": {
+    "@id": "wg:abrahamic-religions"
+   },
+   "skos:definition": "The monotheistic religious tradition of the Jewish people, rooted in the Hebrew Bible and above all the Torah, and reshaped after 70 CE into rabbinic Judaism, whose wisdom teaching centres on lifelong study, argument conducted with humility, and the deliberate shaping of character through law and practice.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Judaism",
+   "skos:related": [
+    {
+     "@id": "wg:anger"
+    },
+    {
+     "@id": "wg:book-of-proverbs"
+    },
+    {
+     "@id": "wg:christianity"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:hebrew-wisdom-literature"
+    },
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:maimonides"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:pirkei-avot"
+    },
+    {
+     "@id": "wg:self-control"
+    },
+    {
+     "@id": "wg:talmud"
+    },
+    {
+     "@id": "wg:tzedakah"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/judaism.md",
+   "wgo:influencedBy": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:level": "introductory",
+   "wgo:teaches": [
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:mussar"
+    },
+    {
+     "@id": "wg:self-control"
+    }
+   ]
   },
   {
    "@id": "wg:kairos",

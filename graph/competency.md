@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:judaism` | wgo:Tradition |
 | `wg:moral-awareness` | wgo:Skill |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
@@ -201,7 +202,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:greed` |
 
-…and 43 more.
+…and 48 more.
 
 ## The doctrine of the mean
 

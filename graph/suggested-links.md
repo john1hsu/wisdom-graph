@@ -4,7 +4,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 4.83 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues` |
+| 4.82 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues` |
 | 3.79 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:paul-baltes` |
 | 3.56 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt`, `wg:robert-sternberg` |
 | 3.34 | `wg:paul-baltes` | `wg:personal-and-general-wisdom` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:learning-from-experience`, `wg:psychology-of-wisdom`, `wg:three-dimensional-wisdom-model` |
@@ -17,15 +17,15 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.01 | `wg:balance-theory-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:leading-others`, `wg:perspective-taking` |
 | 2.97 | `wg:adversity` | `wg:equanimity` | `wg:acceptance`, `wg:buddhism`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:impermanence` |
 | 2.95 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:paul-baltes`, `wg:self-knowledge` |
-| 2.94 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
 | 2.94 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
-| 2.92 | `wg:moral-habituation` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:doctrine-of-the-mean` |
-| 2.92 | `wg:deliberation` | `wg:moral-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cleverness`, `wg:doctrine-of-the-mean`, `wg:intellectual-virtues` |
+| 2.93 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
+| 2.91 | `wg:moral-habituation` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cardinal-virtues`, `wg:confucianism`, `wg:doctrine-of-the-mean` |
+| 2.91 | `wg:deliberation` | `wg:moral-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cleverness`, `wg:doctrine-of-the-mean`, `wg:intellectual-virtues` |
 | 2.88 | `wg:theoretical-wisdom` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:eudaimonia`, `wg:intellectual-humility`, `wg:intellectual-virtues` |
-| 2.87 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:intellectual-virtues`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom` |
+| 2.86 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:intellectual-virtues`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom` |
 | 2.86 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
 | 2.86 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
 | 2.84 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
-| 2.82 | `wg:cleverness` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-virtues`, `wg:moral-virtues` |
+| 2.81 | `wg:cleverness` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-virtues`, `wg:moral-virtues` |
 | 2.81 | `wg:interpersonal-conflict` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:moral-case-deliberation`, `wg:perspective-taking`, `wg:philosophical-hermeneutics` |
 | 2.74 | `wg:deliberation` | `wg:regret` | `wg:big-decisions-opting-converting-drifting`, `wg:knowing-when-to-quit`, `wg:major-life-decision`, `wg:reversible-and-irreversible-decisions`, `wg:rumination` |
