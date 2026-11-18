@@ -10048,6 +10048,107 @@
   ]
  },
  {
+  "id": "wg:positive-psychology",
+  "title": "Positive psychology",
+  "aliases": [
+   "positive psychology movement",
+   "science of positive psychology",
+   "PP"
+  ],
+  "type": "Field",
+  "domain": "science-of-wisdom",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/positive-psychology.md",
+  "created": "2026-11-18",
+  "summary": "The branch of psychology, launched as a named movement in 2000, that studies what makes life go well: positive experiences, strengths of character such as wisdom and courage, and the institutions that help people and communities flourish; its research is real but its popular claims often outrun the evidence.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:via-character-strengths"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:second-wave-positive-psychology"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:martin-seligman",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:mihaly-csikszentmihalyi",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:humanistic-psychology",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:positive-psychology-interventions-meta-analysis",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:positive-psychology-interventions-reanalysis-study",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:critical-positivity-ratio-critique",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ppc.sas.upenn.edu/sites/default/files/ppintroarticle.pdf",
+   "https://ppc.sas.upenn.edu:443/sites/default/files/strengthshapplifesatis.pdf",
+   "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/1471-2458-13-119",
+   "https://econpapers.repec.org/RePEc:plo:pone00:0216588",
+   "https://arxiv.org/pdf/1307.7006",
+   "https://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.840062/full"
+  ]
+ },
+ {
   "id": "wg:positivity-effect-in-ageing",
   "title": "Positivity effect in ageing",
   "aliases": [

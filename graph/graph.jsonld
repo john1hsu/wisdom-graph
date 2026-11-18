@@ -13175,6 +13175,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 5–14 (Seligman & Csikszentmihalyi, 2000; doi:10.1037/0003-066X.55.1.5), Positive Psychology Center, University of Pennsylvania",
+   "dcterms:title": "Positive psychology: An introduction",
+   "schema:url": {
+    "@id": "https://ppc.sas.upenn.edu/sites/default/files/ppintroarticle.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Journal of Positive Psychology, 2(3), 149–156 (Peterson, Ruch, Beermann, Park & Seligman, 2007; doi:10.1080/17439760701228938), Positive Psychology Center, University of Pennsylvania",
+   "dcterms:title": "Strengths of character, orientations to happiness, and life satisfaction",
+   "schema:url": {
+    "@id": "https://ppc.sas.upenn.edu:443/sites/default/files/strengthshapplifesatis.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "BMC Public Health, 13, 119 (Bolier, Haverman, Westerhof, Riper, Smit & Bohlmeijer, 2013; doi:10.1186/1471-2458-13-119)",
+   "dcterms:title": "Positive psychology interventions: A meta-analysis of randomized controlled studies",
+   "schema:url": {
+    "@id": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/1471-2458-13-119"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "PLOS ONE, 14(5), e0216588 (White, Uttl & Holder, 2019; doi:10.1371/journal.pone.0216588), via EconPapers",
+   "dcterms:title": "Meta-analyses of positive psychology interventions: The effects are much smaller than previously reported",
+   "schema:url": {
+    "@id": "https://econpapers.repec.org/RePEc:plo:pone00:0216588"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "American Psychologist, 68 (Brown, Sokal & Friedman, 2013), authors' version via arXiv:1307.7006",
+   "dcterms:title": "The complex dynamics of wishful thinking: The critical positivity ratio",
+   "schema:url": {
+    "@id": "https://arxiv.org/pdf/1307.7006"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 13, 840062 (Carol D. Ryff, 2022; doi:10.3389/fpsyg.2022.840062)",
+   "dcterms:title": "Positive psychology: Looking back and looking forward",
+   "schema:url": {
+    "@id": "https://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.840062/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positivity-effect-in-ageing/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -27222,6 +27306,100 @@
      "@id": "wg:practical-wisdom"
     }
    ]
+  },
+  {
+   "@id": "wg:positive-psychology",
+   "@type": "wgo:Field",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positive-psychology/s6"
+    }
+   ],
+   "rdfs:label": "Positive psychology",
+   "skos:altLabel": [
+    "PP",
+    "positive psychology movement",
+    "science of positive psychology"
+   ],
+   "skos:broader": {
+    "@id": "wg:psychology"
+   },
+   "skos:definition": "The branch of psychology, launched as a named movement in 2000, that studies what makes life go well: positive experiences, strengths of character such as wisdom and courage, and the institutions that help people and communities flourish; its research is real but its popular claims often outrun the evidence.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Positive psychology",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    },
+    {
+     "@id": "wg:savoring"
+    },
+    {
+     "@id": "wg:second-wave-positive-psychology"
+    },
+    {
+     "@id": "wg:via-character-strengths"
+    },
+    {
+     "@id": "wg:wisdom-and-well-being"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:critical-positivity-ratio-critique"
+    },
+    {
+     "@id": "wg:positive-psychology-interventions-reanalysis-study"
+    }
+   ],
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/science-of-wisdom/positive-psychology.md",
+   "wgo:influencedBy": {
+    "@id": "wg:humanistic-psychology"
+   },
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:martin-seligman"
+    },
+    {
+     "@id": "wg:mihaly-csikszentmihalyi"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:positive-psychology-interventions-meta-analysis"
+   }
   },
   {
    "@id": "wg:positivity-effect-in-ageing",
