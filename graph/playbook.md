@@ -51,6 +51,23 @@ Ask yourself:
 - Am I calling something "fate" to avoid changing what I could and should still change?
 - Could I tell the story of this setback as part of a life I would still choose to live again?
 
+### [Failure](../articles/adversity-and-mortality/failure.md) — Context
+
+*A proposal you spent two months on is turned down by the leadership team, and the written feedback lists several weaknesses.*
+
+| Before | After |
+|---|---|
+| You skim the feedback, decide the committee never understood the idea, tell yourself you are just not good at this kind of work, and avoid opening the document again. | You wait a day, then read the feedback as if it were about a colleague's proposal. You sort the points into what you could have done differently (the cost estimate was thin) and what was never yours to decide (this year's budget priorities). You ask one reviewer what would have changed their mind, fix the estimate and decide whether the idea is worth bringing back next cycle. |
+
+**Why:** The first response protects your self-image by tuning out the information and turning one setback into a verdict on yourself. The second takes the sting out of the feedback so you can actually use it, and keeps what you control apart from what you don't.
+
+Ask yourself:
+- Have I actually read and understood the feedback, or have I looked away from it?
+- Which parts of this outcome were in my control, and which were not?
+- Am I treating myself as I would treat a friend who failed in the same way?
+- Is this a mistake to fix, a risk that didn't pay off, or a sign to change course?
+- What would I learn if this had happened to someone else?
+
 ### [Grief and bereavement](../articles/adversity-and-mortality/grief-and-loss.md) — Context
 
 *Two months after her father's death, Dana enjoys a weekend away with friends, then feels guilty and wonders whether she is grieving "wrong" because she has not hit a depression stage.*

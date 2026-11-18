@@ -12,7 +12,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:personal-growth]
-related: [wg:self-reflection, wg:after-action-review, wg:evening-review, wg:adversity, wg:regret, wg:rumination, wg:insight, wg:reflective-journaling, wg:life-review, wg:personal-and-general-wisdom, wg:post-traumatic-growth, wg:seeking-counsel]
+related: [wg:self-reflection, wg:after-action-review, wg:evening-review, wg:adversity, wg:failure, wg:regret, wg:rumination, wg:insight, wg:reflective-journaling, wg:life-review, wg:personal-and-general-wisdom, wg:post-traumatic-growth, wg:seeking-counsel]
 requires: [wg:self-reflection]
 relations:
   - {predicate: explainedBy, object: wg:more-life-experience-model, source: s1, confidence: high}

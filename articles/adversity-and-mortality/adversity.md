@@ -12,7 +12,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:life-challenges]
-related: [wg:resilience, wg:post-traumatic-growth, wg:stoicism, wg:buddhism, wg:dichotomy-of-control, wg:acceptance, wg:cognitive-reappraisal, wg:self-reflection, wg:amor-fati, wg:rumination, wg:viktor-frankl, wg:learning-from-experience, wg:dukkha, wg:social-support]
+related: [wg:failure, wg:resilience, wg:post-traumatic-growth, wg:stoicism, wg:buddhism, wg:dichotomy-of-control, wg:acceptance, wg:cognitive-reappraisal, wg:self-reflection, wg:amor-fati, wg:rumination, wg:viktor-frankl, wg:learning-from-experience, wg:dukkha, wg:social-support]
 requires: []
 relations:
   - {predicate: demonstratedBy, object: wg:cumulative-lifetime-adversity-study, source: s1, confidence: high}

@@ -1616,6 +1616,54 @@
    "schema:text": "Choose a single intention for tomorrow and, every week or so, look back over your notes for patterns that keep recurring."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I actually read and understood the feedback, or have I looked away from it?",
+   "wgo:questionFor": {
+    "@id": "wg:failure"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which parts of this outcome were in my control, and which were not?",
+   "wgo:questionFor": {
+    "@id": "wg:failure"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating myself as I would treat a friend who failed in the same way?",
+   "wgo:questionFor": {
+    "@id": "wg:failure"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this a mistake to fix, a risk that didn't pay off, or a sign to change course?",
+   "wgo:questionFor": {
+    "@id": "wg:failure"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What would I learn if this had happened to someone else?",
+   "wgo:questionFor": {
+    "@id": "wg:failure"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "You wait a day, then read the feedback as if it were about a colleague's proposal. You sort the points into what you could have done differently (the cost estimate was thin) and what was never yours to decide (this year's budget priorities). You ask one reviewer what would have changed their mind, fix the estimate and decide whether the idea is worth bringing back next cycle.",
+   "wgo:before": "You skim the feedback, decide the committee never understood the idea, tell yourself you are just not good at this kind of work, and avoid opening the document again.",
+   "wgo:situation": "A proposal you spent two months on is turned down by the leadership team, and the written feedback lists several weaknesses.",
+   "wgo:why": "The first response protects your self-image by tuning out the information and turning one setback into a verdict on yourself. The second takes the sting out of the feedback so you can actually use it, and keeps what you control apart from what you don't."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/folly/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Do I actually have the specific knowledge or skill this action needs, or am I borrowing confidence from success somewhere else?",
@@ -8845,6 +8893,104 @@
     "@id": "https://digitalcommons.usf.edu/psy_facpub/1911"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Psychological Science (Eskreis-Winkler & Fishbach, 2019; doi:10.1177/0956797619881133), Association for Psychological Science",
+   "dcterms:title": "Not Learning From Failure—the Greatest Failure of All",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/psychological-science/0956797619881133/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology General, 151(8) (Keith, Horvath, Klamar & Frese, 2022; doi:10.1037/xge0001170), Leuphana University research portal",
+   "dcterms:title": "Failure to learn from failure is mitigated by loss-framing and corrective feedback: A replication and test of the boundary conditions of the tune-out effect",
+   "schema:url": {
+    "@id": "https://fis.leuphana.de/de/publications/failure-to-learn-from-failure-is-mitigated-by-loss-framing-and-co/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Psychological Science, commentary on Eskreis-Winkler & Fishbach (2019) (doi:10.1177/09567976251333666), Association for Psychological Science",
+   "dcterms:title": "A Tendency to Answer Consistently Can Generate Apparent Failures to Learn From Failure",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/psychological-science/09567976251333666/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 38(9) (Breines & Chen, 2012; doi:10.1177/0146167212445599), PubMed record 22645164",
+   "dcterms:title": "Self-compassion increases self-improvement motivation",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/22645164/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Agency for Healthcare Research and Quality, Patient Safety Network (PSNet)",
+   "dcterms:title": "Strategies for learning from failure (Edmondson, Harvard Business Review, 2011)",
+   "schema:url": {
+    "@id": "https://psnet.ahrq.gov/issue/strategies-learning-failure"
+   },
+   "wgo:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Nature Communications (Wang, Jones & Wang, 2019); Kellogg School of Management, Northwestern University research page",
+   "dcterms:title": "Early-Career Setback and Future Career Impact",
+   "schema:url": {
+    "@id": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2019/early-career-setback-and-future-career-impact/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Perseus Digital Library / Perseids Scaife CTS reader",
+   "dcterms:title": "Epictetus, The Encheiridion (Handbook), chapter 1, trans. George Long (1887)",
+   "schema:url": {
+    "@id": "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/1"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/folly/s1",
@@ -19073,6 +19219,9 @@
      "@id": "wg:dukkha"
     },
     {
+     "@id": "wg:failure"
+    },
+    {
      "@id": "wg:learning-from-experience"
     },
     {
@@ -22664,6 +22813,121 @@
    }
   },
   {
+   "@id": "wg:failure",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/failure/s7"
+    }
+   ],
+   "rdfs:label": "Failure",
+   "skos:altLabel": [
+    "failing",
+    "falling short",
+    "learning from failure",
+    "personal failure",
+    "responding to failure"
+   ],
+   "skos:broader": {
+    "@id": "wg:adversity"
+   },
+   "skos:definition": "The situation of falling short of a goal you cared about: a rejected application, a project that flops, a test you fail, a mistake that costs others. Wisdom here means looking squarely at what happened instead of tuning it out, separating what was yours to control from what was not, treating yourself with enough kindness to keep learning, and judging whether the failure calls for a fix, a new attempt or a change of course.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Failure",
+   "skos:related": [
+    {
+     "@id": "wg:after-action-review"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:epictetus"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-compassion"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:speaking-up-at-work"
+    },
+    {
+     "@id": "wg:stoicism"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:answer-consistency-critique"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:early-career-setback-study"
+    },
+    {
+     "@id": "wg:not-learning-from-failure-study"
+    },
+    {
+     "@id": "wg:self-compassion-self-improvement-study"
+    },
+    {
+     "@id": "wg:tune-out-effect-replication-study"
+    }
+   ],
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/failure/example"
+   },
+   "wgo:file": "articles/adversity-and-mortality/failure.md",
+   "wgo:level": "introductory"
+  },
+  {
    "@id": "wg:folly",
    "@type": "wgo:Vice",
    "dcterms:created": {
@@ -25763,6 +26027,9 @@
     },
     {
      "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:failure"
     },
     {
      "@id": "wg:insight"

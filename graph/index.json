@@ -145,6 +145,10 @@
    },
    {
     "predicate": "skos:related",
+    "object": "wg:failure"
+   },
+   {
+    "predicate": "skos:related",
     "object": "wg:resilience"
    },
    {
@@ -4318,6 +4322,139 @@
   ]
  },
  {
+  "id": "wg:failure",
+  "title": "Failure",
+  "aliases": [
+   "personal failure",
+   "falling short",
+   "responding to failure",
+   "learning from failure",
+   "failing"
+  ],
+  "type": "Context",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/failure.md",
+  "created": "2026-11-18",
+  "summary": "The situation of falling short of a goal you cared about: a rejected application, a project that flops, a test you fail, a mistake that costs others. Wisdom here means looking squarely at what happened instead of tuning it out, separating what was yours to control from what was not, treating yourself with enough kindness to keep learning, and judging whether the failure calls for a fix, a new attempt or a change of course.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:adversity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:after-action-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:speaking-up-at-work"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:leading-others"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epictetus"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:not-learning-from-failure-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:tune-out-effect-replication-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:answer-consistency-critique",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:self-compassion-self-improvement-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:early-career-setback-study",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Have I actually read and understood the feedback, or have I looked away from it?",
+   "Which parts of this outcome were in my control, and which were not?",
+   "Am I treating myself as I would treat a friend who failed in the same way?",
+   "Is this a mistake to fix, a risk that didn't pay off, or a sign to change course?",
+   "What would I learn if this had happened to someone else?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A proposal you spent two months on is turned down by the leadership team, and the written feedback lists several weaknesses.",
+   "before": "You skim the feedback, decide the committee never understood the idea, tell yourself you are just not good at this kind of work, and avoid opening the document again.",
+   "after": "You wait a day, then read the feedback as if it were about a colleague's proposal. You sort the points into what you could have done differently (the cost estimate was thin) and what was never yours to decide (this year's budget priorities). You ask one reviewer what would have changed their mind, fix the estimate and decide whether the idea is worth bringing back next cycle.",
+   "why": "The first response protects your self-image by tuning out the information and turning one setback into a verdict on yourself. The second takes the sting out of the feedback so you can actually use it, and keeps what you control apart from what you don't."
+  },
+  "source_urls": [
+   "https://www.psychologicalscience.org/journals/psychological-science/0956797619881133/",
+   "https://fis.leuphana.de/de/publications/failure-to-learn-from-failure-is-mitigated-by-loss-framing-and-co/",
+   "https://www.psychologicalscience.org/journals/psychological-science/09567976251333666/",
+   "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+   "https://psnet.ahrq.gov/issue/strategies-learning-failure",
+   "https://www.kellogg.northwestern.edu/academics-research/research/detail/2019/early-career-setback-and-future-career-impact/",
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/1"
+  ]
+ },
+ {
   "id": "wg:folly",
   "title": "Folly",
   "aliases": [
@@ -7850,6 +7987,10 @@
    {
     "predicate": "skos:related",
     "object": "wg:adversity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:failure"
    },
    {
     "predicate": "skos:related",
