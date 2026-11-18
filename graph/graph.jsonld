@@ -15097,6 +15097,104 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Management Studies, 40(6), 1453–1476 (Milliken, Morrison & Hewlin, 2003), author manuscript hosted by Southeastern Oklahoma State University",
+   "dcterms:title": "An Exploratory Study of Employee Silence: Issues That Employees Don't Communicate Upward and Why",
+   "schema:url": {
+    "@id": "https://homepages.se.edu/cvonbergen/files/2012/12/AN-EXPLORATORY-STUDY-OF-EMPLOYEE-SILENCE_IISSUES-THAT-EMPLOYEES-DONT-COMMUNICATE-UPWARD-AND-WHY.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Personnel Psychology, 70(1), 11–71 (Chamberlin, Newton & LePine, 2017; doi:10.1111/peps.12185), University of Iowa research record",
+   "dcterms:title": "A meta-analysis of voice and its promotive and prohibitive forms: Identification of key associations, distinctions, and future research directions",
+   "schema:url": {
+    "@id": "https://iro.uiowa.edu/esploro/outputs/journalArticle/A-META-ANALYSIS-OF-VOICE-AND-ITS/9984380446202771"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NYU Stern School of Business, Faculty Research",
+   "dcterms:title": "Why Employees Often Don't Speak Up (research by Elizabeth Morrison, Kelly See and Caitlin Pan, Personnel Psychology)",
+   "schema:url": {
+    "@id": "https://www.stern.nyu.edu/experience-stern/faculty-research/morrison-see-employees-speak-up.md"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Harvard Business School Working Knowledge (Susan Gilbert, 20 March 2006)",
+   "dcterms:title": "Do I Dare Say Something? (Q&A with Amy C. Edmondson and James Detert)",
+   "schema:url": {
+    "@id": "https://www.library.hbs.edu/working-knowledge/do-i-dare-say-something"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Greater Good Magazine, Greater Good Science Center, UC Berkeley (Stephen Shedletzky, 13 November 2023)",
+   "dcterms:title": "How to Make It Safe for People to Speak Up at Work",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/article/item/how_to_make_it_safe_for_people_to_speak_up_at_work"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Standard Ebooks edition of Legge's translation",
+   "dcterms:title": "The Analects, Book XIV (Hsien Wăn), trans. James Legge",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-14"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Education About Asia, Association for Asian Studies (Anita Andrew & Robert André LaFleur)",
+   "dcterms:title": "Remonstrance: The Moral Imperative of the Chinese Scholar-Official",
+   "schema:url": {
+    "@id": "https://www.asianstudies.org/publications/eaa/archives/remonstrance-the-moral-imperative-of-the-chinese-scholar-official/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/steven-hayes/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -16971,6 +17069,46 @@
     "@id": "https://uwaterloo.ca/news/media/new-research-shows-we-can-train-ourselves-be-wise"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my silence here a judgment about this issue, or a habit of assuming speaking up is never safe or worthwhile?",
+   "wgo:questionFor": {
+    "@id": "wg:speaking-up-at-work"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I checked my facts and my motives before raising it?",
+   "wgo:questionFor": {
+    "@id": "wg:speaking-up-at-work"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who bears the cost if I stay quiet, and who if I speak?",
+   "wgo:questionFor": {
+    "@id": "wg:speaking-up-at-work"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I choosing a time, place and framing in which this person can actually hear it?",
+   "wgo:questionFor": {
+    "@id": "wg:speaking-up-at-work"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Check the numbers twice, then message him privately tonight: show the two rows, say what the corrected total would be, and offer to update the slide — leaving the decision with him.",
+   "wgo:before": "He's the director and he's been doing this for twenty years. If I say something I'll look like I'm second-guessing him, so I'll leave it.",
+   "wgo:situation": "The evening before a board meeting, a junior analyst spots that a revenue forecast in her director's presentation double-counts one large contract.",
+   "wgo:why": "The error is concrete, the cost of silence is high and falls on others, and raising it privately, early and with a fix respects his authority while still giving him the truth he needs."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/stewardship/check/1",
@@ -28621,6 +28759,112 @@
    },
    "wgo:undermines": {
     "@id": "wg:wise-reasoning"
+   }
+  },
+  {
+   "@id": "wg:speaking-up-at-work",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7"
+    }
+   ],
+   "rdfs:label": "Speaking up at work",
+   "skos:altLabel": [
+    "employee silence",
+    "employee voice",
+    "raising concerns at work",
+    "voicing disagreement upward",
+    "wise dissent"
+   ],
+   "skos:broader": {
+    "@id": "wg:professional-work"
+   },
+   "skos:definition": "The recurring workplace situation of noticing a problem, risk, error or better idea and having to decide whether, when, how and to whom to raise it — usually with someone who has more power than you — when staying quiet feels safer.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Speaking up at work",
+   "skos:related": [
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:kairos"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:psychological-safety-in-work-teams-study"
+    },
+    {
+     "@id": "wg:remonstrance"
+    },
+    {
+     "@id": "wg:right-speech"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:employee-silence-interview-study"
+    },
+    {
+     "@id": "wg:powerlessness-and-silence-study"
+    },
+    {
+     "@id": "wg:voice-meta-analysis"
+    }
+   ],
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/speaking-up-at-work.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:organizational-behavior"
    }
   },
   {

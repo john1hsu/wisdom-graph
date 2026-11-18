@@ -1092,6 +1092,16 @@
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/servant-leadership#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/speaking-up-at-work.md" .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> .
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/stewardship.md" .
@@ -12561,6 +12571,108 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s6> <https://schema.org/url> <https://research.polyu.edu.hk/en/publications/serving-while-being-energized-strained-a-dual-path-model-linking-/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> <http://purl.org/dc/terms/publisher> "Journal of Management Studies, 40(6), 1453–1476 (Milliken, Morrison & Hewlin, 2003), author manuscript hosted by Southeastern Oklahoma State University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> <http://purl.org/dc/terms/title> "An Exploratory Study of Employee Silence: Issues That Employees Don't Communicate Upward and Why" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> <https://schema.org/url> <https://homepages.se.edu/cvonbergen/files/2012/12/AN-EXPLORATORY-STUDY-OF-EMPLOYEE-SILENCE_IISSUES-THAT-EMPLOYEES-DONT-COMMUNICATE-UPWARD-AND-WHY.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> <http://purl.org/dc/terms/publisher> "Personnel Psychology, 70(1), 11–71 (Chamberlin, Newton & LePine, 2017; doi:10.1111/peps.12185), University of Iowa research record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> <http://purl.org/dc/terms/title> "A meta-analysis of voice and its promotive and prohibitive forms: Identification of key associations, distinctions, and future research directions" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> <https://schema.org/url> <https://iro.uiowa.edu/esploro/outputs/journalArticle/A-META-ANALYSIS-OF-VOICE-AND-ITS/9984380446202771> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> <http://purl.org/dc/terms/publisher> "NYU Stern School of Business, Faculty Research" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> <http://purl.org/dc/terms/title> "Why Employees Often Don't Speak Up (research by Elizabeth Morrison, Kelly See and Caitlin Pan, Personnel Psychology)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> <https://schema.org/url> <https://www.stern.nyu.edu/experience-stern/faculty-research/morrison-see-employees-speak-up.md> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (Susan Gilbert, 20 March 2006)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> <http://purl.org/dc/terms/title> "Do I Dare Say Something? (Q&A with Amy C. Edmondson and James Detert)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> <https://schema.org/url> <https://www.library.hbs.edu/working-knowledge/do-i-dare-say-something> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> <http://purl.org/dc/terms/publisher> "Greater Good Magazine, Greater Good Science Center, UC Berkeley (Stephen Shedletzky, 13 November 2023)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> <http://purl.org/dc/terms/title> "How to Make It Safe for People to Speak Up at Work" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> <https://schema.org/url> <https://greatergood.berkeley.edu/article/item/how_to_make_it_safe_for_people_to_speak_up_at_work> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> <http://purl.org/dc/terms/publisher> "Standard Ebooks edition of Legge's translation" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> <http://purl.org/dc/terms/title> "The Analects, Book XIV (Hsien Wăn), trans. James Legge" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> <https://schema.org/url> <https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-14> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> <http://purl.org/dc/terms/publisher> "Education About Asia, Association for Asian Studies (Anita Andrew & Robert André LaFleur)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> <http://purl.org/dc/terms/title> "Remonstrance: The Moral Imperative of the Chinese Scholar-Official" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> <https://schema.org/url> <https://www.asianstudies.org/publications/eaa/archives/remonstrance-the-moral-imperative-of-the-chinese-scholar-official/> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is my silence here a judgment about this issue, or a habit of assuming speaking up is never safe or worthwhile?" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I checked my facts and my motives before raising it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Who bears the cost if I stay quiet, and who if I speak?" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I choosing a time, place and framing in which this person can actually hear it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Check the numbers twice, then message him privately tonight: show the two rows, say what the corrected total would be, and offer to update the slide — leaving the decision with him." .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "He's the director and he's been doing this for twenty years. If I say something I'll look like I'm second-guessing him, so I'll leave it." .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "The evening before a board meeting, a junior analyst spots that a revenue forecast in her director's presentation double-counts one large contract." .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The error is concrete, the cost of silence is high and falls on others, and raising it privately, early and with a fix respects his authority while still giving him the truth he needs." .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2000/01/rdf-schema#label> "Speaking up at work" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#altLabel> "employee silence" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#altLabel> "employee voice" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#altLabel> "raising concerns at work" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#altLabel> "voicing disagreement upward" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#altLabel> "wise dissent" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#definition> "The recurring workplace situation of noticing a problem, risk, error or better idea and having to decide whether, when, how and to whom to raise it — usually with someone who has more power than you — when staying quiet feels safer." .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speaking up at work" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/remonstrance> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/speaking-up-at-work/s7> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/employee-silence-interview-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/powerlessness-and-silence-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/voice-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/speaking-up-at-work.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/organizational-behavior> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/stewardship#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/source/stewardship/s1> <http://purl.org/dc/terms/publisher> "Academy of Management Review 22(1), 20-47 (doi:10.2307/259223); listing by the Centre for Enterprise, Markets and Ethics, Oxford" .
@@ -14599,6 +14711,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/daoism> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+  <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/courage> .
@@ -14670,6 +14783,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/courage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
@@ -14930,6 +15044,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+  <https://github.com/john1hsu/wisdom-graph/id/employee-silence-interview-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/employee-silence-interview-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/employee-silence-interview-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15336,6 +15453,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/honesty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/honesty> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/how-to-measure-wisdom-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/how-to-measure-wisdom-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -15382,6 +15500,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
+  <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/humility> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
@@ -15665,6 +15784,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/karma-yoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15736,6 +15856,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
@@ -16222,6 +16343,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/power-and-advice-taking-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/power-and-advice-taking-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/power-and-advice-taking-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/powerlessness-and-silence-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/powerlessness-and-silence-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/powerlessness-and-silence-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-irrationality> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-irrationality> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -16309,8 +16433,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/professional-work> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/prolonged-grief-disorder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
@@ -16331,6 +16457,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -16441,6 +16568,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/relational-frame-theory> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/reminiscence-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
   <https://github.com/john1hsu/wisdom-graph/id/reminiscence-well-being-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/remonstrance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/ren> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/repetitive-negative-thinking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
@@ -16494,6 +16622,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+  <https://github.com/john1hsu/wisdom-graph/id/right-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/robert-butler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/robert-butler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/robert-butler> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
@@ -16623,6 +16752,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
@@ -16686,6 +16816,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -16897,9 +17028,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/sophistry> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/soren-kierkegaard> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/spanish-short-3d-ws-validation-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
-  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/spiritual-exercises> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
@@ -17199,6 +17335,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
   <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/voice-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/voice-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/voice-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/voluntary-simplicity-wellbeing-review> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
   <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
@@ -17382,6 +17521,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/hubris> .

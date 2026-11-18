@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 
-…and 48 more.
+…and 49 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -149,6 +149,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:self-deception` | wgo:Obstacle |
+| `wg:speaking-up-at-work` | wgo:Context |
 | `wg:ubuntu` | wgo:Tradition |
 | `wg:virtue-ethics` | wgo:Field |
 | `wg:weakness-of-will` | wgo:Obstacle |

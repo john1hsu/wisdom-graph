@@ -1573,6 +1573,22 @@ Ask yourself:
 - Who outside my team, especially with the least power, is affected by this decision, and have I considered them?
 - Is serving others leaving me exhausted or torn between conflicting demands, and have I asked for the support I need?
 
+### [Speaking up at work](../articles/wisdom-at-work/speaking-up-at-work.md) — Context
+
+*The evening before a board meeting, a junior analyst spots that a revenue forecast in her director's presentation double-counts one large contract.*
+
+| Before | After |
+|---|---|
+| He's the director and he's been doing this for twenty years. If I say something I'll look like I'm second-guessing him, so I'll leave it. | Check the numbers twice, then message him privately tonight: show the two rows, say what the corrected total would be, and offer to update the slide — leaving the decision with him. |
+
+**Why:** The error is concrete, the cost of silence is high and falls on others, and raising it privately, early and with a fix respects his authority while still giving him the truth he needs.
+
+Ask yourself:
+- Is my silence here a judgment about this issue, or a habit of assuming speaking up is never safe or worthwhile?
+- Have I checked my facts and my motives before raising it?
+- Who bears the cost if I stay quiet, and who if I speak?
+- Am I choosing a time, place and framing in which this person can actually hear it?
+
 ### [Stewardship](../articles/wisdom-at-work/stewardship.md) — Virtue
 
 *An engineering manager can hit this quarter's delivery target by skipping overdue maintenance on a system the team will hand over to another group next year.*
