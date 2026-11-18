@@ -96,7 +96,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:golden-rule` |
 | `wg:leading-others` | `wg:humble-leadership` |
 
-…and 23 more.
+…and 24 more.
 
 ## Myths and contested advice
 
@@ -172,6 +172,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:ancient-egyptian-wisdom-literature` | `wg:giving-advice` |
 | `wg:ancient-egyptian-wisdom-literature` | `wg:intellectual-humility` |
 | `wg:ancient-egyptian-wisdom-literature` | `wg:self-control` |
+| `wg:ancient-greek-philosophy` | `wg:kairos` |
 | `wg:aristotelian-virtue-ethics` | `wg:courage` |
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
 | `wg:aristotelian-virtue-ethics` | `wg:doctrine-of-the-mean` |
@@ -198,9 +199,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:stewardship` |
 | `wg:confucianism` | `wg:compassion` |
-| `wg:confucianism` | `wg:courage` |
 
-…and 34 more.
+…and 35 more.
 
 ## The doctrine of the mean
 

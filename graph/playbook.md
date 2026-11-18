@@ -637,6 +637,21 @@ Ask yourself:
 - Do I still endorse this goal, or am I making plans to avoid admitting I no longer want it?
 - If I am about to drop the plan, has something genuinely changed, or has the moment of keeping it simply arrived?
 
+### [Kairos](../articles/judgment-and-decisions/kairos.md) — Concept
+
+*A team lead notices a serious flaw in a project plan. The sponsor is presenting it to senior leaders in ten minutes, and the build does not start for another three weeks.*
+
+| Before | After |
+|---|---|
+| Either interrupt the presentation to announce the flaw in front of everyone, or say nothing and plan to raise it "once things settle down", which in practice means after the build has started. | Ask the sponsor for twenty minutes later that day, while the plan can still change cheaply, bring the evidence, and suggest how to fix it. |
+
+**Why:** The point is neither "speak up now" nor "wait": it is to find the window in which the concern can be heard and acted on, before it becomes either an ambush or a post-mortem.
+
+Ask yourself:
+- Is this the moment when acting will help, or only the moment when I feel the urge to act?
+- If I wait, what window closes, and if I act now, what will I not yet know?
+- Would this same word land better at a different time, place or with fewer people present?
+
 ### [Kill criteria](../articles/judgment-and-decisions/kill-criteria.md) — Practice
 
 1. When you commit to a goal or project, write down two to four signals that would show it is failing, each paired with a date by which you will check it.

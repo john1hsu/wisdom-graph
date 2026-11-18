@@ -2547,6 +2547,38 @@
    "wgo:why": "The wiser response owns its part, admits what it doesn't know about the other person's position, allows that things can change, and looks for an arrangement both can live with instead of a verdict on who is the better child."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kairos/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this the moment when acting will help, or only the moment when I feel the urge to act?",
+   "wgo:questionFor": {
+    "@id": "wg:kairos"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kairos/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I wait, what window closes, and if I act now, what will I not yet know?",
+   "wgo:questionFor": {
+    "@id": "wg:kairos"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kairos/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would this same word land better at a different time, place or with fewer people present?",
+   "wgo:questionFor": {
+    "@id": "wg:kairos"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/kairos/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Ask the sponsor for twenty minutes later that day, while the plan can still change cheaply, bring the evidence, and suggest how to fix it.",
+   "wgo:before": "Either interrupt the presentation to announce the flaw in front of everyone, or say nothing and plan to raise it \"once things settle down\", which in practice means after the build has started.",
+   "wgo:situation": "A team lead notices a serious flaw in a project plan. The sponsor is presenting it to senior leaders in ten minutes, and the build does not start for another three weeks.",
+   "wgo:why": "The point is neither \"speak up now\" nor \"wait\": it is to find the window in which the concern can be heard and acted on, before it becomes either an ambush or a post-mortem."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Before I started, did I write down what result, by what date, would tell me to stop?",
@@ -10202,6 +10234,90 @@
    "dcterms:title": "Is spirituality a component of wisdom? Study of 1,786 adults using expanded San Diego Wisdom Scale (Jeste-Thomas Wisdom Index)",
    "schema:url": {
     "@id": "https://escholarship.org/uc/item/43q6r2fv"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT (Aristotle, Nicomachean Ethics, Books I–III)",
+   "dcterms:title": "Nicomachean Ethics (trans. W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT (Hippocrates, Aphorisms)",
+   "dcterms:title": "Aphorisms, Section I (trans. Francis Adams)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Hippocrates/aphorisms.1.i.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Philosophy and Rhetoric, 56(3), 303–319 (Robert G. Sullivan), via PhilArchive",
+   "dcterms:title": "Kairos in Isocrates",
+   "schema:url": {
+    "@id": "https://dc2.philarchive.org/rec/SULKII"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Theoretical Medicine and Bioethics, 45(2), 99–108 (Bjørn Hofmann & Urban Wiesing, 2024), via PubMed Central",
+   "dcterms:title": "Kairos in diagnostics",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10959829"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Philosophy Compass, 18(2), 1–12 (Sydney Morrow & Shane Ryan, 2023), via Singapore Management University Institutional Knowledge",
+   "dcterms:title": "Confucius, wisdom, and political participation: Benevolence and timeliness in the Analects",
+   "schema:url": {
+    "@id": "https://ink.library.smu.edu.sg/soss_research/3703"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Composition Forum, 14.2 (Helen Foster, Fall 2005; refereed article)",
+   "dcterms:title": "Kairos and Stasis Revisited: Heuristics for the Critically Informed Composition Classroom",
+   "schema:url": {
+    "@id": "https://compositionforum.com/issue/14.2/foster-kairos-stasis.php"
    },
    "wgo:sourceType": "peer-reviewed"
   },
@@ -22606,6 +22722,98 @@
     "@id": "wg:emotional-suppression"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:kairos",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6"
+    }
+   ],
+   "rdfs:label": "Kairos",
+   "skos:altLabel": [
+    "καιρός",
+    "right timing",
+    "the opportune moment",
+    "the right time",
+    "timeliness"
+   ],
+   "skos:broader": {
+    "@id": "wg:practical-wisdom"
+   },
+   "skos:definition": "The ancient Greek idea of the right or opportune moment: the fitting time, and the fitting measure, for an action or a word, which can only be judged in the particular situation and which can be missed by acting too early as well as too late.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Kairos",
+   "skos:related": [
+    {
+     "@id": "wg:aristotle"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:kill-criteria"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:right-speech"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:wisdom-in-professions"
+   },
+   "wgo:complements": {
+    "@id": "wg:doctrine-of-the-mean"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:chronos"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/kairos/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/kairos.md",
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:ancient-greek-philosophy"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:rhetoric"
+   }
   },
   {
    "@id": "wg:kill-criteria",

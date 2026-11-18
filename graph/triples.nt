@@ -3225,6 +3225,56 @@
 <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
 <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
 <https://github.com/john1hsu/wisdom-graph/id/james-gross> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is this the moment when acting will help, or only the moment when I feel the urge to act?" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If I wait, what window closes, and if I act now, what will I not yet know?" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Would this same word land better at a different time, place or with fewer people present?" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Ask the sponsor for twenty minutes later that day, while the plan can still change cheaply, bring the evidence, and suggest how to fix it." .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Either interrupt the presentation to announce the flaw in front of everyone, or say nothing and plan to raise it \"once things settle down\", which in practice means after the build has started." .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead notices a serious flaw in a project plan. The sponsor is presenting it to senior leaders in ten minutes, and the build does not start for another three weeks." .
+<https://github.com/john1hsu/wisdom-graph/id/kairos/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The point is neither \"speak up now\" nor \"wait\": it is to find the window in which the concern can be heard and acted on, before it becomes either an ambush or a post-mortem." .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2000/01/rdf-schema#label> "Kairos" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#altLabel> "right timing" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#altLabel> "the opportune moment" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#altLabel> "the right time" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#altLabel> "timeliness" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#altLabel> "καιρός" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#definition> "The ancient Greek idea of the right or opportune moment: the fitting time, and the fitting measure, for an action or a word, which can only be judged in the particular situation and which can be missed by acting too early as well as too late." .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kairos" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/chronos> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/kairos/example> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/kairos.md" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/ancient-greek-philosophy> .
+<https://github.com/john1hsu/wisdom-graph/id/kairos> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/rhetoric> .
 <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Before I started, did I write down what result, by what date, would tell me to stop?" .
 <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
@@ -8259,6 +8309,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/james-gross/s6> <https://schema.org/url> <https://escholarship.org/uc/item/43q6r2fv> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT (Aristotle, Nicomachean Ethics, Books I–III)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics (trans. W. D. Ross)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.mb.txt> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT (Hippocrates, Aphorisms)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> <http://purl.org/dc/terms/title> "Aphorisms, Section I (trans. Francis Adams)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s2> <https://schema.org/url> <https://classics.mit.edu/Hippocrates/aphorisms.1.i.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> <http://purl.org/dc/terms/publisher> "Philosophy and Rhetoric, 56(3), 303–319 (Robert G. Sullivan), via PhilArchive" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> <http://purl.org/dc/terms/title> "Kairos in Isocrates" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s3> <https://schema.org/url> <https://dc2.philarchive.org/rec/SULKII> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> <http://purl.org/dc/terms/publisher> "Theoretical Medicine and Bioethics, 45(2), 99–108 (Bjørn Hofmann & Urban Wiesing, 2024), via PubMed Central" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> <http://purl.org/dc/terms/title> "Kairos in diagnostics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC10959829> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> <http://purl.org/dc/terms/publisher> "Philosophy Compass, 18(2), 1–12 (Sydney Morrow & Shane Ryan, 2023), via Singapore Management University Institutional Knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> <http://purl.org/dc/terms/title> "Confucius, wisdom, and political participation: Benevolence and timeliness in the Analects" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s5> <https://schema.org/url> <https://ink.library.smu.edu.sg/soss_research/3703> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> <http://purl.org/dc/terms/publisher> "Composition Forum, 14.2 (Helen Foster, Fall 2005; refereed article)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> <http://purl.org/dc/terms/title> "Kairos and Stasis Revisited: Heuristics for the Critically Informed Composition Classroom" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/kairos/s6> <https://schema.org/url> <https://compositionforum.com/issue/14.2/foster-kairos-stasis.php> .
 <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology, 77(4), 419–426 (Itamar Simonson & Barry M. Staw, 1992; copy hosted by gwern.net)" .
 <https://github.com/john1hsu/wisdom-graph/id/source/kill-criteria/s1> <http://purl.org/dc/terms/title> "Deescalation strategies: A comparison of techniques for reducing commitment to losing courses of action" .

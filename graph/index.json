@@ -6561,6 +6561,112 @@
   ]
  },
  {
+  "id": "wg:kairos",
+  "title": "Kairos",
+  "aliases": [
+   "the opportune moment",
+   "right timing",
+   "the right time",
+   "timeliness",
+   "καιρός"
+  ],
+  "type": "Concept",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/judgment-and-decisions/kairos.md",
+  "created": "2026-11-18",
+  "summary": "The ancient Greek idea of the right or opportune moment: the fitting time, and the fitting measure, for an action or a word, which can only be judged in the particular situation and which can be missed by acting too early as well as too late.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:kill-criteria"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:right-speech"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:confucianism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotle"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:ancient-greek-philosophy",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:doctrine-of-the-mean",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:chronos",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:rhetoric",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:wisdom-in-professions",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is this the moment when acting will help, or only the moment when I feel the urge to act?",
+   "If I wait, what window closes, and if I act now, what will I not yet know?",
+   "Would this same word land better at a different time, place or with fewer people present?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead notices a serious flaw in a project plan. The sponsor is presenting it to senior leaders in ten minutes, and the build does not start for another three weeks.",
+   "before": "Either interrupt the presentation to announce the flaw in front of everyone, or say nothing and plan to raise it \"once things settle down\", which in practice means after the build has started.",
+   "after": "Ask the sponsor for twenty minutes later that day, while the plan can still change cheaply, bring the evidence, and suggest how to fix it.",
+   "why": "The point is neither \"speak up now\" nor \"wait\": it is to find the window in which the concern can be heard and acted on, before it becomes either an ambush or a post-mortem."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+   "https://classics.mit.edu/Hippocrates/aphorisms.1.i.html",
+   "https://dc2.philarchive.org/rec/SULKII",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10959829",
+   "https://ink.library.smu.edu.sg/soss_research/3703",
+   "https://compositionforum.com/issue/14.2/foster-kairos-stasis.php"
+  ]
+ },
+ {
   "id": "wg:kill-criteria",
   "title": "Kill criteria",
   "aliases": [
