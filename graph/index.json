@@ -1315,6 +1315,132 @@
   ]
  },
  {
+  "id": "wg:christianity",
+  "title": "Christianity",
+  "aliases": [
+   "Christian tradition",
+   "Christian wisdom tradition",
+   "Christian ethics",
+   "Christian moral tradition",
+   "Christendom"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/christianity.md",
+  "created": "2026-11-18",
+  "summary": "The religion, begun in the first century CE as a Jewish movement around Jesus of Nazareth and now followed by more than two billion people, whose wisdom teaching centres on love of God and neighbour, a reversal of worldly ideas of wisdom and status, and a long-developed analysis of the virtues and of the vices, such as greed, that distort the heart.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:abrahamic-religions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hebrew-wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:book-of-proverbs"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:golden-rule"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stewardship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:generosity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:greed"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:temperance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:contentment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:simplicity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:jesus-of-nazareth",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:hebrew-wisdom-literature",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:greed",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:seven-deadly-sins",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:theological-virtues",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.britannica.com/summary/Christianity",
+   "https://www.britannica.com/topic/Christianity/Ethics-obeying-the-truth",
+   "https://bible.usccb.org/bible/lk/12",
+   "https://www.newadvent.org/summa/3118.htm",
+   "https://iep.utm.edu/thomas-aquinas/",
+   "https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/7-3_Wisdom/Jesus;%20God's%20Wisdom.pdf",
+   "https://digitalcommons.csbsju.edu/sot_pubs/56"
+  ]
+ },
+ {
   "id": "wg:classification-of-desires",
   "title": "Classification of desires",
   "aliases": [

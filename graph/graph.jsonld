@@ -6066,6 +6066,104 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Christianity (summary)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/summary/Christianity"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Christianity: Ethics: obeying the truth",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Christianity/Ethics-obeying-the-truth"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "The Gospel according to Luke, chapter 12 (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/lk/12"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent (online edition of the 1920 second revised edition)",
+   "dcterms:title": "Summa Theologiae, Second Part of the Second Part, Question 118: The vices opposed to liberality, and in the first place, of covetousness, trans. Fathers of the English Dominican Province",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/summa/3118.htm"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy",
+   "dcterms:title": "Thomas Aquinas (1224/6—1274)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/thomas-aquinas/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Word & World, Luther Seminary",
+   "dcterms:title": "Jesus: God's Wisdom (Pheme Perkins), Word & World 7(3), 273–280 (1987)",
+   "schema:url": {
+    "@id": "https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/7-3_Wisdom/Jesus;%20God's%20Wisdom.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "School of Theology and Seminary Faculty Publications, College of Saint Benedict and Saint John's University",
+   "dcterms:title": "Evagrius Ponticus and the 'Eight Generic Logismoi' (Columba Stewart), in In the Garden of Evil: The Vices and Culture in the Middle Ages, ed. R. Newhauser, pp. 3–34 (2005), abstract",
+   "schema:url": {
+    "@id": "https://digitalcommons.csbsju.edu/sot_pubs/56"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/classification-of-desires/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -18172,6 +18270,121 @@
    "wgo:supportedBy": {
     "@id": "wg:shared-virtue-study"
    }
+  },
+  {
+   "@id": "wg:christianity",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/christianity/s7"
+    }
+   ],
+   "rdfs:label": "Christianity",
+   "skos:altLabel": [
+    "Christendom",
+    "Christian ethics",
+    "Christian moral tradition",
+    "Christian tradition",
+    "Christian wisdom tradition"
+   ],
+   "skos:broader": {
+    "@id": "wg:abrahamic-religions"
+   },
+   "skos:definition": "The religion, begun in the first century CE as a Jewish movement around Jesus of Nazareth and now followed by more than two billion people, whose wisdom teaching centres on love of God and neighbour, a reversal of worldly ideas of wisdom and status, and a long-developed analysis of the virtues and of the vices, such as greed, that distort the heart.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Christianity",
+   "skos:related": [
+    {
+     "@id": "wg:book-of-proverbs"
+    },
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:cardinal-virtues"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:generosity"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:greed"
+    },
+    {
+     "@id": "wg:hebrew-wisdom-literature"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:simplicity"
+    },
+    {
+     "@id": "wg:stewardship"
+    },
+    {
+     "@id": "wg:stoicism"
+    },
+    {
+     "@id": "wg:temperance"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/christianity.md",
+   "wgo:influencedBy": {
+    "@id": "wg:hebrew-wisdom-literature"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:jesus-of-nazareth"
+   },
+   "wgo:level": "introductory",
+   "wgo:teaches": [
+    {
+     "@id": "wg:greed"
+    },
+    {
+     "@id": "wg:seven-deadly-sins"
+    },
+    {
+     "@id": "wg:theological-virtues"
+    }
+   ]
   },
   {
    "@id": "wg:classification-of-desires",

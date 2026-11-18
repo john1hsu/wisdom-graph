@@ -143,7 +143,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:greed` | wgo:Vice |
 | `wg:lifespan-developmental-psychology` | wgo:Field |
 | `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
@@ -197,10 +196,10 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:christianity` | `wg:cardinal-virtues` |
 | `wg:christianity` | `wg:golden-rule` |
-| `wg:christianity` | `wg:stewardship` |
-| `wg:confucianism` | `wg:compassion` |
+| `wg:christianity` | `wg:greed` |
+| `wg:christianity` | `wg:seven-deadly-sins` |
 
-…and 35 more.
+…and 38 more.
 
 ## The doctrine of the mean
 
