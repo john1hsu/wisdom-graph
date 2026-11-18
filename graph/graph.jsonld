@@ -2849,6 +2849,107 @@
    "wgo:why": "The first response is a redemptive story that brings closure but no lesson; the second connects your own actions with their consequences and explores the pattern, which is the kind of processing linked to wisdom."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I evaluating my past and drawing lessons from it, or just replaying the same painful scene?",
+   "wgo:questionFor": {
+    "@id": "wg:life-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I given the good chapters as much detailed attention as the bad ones?",
+   "wgo:questionFor": {
+    "@id": "wg:life-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What coping skills from past difficulties could I use on the problem in front of me now?",
+   "wgo:questionFor": {
+    "@id": "wg:life-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Has looking back produced at least one concrete goal, repair or conversation for the future?",
+   "wgo:questionFor": {
+    "@id": "wg:life-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Over a few weekends she reviews her career chapter by chapter, recalling the teams she built and the people she trained as well as the failure. She notes what the failed project taught her about raising concerns early, sees that mentoring is the thread she most values, writes a short note to her former mentor, and decides to take the offer only if she can keep coaching new managers part-time.",
+   "wgo:before": "She either avoids thinking about her career at all, or lies awake replaying the failed project and the argument, concluding that her working life was a disappointment, and accepts or refuses the offer on impulse.",
+   "wgo:situation": "A manager in her late fifties is offered early retirement after a restructuring. She keeps returning to a project that failed ten years ago and a falling-out with a former mentor, and cannot decide what to do next.",
+   "wgo:why": "Evaluating the whole story, rather than replaying its worst scenes, puts setbacks in proportion, extracts usable lessons and links the past to a concrete next step."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Life review",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Divide your life into chapters - by place, decade, role or relationship - and give each chapter a short title."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "For each chapter, recall concrete scenes in as much detail as you can, starting with good memories before turning to hard ones."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Evaluate each chapter rather than only recalling it - ask what went well, what went badly, what you would do differently and what is still unresolved."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "For difficult episodes, ask how you got through them and which of those coping skills you could use on a problem you face now."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Weigh the whole - name the people, values and threads that run through the chapters, and write a one-paragraph version of your life story as you now understand it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Turn the review toward the future by choosing one or two achievable goals, repairs or conversations that follow from what you found."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/logotherapy/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I asking what I want from life, or what this situation is asking of me?",
@@ -10810,6 +10911,104 @@
     "@id": "https://www.slideshare.net/slideshow/a-spurious-john-dewey-quotation-on-reflection/259649444"
    },
    "wgo:sourceType": "community"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopedia of Aging (Macmillan Reference USA), via Encyclopedia.com",
+   "dcterms:title": "Life Review (entry by Robert N. Butler), Encyclopedia of Aging",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/life-review"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Aging & Mental Health, 11(3), 291–300 (Bohlmeijer, Roemer, Cuijpers & Smit, 2007; doi:10.1080/13607860600963547), University of Twente research portal",
+   "dcterms:title": "The effects of reminiscence on psychological well-being in older adults: A meta-analysis",
+   "schema:url": {
+    "@id": "https://research.utwente.nl/en/publications/the-effects-of-reminiscence-on-psychological-well-being-in-older-/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Aging & Mental Health, 16(5), 541–558 (Pinquart & Forstmeier, 2012; doi:10.1080/13607863.2011.651434), PubMed",
+   "dcterms:title": "Effects of reminiscence interventions on psychosocial outcomes: a meta-analysis",
+   "schema:url": {
+    "@id": "https://pubmed.ncbi.nlm.nih.gov/22304736"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of Twente research portal",
+   "dcterms:title": "The stories we live by: The adaptive role of reminiscence in later life (PhD thesis, J. Korte, 2012; doi:10.3990/1.9789036534574)",
+   "schema:url": {
+    "@id": "https://research.utwente.nl/en/publications/the-stories-we-live-by-the-adaptive-role-of-reminiscence-in-later/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng, Redzanowski, Dorner, Straßer & Wiedermann, 2013; doi:10.3389/fpsyg.2013.00405)",
+   "dcterms:title": "How to measure wisdom: content, reliability, and validity of five measures",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The International Journal of Reminiscence and Life Review, 5(1), 59–61 (J. D. Webster, 2018), Radford University",
+   "dcterms:title": "The wisdom of James Birren",
+   "schema:url": {
+    "@id": "https://journals.radford.edu/index.php/IJRLR/article/download/130/65/326"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of Twente news (November 2012)",
+   "dcterms:title": "University of Twente demonstrates efficacy of depression therapy",
+   "schema:url": {
+    "@id": "https://www.utwente.nl/en/news/2012/11/212800/university-of-twente-demonstrates-efficacy-of-depression-therapy"
+   },
+   "wgo:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/lifespan-developmental-psychology/s1",
@@ -23601,6 +23800,121 @@
    "wgo:requires": {
     "@id": "wg:self-reflection"
    }
+  },
+  {
+   "@id": "wg:life-review",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/life-review/s7"
+    }
+   ],
+   "rdfs:label": "Life review",
+   "skos:altLabel": [
+    "autobiographical life review",
+    "life-story review",
+    "structured life review"
+   ],
+   "skos:broader": {
+    "@id": "wg:reflective-practices"
+   },
+   "skos:definition": "Deliberately looking back over the whole of one's life, chapter by chapter, and evaluating it: weighing successes and failures, revisiting unresolved conflicts and drawing lessons, so that the past can be integrated into a coherent and more meaningful life story. Described by Robert Butler as a natural late-life process and since developed into structured exercises and group courses.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Life review",
+   "skos:related": [
+    {
+     "@id": "wg:death-awareness"
+    },
+    {
+     "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:guided-autobiography"
+    },
+    {
+     "@id": "wg:james-birren"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:memento-mori"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:wisdom-and-age"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:rumination"
+   },
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    }
+   ],
+   "wgo:demonstratedBy": {
+    "@id": "wg:stories-we-live-by-trial"
+   },
+   "wgo:develops": {
+    "@id": "wg:self-reflection"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/example"
+   },
+   "wgo:file": "articles/self-knowledge/life-review.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/life-review/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:robert-butler"
+   },
+   "wgo:level": "intermediate",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:reminiscence-interventions-meta-analysis"
+    },
+    {
+     "@id": "wg:reminiscence-well-being-meta-analysis"
+    }
+   ]
   },
   {
    "@id": "wg:lifespan-developmental-psychology",

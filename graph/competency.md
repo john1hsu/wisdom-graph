@@ -44,6 +44,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
 | `wg:kill-criteria` | 2 | Knowing when to quit, escalation-of-commitment |
 | `wg:know-thyself` | 2 | Hubris, Intellectual humility |
+| `wg:life-review` | 2 | Rumination, Self-reflection |
 | `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
 | `wg:memento-mori` | 2 | Equanimity, Greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
@@ -55,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 | `wg:balance-theory-of-wisdom` | 1 | Folly |
-| `wg:contentment` | 1 | Greed |
 
-…and 19 more.
+…and 20 more.
 
 ## Toolkit by life situation
 
@@ -72,6 +72,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:adversity` | `wg:reflective-journaling` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
+| `wg:ageing` | `wg:life-review` |
 | `wg:ageing` | `wg:lifespan-developmental-psychology` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:golden-rule` |
-| `wg:leading-others` | `wg:humble-leadership` |
 
-…and 24 more.
+…and 26 more.
 
 ## Myths and contested advice
 
@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 | `wg:imaginary-future-generations` | mixed | `wg:intergenerational-sustainability-in-bangladesh-study` |
 
-…and 46 more.
+…and 47 more.
 
 ## Ideas with no recorded origin (gap)
 

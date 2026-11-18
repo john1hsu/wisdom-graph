@@ -7389,6 +7389,145 @@
   ]
  },
  {
+  "id": "wg:life-review",
+  "title": "Life review",
+  "aliases": [
+   "structured life review",
+   "life-story review",
+   "autobiographical life review"
+  ],
+  "type": "Practice",
+  "domain": "self-knowledge",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/life-review.md",
+  "created": "2026-11-18",
+  "summary": "Deliberately looking back over the whole of one's life, chapter by chapter, and evaluating it: weighing successes and failures, revisiting unresolved conflicts and drawing lessons, so that the past can be integrated into a coherent and more meaningful life story. Described by Robert Butler as a natural late-life process and since developed into structured exercises and group courses.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:reflective-practices"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:memento-mori"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:death-awareness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:guided-autobiography"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:james-birren"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:robert-butler",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:ageing",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:learning-from-experience",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:self-reflection",
+    "source": "s5",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:rumination",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:reminiscence-well-being-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:reminiscence-interventions-meta-analysis",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:stories-we-live-by-trial",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I evaluating my past and drawing lessons from it, or just replaying the same painful scene?",
+   "Have I given the good chapters as much detailed attention as the bad ones?",
+   "What coping skills from past difficulties could I use on the problem in front of me now?",
+   "Has looking back produced at least one concrete goal, repair or conversation for the future?"
+  ],
+  "steps": [
+   "Divide your life into chapters - by place, decade, role or relationship - and give each chapter a short title.",
+   "For each chapter, recall concrete scenes in as much detail as you can, starting with good memories before turning to hard ones.",
+   "Evaluate each chapter rather than only recalling it - ask what went well, what went badly, what you would do differently and what is still unresolved.",
+   "For difficult episodes, ask how you got through them and which of those coping skills you could use on a problem you face now.",
+   "Weigh the whole - name the people, values and threads that run through the chapters, and write a one-paragraph version of your life story as you now understand it.",
+   "Turn the review toward the future by choosing one or two achievable goals, repairs or conversations that follow from what you found."
+  ],
+  "example": {
+   "situation": "A manager in her late fifties is offered early retirement after a restructuring. She keeps returning to a project that failed ten years ago and a falling-out with a former mentor, and cannot decide what to do next.",
+   "before": "She either avoids thinking about her career at all, or lies awake replaying the failed project and the argument, concluding that her working life was a disappointment, and accepts or refuses the offer on impulse.",
+   "after": "Over a few weekends she reviews her career chapter by chapter, recalling the teams she built and the people she trained as well as the failure. She notes what the failed project taught her about raising concerns early, sees that mentoring is the thread she most values, writes a short note to her former mentor, and decides to take the offer only if she can keep coaching new managers part-time.",
+   "why": "Evaluating the whole story, rather than replaying its worst scenes, puts setbacks in proportion, extracts usable lessons and links the past to a concrete next step."
+  },
+  "source_urls": [
+   "https://encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/life-review",
+   "https://research.utwente.nl/en/publications/the-effects-of-reminiscence-on-psychological-well-being-in-older-/",
+   "https://pubmed.ncbi.nlm.nih.gov/22304736",
+   "https://research.utwente.nl/en/publications/the-stories-we-live-by-the-adaptive-role-of-reminiscence-in-later/",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/pdf",
+   "https://journals.radford.edu/index.php/IJRLR/article/download/130/65/326",
+   "https://www.utwente.nl/en/news/2012/11/212800/university-of-twente-demonstrates-efficacy-of-depression-therapy"
+  ]
+ },
+ {
   "id": "wg:lifespan-developmental-psychology",
   "title": "Lifespan developmental psychology",
   "aliases": [

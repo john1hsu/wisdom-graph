@@ -1106,6 +1106,29 @@ Ask yourself:
 - Have I looked at what went well and why, not only at what went wrong?
 - Whose view of this experience would challenge my own version of it?
 
+### [Life review](../articles/self-knowledge/life-review.md) — Practice
+
+1. Divide your life into chapters - by place, decade, role or relationship - and give each chapter a short title.
+2. For each chapter, recall concrete scenes in as much detail as you can, starting with good memories before turning to hard ones.
+3. Evaluate each chapter rather than only recalling it - ask what went well, what went badly, what you would do differently and what is still unresolved.
+4. For difficult episodes, ask how you got through them and which of those coping skills you could use on a problem you face now.
+5. Weigh the whole - name the people, values and threads that run through the chapters, and write a one-paragraph version of your life story as you now understand it.
+6. Turn the review toward the future by choosing one or two achievable goals, repairs or conversations that follow from what you found.
+
+*A manager in her late fifties is offered early retirement after a restructuring. She keeps returning to a project that failed ten years ago and a falling-out with a former mentor, and cannot decide what to do next.*
+
+| Before | After |
+|---|---|
+| She either avoids thinking about her career at all, or lies awake replaying the failed project and the argument, concluding that her working life was a disappointment, and accepts or refuses the offer on impulse. | Over a few weekends she reviews her career chapter by chapter, recalling the teams she built and the people she trained as well as the failure. She notes what the failed project taught her about raising concerns early, sees that mentoring is the thread she most values, writes a short note to her former mentor, and decides to take the offer only if she can keep coaching new managers part-time. |
+
+**Why:** Evaluating the whole story, rather than replaying its worst scenes, puts setbacks in proportion, extracts usable lessons and links the past to a concrete next step.
+
+Ask yourself:
+- Am I evaluating my past and drawing lessons from it, or just replaying the same painful scene?
+- Have I given the good chapters as much detailed attention as the bad ones?
+- What coping skills from past difficulties could I use on the problem in front of me now?
+- Has looking back produced at least one concrete goal, repair or conversation for the future?
+
 ### [Reflective journaling](../articles/self-knowledge/reflective-journaling.md) — Practice
 
 1. Pick one experience that still bothers you or that you want to understand, and that you feel able to face now; leave a fresh or overwhelming trauma for another time or for professional support.
