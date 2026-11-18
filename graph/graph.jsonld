@@ -12271,6 +12271,90 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Max Planck Institute for Human Development, Center for Lifespan Psychology",
+   "dcterms:title": "In Memoriam Paul B. Baltes",
+   "schema:url": {
+    "@id": "https://www.mpib-berlin.mpg.de/research/research-centers/lip/baltes"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Board of Directors, Max Planck Institute for Human Development, Berlin",
+   "dcterms:title": "Obituary: Paul B. Baltes (1939–2006)",
+   "schema:url": {
+    "@id": "https://www.MPIB-berlin.mpg.de/344990/1_obituary-paulbaltes-2.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Developmental Psychology, 23(5), 611–626 (Paul B. Baltes, 1987), via CORE",
+   "dcterms:title": "Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/191914562.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000), Max Planck Society repository",
+   "dcterms:title": "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Developmental Psychology, 28(1), 121–125 (Baltes & Kliegl, 1992; doi:10.1037/0012-1649.28.1.121), University of Potsdam repository",
+   "dcterms:title": "Further testing of limits of cognitive plasticity: Negative age differences in a mnemonic skill are robust",
+   "schema:url": {
+    "@id": "https://publishup.uni-potsdam.de/opus4-ubp/files/3842/kliegl_1992_1.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 8, 1378 (Hu, Ferrari, Wang & Woodruff, 2017)",
+   "dcterms:title": "Thin-slice measurement of wisdom",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01378/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -25329,6 +25413,103 @@
     },
     {
      "@id": "wg:function-argument"
+    }
+   ],
+   "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:paul-baltes",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s6"
+    }
+   ],
+   "rdfs:label": "Paul Baltes",
+   "skos:altLabel": [
+    "P. B. Baltes",
+    "Paul B. Baltes"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom-researchers"
+   },
+   "skos:definition": "German psychologist (1939–2006) who directed the Center for Lifespan Psychology at the Max Planck Institute for Human Development in Berlin; he set out the core propositions of lifespan developmental psychology, developed the selection, optimisation and compensation (SOC) model with Margret Baltes, and led the Berlin research programme that defined wisdom as expert knowledge about the fundamental pragmatics of life.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Paul Baltes",
+   "skos:related": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:margret-baltes"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    },
+    {
+     "@id": "wg:resilience"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:ursula-staudinger"
+    },
+    {
+     "@id": "wg:vivian-clayton"
+    },
+    {
+     "@id": "wg:wisdom-and-age"
+    }
+   ],
+   "wgo:authored": {
+    "@id": "wg:theoretical-propositions-of-lifespan-psychology"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/paul-baltes.md",
+   "wgo:influenced": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "wgo:introduced": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:lifespan-developmental-psychology"
+    },
+    {
+     "@id": "wg:selective-optimization-with-compensation"
     }
    ],
    "wgo:level": "introductory"
