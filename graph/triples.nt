@@ -1944,6 +1944,58 @@
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/soren-kierkegaard> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If I described this decision in plain words, without the jargon, would it still sound acceptable?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I calling this \"just a business decision\" so that I don't have to ask whether it is right?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is this a small step further along a line I would not have crossed all at once?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What ethical implications might this decision have, and for whom?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Am I deciding in a hurry, or to avoid a loss, in a way that is keeping me from thinking it through?" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "\"Let me say it plainly first: we'd be reporting revenue we don't have yet. I'll show my director the gap honestly, explain what is likely to close next month, and ask how we want the shortfall to be read.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"It's just a timing question, everyone does it, and finance can sort out the paperwork. I'm not going to lose my bonus over a few days.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Two days before quarter end, a sales manager is short of target. A customer has verbally agreed to a deal but will not sign until next month. Her director suggests \"pulling it forward\" and booking it now." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response treats the choice as a timing and money problem, framed as a loss, so the ethical question never comes up. Naming the act in plain words and slowing down puts the moral dimension back on the table before the decision is made." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Obstacle> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2000/01/rdf-schema#label> "Ethical fading" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#altLabel> "fading of the ethical dimension" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#altLabel> "moral fading" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/bounded-ethicality> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#definition> "The process by which the moral side of a decision drops out of view, so that a choice with real ethical stakes is experienced as a \"business decision\", a technical problem or a routine step; self-deception, euphemism, small incremental steps and pressure let people act against their own values while still seeing themselves as ethical." .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethical fading" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-disengagement> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/slippery-slope> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/sanctioning-systems-and-decision-frames-study> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/ethical-fading.md" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/ann-tenbrunsel> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/david-messick> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/bounded-ethicality-loss-framing-study> .
+<https://github.com/john1hsu/wisdom-graph/id/ethical-fading> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?" .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
@@ -6068,6 +6120,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Six months ago you championed a new onboarding process for your team. Completion rates are flat, and two team leads have told you that new hires find it confusing." .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response explains away each unwelcome fact on its own terms. The second fixes a standard before looking and borrows outside eyes, which makes it harder for a wish to steer how the evidence is read." .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://purl.org/dc/terms/modified> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Obstacle> .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2000/01/rdf-schema#label> "Self-deception" .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#altLabel> "deceiving oneself" .
@@ -6077,6 +6130,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#definition> "Coming to believe, and keeping on believing, something one would prefer to be true in the face of evidence that points the other way, because desire, fear or self-regard biases how one seeks out, weighs and remembers that evidence; it is a leading obstacle to self-knowledge and to judging one's own conduct honestly." .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-deception" .
+<https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
 <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impartial-spectator> .
@@ -8064,6 +8118,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/ernest-becker/s7> <https://schema.org/url> <https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> <http://purl.org/dc/terms/publisher> "Social Justice Research 17(2), 223-236 (Springer); ProQuest record with abstract" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> <http://purl.org/dc/terms/title> "Ethical fading: The role of self-deception in unethical behavior (Tenbrunsel & Messick, 2004)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1> <https://schema.org/url> <https://www.proquest.com/docview/821817963> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly, 684-707 (doi:10.2307/2667052); abstract listing by Shanghai University of Finance and Economics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> <http://purl.org/dc/terms/title> "Sanctioning systems, decision frames, and cooperation (Tenbrunsel & Messick, 1999)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2> <https://schema.org/url> <https://academicnewsletter.sufe.edu.cn/info/367002> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> <http://purl.org/dc/terms/publisher> "Psychological Science 20(3), 378-384; author copy hosted by NYU Stern" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> <http://purl.org/dc/terms/title> "Bounded ethicality: The perils of loss framing (Kern & Chugh, 2009)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3> <https://schema.org/url> <https://pages.stern.nyu.edu/%7Edchugh/articles/2009_PsychScience.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review, April 2011; copy hosted by the University of Notre Dame" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> <http://purl.org/dc/terms/title> "Ethical breakdowns (Bazerman & Tenbrunsel, 2011)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4> <https://schema.org/url> <https://think.nd.edu/wp-content/uploads/2020/11/HBR_article-1.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> <http://purl.org/dc/terms/publisher> "Ethics Unwrapped, McCombs School of Business, University of Texas at Austin (narration by Robert Prentice)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> <http://purl.org/dc/terms/title> "Ethical fading" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5> <https://schema.org/url> <https://ethicsunwrapped.utexas.edu/video/ethical-fading> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <http://purl.org/dc/terms/publisher> "Advances in Methods and Practices in Psychological Science 1(3), 299-317 (doi:10.1177/2515245918781032); University of Warwick repository record" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <http://purl.org/dc/terms/title> "Registered Replication Report on Mazar, Amir, and Ariely (2008) (Verschuere et al., 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6> <https://schema.org/url> <https://wrap.warwick.ac.uk/110268/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1> <http://purl.org/dc/terms/publisher> "George Bell and Sons, London (1889); Project Gutenberg edition" .
 <https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1> <http://purl.org/dc/terms/title> "Seneca, Of Anger (De Ira), Book III, ch. 36, in Minor Dialogues, Together with the Dialogue on Clemency, trans. Aubrey Stewart (1889)" .

@@ -1538,6 +1538,23 @@ Ask yourself:
 - Did I ask what went right and why, or only what went wrong?
 - What is the one concrete thing I will do differently next time, and when will I check that I did it?
 
+### [Ethical fading](../articles/wisdom-at-work/ethical-fading.md) — Obstacle
+
+*Two days before quarter end, a sales manager is short of target. A customer has verbally agreed to a deal but will not sign until next month. Her director suggests "pulling it forward" and booking it now.*
+
+| Before | After |
+|---|---|
+| "It's just a timing question, everyone does it, and finance can sort out the paperwork. I'm not going to lose my bonus over a few days." | "Let me say it plainly first: we'd be reporting revenue we don't have yet. I'll show my director the gap honestly, explain what is likely to close next month, and ask how we want the shortfall to be read." |
+
+**Why:** The first response treats the choice as a timing and money problem, framed as a loss, so the ethical question never comes up. Naming the act in plain words and slowing down puts the moral dimension back on the table before the decision is made.
+
+Ask yourself:
+- If I described this decision in plain words, without the jargon, would it still sound acceptable?
+- Am I calling this "just a business decision" so that I don't have to ask whether it is right?
+- Is this a small step further along a line I would not have crossed all at once?
+- What ethical implications might this decision have, and for whom?
+- Am I deciding in a hurry, or to avoid a loss, in a way that is keeping me from thinking it through?
+
 ### [Hubris](../articles/wisdom-at-work/hubris.md) — Vice
 
 *A department head has delivered three strong years in a row and been praised in the trade press. A senior analyst warns that a proposed expansion rests on optimistic demand figures.*

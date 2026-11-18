@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:self-knowledge]
-related: [wg:know-thyself, wg:honesty, wg:intellectual-humility, wg:self-reflection, wg:seeking-counsel, wg:solomons-paradox, wg:impartial-spectator, wg:theory-of-moral-sentiments, wg:hubris]
+related: [wg:know-thyself, wg:honesty, wg:intellectual-humility, wg:self-reflection, wg:seeking-counsel, wg:solomons-paradox, wg:impartial-spectator, wg:theory-of-moral-sentiments, wg:hubris, wg:ethical-fading]
 requires: []
 relations:
   - {predicate: undermines, object: wg:self-knowledge, source: s1, confidence: high}
@@ -68,6 +68,7 @@ sources:
     type: academic
     accessed: 2026-11-15
 created: 2026-11-15
+modified: 2026-11-18
 ---
 
 # Self-deception

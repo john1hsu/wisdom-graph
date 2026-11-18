@@ -1467,6 +1467,54 @@
    "wgo:why": "The loss is still felt, but it no longer chooses your words; attention moves from blame and panic to the part of the situation you can actually shape."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I described this decision in plain words, without the jargon, would it still sound acceptable?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-fading"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I calling this \"just a business decision\" so that I don't have to ask whether it is right?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-fading"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this a small step further along a line I would not have crossed all at once?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-fading"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What ethical implications might this decision have, and for whom?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-fading"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I deciding in a hurry, or to avoid a loss, in a way that is keeping me from thinking it through?",
+   "wgo:questionFor": {
+    "@id": "wg:ethical-fading"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "\"Let me say it plainly first: we'd be reporting revenue we don't have yet. I'll show my director the gap honestly, explain what is likely to close next month, and ask how we want the shortfall to be read.\"",
+   "wgo:before": "\"It's just a timing question, everyone does it, and finance can sort out the paperwork. I'm not going to lose my bonus over a few days.\"",
+   "wgo:situation": "Two days before quarter end, a sales manager is short of target. A customer has verbally agreed to a deal but will not sign until next month. Her director suggests \"pulling it forward\" and booking it now.",
+   "wgo:why": "The first response treats the choice as a timing and money problem, framed as a loss, so the ethical question never comes up. Naming the act in plain words and slowing down puts the moral dimension back on the table before the decision is made."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?",
@@ -8539,6 +8587,90 @@
     "@id": "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Social Justice Research 17(2), 223-236 (Springer); ProQuest record with abstract",
+   "dcterms:title": "Ethical fading: The role of self-deception in unethical behavior (Tenbrunsel & Messick, 2004)",
+   "schema:url": {
+    "@id": "https://www.proquest.com/docview/821817963"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Administrative Science Quarterly, 684-707 (doi:10.2307/2667052); abstract listing by Shanghai University of Finance and Economics",
+   "dcterms:title": "Sanctioning systems, decision frames, and cooperation (Tenbrunsel & Messick, 1999)",
+   "schema:url": {
+    "@id": "https://academicnewsletter.sufe.edu.cn/info/367002"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Psychological Science 20(3), 378-384; author copy hosted by NYU Stern",
+   "dcterms:title": "Bounded ethicality: The perils of loss framing (Kern & Chugh, 2009)",
+   "schema:url": {
+    "@id": "https://pages.stern.nyu.edu/%7Edchugh/articles/2009_PsychScience.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Harvard Business Review, April 2011; copy hosted by the University of Notre Dame",
+   "dcterms:title": "Ethical breakdowns (Bazerman & Tenbrunsel, 2011)",
+   "schema:url": {
+    "@id": "https://think.nd.edu/wp-content/uploads/2020/11/HBR_article-1.pdf"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Ethics Unwrapped, McCombs School of Business, University of Texas at Austin (narration by Robert Prentice)",
+   "dcterms:title": "Ethical fading",
+   "schema:url": {
+    "@id": "https://ethicsunwrapped.utexas.edu/video/ethical-fading"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Advances in Methods and Practices in Psychological Science 1(3), 299-317 (doi:10.1177/2515245918781032); University of Warwick repository record",
+   "dcterms:title": "Registered Replication Report on Mazar, Amir, and Ariely (2008) (Verschuere et al., 2018)",
+   "schema:url": {
+    "@id": "https://wrap.warwick.ac.uk/110268/"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/evening-review/s1",
@@ -22099,6 +22231,96 @@
    "wgo:level": "introductory"
   },
   {
+   "@id": "wg:ethical-fading",
+   "@type": "wgo:Obstacle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/ethical-fading/s6"
+    }
+   ],
+   "rdfs:label": "Ethical fading",
+   "skos:altLabel": [
+    "fading of the ethical dimension",
+    "moral fading"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:bounded-ethicality"
+    },
+    {
+     "@id": "wg:self-deception"
+    }
+   ],
+   "skos:definition": "The process by which the moral side of a decision drops out of view, so that a choice with real ethical stakes is experienced as a \"business decision\", a technical problem or a routine step; self-deception, euphemism, small incremental steps and pressure let people act against their own values while still seeing themselves as ethical.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Ethical fading",
+   "skos:related": [
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:moral-case-deliberation"
+    },
+    {
+     "@id": "wg:moral-disengagement"
+    },
+    {
+     "@id": "wg:slippery-slope"
+    },
+    {
+     "@id": "wg:speaking-up-at-work"
+    },
+    {
+     "@id": "wg:wise-leadership"
+    }
+   ],
+   "wgo:demonstratedBy": {
+    "@id": "wg:sanctioning-systems-and-decision-frames-study"
+   },
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/ethical-fading/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/ethical-fading.md",
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:ann-tenbrunsel"
+    },
+    {
+     "@id": "wg:david-messick"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:bounded-ethicality-loss-framing-study"
+   },
+   "wgo:undermines": {
+    "@id": "wg:moral-awareness"
+   }
+  },
+  {
    "@id": "wg:evening-review",
    "@type": "wgo:Practice",
    "dcterms:created": {
@@ -29256,6 +29478,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-15"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-deception/s1"
@@ -29291,6 +29517,9 @@
    },
    "skos:prefLabel": "Self-deception",
    "skos:related": [
+    {
+     "@id": "wg:ethical-fading"
+    },
     {
      "@id": "wg:honesty"
     },

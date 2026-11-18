@@ -4062,6 +4062,107 @@
   ]
  },
  {
+  "id": "wg:ethical-fading",
+  "title": "Ethical fading",
+  "aliases": [
+   "moral fading",
+   "fading of the ethical dimension"
+  ],
+  "type": "Obstacle",
+  "domain": "wisdom-at-work",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/ethical-fading.md",
+  "created": "2026-11-18",
+  "summary": "The process by which the moral side of a decision drops out of view, so that a choice with real ethical stakes is experienced as a \"business decision\", a technical problem or a routine step; self-deception, euphemism, small incremental steps and pressure let people act against their own values while still seeing themselves as ethical.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:bounded-ethicality"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:speaking-up-at-work"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-case-deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-leadership"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-disengagement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:slippery-slope"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:ann-tenbrunsel",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:david-messick",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:moral-awareness",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:sanctioning-systems-and-decision-frames-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:bounded-ethicality-loss-framing-study",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "If I described this decision in plain words, without the jargon, would it still sound acceptable?",
+   "Am I calling this \"just a business decision\" so that I don't have to ask whether it is right?",
+   "Is this a small step further along a line I would not have crossed all at once?",
+   "What ethical implications might this decision have, and for whom?",
+   "Am I deciding in a hurry, or to avoid a loss, in a way that is keeping me from thinking it through?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Two days before quarter end, a sales manager is short of target. A customer has verbally agreed to a deal but will not sign until next month. Her director suggests \"pulling it forward\" and booking it now.",
+   "before": "\"It's just a timing question, everyone does it, and finance can sort out the paperwork. I'm not going to lose my bonus over a few days.\"",
+   "after": "\"Let me say it plainly first: we'd be reporting revenue we don't have yet. I'll show my director the gap honestly, explain what is likely to close next month, and ask how we want the shortfall to be read.\"",
+   "why": "The first response treats the choice as a timing and money problem, framed as a loss, so the ethical question never comes up. Naming the act in plain words and slowing down puts the moral dimension back on the table before the decision is made."
+  },
+  "source_urls": [
+   "https://www.proquest.com/docview/821817963",
+   "https://academicnewsletter.sufe.edu.cn/info/367002",
+   "https://pages.stern.nyu.edu/%7Edchugh/articles/2009_PsychScience.pdf",
+   "https://think.nd.edu/wp-content/uploads/2020/11/HBR_article-1.pdf",
+   "https://ethicsunwrapped.utexas.edu/video/ethical-fading",
+   "https://wrap.warwick.ac.uk/110268/"
+  ]
+ },
+ {
   "id": "wg:evening-review",
   "title": "Evening review",
   "aliases": [
@@ -12319,6 +12420,10 @@
    {
     "predicate": "skos:related",
     "object": "wg:hubris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ethical-fading"
    },
    {
     "predicate": "wgo:undermines",

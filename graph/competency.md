@@ -6,7 +6,9 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:ethical-fading` | wgo:Obstacle |
 
 ## Skills and virtues with no practice (gap)
 
@@ -124,6 +126,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:equanimity` | mixed |  |
+| `wg:ethical-fading` | mixed |  |
 | `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 | `wg:folly` | mixed |  |
 | `wg:generosity` | mixed | `wg:prosocial-spending-replication-study` |
@@ -133,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:grief-and-loss` | mixed |  |
 | `wg:hedonic-adaptation` | mixed | `wg:lottery-wealth-well-being-study` |
 | `wg:hubris` | mixed | `wg:many-labs-3` |
-| `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 
-…and 53 more.
+…and 54 more.
 
 ## Ideas with no recorded origin (gap)
 
