@@ -12002,6 +12002,76 @@
    "wgo:sourceType": "academic"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut; substantive revision 11 August 2026)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book I, trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, complete text (Books I–X), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal for the Theory of Social Behaviour (Kristján Kristjánsson, 2018), University of Birmingham accepted manuscript",
+   "dcterms:title": "Ten Un-Aristotelian Reasons for the Instability of Aristotelian Character Friendships",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/56086929/FriendshippaperNOTANONYMOUS_REVISEDJTSB.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Jubilee Centre for Character and Virtues, University of Birmingham (Kristjánsson, Darnell, Fowers, Moller, Pollard & Thoma, 2020)",
+   "dcterms:title": "Phronesis: Developing a Conceptualisation and an Instrument (research report)",
+   "schema:url": {
+    "@id": "https://jubileecentre.ac.uk/wp-content/uploads/2023/05/Phronesis-1.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/personal-and-general-wisdom/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -24846,6 +24916,108 @@
    "wgo:supportedBy": {
     "@id": "wg:george-bailey-effect"
    }
+  },
+  {
+   "@id": "wg:nicomachean-ethics",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/nicomachean-ethics/s5"
+    }
+   ],
+   "rdfs:label": "Nicomachean Ethics",
+   "skos:altLabel": [
+    "Aristotle's Ethics",
+    "EN",
+    "Ethica Nicomachea",
+    "Ēthika Nikomacheia"
+   ],
+   "skos:broader": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "skos:definition": "Aristotle's ten-book treatise on how to live well, probably edited by his son Nicomachus, which argues that the human good (eudaimonia) is a lifetime of reason-guided activity in accordance with virtue, and gives the classic accounts of character formed by habit, the mean, practical wisdom, weakness of will, pleasure and friendship.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Nicomachean Ethics",
+   "skos:related": [
+    {
+     "@id": "wg:aristotelian-phronesis-model"
+    },
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:intellectual-virtues"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:authoredBy": {
+    "@id": "wg:aristotle"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:instability-of-character-friendships-critique"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/nicomachean-ethics.md",
+   "wgo:influencedBy": {
+    "@id": "wg:plato"
+   },
+   "wgo:introduces": [
+    {
+     "@id": "wg:character-friendship"
+    },
+    {
+     "@id": "wg:function-argument"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:personal-and-general-wisdom",

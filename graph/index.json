@@ -8891,6 +8891,121 @@
   ]
  },
  {
+  "id": "wg:nicomachean-ethics",
+  "title": "Nicomachean Ethics",
+  "aliases": [
+   "Ethica Nicomachea",
+   "Ēthika Nikomacheia",
+   "EN",
+   "Aristotle's Ethics"
+  ],
+  "type": "Work",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/nicomachean-ethics.md",
+  "created": "2026-11-18",
+  "summary": "Aristotle's ten-book treatise on how to live well, probably edited by his son Nicomachus, which argues that the human good (eudaimonia) is a lifetime of reason-guided activity in accordance with virtue, and gives the classic accounts of character formed by habit, the mean, practical wisdom, weakness of will, pleasure and friendship.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:aristotelian-virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:theoretical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotelian-phronesis-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cleverness"
+   },
+   {
+    "predicate": "wgo:authoredBy",
+    "object": "wg:aristotle",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:plato",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introduces",
+    "object": "wg:function-argument",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introduces",
+    "object": "wg:character-friendship",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:instability-of-character-friendships-critique",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRIES/aristotle-ethics/",
+   "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+   "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+   "https://research.birmingham.ac.uk/files/56086929/FriendshippaperNOTANONYMOUS_REVISEDJTSB.pdf",
+   "https://jubileecentre.ac.uk/wp-content/uploads/2023/05/Phronesis-1.pdf"
+  ]
+ },
+ {
   "id": "wg:personal-and-general-wisdom",
   "title": "Personal and general wisdom",
   "aliases": [
