@@ -5011,6 +5011,38 @@
    "wgo:why": "Reflection driven by curiosity and aimed at a lesson produces insight you can act on, whereas anxious self-scrutiny replays the hurt without improving the next decision."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-transcendence/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is my attention right now mostly on how this reflects on me, or on the people and purposes involved?",
+   "wgo:questionFor": {
+    "@id": "wg:self-transcendence"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-transcendence/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who beyond me, including people not yet here, will live with the consequences of what I decide?",
+   "wgo:questionFor": {
+    "@id": "wg:self-transcendence"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-transcendence/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I stepping back to see the bigger picture, or withdrawing because I feel numb or cut off?",
+   "wgo:questionFor": {
+    "@id": "wg:self-transcendence"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-transcendence/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "This is about the people who poured a year into it and the customers we were trying to help. I'll name what the team achieved, explain what we learned for the next product, and ask what they need from me.",
+   "wgo:before": "This makes me look bad. I'll keep the announcement short, defend my original call, and move on before anyone asks questions.",
+   "wgo:situation": "A product manager learns that a feature she championed for a year is being cut, and she has to tell the team that built it.",
+   "wgo:why": "Shifting attention from protecting her image to the team, the users and what comes next turns a bruising moment into one she can handle with generosity and a wider view."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/servant-leadership/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Are the people I lead growing - more capable, more independent - because of how I lead them?",
@@ -15069,6 +15101,90 @@
     "@id": "https://archive.news.ufl.edu/articles/2003/06/uf-professor-self-reflection-more-critical-to-wisdom-than-knowledge.html"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Review of General Psychology, 21(2), 143–160 (Yaden, Haidt, Hood, Vago & Newberg, 2017; Bavarian Library Network catalogue record)",
+   "dcterms:title": "The varieties of self-transcendent experience",
+   "schema:url": {
+    "@id": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_2258205998/Details"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 4, 405 (Glück, König, Naschenweng, Redzanowski, Dorner, Straßer & Wiedermann, 2013; doi:10.3389/fpsyg.2013.00405)",
+   "dcterms:title": "How to measure wisdom: Content, reliability, and validity of five measures",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Cross-Cultural Gerontology, 30(2), 143–161 (Lee, Choun, Aldwin & Levenson, 2015; Springer)",
+   "dcterms:title": "Cross-cultural comparison of self-transcendent wisdom between the United States and Korea",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s10823-015-9259-8"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 13, 787591 (Llanos & Martínez Verduzco, 2022; PubMed Central)",
+   "dcterms:title": "From self-transcendence to collective transcendence: In search of the order of hierarchies in Maslow's transcendence",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8988189/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Acta Psychologica Sinica, 57(4), 631–651 (Lin, Yu, Hu, Zhang, Ye & Lian, 2025; doi:10.3724/SP.J.1041.2025.0631)",
+   "dcterms:title": "The relationship between awe and prosocial behavior: Three-level meta-analysis and meta-analytic structural equation modeling",
+   "schema:url": {
+    "@id": "https://journal.psych.ac.cn/xlxb/CN/Y2025/V57/I4/631"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 14, 1097627 (Song, Klebl & Bastian, 2023; doi:10.3389/fpsyg.2023.1097627)",
+   "dcterms:title": "Awe promotes moral expansiveness via the small-self",
+   "schema:url": {
+    "@id": "https://frontiersin.org/articles/10.3389/fpsyg.2023.1097627/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/servant-leadership/s1",
@@ -29137,6 +29253,113 @@
    "wgo:rootedIn": {
     "@id": "wg:socratic-philosophy"
    }
+  },
+  {
+   "@id": "wg:self-transcendence",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-transcendence/s6"
+    }
+   ],
+   "rdfs:label": "Self-transcendence",
+   "skos:altLabel": [
+    "going beyond the self",
+    "self-transcendent orientation",
+    "transcendence of self-interest",
+    "transcending the self"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "Moving beyond a narrow focus on oneself toward connection with other people, later generations, nature or something larger: in Frankl and the later Maslow, the orientation that gives life its point; in wisdom research, a quieter self-definition and looser self-other boundaries that some psychologists treat as the core of wisdom.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Self-transcendence",
+   "skos:related": [
+    {
+     "@id": "wg:awe"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:gerotranscendence"
+    },
+    {
+     "@id": "wg:logotherapy"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:confusedWith": {
+    "@id": "wg:depersonalization"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:self-actualization"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-transcendence/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/self-transcendence.md",
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:abraham-maslow"
+    },
+    {
+     "@id": "wg:viktor-frankl"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:wisdom"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:awe-and-moral-expansiveness-study"
+    },
+    {
+     "@id": "wg:awe-and-prosocial-behavior-meta-analysis"
+    }
+   ]
   },
   {
    "@id": "wg:servant-leadership",

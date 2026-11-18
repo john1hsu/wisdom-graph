@@ -941,6 +941,21 @@ Ask yourself:
 - Who could I share this moment with, so that it lasts longer for both of us?
 - Am I savoring to appreciate my life, or using pleasant moments to avoid something I need to face?
 
+### [Self-transcendence](../articles/meaning-and-the-good-life/self-transcendence.md) — Concept
+
+*A product manager learns that a feature she championed for a year is being cut, and she has to tell the team that built it.*
+
+| Before | After |
+|---|---|
+| This makes me look bad. I'll keep the announcement short, defend my original call, and move on before anyone asks questions. | This is about the people who poured a year into it and the customers we were trying to help. I'll name what the team achieved, explain what we learned for the next product, and ask what they need from me. |
+
+**Why:** Shifting attention from protecting her image to the team, the users and what comes next turns a bruising moment into one she can handle with generosity and a wider view.
+
+Ask yourself:
+- Is my attention right now mostly on how this reflects on me, or on the people and purposes involved?
+- Who beyond me, including people not yet here, will live with the consequences of what I decide?
+- Am I stepping back to see the bigger picture, or withdrawing because I feel numb or cut off?
+
 ### [Simplicity](../articles/meaning-and-the-good-life/simplicity.md) — Practice
 
 1. Write down the three to five things you most want more of in your life, such as time with family, health, a craft or community.

@@ -12494,6 +12494,133 @@
   ]
  },
  {
+  "id": "wg:self-transcendence",
+  "title": "Self-transcendence",
+  "aliases": [
+   "transcending the self",
+   "going beyond the self",
+   "self-transcendent orientation",
+   "transcendence of self-interest"
+  ],
+  "type": "Concept",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/self-transcendence.md",
+  "created": "2026-11-18",
+  "summary": "Moving beyond a narrow focus on oneself toward connection with other people, later generations, nature or something larger: in Frankl and the later Maslow, the orientation that gives life its point; in wisdom research, a quieter self-definition and looser self-other boundaries that some psychologists treat as the core of wisdom.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:awe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:logotherapy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gerotranscendence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:viktor-frankl",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:abraham-maslow",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:self-actualization",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:wisdom",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:depersonalization",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:awe-and-prosocial-behavior-meta-analysis",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:awe-and-moral-expansiveness-study",
+    "source": "s6",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is my attention right now mostly on how this reflects on me, or on the people and purposes involved?",
+   "Who beyond me, including people not yet here, will live with the consequences of what I decide?",
+   "Am I stepping back to see the bigger picture, or withdrawing because I feel numb or cut off?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A product manager learns that a feature she championed for a year is being cut, and she has to tell the team that built it.",
+   "before": "This makes me look bad. I'll keep the announcement short, defend my original call, and move on before anyone asks questions.",
+   "after": "This is about the people who poured a year into it and the customers we were trying to help. I'll name what the team achieved, explain what we learned for the next product, and ask what they need from me.",
+   "why": "Shifting attention from protecting her image to the team, the users and what comes next turns a bruising moment into one she can handle with generosity and a wider view."
+  },
+  "source_urls": [
+   "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_2258205998/Details",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00405/pdf",
+   "https://link.springer.com/article/10.1007/s10823-015-9259-8",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8988189/",
+   "https://journal.psych.ac.cn/xlxb/CN/Y2025/V57/I4/631",
+   "https://frontiersin.org/articles/10.3389/fpsyg.2023.1097627/pdf"
+  ]
+ },
+ {
   "id": "wg:servant-leadership",
   "title": "Servant leadership",
   "aliases": [
