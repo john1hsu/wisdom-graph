@@ -10882,6 +10882,108 @@
   ]
  },
  {
+  "id": "wg:reversible-and-irreversible-decisions",
+  "title": "Reversible and irreversible decisions",
+  "aliases": [
+   "one-way and two-way doors",
+   "two-way door decisions",
+   "Type 1 and Type 2 decisions",
+   "decision reversibility",
+   "matching deliberation to reversibility"
+  ],
+  "type": "Principle",
+  "domain": "judgment-and-decisions",
+  "level": "introductory",
+  "evidenceStatus": "practitioner",
+  "file": "articles/judgment-and-decisions/reversible-and-irreversible-decisions.md",
+  "created": "2026-11-18",
+  "summary": "The principle that how much care a decision deserves should depend on how hard it would be to undo: move quickly and learn on choices you can cheaply reverse, slow down on the few you cannot; with the caveat from research that keeping a choice open can itself lower satisfaction with it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:decisions-under-uncertainty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:major-life-decision"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:kill-criteria"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:leading-others"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:decisions-and-revisions-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:psychological-immune-system",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:keeping-options-open-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:decision-theory",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:leading-others",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "If this turns out to be wrong, what would it actually cost, in money, time, trust or relationships, to undo it?",
+   "Am I agonising over something I could simply try and revise, or rushing something I will have to live with?",
+   "Is \"I'll keep my options open\" helping me learn, or just keeping me from settling into a choice I have already made?",
+   "What part of this choice could I make reversible (a trial, a pilot, a review date) before I commit to the rest?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead has spent two weeks polling everyone about which day the weekly meeting should move to, while the same week she signs off a three-year contract with a new supplier after a single sales call.",
+   "before": "Everyone has to be happy with the meeting day, so I'll keep consulting. The supplier deal is just paperwork; I'll sign it so it's off my desk.",
+   "after": "The meeting day can change next month if it doesn't work, so I'll pick one today and review it in four weeks. The contract locks us in for three years, so it gets references, a trial period and a second opinion before I sign.",
+   "why": "Effort was going to the choice that was cheap to undo and not to the one that was costly to undo; sorting decisions by reversibility puts care where a mistake would last."
+  },
+  "source_urls": [
+   "https://dtg.sites.fas.harvard.edu/Gilber%20t&%20Ebert%20(DECISIONS%20&%20REVISIONS).pdf",
+   "https://dare.uva.nl/id/ca70cd92-15b8-45ac-a656-966966cb9d63",
+   "https://pure.uva.nl/ws/files/8906781/Second_Thoughts_About_Decision_Reversibility.pdf",
+   "https://ideas.repec.org/a/oup/qjecon/v88y1974i2p312-319..html",
+   "https://www.aboutamazon.com/md/news/company-news/2016-letter-to-shareholders"
+  ]
+ },
+ {
   "id": "wg:richard-lazarus",
   "title": "Richard S. Lazarus",
   "aliases": [

@@ -474,6 +474,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/moral-algebra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-algebra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/moral-algebra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/judgment-and-decisions/reversible-and-irreversible-decisions.md" .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/satisficing#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/satisficing#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
 <https://github.com/john1hsu/wisdom-graph/id/satisficing#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/judgment-and-decisions/satisficing.md" .
@@ -6274,6 +6282,90 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
   <https://github.com/john1hsu/wisdom-graph/id/source/moral-algebra/s6> <https://schema.org/url> <https://www.gsb.stanford.edu/index%2ephp/insights/want-feel-more-peace-about-decision-stop-dwelling-negatives> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If this turns out to be wrong, what would it actually cost, in money, time, trust or relationships, to undo it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I agonising over something I could simply try and revise, or rushing something I will have to live with?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Is \"I'll keep my options open\" helping me learn, or just keeping me from settling into a choice I have already made?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What part of this choice could I make reversible (a trial, a pilot, a review date) before I commit to the rest?" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "The meeting day can change next month if it doesn't work, so I'll pick one today and review it in four weeks. The contract locks us in for three years, so it gets references, a trial period and a second opinion before I sign." .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Everyone has to be happy with the meeting day, so I'll keep consulting. The supplier deal is just paperwork; I'll sign it so it's off my desk." .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead has spent two weeks polling everyone about which day the weekly meeting should move to, while the same week she signs off a three-year contract with a new supplier after a single sales call." .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Effort was going to the choice that was cheap to undo and not to the one that was costly to undo; sorting decisions by reversibility puts care where a mistake would last." .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Principle> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2000/01/rdf-schema#label> "Reversible and irreversible decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#altLabel> "Type 1 and Type 2 decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#altLabel> "decision reversibility" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#altLabel> "matching deliberation to reversibility" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#altLabel> "one-way and two-way doors" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#altLabel> "two-way door decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#definition> "The principle that how much care a decision deserves should depend on how hard it would be to undo: move quickly and learn on choices you can cheaply reverse, slow down on the few you cannot; with the caveat from research that keeping a choice open can itself lower satisfaction with it." .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reversible and irreversible decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/decisions-and-revisions-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "practitioner" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/psychological-immune-system> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/reversible-and-irreversible-decisions.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/keeping-options-open-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> <http://purl.org/dc/terms/publisher> "Daniel T. Gilbert & Jane E. J. Ebert, author copy hosted by Harvard University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> <http://purl.org/dc/terms/title> "Decisions and revisions: The affective forecasting of changeable outcomes (Journal of Personality and Social Psychology 82(4), 503–514)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1> <https://schema.org/url> <https://dtg.sites.fas.harvard.edu/Gilber%20t&%20Ebert%20(DECISIONS%20&%20REVISIONS).pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> <http://purl.org/dc/terms/publisher> "Lottie Bullens, Frenk van Harreveld & Jens Förster, University of Amsterdam Digital Academic Repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> <http://purl.org/dc/terms/title> "Keeping one's options open: The detrimental consequences of decision reversibility (Journal of Experimental Social Psychology 47(4), 800–805)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2> <https://schema.org/url> <https://dare.uva.nl/id/ca70cd92-15b8-45ac-a656-966966cb9d63> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> <http://purl.org/dc/terms/publisher> "Lottie Bullens & Frenk van Harreveld, University of Amsterdam" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> <http://purl.org/dc/terms/title> "Second thoughts about decision reversibility: An empirical overview (Social and Personality Psychology Compass 10(10), 550–560)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3> <https://schema.org/url> <https://pure.uva.nl/ws/files/8906781/Second_Thoughts_About_Decision_Reversibility.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> <http://purl.org/dc/terms/publisher> "Kenneth J. Arrow & Anthony C. Fisher, via RePEc IDEAS" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> <http://purl.org/dc/terms/title> "Environmental Preservation, Uncertainty, and Irreversibility (The Quarterly Journal of Economics 88(2), 312–319)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4> <https://schema.org/url> <https://ideas.repec.org/a/oup/qjecon/v88y1974i2p312-319..html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> <http://purl.org/dc/terms/publisher> "Amazon (Jeff Bezos)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> <http://purl.org/dc/terms/title> "2016 Letter to Shareholders" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5> <https://schema.org/url> <https://www.aboutamazon.com/md/news/company-news/2016-letter-to-shareholders> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/satisficing#graph> {
@@ -15009,12 +15101,17 @@
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
   <https://github.com/john1hsu/wisdom-graph/id/decisional-balance-and-ambivalence-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
+  <https://github.com/john1hsu/wisdom-graph/id/decisions-and-revisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/decisions-and-revisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/decisions-and-revisions-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/deescalation-strategies-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/deescalation-strategies-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/deescalation-strategies-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
@@ -15050,6 +15147,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/purpose-in-life> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
@@ -15971,6 +16069,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/karma-yoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
+  <https://github.com/john1hsu/wisdom-graph/id/keeping-options-open-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15981,6 +16080,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+  <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-joy-thinking> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/kindness-based-meditation-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
@@ -16016,6 +16116,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
+  <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/kurt-lewin> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/laozi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -16041,6 +16142,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
@@ -16051,6 +16153,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
@@ -16148,6 +16251,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
@@ -16646,6 +16750,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/psychoanalysis> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-flexibility-components-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychological-immune-system> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/psychological-safety-in-work-teams-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
@@ -16739,6 +16844,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will> .
   <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility-individual-differences-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
@@ -16789,6 +16895,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/response-to-ost-act-review> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -16887,6 +17001,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring-a-new-model-of-positive-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/savoring-a-new-model-of-positive-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .

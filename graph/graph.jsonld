@@ -4187,6 +4187,46 @@
    "wgo:why": "Holding back expression was right for the announcement and wrong as a blanket rule; reading the moment, having more than one response, and checking whether it works is what the research links to better adjustment."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If this turns out to be wrong, what would it actually cost, in money, time, trust or relationships, to undo it?",
+   "wgo:questionFor": {
+    "@id": "wg:reversible-and-irreversible-decisions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I agonising over something I could simply try and revise, or rushing something I will have to live with?",
+   "wgo:questionFor": {
+    "@id": "wg:reversible-and-irreversible-decisions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is \"I'll keep my options open\" helping me learn, or just keeping me from settling into a choice I have already made?",
+   "wgo:questionFor": {
+    "@id": "wg:reversible-and-irreversible-decisions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What part of this choice could I make reversible (a trial, a pilot, a review date) before I commit to the rest?",
+   "wgo:questionFor": {
+    "@id": "wg:reversible-and-irreversible-decisions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "The meeting day can change next month if it doesn't work, so I'll pick one today and review it in four weeks. The contract locks us in for three years, so it gets references, a trial period and a second opinion before I sign.",
+   "wgo:before": "Everyone has to be happy with the meeting day, so I'll keep consulting. The supplier deal is just paperwork; I'll sign it so it's off my desk.",
+   "wgo:situation": "A team lead has spent two weeks polling everyone about which day the weekly meeting should move to, while the same week she signs off a three-year contract with a new supplier after a single sales call.",
+   "wgo:why": "Effort was going to the choice that was cheap to undo and not to the one that was costly to undo; sorting decisions by reversibility puts care where a mistake would last."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/right-speech/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Is what I am about to say true, as far as I actually know, or is it a guess or a convenient story?",
@@ -13661,6 +13701,76 @@
    "dcterms:title": "Building your resilience",
    "schema:url": {
     "@id": "https://www.apa.org/topics/resilience/building-your-resilience"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Daniel T. Gilbert & Jane E. J. Ebert, author copy hosted by Harvard University",
+   "dcterms:title": "Decisions and revisions: The affective forecasting of changeable outcomes (Journal of Personality and Social Psychology 82(4), 503–514)",
+   "schema:url": {
+    "@id": "https://dtg.sites.fas.harvard.edu/Gilber%20t&%20Ebert%20(DECISIONS%20&%20REVISIONS).pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lottie Bullens, Frenk van Harreveld & Jens Förster, University of Amsterdam Digital Academic Repository",
+   "dcterms:title": "Keeping one's options open: The detrimental consequences of decision reversibility (Journal of Experimental Social Psychology 47(4), 800–805)",
+   "schema:url": {
+    "@id": "https://dare.uva.nl/id/ca70cd92-15b8-45ac-a656-966966cb9d63"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lottie Bullens & Frenk van Harreveld, University of Amsterdam",
+   "dcterms:title": "Second thoughts about decision reversibility: An empirical overview (Social and Personality Psychology Compass 10(10), 550–560)",
+   "schema:url": {
+    "@id": "https://pure.uva.nl/ws/files/8906781/Second_Thoughts_About_Decision_Reversibility.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Kenneth J. Arrow & Anthony C. Fisher, via RePEc IDEAS",
+   "dcterms:title": "Environmental Preservation, Uncertainty, and Irreversibility (The Quarterly Journal of Economics 88(2), 312–319)",
+   "schema:url": {
+    "@id": "https://ideas.repec.org/a/oup/qjecon/v88y1974i2p312-319..html"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Amazon (Jeff Bezos)",
+   "dcterms:title": "2016 Letter to Shareholders",
+   "schema:url": {
+    "@id": "https://www.aboutamazon.com/md/news/company-news/2016-letter-to-shareholders"
    },
    "wgo:sourceType": "institutional"
   },
@@ -27381,6 +27491,92 @@
    },
    "wgo:file": "articles/adversity-and-mortality/resilience.md",
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:reversible-and-irreversible-decisions",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/reversible-and-irreversible-decisions/s5"
+    }
+   ],
+   "rdfs:label": "Reversible and irreversible decisions",
+   "skos:altLabel": [
+    "Type 1 and Type 2 decisions",
+    "decision reversibility",
+    "matching deliberation to reversibility",
+    "one-way and two-way doors",
+    "two-way door decisions"
+   ],
+   "skos:broader": {
+    "@id": "wg:decisions-under-uncertainty"
+   },
+   "skos:definition": "The principle that how much care a decision deserves should depend on how hard it would be to undo: move quickly and learn on choices you can cheaply reverse, slow down on the few you cannot; with the caveat from research that keeping a choice open can itself lower satisfaction with it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Reversible and irreversible decisions",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:kill-criteria"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:satisficing"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:leading-others"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:decisions-and-revisions-study"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "practitioner",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:psychological-immune-system"
+   },
+   "wgo:file": "articles/judgment-and-decisions/reversible-and-irreversible-decisions.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:decision-theory"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:keeping-options-open-study"
+   }
   },
   {
    "@id": "wg:richard-lazarus",

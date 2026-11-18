@@ -96,7 +96,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:empathy` |
 | `wg:leading-others` | `wg:golden-rule` |
 
-…and 26 more.
+…and 27 more.
 
 ## Myths and contested advice
 
@@ -147,6 +147,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |
+| `wg:reversible-and-irreversible-decisions` | wgo:Principle |
 | `wg:self-deception` | wgo:Obstacle |
 | `wg:speaking-up-at-work` | wgo:Context |
 | `wg:ubuntu` | wgo:Tradition |

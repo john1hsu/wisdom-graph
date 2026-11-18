@@ -756,6 +756,22 @@ Ask yourself:
 - Am I using the list to choose, or to talk myself out of something I had already decided to do?
 - Now that the balance is clear, have I set a time to act on it?
 
+### [Reversible and irreversible decisions](../articles/judgment-and-decisions/reversible-and-irreversible-decisions.md) — Principle
+
+*A team lead has spent two weeks polling everyone about which day the weekly meeting should move to, while the same week she signs off a three-year contract with a new supplier after a single sales call.*
+
+| Before | After |
+|---|---|
+| Everyone has to be happy with the meeting day, so I'll keep consulting. The supplier deal is just paperwork; I'll sign it so it's off my desk. | The meeting day can change next month if it doesn't work, so I'll pick one today and review it in four weeks. The contract locks us in for three years, so it gets references, a trial period and a second opinion before I sign. |
+
+**Why:** Effort was going to the choice that was cheap to undo and not to the one that was costly to undo; sorting decisions by reversibility puts care where a mistake would last.
+
+Ask yourself:
+- If this turns out to be wrong, what would it actually cost, in money, time, trust or relationships, to undo it?
+- Am I agonising over something I could simply try and revise, or rushing something I will have to live with?
+- Is "I'll keep my options open" helping me learn, or just keeping me from settling into a choice I have already made?
+- What part of this choice could I make reversible (a trial, a pilot, a review date) before I commit to the rest?
+
 ### [Satisficing](../articles/judgment-and-decisions/satisficing.md) — Practice
 
 1. Before you look at any options, write down the few things the choice must achieve and the minimum each must reach; this is your "good enough" line.
