@@ -14801,6 +14801,136 @@
   ]
  },
  {
+  "id": "wg:stoic-reserve-clause",
+  "title": "Stoic reserve clause",
+  "aliases": [
+   "reservation (Stoic)",
+   "hupexairesis",
+   "exceptio",
+   "acting with reservation",
+   "fate permitting",
+   "if nothing prevents"
+  ],
+  "type": "Practice",
+  "domain": "emotions-and-equanimity",
+  "level": "intermediate",
+  "evidenceStatus": "normative",
+  "file": "articles/emotions-and-equanimity/stoic-reserve-clause.md",
+  "created": "2026-11-18",
+  "summary": "The Stoic practice of pursuing a goal wholeheartedly while holding it with an explicit proviso such as \"if nothing prevents it\", so that when events block the plan you can accept the setback, learn from it and redirect your effort instead of being thrown by it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:stoic-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:negative-visualization"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:amor-fati"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epictetus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seneca"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:marcus-aurelius"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implementation-intentions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:failure"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:dichotomy-of-control"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:stoicism",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:failure",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:develops",
+    "object": "wg:equanimity",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:dichotomy-of-control",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:goal-adjustment-meta-analysis",
+    "source": "s6",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Have I stated, at least to myself, what could prevent this plan, and am I still willing to give it my full effort?",
+   "Am I treating an outcome that depends on others as if I were owed it?",
+   "Now that I've been blocked, what did I misjudge, and what good action is still open to me?",
+   "Am I using \"it was out of my hands\" to skip examining the parts that were mine?"
+  ],
+  "steps": [
+   "Before you start something that matters, name the outcome you want and commit to doing your part fully.",
+   "Say or write the proviso out loud, for example \"I will launch on Friday, if nothing prevents it\", and list two or three things that could prevent it.",
+   "Separate the parts that depend on your choices (preparation, effort, honesty, how you respond) from those that do not (other people's decisions, timing, luck).",
+   "When an obstacle does block you, pause and remind yourself that the plan always carried that condition; then ask what the obstacle reveals that you misjudged.",
+   "Redirect your effort to the next good action still open to you, which may be a revised attempt, a different goal, or the patience, fairness or courage the setback now calls for."
+  ],
+  "example": {
+   "situation": "A team lead has spent a month preparing a client pitch. The day before, the client postpones indefinitely after a change of leadership on their side.",
+   "before": "\"A month wasted. This always happens to me.\" She vents to the team, rereads the cancellation email all evening and decides not to bother preparing so carefully next time.",
+   "after": "She had told herself from the start that the pitch would happen if nothing on the client's side changed. She is disappointed, but sends a short, warm reply offering to brief the new leadership, asks the team what in the pitch could be reused for two other prospects, and notes that she never asked the client how stable their sponsor was.",
+   "why": "The proviso did not make her care less or work less. It meant the setback confirmed a condition she had already accepted, so her attention went to what was still hers to do and what she could learn, not to a story about being cheated."
+  },
+  "source_urls": [
+   "https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/2",
+   "https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-peace-of-mind",
+   "https://classics.mit.edu/Antoninus/meditations.mb.txt",
+   "https://plato.stanford.edu/ENTRIES/marcus-aurelius/",
+   "https://philarchive.org/archive/BRERIS",
+   "https://eprints.soton.ac.uk/506833/2/s41562-025-02312-4.pdf"
+  ]
+ },
+ {
   "id": "wg:stoicism",
   "title": "Stoicism",
   "aliases": [

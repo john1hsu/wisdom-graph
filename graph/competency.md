@@ -20,7 +20,6 @@ _Which written life situations have no practice, principle, skill or virtue appl
 
 | node | type |
 |---|---|
-| `wg:failure` | wgo:Context |
 | `wg:mentorship` | wgo:Context |
 
 ## Highest-leverage practices and teachings
@@ -60,7 +59,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 
-…and 22 more.
+…and 23 more.
 
 ## Toolkit by life situation
 
@@ -82,6 +81,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:community-decision-making` | `wg:imaginary-future-generations` |
 | `wg:facing-mortality` | `wg:death-awareness` |
 | `wg:facing-mortality` | `wg:epicureanism` |
+| `wg:failure` | `wg:stoic-reserve-clause` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
 | `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
@@ -97,9 +97,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:balance-theory-of-wisdom` |
 | `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
-| `wg:leading-others` | `wg:golden-rule` |
 
-…and 28 more.
+…and 29 more.
 
 ## Myths and contested advice
 
@@ -205,7 +204,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:greed` |
 
-…and 48 more.
+…and 49 more.
 
 ## The doctrine of the mean
 

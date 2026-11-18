@@ -529,6 +529,28 @@ Ask yourself:
 - What would I advise a friend in exactly this position, and can I take that advice tonight?
 - Have I tested the fear I keep circling, or only rehearsed it?
 
+### [Stoic reserve clause](../articles/emotions-and-equanimity/stoic-reserve-clause.md) — Practice
+
+1. Before you start something that matters, name the outcome you want and commit to doing your part fully.
+2. Say or write the proviso out loud, for example "I will launch on Friday, if nothing prevents it", and list two or three things that could prevent it.
+3. Separate the parts that depend on your choices (preparation, effort, honesty, how you respond) from those that do not (other people's decisions, timing, luck).
+4. When an obstacle does block you, pause and remind yourself that the plan always carried that condition; then ask what the obstacle reveals that you misjudged.
+5. Redirect your effort to the next good action still open to you, which may be a revised attempt, a different goal, or the patience, fairness or courage the setback now calls for.
+
+*A team lead has spent a month preparing a client pitch. The day before, the client postpones indefinitely after a change of leadership on their side.*
+
+| Before | After |
+|---|---|
+| "A month wasted. This always happens to me." She vents to the team, rereads the cancellation email all evening and decides not to bother preparing so carefully next time. | She had told herself from the start that the pitch would happen if nothing on the client's side changed. She is disappointed, but sends a short, warm reply offering to brief the new leadership, asks the team what in the pitch could be reused for two other prospects, and notes that she never asked the client how stable their sponsor was. |
+
+**Why:** The proviso did not make her care less or work less. It meant the setback confirmed a condition she had already accepted, so her attention went to what was still hers to do and what she could learn, not to a story about being cheated.
+
+Ask yourself:
+- Have I stated, at least to myself, what could prevent this plan, and am I still willing to give it my full effort?
+- Am I treating an outcome that depends on others as if I were owed it?
+- Now that I've been blocked, what did I misjudge, and what good action is still open to me?
+- Am I using "it was out of my hands" to skip examining the parts that were mine?
+
 ### [The view from above](../articles/emotions-and-equanimity/view-from-above.md) — Practice
 
 1. Name the specific thing that is gripping you right now, such as a slight, a setback, a rivalry or a wish for praise.

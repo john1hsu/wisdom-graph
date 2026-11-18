@@ -328,6 +328,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/rumination#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/rumination#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/rumination#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/emotions-and-equanimity/stoic-reserve-clause.md" .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/emotions-and-equanimity/view-from-above.md" .
@@ -4833,6 +4842,126 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
   <https://github.com/john1hsu/wisdom-graph/id/source/rumination/s6> <https://schema.org/url> <https://link.springer.com/content/pdf/10.1023/a:1023910315561.pdf> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> <http://purl.org/dc/terms/publisher> "Perseus Digital Library / Perseids Scaife CTS reader" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> <http://purl.org/dc/terms/title> "Epictetus, The Encheiridion (Handbook), chapter 2, trans. George Long (1887)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0557/tlg002/perseus-eng3/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> <http://purl.org/dc/terms/publisher> "Standard Ebooks (public-domain scholarly translation)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> <http://purl.org/dc/terms/title> "Seneca, On Peace of Mind (De Tranquillitate Animi), chapter 13, trans. Aubrey Stewart" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> <https://schema.org/url> <https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-peace-of-mind> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, Massachusetts Institute of Technology" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> <http://purl.org/dc/terms/title> "Marcus Aurelius, Meditations, trans. George Long (book 6, section 50)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> <https://schema.org/url> <https://classics.mit.edu/Antoninus/meditations.mb.txt> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> <http://purl.org/dc/terms/title> "Marcus Aurelius (Kamtekar, R.; substantive revision 2025)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/marcus-aurelius/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> <http://purl.org/dc/terms/publisher> "Archiv für Geschichte der Philosophie, 82, 149–177 (PhilArchive copy)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> <http://purl.org/dc/terms/title> "Reservation in Stoic Ethics (Brennan, T., 2000)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> <https://schema.org/url> <https://philarchive.org/archive/BRERIS> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> <http://purl.org/dc/terms/publisher> "Nature Human Behaviour (Riddell, Sedikides, Sivaramakrishnan, Wan, Maltagliati, Jackson, Thøgersen-Ntoumani, Gucciardi & Ntoumanis, 2025; doi:10.1038/s41562-025-02312-4), University of Southampton ePrints" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> <http://purl.org/dc/terms/title> "A meta-analytic review and conceptual model of the antecedents and outcomes of goal adjustment in response to striving difficulties" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> <https://schema.org/url> <https://eprints.soton.ac.uk/506833/2/s41562-025-02312-4.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Have I stated, at least to myself, what could prevent this plan, and am I still willing to give it my full effort?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating an outcome that depends on others as if I were owed it?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Now that I've been blocked, what did I misjudge, and what good action is still open to me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using \"it was out of my hands\" to skip examining the parts that were mine?" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "She had told herself from the start that the pitch would happen if nothing on the client's side changed. She is disappointed, but sends a short, warm reply offering to brief the new leadership, asks the team what in the pitch could be reused for two other prospects, and notes that she never asked the client how stable their sponsor was." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"A month wasted. This always happens to me.\" She vents to the team, rereads the cancellation email all evening and decides not to bother preparing so carefully next time." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead has spent a month preparing a client pitch. The day before, the client postpones indefinitely after a change of leadership on their side." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The proviso did not make her care less or work less. It meant the setback confirmed a condition she had already accepted, so her attention went to what was still hers to do and what she could learn, not to a story about being cheated." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/1> <https://schema.org/text> "Before you start something that matters, name the outcome you want and commit to doing your part fully." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/2> <https://schema.org/text> "Say or write the proviso out loud, for example \"I will launch on Friday, if nothing prevents it\", and list two or three things that could prevent it." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/3> <https://schema.org/text> "Separate the parts that depend on your choices (preparation, effort, honesty, how you respond) from those that do not (other people's decisions, timing, luck)." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/4> <https://schema.org/text> "When an obstacle does block you, pause and remind yourself that the plan always carried that condition; then ask what the obstacle reveals that you misjudged." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/5> <https://schema.org/text> "Redirect your effort to the next good action still open to you, which may be a revised attempt, a different goal, or the patience, fairness or courage the setback now calls for." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <https://schema.org/name> "Stoic reserve clause" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2000/01/rdf-schema#label> "Stoic reserve clause" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#altLabel> "acting with reservation" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#altLabel> "exceptio" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#altLabel> "fate permitting" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#altLabel> "hupexairesis" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#altLabel> "if nothing prevents" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#altLabel> "reservation (Stoic)" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#definition> "The Stoic practice of pursuing a goal wholeheartedly while holding it with an explicit proviso such as \"if nothing prevents it\", so that when events block the plan you can accept the setback, learn from it and redirect your effort instead of being thrown by it." .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoic reserve clause" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epictetus> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/marcus-aurelius> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seneca> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/stoic-reserve-clause/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/failure> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/stoic-reserve-clause.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/goal-adjustment-meta-analysis> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> {
@@ -15739,6 +15868,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mourning-and-melancholia> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15853,6 +15983,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/amor-fati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/amor-fati> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/affirmation-of-life> .
   <https://github.com/john1hsu/wisdom-graph/id/amor-fati> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/amor-fati> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/analects> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/analects> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/analects> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
@@ -16521,8 +16652,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/different-types-of-well-being-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/dispositional-greed-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/dispositional-greed-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -16697,6 +16831,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
+  <https://github.com/john1hsu/wisdom-graph/id/epictetus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/epictetus> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/epicurean-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
@@ -16744,6 +16879,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/sage> .
+  <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
@@ -16751,6 +16887,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/erik-erikson> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/erik-erikson> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
@@ -16879,6 +17016,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/failure> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/failure> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/life-challenges> .
   <https://github.com/john1hsu/wisdom-graph/id/failure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/failure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/failure> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/fast-and-frugal-heuristics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/fast-and-frugal-heuristics> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/filial-piety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
@@ -16997,6 +17136,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/goal-adjustment-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/goal-adjustment-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17270,6 +17410,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-habituation> .
+  <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17561,6 +17702,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/kurt-lewin> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/laozi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17720,6 +17862,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/manuel-velasquez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/manuel-velasquez> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/many-labs-3> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
+  <https://github.com/john1hsu/wisdom-graph/id/marcus-aurelius> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/margret-baltes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-heidegger> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
   <https://github.com/john1hsu/wisdom-graph/id/martin-seligman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17968,6 +18111,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/negativity-bias> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18804,6 +18948,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/sense-of-coherence-steeling-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
@@ -19014,7 +19159,17 @@
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/stewardship> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> .
@@ -19043,6 +19198,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/sage> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/stories-we-live-by-trial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/stories-we-live-by-trial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
