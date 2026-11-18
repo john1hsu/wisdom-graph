@@ -700,6 +700,144 @@
   ]
  },
  {
+  "id": "wg:anger",
+  "title": "Anger",
+  "aliases": [
+   "wrath",
+   "ira",
+   "orgē"
+  ],
+  "type": "Obstacle",
+  "domain": "emotions-and-equanimity",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/emotions-and-equanimity/anger.md",
+  "created": "2026-11-18",
+  "summary": "The emotion that rises when we judge that we, or someone we care about, have been wronged or blocked, bringing a sense of certainty, blame and an urge to strike back. It can signal a real injustice, but left unexamined it narrows judgment, hardens blame and pushes toward choices we later regret.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:negative-emotions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:good-temper"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:patience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotional-suppression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassionate-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:buddhism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seneca"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:shantideva"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:deliberation",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:wise-reasoning",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:appraisal-tendency-framework",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:anger-arousal-activities-meta-analysis",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:aggression",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I sure what they intended, or is my anger supplying the motive?",
+   "Is this the right person, the right issue, the right moment and the right amount of anger?",
+   "Would I make this decision, send this message or set this penalty if I were calm?",
+   "Am I replaying the offence to understand it, or only to stay angry?",
+   "What do I actually want to change here, and does striking back get me any closer?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A colleague forwards your draft proposal to senior management with a note pointing out its weaknesses, without talking to you first. You find out an hour before a deadline.",
+   "before": "You fire off a reply-all calling the move underhanded, copy your manager, and spend the afternoon retelling the story to anyone who will listen, sure you know exactly why they did it.",
+   "after": "You notice your jaw is tight and you are drafting accusations in your head. You close the email, take a few slow breaths and finish the deadline work. Next morning you ask the colleague privately why they went straight to management, say plainly that you would rather hear concerns first, and fix the two criticisms that were fair.",
+   "why": "Anger made you certain about motive and eager to punish; waiting until your body calmed down, and asking before judging, let you defend a fair working norm without escalating, and still learn from the parts of the criticism that were right."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html",
+   "https://plato.stanford.edu/ENTRIES/seneca/",
+   "https://plato.stanford.edu/Entries/shantideva/",
+   "https://par.nsf.gov/servlets/purl/10088854",
+   "https://todayspractitioner.com/wp-content/uploads/2025/03/Kjaervik-Anger.pdf",
+   "https://www.apa.org/topics/anger/control"
+  ]
+ },
+ {
   "id": "wg:aristotle",
   "title": "Aristotle",
   "aliases": [

@@ -41,7 +41,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:simplicity` | 3 | Contentment, Greed, materialism |
 | `wg:classification-of-desires` | 2 | Contentment, Greed |
 | `wg:cognitive-defusion` | 2 | Acceptance, cognitive-fusion |
-| `wg:evening-review` | 2 | Self-reflection, anger |
+| `wg:evening-review` | 2 | Anger, Self-reflection |
 | `wg:forgiveness` | 2 | Rumination, vindictiveness |
 | `wg:imaginary-future-generations` | 2 | Stewardship, intergenerational-discounting |
 | `wg:intellectual-humility` | 2 | dogmatism, intellectual-arrogance |
@@ -114,6 +114,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:adversity` | mixed | `wg:sense-of-coherence-steeling-study` |
 | `wg:after-action-review` | mixed |  |
 | `wg:ageing` | mixed | `wg:subjective-aging-confounding-study` |
+| `wg:anger` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:cognitive-defusion` | mixed | `wg:act-mediation-studies-review` |
 | `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
@@ -135,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:greed` | mixed |  |
 | `wg:grief-and-loss` | mixed |  |
-| `wg:hedonic-adaptation` | mixed | `wg:lottery-wealth-well-being-study` |
 
-…and 56 more.
+…and 57 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:anger` | wgo:Obstacle |
 | `wg:failure` | wgo:Context |
 | `wg:judaism` | wgo:Tradition |
 | `wg:moral-awareness` | wgo:Skill |

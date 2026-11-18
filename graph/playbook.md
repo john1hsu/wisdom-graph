@@ -332,6 +332,23 @@ Ask yourself:
 - Am I accepting what happened, or am I approving of it or giving up?
 - Once I've let this be, what is the one step that still matters most?
 
+### [Anger](../articles/emotions-and-equanimity/anger.md) — Obstacle
+
+*A colleague forwards your draft proposal to senior management with a note pointing out its weaknesses, without talking to you first. You find out an hour before a deadline.*
+
+| Before | After |
+|---|---|
+| You fire off a reply-all calling the move underhanded, copy your manager, and spend the afternoon retelling the story to anyone who will listen, sure you know exactly why they did it. | You notice your jaw is tight and you are drafting accusations in your head. You close the email, take a few slow breaths and finish the deadline work. Next morning you ask the colleague privately why they went straight to management, say plainly that you would rather hear concerns first, and fix the two criticisms that were fair. |
+
+**Why:** Anger made you certain about motive and eager to punish; waiting until your body calmed down, and asking before judging, let you defend a fair working norm without escalating, and still learn from the parts of the criticism that were right.
+
+Ask yourself:
+- Am I sure what they intended, or is my anger supplying the motive?
+- Is this the right person, the right issue, the right moment and the right amount of anger?
+- Would I make this decision, send this message or set this penalty if I were calm?
+- Am I replaying the offence to understand it, or only to stay angry?
+- What do I actually want to change here, and does striking back get me any closer?
+
 ### [Cognitive reappraisal](../articles/emotions-and-equanimity/cognitive-reappraisal.md) — Practice
 
 1. Name the feeling and the specific thought driving it, for example "I'm anxious because I think this mistake will get me fired."
