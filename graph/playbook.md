@@ -1247,6 +1247,21 @@ Ask yourself:
 - Have I asked what I might not know and how the other person sees this?
 - Is this distance helping me understand the feeling, or helping me avoid it?
 
+### [Self-knowledge](../articles/self-knowledge/self-knowledge.md) — Concept
+
+*A team lead is surprised when an anonymous survey says people hesitate to bring her bad news, because she thinks of herself as approachable.*
+
+| Before | After |
+|---|---|
+| The survey must be skewed. I know I'm open; I always say my door is open. | I know my intentions, but they see my reactions. I'll ask two colleagues I trust what happens on my face when someone brings me a problem. |
+
+**Why:** People are well placed to know their own inner states but poorly placed to see their visible behaviour and their most flattering or unflattering traits, which is where others' views add the most.
+
+Ask yourself:
+- Is the belief about myself that I am relying on here about an inner feeling, which I am well placed to know, or about how I behave, which others may see better?
+- Which of my self-descriptions would I most hate to be wrong about, and have I ever tested it?
+- When did someone who knows me well last tell me something about myself that surprised me, and what did I do with it?
+
 ### [Self-reflection](../articles/self-knowledge/self-reflection.md) — Skill
 
 *A product launch you led slipped by three weeks, and the team retrospective is tomorrow morning.*

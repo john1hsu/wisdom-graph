@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:hubris` | mixed | `wg:many-labs-3` |
 | `wg:humble-leadership` | mixed | `wg:leader-humility-double-edged-sword-study` |
 
-…and 49 more.
+…and 50 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -199,7 +199,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:christianity` | `wg:golden-rule` |
 | `wg:christianity` | `wg:greed` |
 
-…and 39 more.
+…and 40 more.
 
 ## The doctrine of the mean
 

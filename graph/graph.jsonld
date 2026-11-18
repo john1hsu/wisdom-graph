@@ -4939,6 +4939,38 @@
    "schema:text": "Stop if the distance is turning into a way of avoiding the feeling or the problem, and seek support if the distress persists."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-knowledge/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the belief about myself that I am relying on here about an inner feeling, which I am well placed to know, or about how I behave, which others may see better?",
+   "wgo:questionFor": {
+    "@id": "wg:self-knowledge"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-knowledge/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which of my self-descriptions would I most hate to be wrong about, and have I ever tested it?",
+   "wgo:questionFor": {
+    "@id": "wg:self-knowledge"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-knowledge/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When did someone who knows me well last tell me something about myself that surprised me, and what did I do with it?",
+   "wgo:questionFor": {
+    "@id": "wg:self-knowledge"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/self-knowledge/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I know my intentions, but they see my reactions. I'll ask two colleagues I trust what happens on my face when someone brings me a problem.",
+   "wgo:before": "The survey must be skewed. I know I'm open; I always say my door is open.",
+   "wgo:situation": "A team lead is surprised when an anonymous survey says people hesitate to bring her bad news, because she thinks of herself as approachable.",
+   "wgo:why": "People are well placed to know their own inner states but poorly placed to see their visible behaviour and their most flattering or unflattering traits, which is where others' views add the most."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-reflection/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I examining this out of curiosity about what happened, or out of fear about what it says about me?",
@@ -14827,6 +14859,104 @@
     "@id": "https://ggia.berkeley.edu/index.php/practice/gaining_perspective_on_negative_events"
    },
    "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Brie Gertler; substantive revision 2021)",
+   "dcterms:title": "Self-Knowledge",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/self-knowledge/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Notre Dame Philosophical Reviews (Peter Carruthers, University of Maryland, 2015)",
+   "dcterms:title": "Review of Quassim Cassam, Self-Knowledge for Humans (Oxford University Press, 2014)",
+   "schema:url": {
+    "@id": "https://ndpr.nd.edu/reviews/self-knowledge-for-humans/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Perspectives on Psychological Science (Erika N. Carlson, 2013), Association for Psychological Science",
+   "dcterms:title": "Overcoming the barriers to self-knowledge: Mindfulness as a path to seeing yourself as you really are",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/journals/perspectives/1745691612462584/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "APS Observer (Simine Vazire, Washington University in St. Louis, 2012), Association for Psychological Science",
+   "dcterms:title": "Knowing others and being known",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/observer/knowing-others-and-being-known"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Monika Ardelt, Department of Sociology and Criminology & Law, University of Florida",
+   "dcterms:title": "The Three-Dimensional Wisdom Scale (3D-WS)",
+   "schema:url": {
+    "@id": "https://people.clas.ufl.edu/ardelt/home/the-three-dimensional-wisdom-scale-3d-ws"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Access to Insight",
+   "dcterms:title": "Ambalatthika-rahulovada Sutta: Instructions to Rahula at Mango Stone (Majjhima Nikaya 61), trans. Thanissaro Bhikkhu",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/mn/mn.061.than"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Standard Ebooks (from Legge, The Chinese Classics, vol. 1)",
+   "dcterms:title": "Confucius, The Analects, Book I, trans. James Legge",
+   "schema:url": {
+    "@id": "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-1"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-reflection/s1",
@@ -28802,6 +28932,106 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:self-knowledge",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/self-knowledge/s7"
+    }
+   ],
+   "rdfs:label": "Self-knowledge",
+   "skos:altLabel": [
+    "accurate self-understanding",
+    "knowledge of oneself",
+    "self-insight",
+    "substantial self-knowledge"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "Knowing what is actually true of yourself: your passing thoughts and feelings, and, more importantly for living well, your lasting traits, values, abilities and habits of action; philosophers debate how such knowledge is possible, and psychologists find it is partial, uneven across traits and best built from several sources, including other people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Self-knowledge",
+   "skos:related": [
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:introspection-illusion"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:personal-and-general-wisdom"
+    },
+    {
+     "@id": "wg:self-deception"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:self-reflection"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:seeking-counsel"
+   },
+   "wgo:confusedWith": {
+    "@id": "wg:introspection"
+   },
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/self-knowledge/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:self-other-knowledge-asymmetry-model"
+   },
+   "wgo:file": "articles/self-knowledge/self-knowledge.md",
+   "wgo:level": "introductory",
+   "wgo:partOf": {
+    "@id": "wg:three-dimensional-wisdom-model"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:confucianism"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:personality-psychology"
+   }
   },
   {
    "@id": "wg:self-reflection",

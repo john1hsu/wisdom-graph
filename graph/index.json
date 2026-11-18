@@ -12256,6 +12256,122 @@
   ]
  },
  {
+  "id": "wg:self-knowledge",
+  "title": "Self-knowledge",
+  "aliases": [
+   "knowledge of oneself",
+   "self-insight",
+   "accurate self-understanding",
+   "substantial self-knowledge"
+  ],
+  "type": "Concept",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/self-knowledge.md",
+  "created": "2026-11-18",
+  "summary": "Knowing what is actually true of yourself: your passing thoughts and feelings, and, more importantly for living well, your lasting traits, values, abilities and habits of action; philosophers debate how such knowledge is possible, and psychologists find it is partial, uneven across traits and best built from several sources, including other people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:personal-and-general-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:introspection-illusion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:three-dimensional-wisdom-model",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:self-other-knowledge-asymmetry-model",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:seeking-counsel",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:confusedWith",
+    "object": "wg:introspection",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:personality-psychology",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:confucianism",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is the belief about myself that I am relying on here about an inner feeling, which I am well placed to know, or about how I behave, which others may see better?",
+   "Which of my self-descriptions would I most hate to be wrong about, and have I ever tested it?",
+   "When did someone who knows me well last tell me something about myself that surprised me, and what did I do with it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead is surprised when an anonymous survey says people hesitate to bring her bad news, because she thinks of herself as approachable.",
+   "before": "The survey must be skewed. I know I'm open; I always say my door is open.",
+   "after": "I know my intentions, but they see my reactions. I'll ask two colleagues I trust what happens on my face when someone brings me a problem.",
+   "why": "People are well placed to know their own inner states but poorly placed to see their visible behaviour and their most flattering or unflattering traits, which is where others' views add the most."
+  },
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRIES/self-knowledge/",
+   "https://ndpr.nd.edu/reviews/self-knowledge-for-humans/",
+   "https://www.psychologicalscience.org/journals/perspectives/1745691612462584/",
+   "https://www.psychologicalscience.org/observer/knowing-others-and-being-known",
+   "https://people.clas.ufl.edu/ardelt/home/the-three-dimensional-wisdom-scale-3d-ws",
+   "https://accesstoinsight.org/tipitaka/mn/mn.061.than",
+   "https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-1"
+  ]
+ },
+ {
   "id": "wg:self-reflection",
   "title": "Self-reflection",
   "aliases": [
