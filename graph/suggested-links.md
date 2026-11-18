@@ -22,10 +22,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.90 | `wg:theoretical-wisdom` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:eudaimonia`, `wg:intellectual-humility`, `wg:intellectual-virtues` |
 | 2.89 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
 | 2.86 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
-| 2.86 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
+| 2.85 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
 | 2.84 | `wg:cleverness` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-virtues`, `wg:moral-virtues` |
 | 2.77 | `wg:aristotle` | `wg:socratic-philosophy` | `wg:ancient-greek-philosophy`, `wg:eudaimonia`, `wg:plato`, `wg:socrates`, `wg:virtue-ethics` |
-| 2.77 | `wg:deliberation` | `wg:kill-criteria` | `wg:implementation-intentions`, `wg:kairos`, `wg:knowing-when-to-quit`, `wg:major-life-decision`, `wg:reversible-and-irreversible-decisions` |
+| 2.75 | `wg:deliberation` | `wg:regret` | `wg:big-decisions-opting-converting-drifting`, `wg:knowing-when-to-quit`, `wg:major-life-decision`, `wg:reversible-and-irreversible-decisions`, `wg:rumination` |
 | 2.74 | `wg:aristotle` | `wg:temperance` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
+| 2.74 | `wg:deliberation` | `wg:kill-criteria` | `wg:implementation-intentions`, `wg:kairos`, `wg:knowing-when-to-quit`, `wg:major-life-decision`, `wg:reversible-and-irreversible-decisions` |
 | 2.70 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:emotional-suppression`, `wg:equanimity` |
-| 2.68 | `wg:seeking-counsel` | `wg:stewardship` | `wg:hubris`, `wg:humble-leadership`, `wg:imaginary-future-generations`, `wg:leading-others`, `wg:on-old-age` |

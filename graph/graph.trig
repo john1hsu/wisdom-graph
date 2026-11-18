@@ -789,6 +789,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/aristotle#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/big-decisions-opting-converting-drifting.md" .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/ernest-becker.md" .
@@ -9648,6 +9657,92 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <https://schema.org/url> <https://amp.checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is this choice really big (life-changing and hard to undo), or am I treating a middle-sized decision as if it were?" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Can I turn this into a trial or a smaller reversible step before committing?" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I drifting, letting small commitments add up to a choice I have never actually faced?" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "No spreadsheet can tell me who I'll be after two years away. I'll ask whether I can make it smaller first (a three-month secondment, a visit, a return clause), and if I can't, I'll decide on what matters to me now and accept that I'm opting, not calculating." .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "This is the biggest choice of my life, so I'll build the perfect spreadsheet and keep refining it until the answer is obvious." .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Someone has been offered a two-year post abroad that would mean leaving their partner's home city, a close circle of friends and a settled career track." .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Ullmann-Margalit's point is that the values used to score a big decision may themselves change, so the reasonable move is to cut the decision down into reversible steps where possible and stop expecting a proof where none is available." .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2000/01/rdf-schema#label> "Big Decisions: Opting, Converting, Drifting" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#altLabel> "Opting: The Case of 'Big' Decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#altLabel> "Ullmann-Margalit's Big Decisions" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#altLabel> "opting converting drifting" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#definition> "Edna Ullmann-Margalit's essay, first sketched in 1985 and published in 2006, arguing that ordinary decision theory fits middle-sized choices but not the rare \"big\" ones that transform who we are and cannot be undone; it names three ways people meet them (opting, converting and drifting) and proposes making them reasonably rather than optimally." .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Big Decisions: Opting, Converting, Drifting" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/edna-ullmann-margalit> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "thinkers-and-works" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/thinkers-and-works/big-decisions-opting-converting-drifting.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> <http://purl.org/dc/terms/publisher> "Royal Institute of Philosophy Supplement 58 (Cambridge University Press, 2006)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> <http://purl.org/dc/terms/title> "Big Decisions: Opting, Converting, Drifting" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1> <https://schema.org/url> <https://core-prod.cambridgecore.org/core/journals/royal-institute-of-philosophy-supplements/article/big-decisions-opting-converting-drifting/F77544FB8EF40A35F963431223E85A37> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> <http://purl.org/dc/terms/publisher> "Wissenschaftskolleg zu Berlin, Jahrbuch 1984/85" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> <http://purl.org/dc/terms/title> "Opting: The Case of 'Big' Decisions (Fellow's report, 1984/85)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2> <https://schema.org/url> <https://www.wiko-berlin.de/fileadmin/Jahrbuchberichte/1984/1984_85_Ullmann-Margalit_Edna_Bachjahr_Jahrbuchbericht.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Spring 2026 edition)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> <http://purl.org/dc/terms/title> "Transformative Experience" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3> <https://schema.org/url> <https://plato.stanford.edu/archives/spr2026/entries/transformative-experience/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> <http://purl.org/dc/terms/publisher> "Open Philosophy 3, 578–585 (De Gruyter, 2020; Yemima Ben-Menahem)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> <http://purl.org/dc/terms/title> "Changing one's mind: The limits of rationality?" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> <https://schema.org/url> <https://www.degruyterbrill.com/document/doi/10.1515/opphil-2020-0126/pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> <http://purl.org/dc/terms/publisher> "International Encyclopedia of Ethics (Wiley, ed. Hugh LaFollette; Marcus Arvan), author copy via PhilArchive" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> <http://purl.org/dc/terms/title> "Transformative Experiences" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> <https://schema.org/url> <https://philarchive.org/archive/ARVTEv1> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <http://purl.org/dc/terms/publisher> "Oxford University Press (Edna Ullmann-Margalit, 2017)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <http://purl.org/dc/terms/title> "Normal Rationality: Decisions and Social Order" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <https://schema.org/url> <https://academic.oup.com/book/26496> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -14739,6 +14834,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/biblical-studies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/biblical-studies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/biblical-studies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -15100,6 +15201,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/decisional-balance-and-ambivalence-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-and-revisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-and-revisions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -15138,6 +15241,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -15232,6 +15336,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/dukkha> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/dukkha> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/eavesdropping-on-character-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/edna-ullmann-margalit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/edna-ullmann-margalit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/edna-ullmann-margalit> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/edward-titchener> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
@@ -15343,6 +15450,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/sage> .
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/envy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/greed> .
   <https://github.com/john1hsu/wisdom-graph/id/envy> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
@@ -16249,6 +16357,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
@@ -16259,6 +16368,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/management-scholars> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/management-scholars> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -16839,6 +16949,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/counterfactual-thinking> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
+  <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
@@ -16903,6 +17014,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
@@ -16996,6 +17109,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/bounded-rationality> .
+  <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/contentment> .
   <https://github.com/john1hsu/wisdom-graph/id/satisficing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
@@ -17089,6 +17203,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
@@ -17544,6 +17659,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/trajectories-of-resilience-review> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
   <https://github.com/john1hsu/wisdom-graph/id/transactional-model-of-stress-and-coping> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/transformational-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/tzedakah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/tzedakah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .

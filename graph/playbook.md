@@ -1263,6 +1263,23 @@ Ask yourself:
 - Have I looked at the situation from at least one perspective other than my own?
 - Is there someone who saw what happened whose view I should hear before I settle on a lesson?
 
+## thinkers-and-works
+
+### [Big Decisions: Opting, Converting, Drifting](../articles/thinkers-and-works/big-decisions-opting-converting-drifting.md) — Work
+
+*Someone has been offered a two-year post abroad that would mean leaving their partner's home city, a close circle of friends and a settled career track.*
+
+| Before | After |
+|---|---|
+| This is the biggest choice of my life, so I'll build the perfect spreadsheet and keep refining it until the answer is obvious. | No spreadsheet can tell me who I'll be after two years away. I'll ask whether I can make it smaller first (a three-month secondment, a visit, a return clause), and if I can't, I'll decide on what matters to me now and accept that I'm opting, not calculating. |
+
+**Why:** Ullmann-Margalit's point is that the values used to score a big decision may themselves change, so the reasonable move is to cut the decision down into reversible steps where possible and stop expecting a proof where none is available.
+
+Ask yourself:
+- Is this choice really big (life-changing and hard to undo), or am I treating a middle-sized decision as if it were?
+- Can I turn this into a trial or a smaller reversible step before committing?
+- Am I drifting, letting small commitments add up to a choice I have never actually faced?
+
 ## virtues-and-character
 
 ### [Aristotle's doctrine of the mean](../articles/virtues-and-character/doctrine-of-the-mean.md) — Principle

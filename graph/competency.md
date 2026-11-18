@@ -143,7 +143,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:major-life-decision` | wgo:Context |
 | `wg:moral-case-deliberation` | wgo:Practice |
 | `wg:regret` | wgo:Phenomenon |
 | `wg:resilience` | wgo:Phenomenon |

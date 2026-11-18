@@ -424,6 +424,38 @@
    "wgo:why": "The wiser response keeps caring about the outcome while letting the quality of the action, which is in your hands, guide what you do, which is close to what the Gita's teaching on the fruits of action asks."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this choice really big (life-changing and hard to undo), or am I treating a middle-sized decision as if it were?",
+   "wgo:questionFor": {
+    "@id": "wg:big-decisions-opting-converting-drifting"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Can I turn this into a trial or a smaller reversible step before committing?",
+   "wgo:questionFor": {
+    "@id": "wg:big-decisions-opting-converting-drifting"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I drifting, letting small commitments add up to a choice I have never actually faced?",
+   "wgo:questionFor": {
+    "@id": "wg:big-decisions-opting-converting-drifting"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "No spreadsheet can tell me who I'll be after two years away. I'll ask whether I can make it smaller first (a three-month secondment, a visit, a return clause), and if I can't, I'll decide on what matters to me now and accept that I'm opting, not calculating.",
+   "wgo:before": "This is the biggest choice of my life, so I'll build the perfect spreadsheet and keep refining it until the answer is obvious.",
+   "wgo:situation": "Someone has been offered a two-year post abroad that would mean leaving their partner's home city, a close circle of friends and a settled career track.",
+   "wgo:why": "Ullmann-Margalit's point is that the values used to score a big decision may themselves change, so the reasonable move is to cut the decision down into reversible steps where possible and stop expecting a proof where none is available."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I applying a saying or rule of thumb as if it fit every situation, or have I checked whether it fits this one?",
@@ -6087,6 +6119,90 @@
     "@id": "https://data.zhenzhi.com/details/1/860964303"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Royal Institute of Philosophy Supplement 58 (Cambridge University Press, 2006)",
+   "dcterms:title": "Big Decisions: Opting, Converting, Drifting",
+   "schema:url": {
+    "@id": "https://core-prod.cambridgecore.org/core/journals/royal-institute-of-philosophy-supplements/article/big-decisions-opting-converting-drifting/F77544FB8EF40A35F963431223E85A37"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Wissenschaftskolleg zu Berlin, Jahrbuch 1984/85",
+   "dcterms:title": "Opting: The Case of 'Big' Decisions (Fellow's report, 1984/85)",
+   "schema:url": {
+    "@id": "https://www.wiko-berlin.de/fileadmin/Jahrbuchberichte/1984/1984_85_Ullmann-Margalit_Edna_Bachjahr_Jahrbuchbericht.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Spring 2026 edition)",
+   "dcterms:title": "Transformative Experience",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/spr2026/entries/transformative-experience/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Open Philosophy 3, 578–585 (De Gruyter, 2020; Yemima Ben-Menahem)",
+   "dcterms:title": "Changing one's mind: The limits of rationality?",
+   "schema:url": {
+    "@id": "https://www.degruyterbrill.com/document/doi/10.1515/opphil-2020-0126/pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "International Encyclopedia of Ethics (Wiley, ed. Hugh LaFollette; Marcus Arvan), author copy via PhilArchive",
+   "dcterms:title": "Transformative Experiences",
+   "schema:url": {
+    "@id": "https://philarchive.org/archive/ARVTEv1"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Oxford University Press (Edna Ullmann-Margalit, 2017)",
+   "dcterms:title": "Normal Rationality: Decisions and Social Order",
+   "schema:url": {
+    "@id": "https://academic.oup.com/book/26496"
+   },
+   "wgo:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/book-of-proverbs/s1",
@@ -18982,6 +19098,93 @@
    },
    "wgo:studiedIn": {
     "@id": "wg:psychology-of-wisdom"
+   }
+  },
+  {
+   "@id": "wg:big-decisions-opting-converting-drifting",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6"
+    }
+   ],
+   "rdfs:label": "Big Decisions: Opting, Converting, Drifting",
+   "skos:altLabel": [
+    "Opting: The Case of 'Big' Decisions",
+    "Ullmann-Margalit's Big Decisions",
+    "opting converting drifting"
+   ],
+   "skos:broader": {
+    "@id": "wg:decision-theory"
+   },
+   "skos:definition": "Edna Ullmann-Margalit's essay, first sketched in 1985 and published in 2006, arguing that ordinary decision theory fits middle-sized choices but not the rare \"big\" ones that transform who we are and cannot be undone; it names three ways people meet them (opting, converting and drifting) and proposes making them reasonably rather than optimally.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Big Decisions: Opting, Converting, Drifting",
+   "skos:related": [
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:end-of-history-illusion"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:reversible-and-irreversible-decisions"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:self-deception"
+    },
+    {
+     "@id": "wg:transformative-experience"
+    }
+   ],
+   "wgo:authoredBy": {
+    "@id": "wg:edna-ullmann-margalit"
+   },
+   "wgo:complements": {
+    "@id": "wg:reversible-and-irreversible-decisions"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting/example"
+   },
+   "wgo:file": "articles/thinkers-and-works/big-decisions-opting-converting-drifting.md",
+   "wgo:introduces": {
+    "@id": "wg:major-life-decision"
+   },
+   "wgo:level": "intermediate",
+   "wgo:studiedIn": {
+    "@id": "wg:decision-theory"
    }
   },
   {
