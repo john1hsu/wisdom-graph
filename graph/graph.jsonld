@@ -3522,6 +3522,54 @@
    "schema:text": "Return your attention to the task in front of you; if the reflection leaves you more anxious than clear, shorten it or stop."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have we actually agreed what this mentoring relationship is for and how often we will meet?",
+   "wgo:questionFor": {
+    "@id": "wg:mentorship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I helping this person think through their situation, or retelling my own career as the answer?",
+   "wgo:questionFor": {
+    "@id": "wg:mentorship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this relationship still serving their growth, or mainly my sense of being needed?",
+   "wgo:questionFor": {
+    "@id": "wg:mentorship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I encouraged them to build other sources of support besides me?",
+   "wgo:questionFor": {
+    "@id": "wg:mentorship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "As the mentee, am I asking for honest challenge, or only for reassurance?",
+   "wgo:questionFor": {
+    "@id": "wg:mentorship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Let's meet every two weeks for the first few months and agree now on what you want from this. Before I tell you what worked for me, walk me through last week's requests — which ones did you feel you couldn't refuse, and why? I'll also introduce you to two peers who handled the same squeeze differently.",
+   "wgo:before": "We'll grab coffee whenever I have a free slot. My advice is simple: do what I did — work late for a couple of years and say yes to everything. That's how you get noticed.",
+   "wgo:situation": "A senior engineer is asked to mentor a new hire who is talented but keeps missing deadlines because she quietly says yes to every request from other teams.",
+   "wgo:why": "The wiser mentor commits to regular contact, sets shared expectations, diagnoses her situation instead of prescribing his own history, and widens her circle of support rather than making himself the only source of guidance."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/moral-algebra/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Did I collect reasons over a few days, or only those that occurred to me in one mood?",
@@ -12709,6 +12757,104 @@
     "@id": "https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Vocational Behavior, 72(2), 254–267 (Eby, Allen, Evans, Ng & DuBois, 2008), PubMed Central",
+   "dcterms:title": "Does mentoring matter? A multidisciplinary meta-analysis comparing mentored and non-mentored individuals",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2352144"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of Applied Psychology, 84(4), 529–550 (Ragins & Cotton, 1999), Boston University",
+   "dcterms:title": "Mentor functions and outcomes: A comparison of men and women in formal and informal mentoring relationships",
+   "schema:url": {
+    "@id": "https://www.bu.edu/sph/files/2012/01/Ragins_Mentor-functions-and-outcomes.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Group & Organization Management, 27(4), 456–479 (Eby & Allen, 2002), University of South Florida Digital Commons",
+   "dcterms:title": "Further investigation of protégés' negative mentoring experiences: Patterns and outcomes",
+   "schema:url": {
+    "@id": "https://digitalcommons.usf.edu/psy_facpub/55"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Academy of Management Journal, 28(1), 110–132 (Kram & Isabella, 1985), Boston University",
+   "dcterms:title": "Mentoring alternatives: The role of peer relationships in career development",
+   "schema:url": {
+    "@id": "https://bu.edu/sph/files/2012/01/Kram_Mentoring-Alternatives.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book VI (trans. W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Saint Mary's College (Notre Dame, IN), LibreTexts Humanities",
+   "dcterms:title": "The Odyssey, Book II (trans. Samuel Butler, annotated and revised edition)",
+   "schema:url": {
+    "@id": "https://human.libretexts.org/Courses/Saint_Mary's_College_(Notre_Dame_IN)/Storage/Annotated_and_Revised_Odyssey_with_Critical_Introduction_Undergraduate_Remix/02%3A_Samuel_Butler's_Odyssey/2.02%3A_Book_II"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Educational Gerontology, 35(10), 867–879 (Parisi, Rebok, Carlson, Fried et al., 2009), PubMed Central",
+   "dcterms:title": "Can the wisdom of aging be activated and make a difference societally?",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3191186"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mono-no-aware/s1",
@@ -27294,6 +27440,122 @@
      "@id": "wg:stoicism"
     }
    ]
+  },
+  {
+   "@id": "wg:mentorship",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/mentorship/s7"
+    }
+   ],
+   "rdfs:label": "Mentorship",
+   "skos:altLabel": [
+    "being a mentor",
+    "having a mentor",
+    "mentoring relationship",
+    "mentoring",
+    "protégé relationship"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:social-relationships"
+    }
+   ],
+   "skos:definition": "A sustained relationship in which a more experienced person helps a less experienced one grow in skill, judgment and character — a situation that calls for wisdom on both sides, and one of the oldest ways practical wisdom is passed between generations.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Mentorship",
+   "skos:related": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:emulating-moral-exemplars"
+    },
+    {
+     "@id": "wg:friendship"
+    },
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:teaching-for-wisdom"
+    },
+    {
+     "@id": "wg:wisdom-in-professions"
+    },
+    {
+     "@id": "wg:workplace-feedback"
+    }
+   ],
+   "wgo:complements": [
+    {
+     "@id": "wg:emulating-moral-exemplars"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:does-mentoring-matter-meta-analysis"
+    },
+    {
+     "@id": "wg:formal-and-informal-mentoring-study"
+    },
+    {
+     "@id": "wg:negative-mentoring-experiences-study"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/mentorship/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:generativity"
+   },
+   "wgo:file": "articles/compassion-and-relationships/mentorship.md",
+   "wgo:introducedIn": {
+    "@id": "wg:odyssey"
+   },
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:mono-no-aware",

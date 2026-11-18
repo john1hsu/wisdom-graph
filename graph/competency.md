@@ -21,6 +21,7 @@ _Which written life situations have no practice, principle, skill or virtue appl
 | node | type |
 |---|---|
 | `wg:failure` | wgo:Context |
+| `wg:mentorship` | wgo:Context |
 
 ## Highest-leverage practices and teachings
 
@@ -137,7 +138,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:greed` | mixed |  |
 | `wg:grief-and-loss` | mixed |  |
 
-…and 57 more.
+…and 58 more.
 
 ## Ideas with no recorded origin (gap)
 

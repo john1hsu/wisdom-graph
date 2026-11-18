@@ -244,6 +244,23 @@ Ask yourself:
 - How am I likely to see this disagreement a year from now?
 - Is there an outcome that meets the main concern on each side, or am I only trying to win?
 
+### [Mentorship](../articles/compassion-and-relationships/mentorship.md) — Context
+
+*A senior engineer is asked to mentor a new hire who is talented but keeps missing deadlines because she quietly says yes to every request from other teams.*
+
+| Before | After |
+|---|---|
+| We'll grab coffee whenever I have a free slot. My advice is simple: do what I did — work late for a couple of years and say yes to everything. That's how you get noticed. | Let's meet every two weeks for the first few months and agree now on what you want from this. Before I tell you what worked for me, walk me through last week's requests — which ones did you feel you couldn't refuse, and why? I'll also introduce you to two peers who handled the same squeeze differently. |
+
+**Why:** The wiser mentor commits to regular contact, sets shared expectations, diagnoses her situation instead of prescribing his own history, and widens her circle of support rather than making himself the only source of guidance.
+
+Ask yourself:
+- Have we actually agreed what this mentoring relationship is for and how often we will meet?
+- Am I helping this person think through their situation, or retelling my own career as the answer?
+- Is this relationship still serving their growth, or mainly my sense of being needed?
+- Have I encouraged them to build other sources of support besides me?
+- As the mentee, am I asking for honest challenge, or only for reassurance?
+
 ### [Perspective-taking](../articles/compassion-and-relationships/perspective-taking.md) — Practice
 
 1. Before you respond, name your own first reading of the situation so you can set it aside for a moment.
