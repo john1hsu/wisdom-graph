@@ -7,7 +7,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 4.56 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly`, `wg:intellectual-virtues` |
 | 3.59 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt`, `wg:robert-sternberg` |
 | 3.52 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility`, `wg:practical-wisdom` |
-| 3.28 | `wg:giving-advice` | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:perspective-taking`, `wg:psychology-of-wisdom`, `wg:self-distancing` |
+| 3.27 | `wg:giving-advice` | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:perspective-taking`, `wg:psychology-of-wisdom`, `wg:self-distancing` |
 | 3.23 | `wg:adversity` | `wg:emotional-suppression` | `wg:acceptance`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:regulatory-flexibility`, `wg:resilience` |
 | 3.08 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
 | 3.07 | `wg:aristotle` | `wg:socratic-philosophy` | `wg:ancient-greek-philosophy`, `wg:eudaimonia`, `wg:plato`, `wg:socrates`, `wg:virtue-ethics` |

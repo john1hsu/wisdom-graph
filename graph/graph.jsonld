@@ -6874,6 +6874,76 @@
    "wgo:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Chad Hansen; Spring 2026 edition)",
+   "dcterms:title": "Daoism",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/spr2026/entries/daoism/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Alan Chan; rev. 2025, Spring 2026 edition)",
+   "dcterms:title": "Laozi",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/archives/spr2026/entries/laozi/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Internet Classics Archive, MIT",
+   "dcterms:title": "Lao-tzu, Tao Te Ching, trans. James Legge",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Lao/taote.mb.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Daoism",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Daoism"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 11, 547852 (Chang et al., 2020; doi:10.3389/fpsyg.2020.547852); PubMed Central",
+   "dcterms:title": "Let Nature Take Its Course: Cultural Adaptation and Pilot Test of Taoist Cognitive Therapy for Chinese American Immigrants With Generalized Anxiety Disorder",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7527502/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -18897,6 +18967,100 @@
    ],
    "wgo:studiedIn": {
     "@id": "wg:positive-psychology"
+   }
+  },
+  {
+   "@id": "wg:daoism",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/daoism/s5"
+    }
+   ],
+   "rdfs:label": "Daoism",
+   "skos:altLabel": [
+    "Daoist tradition",
+    "Daojia",
+    "Daojiao",
+    "Lao-Zhuang thought",
+    "Taoism",
+    "philosophical Daoism",
+    "religious Daoism"
+   ],
+   "skos:broader": {
+    "@id": "wg:chinese-philosophy"
+   },
+   "skos:definition": "The Chinese tradition, rooted in the Laozi (Daodejing) and the Zhuangzi of the fourth and third centuries BCE, that teaches living in accord with the Dao, the nameless way of things, through non-forcing action (wu wei), naturalness (ziran), simplicity and yielding, and that later grew into an organised religion as well as a philosophy.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Daoism",
+   "skos:related": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:contentment"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:humble-leadership"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:sage"
+    },
+    {
+     "@id": "wg:simplicity"
+    },
+    {
+     "@id": "wg:wu-wei"
+    },
+    {
+     "@id": "wg:zhuangzi"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:confucianism"
+   },
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/daoism.md",
+   "wgo:introducedBy": {
+    "@id": "wg:laozi"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:daodejing"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:taoist-cognitive-therapy-pilot-study"
    }
   },
   {
