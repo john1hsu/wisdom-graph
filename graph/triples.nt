@@ -4888,6 +4888,58 @@
 <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking/howto> .
 <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
 <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Which of my pre-judgments about this person or problem am I bringing in without noticing?" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Have I listened to the other view as if it might be right, or only waited to reply?" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What question is this situation actually putting to me, before I reach for a rule?" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "After this conversation, has my own view changed at all, or did I only try to change theirs?" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Tradition> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2000/01/rdf-schema#label> "Philosophical hermeneutics" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#altLabel> "Gadamerian hermeneutics" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#altLabel> "hermeneutic ethics" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#altLabel> "hermeneutic philosophy" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#altLabel> "philosophische Hermeneutik" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/phenomenology> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#definition> "The philosophical tradition, given its classic modern form by Hans-Georg Gadamer in Truth and Method (1960), that treats understanding as a dialogue: we always begin from inherited pre-judgments, test them against what we are trying to understand, stay open to the other being right, and come away with a wider view, much as practical wisdom applies what we know to a new situation." .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philosophical hermeneutics" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/jacques-derrida> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/jurgen-habermas> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-traditions" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-traditions/philosophical-hermeneutics.md" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/martin-heidegger> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/plato> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/hans-georg-gadamer> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/truth-and-method> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Phenomenon> .
 <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> <http://www.w3.org/2000/01/rdf-schema#label> "Positivity effect in ageing" .
@@ -9934,6 +9986,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/wisdom-graph/id/source/perspective-taking/s8> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/smith-moral-political/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Jeff Malpas and Niall Keane; first published 2003, substantive revision 2026)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> <http://purl.org/dc/terms/title> "Hans-Georg Gadamer" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/gadamer/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Theodore George; first published 2020, substantive revision 2025)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> <http://purl.org/dc/terms/title> "Hermeneutics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/hermeneutics/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> <http://purl.org/dc/terms/publisher> "Internet Encyclopedia of Philosophy (Lauren Swayne Barthold, Endicott College)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> <http://purl.org/dc/terms/title> "Hans-Georg Gadamer (1900—2002)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3> <https://schema.org/url> <https://iep.utm.edu/Gadamer/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> <http://purl.org/dc/terms/publisher> "Health Care Analysis 17(3), 217-235 (Springer; doi:10.1007/s10728-008-0102-z); PubMed Central" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> <http://purl.org/dc/terms/title> "Good care in ongoing dialogue: Improving the quality of care through moral deliberation and responsive evaluation (Abma, Molewijk & Widdershoven, 2009)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC2725278> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> <http://purl.org/dc/terms/publisher> "Chapter 12 in Living Ethics in Theory and Practice (Taylor & Francis; doi:10.4324/9781003597599-12); Amsterdam UMC research portal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> <http://purl.org/dc/terms/title> "The ethicist as architect of dialogical spaces for ethical reflection (Inguaggiato & Metselaar, 2025)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5> <https://schema.org/url> <https://pure.amsterdamumc.nl/ws/files/184166453/The-ethicist-as-architect-of-dialogical-spaces-for-ethical-reflection.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/positivity-effect-in-ageing/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/positivity-effect-in-ageing/s1> <http://purl.org/dc/terms/publisher> "Frontiers in Psychology, 3, 339 (Reed & Carstensen, 2012), via PubMed Central" .
 <https://github.com/john1hsu/wisdom-graph/id/source/positivity-effect-in-ageing/s1> <http://purl.org/dc/terms/title> "The theory behind the age-related positivity effect" .

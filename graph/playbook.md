@@ -1771,6 +1771,14 @@ Ask yourself:
 - If I left tomorrow, who would carry on what I care about, and have I made it possible for them to?
 - Am I counting on heirs or successors to remember and look after things I could arrange myself?
 
+### [Philosophical hermeneutics](../articles/wisdom-traditions/philosophical-hermeneutics.md) — Tradition
+
+Ask yourself:
+- Which of my pre-judgments about this person or problem am I bringing in without noticing?
+- Have I listened to the other view as if it might be right, or only waited to reply?
+- What question is this situation actually putting to me, before I reach for a rule?
+- After this conversation, has my own view changed at all, or did I only try to change theirs?
+
 ### [The four immeasurables](../articles/wisdom-traditions/four-immeasurables.md) — Framework
 
 1. Name the situation in front of you: someone is doing well, someone is suffering, someone is simply there, or the outcome is out of your hands.

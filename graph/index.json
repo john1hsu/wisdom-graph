@@ -9910,6 +9910,144 @@
   ]
  },
  {
+  "id": "wg:philosophical-hermeneutics",
+  "title": "Philosophical hermeneutics",
+  "aliases": [
+   "Gadamerian hermeneutics",
+   "hermeneutic philosophy",
+   "philosophische Hermeneutik",
+   "hermeneutic ethics"
+  ],
+  "type": "Tradition",
+  "domain": "wisdom-traditions",
+  "level": "intermediate",
+  "evidenceStatus": "normative",
+  "file": "articles/wisdom-traditions/philosophical-hermeneutics.md",
+  "created": "2026-11-18",
+  "summary": "The philosophical tradition, given its classic modern form by Hans-Georg Gadamer in Truth and Method (1960), that treats understanding as a dialogue: we always begin from inherited pre-judgments, test them against what we are trying to understand, stay open to the other being right, and come away with a wider view, much as practical wisdom applies what we know to a new situation.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:phenomenology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-philosophy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-case-deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-in-professions"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:hans-georg-gadamer",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:truth-and-method",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:martin-heidegger",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:aristotle",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:plato",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:practical-wisdom",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:intellectual-humility",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:teaches",
+    "object": "wg:moral-case-deliberation",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:jurgen-habermas",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:jacques-derrida",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Which of my pre-judgments about this person or problem am I bringing in without noticing?",
+   "Have I listened to the other view as if it might be right, or only waited to reply?",
+   "What question is this situation actually putting to me, before I reach for a rule?",
+   "After this conversation, has my own view changed at all, or did I only try to change theirs?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRIES/gadamer/",
+   "https://plato.stanford.edu/ENTRIES/hermeneutics/",
+   "https://iep.utm.edu/Gadamer/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2725278",
+   "https://pure.amsterdamumc.nl/ws/files/184166453/The-ethicist-as-architect-of-dialogical-spaces-for-ethical-reflection.pdf"
+  ]
+ },
+ {
   "id": "wg:positivity-effect-in-ageing",
   "title": "Positivity effect in ageing",
   "aliases": [

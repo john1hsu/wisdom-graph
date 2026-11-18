@@ -3889,6 +3889,38 @@
    "schema:text": "Revise your reading with what you heard, then decide what to do, looking for an option that serves both of you."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which of my pre-judgments about this person or problem am I bringing in without noticing?",
+   "wgo:questionFor": {
+    "@id": "wg:philosophical-hermeneutics"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I listened to the other view as if it might be right, or only waited to reply?",
+   "wgo:questionFor": {
+    "@id": "wg:philosophical-hermeneutics"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What question is this situation actually putting to me, before I reach for a rule?",
+   "wgo:questionFor": {
+    "@id": "wg:philosophical-hermeneutics"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "After this conversation, has my own view changed at all, or did I only try to change theirs?",
+   "wgo:questionFor": {
+    "@id": "wg:philosophical-hermeneutics"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/practical-wisdom/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "What is the purpose behind the rule or plan I'm about to apply, and does applying it here actually serve that purpose?",
@@ -13071,6 +13103,76 @@
     "@id": "https://plato.stanford.edu/ENTRIES/smith-moral-political/"
    },
    "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Jeff Malpas and Niall Keane; first published 2003, substantive revision 2026)",
+   "dcterms:title": "Hans-Georg Gadamer",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/gadamer/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Theodore George; first published 2020, substantive revision 2025)",
+   "dcterms:title": "Hermeneutics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/hermeneutics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Internet Encyclopedia of Philosophy (Lauren Swayne Barthold, Endicott College)",
+   "dcterms:title": "Hans-Georg Gadamer (1900—2002)",
+   "schema:url": {
+    "@id": "https://iep.utm.edu/Gadamer/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Health Care Analysis 17(3), 217-235 (Springer; doi:10.1007/s10728-008-0102-z); PubMed Central",
+   "dcterms:title": "Good care in ongoing dialogue: Improving the quality of care through moral deliberation and responsive evaluation (Abma, Molewijk & Widdershoven, 2009)",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2725278"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Chapter 12 in Living Ethics in Theory and Practice (Taylor & Francis; doi:10.4324/9781003597599-12); Amsterdam UMC research portal",
+   "dcterms:title": "The ethicist as architect of dialogical spaces for ethical reflection (Inguaggiato & Metselaar, 2025)",
+   "schema:url": {
+    "@id": "https://pure.amsterdamumc.nl/ws/files/184166453/The-ethicist-as-architect-of-dialogical-spaces-for-ethical-reflection.pdf"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/positivity-effect-in-ageing/s1",
@@ -27008,6 +27110,118 @@
     "@id": "wg:theory-of-moral-sentiments"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:philosophical-hermeneutics",
+   "@type": "wgo:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/philosophical-hermeneutics/s5"
+    }
+   ],
+   "rdfs:label": "Philosophical hermeneutics",
+   "skos:altLabel": [
+    "Gadamerian hermeneutics",
+    "hermeneutic ethics",
+    "hermeneutic philosophy",
+    "philosophische Hermeneutik"
+   ],
+   "skos:broader": {
+    "@id": "wg:phenomenology"
+   },
+   "skos:definition": "The philosophical tradition, given its classic modern form by Hans-Georg Gadamer in Truth and Method (1960), that treats understanding as a dialogue: we always begin from inherited pre-judgments, test them against what we are trying to understand, stay open to the other being right, and come away with a wider view, much as practical wisdom applies what we know to a new situation.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-traditions"
+   },
+   "skos:prefLabel": "Philosophical hermeneutics",
+   "skos:related": [
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:moral-case-deliberation"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-knowledge"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:socratic-philosophy"
+    },
+    {
+     "@id": "wg:wisdom-in-professions"
+    }
+   ],
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:jacques-derrida"
+    },
+    {
+     "@id": "wg:jurgen-habermas"
+    }
+   ],
+   "wgo:domain": "wisdom-traditions",
+   "wgo:evidenceStatus": "normative",
+   "wgo:file": "articles/wisdom-traditions/philosophical-hermeneutics.md",
+   "wgo:influencedBy": [
+    {
+     "@id": "wg:aristotle"
+    },
+    {
+     "@id": "wg:martin-heidegger"
+    },
+    {
+     "@id": "wg:plato"
+    }
+   ],
+   "wgo:introducedBy": {
+    "@id": "wg:hans-georg-gadamer"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:truth-and-method"
+   },
+   "wgo:level": "intermediate",
+   "wgo:teaches": [
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:moral-case-deliberation"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ]
   },
   {
    "@id": "wg:positivity-effect-in-ageing",
