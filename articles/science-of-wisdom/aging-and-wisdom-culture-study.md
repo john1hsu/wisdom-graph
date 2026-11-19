@@ -2,7 +2,7 @@
 id: wg:aging-and-wisdom-culture-study
 type: Study
 title: Aging and wisdom across cultures study
-aliases: [Aging and wisdom: Culture matters, Grossmann et al. 2012 Japan–US wisdom study, Japanese–American age and wise reasoning study]
+aliases: ["Aging and wisdom: Culture matters", Grossmann et al. 2012 Japan–US wisdom study, Japanese–American age and wise reasoning study]
 domain: science-of-wisdom
 summary: >-
   A 2012 comparison of age-stratified random samples in the United States and Japan which found that wise

@@ -1,13 +1,13 @@
 # Graph statistics
 
-- Articles (nodes written): **155**
-- Frontier nodes (referenced, unwritten): **586**
-- Asserted edges: **2332** (typed + evidenced: **930**)
-- Asserted triples: **14052**; inferred by OWL-RL: **3929**
-- Citations: **952**
-- Self-check questions: **424**; procedures: **35**; before/after examples: **100**
+- Articles (nodes written): **156**
+- Frontier nodes (referenced, unwritten): **588**
+- Asserted edges: **2351** (typed + evidenced: **936**)
+- Asserted triples: **14144**; inferred by OWL-RL: **3965**
+- Citations: **959**
+- Self-check questions: **427**; procedures: **35**; before/after examples: **100**
 - Weakly connected components: **1**
-- Communities (Louvain): **11**; max k-core: **8**
+- Communities (Louvain): **10**; max k-core: **8**
 
 ## Most central nodes
 
@@ -15,38 +15,38 @@ PageRank = authority; betweenness = bridges between areas.
 
 | Node | PageRank | Betweenness | Written |
 |---|---|---|---|
-| `wg:intellectual-humility` | 0.0073 | 0.0462 | yes |
-| `wg:self-distancing` | 0.0068 | 0.0616 | yes |
-| `wg:seeking-counsel` | 0.0065 | 0.0614 | yes |
-| `wg:wise-reasoning` | 0.0062 | 0.0234 | yes |
-| `wg:rumination` | 0.0047 | 0.0382 | yes |
-| `wg:equanimity` | 0.0047 | 0.0375 | yes |
-| `wg:perspective-taking` | 0.0047 | 0.0294 | yes |
-| `wg:practical-wisdom` | 0.0045 | 0.0541 | yes |
-| `wg:deliberation` | 0.0044 | 0.0491 | yes |
-| `wg:psychology-of-wisdom` | 0.0043 | 0.0294 | yes |
-| `wg:interpersonal-conflict` | 0.0042 | 0.0173 | yes |
-| `wg:stoicism` | 0.0041 | 0.0452 | yes |
-| `wg:socratic-ignorance` | 0.0038 | 0.0054 | yes |
-| `wg:compassion` | 0.0037 | 0.0442 | yes |
-| `wg:self-reflection` | 0.0037 | 0.0227 | yes |
+| `wg:intellectual-humility` | 0.0074 | 0.0480 | yes |
+| `wg:self-distancing` | 0.0068 | 0.0614 | yes |
+| `wg:seeking-counsel` | 0.0065 | 0.0603 | yes |
+| `wg:wise-reasoning` | 0.0063 | 0.0239 | yes |
+| `wg:perspective-taking` | 0.0047 | 0.0292 | yes |
+| `wg:rumination` | 0.0047 | 0.0379 | yes |
+| `wg:equanimity` | 0.0047 | 0.0371 | yes |
+| `wg:practical-wisdom` | 0.0045 | 0.0561 | yes |
+| `wg:psychology-of-wisdom` | 0.0044 | 0.0295 | yes |
+| `wg:deliberation` | 0.0044 | 0.0489 | yes |
+| `wg:interpersonal-conflict` | 0.0042 | 0.0172 | yes |
+| `wg:stoicism` | 0.0041 | 0.0450 | yes |
+| `wg:socratic-ignorance` | 0.0038 | 0.0053 | yes |
+| `wg:compassion` | 0.0037 | 0.0439 | yes |
+| `wg:self-reflection` | 0.0037 | 0.0225 | yes |
 
 ## Communities
 
-1. `wg:acceptance`, `wg:acceptance-and-commitment-therapy`, `wg:acceptance-strategies-meta-analysis`, `wg:accepting-negative-emotions-study`, `wg:act-efficacy-updated-meta-analysis`, `wg:act-mediation-studies-review`, `wg:act-model-processes-and-outcomes-review`, `wg:adversity`, `wg:affirmation-of-life`, `wg:aggression`, `wg:amor-fati`, `wg:amor-fati-emerging-adults-well-being-study` …
-2. `wg:advice-solicitation-study`, `wg:aging-and-wisdom-culture-study`, `wg:ancient-greek-philosophy`, `wg:aristotelian-phronesis-model`, `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:character-friendship`, `wg:chronos`, `wg:cleverness`, `wg:cognitive-and-integrative-conceptions-study` …
-3. `wg:abraham-maslow`, `wg:age-related-positivity-effect-meta-analysis`, `wg:ageing`, `wg:ageism`, `wg:ageism-interventions-meta-analysis`, `wg:alan-waterman`, `wg:alfred-adler`, `wg:awe`, `wg:awe-and-moral-expansiveness-study`, `wg:awe-and-prosocial-behavior-meta-analysis`, `wg:chinese-and-uk-positivity-eye-movement-study`, `wg:cicero` …
-4. `wg:analects`, `wg:apology-of-socrates`, `wg:aristotles-rhetoric`, `wg:attainable-moral-exemplars-study`, `wg:cardinal-virtues`, `wg:childhood-self-control-gradient-study`, `wg:chinese-philosophy`, `wg:confucianism`, `wg:confucius`, `wg:courage`, `wg:courage-and-behavioral-approach-study`, `wg:cowardice` …
-5. `wg:adam-smith`, `wg:ann-tenbrunsel`, `wg:applied-ethics`, `wg:bounded-ethicality`, `wg:bounded-ethicality-loss-framing-study`, `wg:care-ethics`, `wg:categorical-imperative`, `wg:clinical-ethics-consultation`, `wg:clinical-ethics-support`, `wg:conflict-reappraisal-marriage-study`, `wg:consequentialism`, `wg:costs-and-benefits-of-self-deception-study` …
-6. `wg:a-fine-is-a-price-study`, `wg:arrogance`, `wg:barry-schwartz`, `wg:becoming-a-manager`, `wg:being-the-boss`, `wg:bradley-owens`, `wg:ceo-hubris-acquisition-premiums-study`, `wg:collective-genius`, `wg:community-decision-making`, `wg:construct-redundancy-in-leader-behaviors-review`, `wg:death-legacies-and-intergenerational-decisions-study`, `wg:does-mentoring-matter-meta-analysis` …
-7. `wg:acts-of-kindness-meta-analysis`, `wg:anticipating-ones-troubles-study`, `wg:appreciation`, `wg:changes-in-materialism-study`, `wg:classification-of-desires`, `wg:contentment`, `wg:contentment-and-self-acceptance-study`, `wg:counting-blessings-study`, `wg:cyrenaic-hedonism`, `wg:democritus`, `wg:dispositional-greed-study`, `wg:epicurean-ethics` …
-8. `wg:annie-duke`, `wg:benjamin-franklin`, `wg:best-job-search-study`, `wg:big-decisions-opting-converting-drifting`, `wg:bounded-rationality`, `wg:carsten-wrosch`, `wg:coin-toss-life-decisions-study`, `wg:counterfactual-thinking`, `wg:decision-theory`, `wg:decisional-balance-and-ambivalence-review`, `wg:decisions-and-revisions-study`, `wg:decisions-under-uncertainty` …
-9. `wg:after-action-review`, `wg:after-event-reviews-leadership-development-study`, `wg:after-event-reviews-success-and-failure-study`, `wg:benefit-finding`, `wg:chasing-elusive-expressive-writing-effects-study`, `wg:democracy-and-education`, `wg:evening-review`, `wg:experimental-disclosure-meta-analysis`, `wg:golden-verses`, `wg:hard-earned-wisdom-study`, `wg:insight`, `wg:james-pennebaker` …
-10. `wg:african-philosophy`, `wg:buddhist-ethics`, `wg:compassion`, `wg:compassion-based-interventions-meta-analysis`, `wg:compassion-fade-study`, `wg:compassion-training-altruism-study`, `wg:condonation`, `wg:edward-titchener`, `wg:emotional-contagion`, `wg:empathic-distress`, `wg:empathy`, `wg:empathy-and-its-discontents` …
+1. `wg:advice-solicitation-study`, `wg:aging-and-wisdom-culture-study`, `wg:apology-of-socrates`, `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:cognitive-and-integrative-conceptions-study`, `wg:common-wisdom-model`, `wg:concept-of-wisdom-cross-cultural-study`, `wg:conflict-reappraisal-marriage-study`, `wg:construal-level-theory`, `wg:crude-law-of-social-relations`, `wg:cultural-psychology` …
+2. `wg:acceptance`, `wg:acceptance-and-commitment-therapy`, `wg:acceptance-strategies-meta-analysis`, `wg:accepting-negative-emotions-study`, `wg:act-efficacy-updated-meta-analysis`, `wg:act-mediation-studies-review`, `wg:act-model-processes-and-outcomes-review`, `wg:adversity`, `wg:affirmation-of-life`, `wg:aggression`, `wg:amor-fati`, `wg:amor-fati-emerging-adults-well-being-study` …
+3. `wg:abraham-maslow`, `wg:age-related-positivity-effect-meta-analysis`, `wg:ageing`, `wg:ageism`, `wg:ageism-interventions-meta-analysis`, `wg:alfred-adler`, `wg:awe`, `wg:awe-and-moral-expansiveness-study`, `wg:awe-and-prosocial-behavior-meta-analysis`, `wg:chinese-and-uk-positivity-eye-movement-study`, `wg:cicero`, `wg:consolation-literature` …
+4. `wg:analects`, `wg:ancient-greek-philosophy`, `wg:aristotelian-phronesis-model`, `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:aristotles-rhetoric`, `wg:attainable-moral-exemplars-study`, `wg:cardinal-virtues`, `wg:character-friendship`, `wg:childhood-self-control-gradient-study`, `wg:chronos`, `wg:cleverness` …
+5. `wg:a-fine-is-a-price-study`, `wg:ancient-egyptian-wisdom-literature`, `wg:ancient-near-eastern-wisdom-literature`, `wg:arrogance`, `wg:barry-schwartz`, `wg:becoming-a-manager`, `wg:being-the-boss`, `wg:biblical-studies`, `wg:book-of-proverbs`, `wg:bradley-owens`, `wg:ceo-hubris-acquisition-premiums-study`, `wg:collective-genius` …
+6. `wg:alan-waterman`, `wg:appreciation`, `wg:changes-in-materialism-study`, `wg:chinese-philosophy`, `wg:classification-of-desires`, `wg:contentment`, `wg:contentment-and-self-acceptance-study`, `wg:counting-blessings-study`, `wg:critical-positivity-ratio-critique`, `wg:cyrenaic-hedonism`, `wg:daodejing`, `wg:daoism` …
+7. `wg:abrahamic-religions`, `wg:acts-of-kindness-meta-analysis`, `wg:african-philosophy`, `wg:autonomy-oriented-help-study`, `wg:bhagavad-gita`, `wg:buddhism`, `wg:buddhist-ethics`, `wg:categorical-imperative`, `wg:christianity`, `wg:compassion`, `wg:compassion-based-interventions-meta-analysis`, `wg:compassion-fade-study` …
+8. `wg:after-action-review`, `wg:after-event-reviews-leadership-development-study`, `wg:after-event-reviews-success-and-failure-study`, `wg:benefit-finding`, `wg:chasing-elusive-expressive-writing-effects-study`, `wg:democracy-and-education`, `wg:evening-review`, `wg:experimental-disclosure-meta-analysis`, `wg:golden-verses`, `wg:guided-autobiography`, `wg:hard-earned-wisdom-study`, `wg:insight` …
+9. `wg:adam-smith`, `wg:ann-tenbrunsel`, `wg:applied-ethics`, `wg:bounded-ethicality`, `wg:bounded-ethicality-loss-framing-study`, `wg:care-ethics`, `wg:clinical-ethics-consultation`, `wg:clinical-ethics-support`, `wg:consequentialism`, `wg:costs-and-benefits-of-self-deception-study`, `wg:david-hume`, `wg:david-messick` …
+10. `wg:annie-duke`, `wg:benjamin-franklin`, `wg:best-job-search-study`, `wg:big-decisions-opting-converting-drifting`, `wg:bounded-rationality`, `wg:carsten-wrosch`, `wg:coin-toss-life-decisions-study`, `wg:counterfactual-thinking`, `wg:decision-theory`, `wg:decisional-balance-and-ambivalence-review`, `wg:decisions-and-revisions-study`, `wg:decisions-under-uncertainty` …
 
 ## By type
 
-- Concept: 17
+- Concept: 18
 - Context: 12
 - Field: 4
 - Framework: 10
@@ -68,7 +68,7 @@ PageRank = authority; betweenness = bridges between areas.
 - adversity-and-mortality: 12
 - compassion-and-relationships: 12
 - emotions-and-equanimity: 13
-- foundations: 11
+- foundations: 12
 - judgment-and-decisions: 12
 - meaning-and-the-good-life: 11
 - science-of-wisdom: 12
@@ -81,13 +81,13 @@ PageRank = authority; betweenness = bridges between areas.
 ## By level
 
 - intermediate: 15
-- introductory: 140
+- introductory: 141
 
 ## By evidence status
 
 - contested: 3
 - historical: 22
-- mixed: 80
+- mixed: 81
 - normative: 44
 - practitioner: 3
 - robust: 1
@@ -95,11 +95,11 @@ PageRank = authority; betweenness = bridges between areas.
 
 ## Domain coverage (breadth runs pick the lowest)
 
-- foundations: 11
 - meaning-and-the-good-life: 11
 - self-knowledge: 11
 - adversity-and-mortality: 12
 - compassion-and-relationships: 12
+- foundations: 12
 - judgment-and-decisions: 12
 - science-of-wisdom: 12
 - virtues-and-character: 12

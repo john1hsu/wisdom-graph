@@ -137,7 +137,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:greed` | mixed |  |
 
-…and 59 more.
+…and 60 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -160,6 +160,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:wisdom` | wgo:Concept |
 | `wg:wisdom-and-age` | wgo:Phenomenon |
 | `wg:wisdom-and-well-being` | wgo:Phenomenon |
+| `wg:wisdom-vs-intelligence` | wgo:Concept |
 
 ## Orphan articles (gap)
 

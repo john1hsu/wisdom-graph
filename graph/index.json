@@ -495,9 +495,7 @@
   "id": "wg:aging-and-wisdom-culture-study",
   "title": "Aging and wisdom across cultures study",
   "aliases": [
-   {
-    "Aging and wisdom": "Culture matters"
-   },
+   "Aging and wisdom: Culture matters",
    "Grossmann et al. 2012 Japan–US wisdom study",
    "Japanese–American age and wise reasoning study"
   ],
@@ -16929,6 +16927,130 @@
    "https://Rady.ucsd.edu/_files/faculty-research/uri-gneezy/jep_published.pdf",
    "https://research.birmingham.ac.uk/files/95828376/Malik_et_al_Phronesis_in_medical_ethics_Health_Care_Analysis_2020.pdf",
    "https://dash.harvard.edu/server/api/core/bitstreams/c5287a52-75bc-4131-9262-4c598fcde8cc/content"
+  ]
+ },
+ {
+  "id": "wg:wisdom-vs-intelligence",
+  "title": "Wisdom versus intelligence",
+  "aliases": [
+   "wisdom and intelligence",
+   "smart versus wise",
+   "being smart versus being wise",
+   "intelligence is not wisdom",
+   "wisdom–intelligence distinction"
+  ],
+  "type": "Concept",
+  "domain": "foundations",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/foundations/wisdom-vs-intelligence.md",
+  "created": "2026-11-19",
+  "summary": "The distinction between intelligence, the ability to reason, learn and solve well-defined problems quickly and accurately, and wisdom, the use of knowledge and judgment to handle hard, uncertain problems of living well with others. Research finds that some intelligence, especially accumulated knowledge, is needed for wisdom, but that intelligence predicts little of it beyond a modest threshold.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:general-intelligence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cleverness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:folly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:implicit-theories-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-well-being"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:balance-theory-of-wisdom"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:wisdom"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:sternberg-implicit-theories-study",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:psychometric-location-of-wisdom-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:intelligence-and-wisdom-nonlinear-study",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:wisdom-and-fluid-intelligence-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:route-to-well-being-study",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I trusting this plan because the reasoning is clever, or because I have checked it against other people's perspectives and what could go wrong?",
+   "Is this a puzzle with one right answer, or a human problem where interests, values and uncertainty all matter?",
+   "Who, less brilliant than me on paper, might see something about this situation that I am missing?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://faculty.weber.edu/eamsel/Research%20Groups/Dual%20PRocess%20Research/Papers/Sternberg%20(1985).pdf",
+   "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053",
+   "https://wisdomcenter.uchicago.edu/publications/intelligence-and-wisdom-age-related-differences-and-nonlinear-relationships",
+   "https://escholarship.org/uc/item/4gs0n514",
+   "https://bps.org.uk/psychologist/what-intelligence-tests-miss",
+   "https://link.springer.com/chapter/10.1007/978-3-031-26772-7_7"
   ]
  },
  {

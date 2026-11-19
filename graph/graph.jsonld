@@ -18793,6 +18793,104 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 49(3), 607–627 (Sternberg, 1985); course copy, Weber State University",
+   "dcterms:title": "Implicit theories of intelligence, creativity, and wisdom",
+   "schema:url": {
+    "@id": "https://faculty.weber.edu/eamsel/Research%20Groups/Dual%20PRocess%20Research/Papers/Sternberg%20(1985).pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000); Max Planck Society repository (MPG.PuRe)",
+   "dcterms:title": "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology General, 142(3), 944–953 (Grossmann, Na, Varnum, Kitayama & Nisbett, 2013; doi:10.1037/a0029560); PubMed Central",
+   "dcterms:title": "A route to well-being: Intelligence versus wise reasoning",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Center for Practical Wisdom, University of Chicago (publication summary of Glück & Scherpf, 2022, Psychology and Aging)",
+   "dcterms:title": "Intelligence and wisdom: Age-related differences and nonlinear relationships",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/intelligence-and-wisdom-age-related-differences-and-nonlinear-relationships"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "International Psychogeriatrics, 34(3), 229–239 (Lindbergh et al., 2022; doi:10.1017/s1041610221000521); eScholarship, University of California",
+   "dcterms:title": "Wisdom and fluid intelligence are dissociable in healthy older adults",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/4gs0n514"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The Psychologist, British Psychological Society (Stanovich & West, 2014)",
+   "dcterms:title": "What intelligence tests miss",
+   "schema:url": {
+    "@id": "https://bps.org.uk/psychologist/what-intelligence-tests-miss"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Palgrave Macmillan, in R. J. Sternberg, J. C. Kaufman & S. Karami (eds.), Intelligence, Creativity, and Wisdom: Are They Really Distinct? (2023), pp. 153–175 (Glück; doi:10.1007/978-3-031-26772-7_7)",
+   "dcterms:title": "Wisdom, intelligence, and creativity are not the same: But the world needs them all",
+   "schema:url": {
+    "@id": "https://link.springer.com/chapter/10.1007/978-3-031-26772-7_7"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -19645,6 +19743,30 @@
    "wgo:why": "The script and the target exist to serve customers, so following them against that purpose gets the letter right and the job wrong. The wiser agent also treats the misfit as information for the system, rather than quietly working around it every time."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-vs-intelligence/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I trusting this plan because the reasoning is clever, or because I have checked it against other people's perspectives and what could go wrong?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-vs-intelligence"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-vs-intelligence/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this a puzzle with one right answer, or a human problem where interests, values and uncertainty all matter?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-vs-intelligence"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom-vs-intelligence/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who, less brilliant than me on paper, might see something about this situation that I am missing?",
+   "wgo:questionFor": {
+    "@id": "wg:wisdom-vs-intelligence"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/wisdom/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating how much I know about this as if it were the same as knowing what to do?",
@@ -20208,9 +20330,9 @@
    ],
    "rdfs:label": "Aging and wisdom across cultures study",
    "skos:altLabel": [
+    "Aging and wisdom: Culture matters",
     "Grossmann et al. 2012 Japan–US wisdom study",
-    "Japanese–American age and wise reasoning study",
-    "{'Aging and wisdom': 'Culture matters'}"
+    "Japanese–American age and wise reasoning study"
    ],
    "skos:broader": {
     "@id": "wg:wisdom-and-age"
@@ -34561,6 +34683,115 @@
      "@id": "wg:organizational-behavior"
     }
    ]
+  },
+  {
+   "@id": "wg:wisdom-vs-intelligence",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/wisdom-vs-intelligence/s7"
+    }
+   ],
+   "rdfs:label": "Wisdom versus intelligence",
+   "skos:altLabel": [
+    "being smart versus being wise",
+    "intelligence is not wisdom",
+    "smart versus wise",
+    "wisdom and intelligence",
+    "wisdom–intelligence distinction"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom"
+   },
+   "skos:definition": "The distinction between intelligence, the ability to reason, learn and solve well-defined problems quickly and accurately, and wisdom, the use of knowledge and judgment to handle hard, uncertain problems of living well with others. Research finds that some intelligence, especially accumulated knowledge, is needed for wisdom, but that intelligence predicts little of it beyond a modest threshold.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Wisdom versus intelligence",
+   "skos:related": [
+    {
+     "@id": "wg:balance-theory-of-wisdom"
+    },
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:folly"
+    },
+    {
+     "@id": "wg:general-intelligence"
+    },
+    {
+     "@id": "wg:implicit-theories-of-wisdom"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:wisdom-and-age"
+    },
+    {
+     "@id": "wg:wisdom-and-well-being"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:intelligence-and-wisdom-nonlinear-study"
+    },
+    {
+     "@id": "wg:psychometric-location-of-wisdom-study"
+    },
+    {
+     "@id": "wg:route-to-well-being-study"
+    },
+    {
+     "@id": "wg:wisdom-and-fluid-intelligence-study"
+    }
+   ],
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/foundations/wisdom-vs-intelligence.md",
+   "wgo:level": "introductory",
+   "wgo:requires": {
+    "@id": "wg:wisdom"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:sternberg-implicit-theories-study"
+   }
   },
   {
    "@id": "wg:wise-leadership",

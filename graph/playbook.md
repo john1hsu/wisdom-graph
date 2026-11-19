@@ -660,6 +660,13 @@ Ask yourself:
 - What in this situation am I unsure of, and have I admitted it to myself and to others?
 - Would this choice still look good to me if I judged it by the kind of life I want to live, not only by today's goal?
 
+### [Wisdom versus intelligence](../articles/foundations/wisdom-vs-intelligence.md) — Concept
+
+Ask yourself:
+- Am I trusting this plan because the reasoning is clever, or because I have checked it against other people's perspectives and what could go wrong?
+- Is this a puzzle with one right answer, or a human problem where interests, values and uncertainty all matter?
+- Who, less brilliant than me on paper, might see something about this situation that I am missing?
+
 ## judgment-and-decisions
 
 ### [Deliberation](../articles/judgment-and-decisions/deliberation.md) — Skill
