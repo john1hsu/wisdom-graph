@@ -77,6 +77,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
 | `wg:community-decision-making` | `wg:imaginary-future-generations` |
+| `wg:decisions-under-uncertainty` | `wg:decision-theory` |
 | `wg:facing-mortality` | `wg:death-awareness` |
 | `wg:facing-mortality` | `wg:epicureanism` |
 | `wg:failure` | `wg:stoic-reserve-clause` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:after-action-review` |
 | `wg:leading-others` | `wg:balance-theory-of-wisdom` |
 | `wg:leading-others` | `wg:compassion` |
-| `wg:leading-others` | `wg:empathy` |
 
-…and 32 more.
+…and 33 more.
 
 ## Myths and contested advice
 
@@ -121,6 +121,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:contentment` | mixed |  |
 | `wg:death-awareness` | mixed |  |
+| `wg:decision-theory` | mixed | `wg:allais-paradox` |
+| `wg:decision-theory` | mixed | `wg:ellsberg-paradox` |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:developmental-network` | mixed |  |
 | `wg:emotional-suppression` | mixed | `wg:suppression-paradox-study` |
@@ -132,10 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:failure` | mixed | `wg:answer-consistency-critique` |
 | `wg:folly` | mixed |  |
 | `wg:generosity` | mixed | `wg:prosocial-spending-replication-study` |
-| `wg:giving-advice` | mixed |  |
-| `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 
-…and 61 more.
+…and 63 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -144,6 +144,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | node | type |
 |---|---|
 | `wg:anger` | wgo:Obstacle |
+| `wg:decision-theory` | wgo:Field |
 | `wg:failure` | wgo:Context |
 | `wg:judaism` | wgo:Tradition |
 | `wg:moral-awareness` | wgo:Skill |

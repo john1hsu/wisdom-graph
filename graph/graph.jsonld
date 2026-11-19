@@ -8346,6 +8346,76 @@
    "wgo:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (H. Orri Stefánsson; earlier versions with Katie Steele; first published 2015, substantive revision 2025)",
+   "dcterms:title": "Decision Theory",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRiES/decision-theory/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Jake Chandler; first published 2017)",
+   "dcterms:title": "Descriptive Decision Theory",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/decision-theory-descriptive/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Nature Human Behaviour, 4(6), 622–633 (Ruggeri et al., 2020; doi:10.1038/s41562-020-0886-x), Oxford University Research Archive record",
+   "dcterms:title": "Replicating patterns of prospect theory for decision under risk",
+   "schema:url": {
+    "@id": "https://ora.ox.ac.uk/objects/uuid:9da308a9-010d-4e44-9943-9cbd989e5e01"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Gregory Wheeler; first published 2018, substantive revision 2024)",
+   "dcterms:title": "Bounded Rationality",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/bounded-rationality/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Synthese, 187, 243–268 (Gigerenzer & Sturm, 2012), CORE open-access copy",
+   "dcterms:title": "How (far) can rationality be naturalized?",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/210693851.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -22932,6 +23002,106 @@
    "wgo:level": "introductory",
    "wgo:studiedIn": {
     "@id": "wg:social-psychology"
+   }
+  },
+  {
+   "@id": "wg:decision-theory",
+   "@type": "wgo:Field",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s5"
+    }
+   ],
+   "rdfs:label": "Decision theory",
+   "skos:altLabel": [
+    "descriptive decision theory",
+    "normative decision theory",
+    "theory of rational choice under uncertainty"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:economics"
+    },
+    {
+     "@id": "wg:philosophy"
+    }
+   ],
+   "skos:definition": "The study, shared by philosophy, economics and psychology, of how beliefs and desires should combine into choices when outcomes are uncertain (normative decision theory) and of how people actually choose (descriptive decision theory); it can check that a choice hangs together, but it cannot say what is worth wanting.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Decision theory",
+   "skos:related": [
+    {
+     "@id": "wg:big-decisions-opting-converting-drifting"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:fast-and-frugal-heuristics"
+    },
+    {
+     "@id": "wg:kill-criteria"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:moral-algebra"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:regret"
+    },
+    {
+     "@id": "wg:reversible-and-irreversible-decisions"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:decisions-under-uncertainty"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:allais-paradox"
+    },
+    {
+     "@id": "wg:ellsberg-paradox"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:bounded-rationality"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/judgment-and-decisions/decision-theory.md",
+   "wgo:level": "intermediate",
+   "wgo:supportedBy": {
+    "@id": "wg:prospect-theory-replication-study"
    }
   },
   {

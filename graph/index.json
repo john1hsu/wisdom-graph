@@ -3280,6 +3280,116 @@
   ]
  },
  {
+  "id": "wg:decision-theory",
+  "title": "Decision theory",
+  "aliases": [
+   "theory of rational choice under uncertainty",
+   "normative decision theory",
+   "descriptive decision theory"
+  ],
+  "type": "Field",
+  "domain": "judgment-and-decisions",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/decision-theory.md",
+  "created": "2026-11-19",
+  "summary": "The study, shared by philosophy, economics and psychology, of how beliefs and desires should combine into choices when outcomes are uncertain (normative decision theory) and of how people actually choose (descriptive decision theory); it can check that a choice hangs together, but it cannot say what is worth wanting.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:philosophy"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:economics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:major-life-decision"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reversible-and-irreversible-decisions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:big-decisions-opting-converting-drifting"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-algebra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:weakness-of-will"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:fast-and-frugal-heuristics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:kill-criteria"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:decisions-under-uncertainty",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:allais-paradox",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:ellsberg-paradox",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:bounded-rationality",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:prospect-theory-replication-study",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://plato.stanford.edu/ENTRiES/decision-theory/",
+   "https://plato.stanford.edu/entries/decision-theory-descriptive/",
+   "https://ora.ox.ac.uk/objects/uuid:9da308a9-010d-4e44-9943-9cbd989e5e01",
+   "https://plato.stanford.edu/ENTRIES/bounded-rationality/",
+   "https://core.ac.uk/download/210693851.pdf"
+  ]
+ },
+ {
   "id": "wg:deliberation",
   "title": "Deliberation",
   "aliases": [
