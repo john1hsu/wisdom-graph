@@ -18,9 +18,7 @@ _No results._
 
 _Which written life situations have no practice, principle, skill or virtue applied in them?_ — `queries/03-situations-without-guidance.rq`
 
-| node | type |
-|---|---|
-| `wg:mentorship` | wgo:Context |
+_No results._
 
 ## Highest-leverage practices and teachings
 
@@ -98,7 +96,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:leading-others` | `wg:compassion` |
 | `wg:leading-others` | `wg:empathy` |
 
-…and 29 more.
+…and 32 more.
 
 ## Myths and contested advice
 
@@ -124,6 +122,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:contentment` | mixed |  |
 | `wg:death-awareness` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
+| `wg:developmental-network` | mixed |  |
 | `wg:emotional-suppression` | mixed | `wg:suppression-paradox-study` |
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
@@ -135,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:generosity` | mixed | `wg:prosocial-spending-replication-study` |
 | `wg:giving-advice` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
-| `wg:greed` | mixed |  |
 
-…and 60 more.
+…and 61 more.
 
 ## Ideas with no recorded origin (gap)
 

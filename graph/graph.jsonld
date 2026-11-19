@@ -1222,6 +1222,115 @@
    "schema:text": "Set a point at which deliberation ends, then choose and act promptly, without reopening the question unless new facts appear."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who, beyond my manager or one mentor, actively takes an interest in my growth right now?",
+   "wgo:questionFor": {
+    "@id": "wg:developmental-network"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do my advisers all come from the same place and see things the same way?",
+   "wgo:questionFor": {
+    "@id": "wg:developmental-network"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What need do I have — feedback, sponsorship, support, inside knowledge — that nobody in my network currently meets?",
+   "wgo:questionFor": {
+    "@id": "wg:developmental-network"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What am I offering the people who help me, and whom am I helping develop in turn?",
+   "wgo:questionFor": {
+    "@id": "wg:developmental-network"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Has my network kept pace with where I am now, or is it still built for an earlier stage of my life?",
+   "wgo:questionFor": {
+    "@id": "wg:developmental-network"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "My old boss knows my strengths, so I'll still talk to him, but he's never worked in product. I'll also ask a peer who made the same switch last year what the first months were really like, and a product lead in another company what they look for. Then I'll decide.",
+   "wgo:before": "I'll ask my old boss — he's always been right about my career. If he thinks I should stay an analyst, I'll stay.",
+   "wgo:situation": "A mid-career analyst is weighing whether to move into a product-management role and has always relied on one trusted former manager for career advice.",
+   "wgo:why": "The wiser response keeps a valued strong tie but stops treating one person's vantage point as the whole picture; advisers from different settings supply information a single mentor cannot, which is what the developmental network perspective predicts matters most for career changes."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Building a developmental network",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Write down your goals for the next few years and the kinds of help you will need — skill-building, sponsorship, honest feedback, emotional support, a view of how decisions get made."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "List everyone who currently takes an active interest in your development, note which part of your life each comes from (employer, school, profession, community, family) and how close the tie is."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Look for gaps and redundancy — needs nobody covers, or several advisers who all see the world from the same vantage point."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Approach one or two new people to fill the biggest gap, asking for something specific and thinking about what they might gain or learn from you in return."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Tend the ties you have with regular, low-stakes contact, and offer help to others rather than only taking it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Revisit the map whenever your role, goals or circumstances change, letting some relationships become lighter and adding the ones the next stage needs."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Which part of this situation actually responds to what I decide or do next?",
@@ -8319,6 +8428,76 @@
     "@id": "https://pubmed.ncbi.nlm.nih.gov/19739881/"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Academy of Management Review, 26(2), 264–288 (Higgins & Kram, 2001), Boston University",
+   "dcterms:title": "Reconceptualizing mentoring at work: A developmental network perspective",
+   "schema:url": {
+    "@id": "https://www.bu.edu/sph/files/2012/01/Higgins-Kram_Reconceptualizing-Mentoring-at-Work-A-Developmental-Network-Perspective.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Organizational Behavior, 22(3), 223–247 (Higgins & Thomas, 2001), Scilit",
+   "dcterms:title": "Constellations and careers: Toward understanding the effects of multiple developmental relationships",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/91065b1c2bd4bb8f24a2fa13216c752f"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Management, 38(1), 210–242 (Dobrow, Chandler, Murphy & Kram, 2012), LSE Research Online (accepted manuscript)",
+   "dcterms:title": "A review of developmental networks: Incorporating a mutuality perspective",
+   "schema:url": {
+    "@id": "https://researchonline.lse.ac.uk/id/eprint/50024/7/Dobrow_a_review_of_developmental_networks_accepted.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Career Development International, 10(6/7), 567–583 (Dobrow & Higgins, 2005), LSE Research Online",
+   "dcterms:title": "Developmental networks and professional identity: A longitudinal study",
+   "schema:url": {
+    "@id": "https://researchonline.lse.ac.uk/id/eprint/59412"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "MIT Sloan Management Review (Kram & Higgins), Boston University Medical Campus",
+   "dcterms:title": "A new mindset on mentoring: Creating developmental networks at work",
+   "schema:url": {
+    "@id": "https://www.bumc.bu.edu/facdev-medicine/files/2009/12/Kram-Higgins_A-New-Mindset-on-Mentoring.pdf"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/dichotomy-of-control/s1",
@@ -22844,6 +23023,116 @@
    },
    "wgo:supportedBy": {
     "@id": "wg:unconscious-thought-advantage-replication"
+   }
+  },
+  {
+   "@id": "wg:developmental-network",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5"
+    }
+   ],
+   "rdfs:label": "Building a developmental network",
+   "skos:altLabel": [
+    "constellation of developmental relationships",
+    "developmental network perspective",
+    "developmental network",
+    "mentoring network",
+    "multiple mentors"
+   ],
+   "skos:broader": {
+    "@id": "wg:seeking-counsel"
+   },
+   "skos:definition": "Deliberately cultivating several people from different parts of your life who each take an active interest in your growth — rather than relying on a single mentor — so that your guidance comes from varied vantage points and changes as your needs change.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work"
+   },
+   "skos:prefLabel": "Building a developmental network",
+   "skos:related": [
+    {
+     "@id": "wg:generativity"
+    },
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:leading-others"
+    },
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:mentorship"
+    },
+    {
+     "@id": "wg:social-relationships"
+    },
+    {
+     "@id": "wg:wisdom-in-professions"
+    },
+    {
+     "@id": "wg:workplace-feedback"
+    }
+   ],
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    },
+    {
+     "@id": "wg:mentorship"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:seeking-counsel"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:constellations-and-careers-study"
+    },
+    {
+     "@id": "wg:developmental-networks-and-professional-identity-study"
+    }
+   ],
+   "wgo:domain": "wisdom-at-work",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/example"
+   },
+   "wgo:file": "articles/wisdom-at-work/developmental-network.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto"
+   },
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:kathy-kram"
+    },
+    {
+     "@id": "wg:monica-higgins"
+    }
+   ],
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:self-reflection"
    }
   },
   {

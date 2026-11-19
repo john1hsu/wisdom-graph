@@ -3395,6 +3395,142 @@
   ]
  },
  {
+  "id": "wg:developmental-network",
+  "title": "Building a developmental network",
+  "aliases": [
+   "developmental network",
+   "developmental network perspective",
+   "constellation of developmental relationships",
+   "multiple mentors",
+   "mentoring network"
+  ],
+  "type": "Practice",
+  "domain": "wisdom-at-work",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/wisdom-at-work/developmental-network.md",
+  "created": "2026-11-19",
+  "summary": "Deliberately cultivating several people from different parts of your life who each take an active interest in your growth — rather than relying on a single mentor — so that your guidance comes from varied vantage points and changes as your needs change.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mentorship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:social-relationships"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:leading-others"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-in-professions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:workplace-feedback"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:generativity"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:self-reflection"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:mentorship",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:major-life-decision",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:learning-from-experience",
+    "source": "s1",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:seeking-counsel",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:monica-higgins",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:kathy-kram",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:constellations-and-careers-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:developmental-networks-and-professional-identity-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Who, beyond my manager or one mentor, actively takes an interest in my growth right now?",
+   "Do my advisers all come from the same place and see things the same way?",
+   "What need do I have — feedback, sponsorship, support, inside knowledge — that nobody in my network currently meets?",
+   "What am I offering the people who help me, and whom am I helping develop in turn?",
+   "Has my network kept pace with where I am now, or is it still built for an earlier stage of my life?"
+  ],
+  "steps": [
+   "Write down your goals for the next few years and the kinds of help you will need — skill-building, sponsorship, honest feedback, emotional support, a view of how decisions get made.",
+   "List everyone who currently takes an active interest in your development, note which part of your life each comes from (employer, school, profession, community, family) and how close the tie is.",
+   "Look for gaps and redundancy — needs nobody covers, or several advisers who all see the world from the same vantage point.",
+   "Approach one or two new people to fill the biggest gap, asking for something specific and thinking about what they might gain or learn from you in return.",
+   "Tend the ties you have with regular, low-stakes contact, and offer help to others rather than only taking it.",
+   "Revisit the map whenever your role, goals or circumstances change, letting some relationships become lighter and adding the ones the next stage needs."
+  ],
+  "example": {
+   "situation": "A mid-career analyst is weighing whether to move into a product-management role and has always relied on one trusted former manager for career advice.",
+   "before": "I'll ask my old boss — he's always been right about my career. If he thinks I should stay an analyst, I'll stay.",
+   "after": "My old boss knows my strengths, so I'll still talk to him, but he's never worked in product. I'll also ask a peer who made the same switch last year what the first months were really like, and a product lead in another company what they look for. Then I'll decide.",
+   "why": "The wiser response keeps a valued strong tie but stops treating one person's vantage point as the whole picture; advisers from different settings supply information a single mentor cannot, which is what the developmental network perspective predicts matters most for career changes."
+  },
+  "source_urls": [
+   "https://www.bu.edu/sph/files/2012/01/Higgins-Kram_Reconceptualizing-Mentoring-at-Work-A-Developmental-Network-Perspective.pdf",
+   "https://scilit.com/publications/91065b1c2bd4bb8f24a2fa13216c752f",
+   "https://researchonline.lse.ac.uk/id/eprint/50024/7/Dobrow_a_review_of_developmental_networks_accepted.pdf",
+   "https://researchonline.lse.ac.uk/id/eprint/59412",
+   "https://www.bumc.bu.edu/facdev-medicine/files/2009/12/Kram-Higgins_A-New-Mindset-on-Mentoring.pdf"
+  ]
+ },
+ {
   "id": "wg:dichotomy-of-control",
   "title": "Dichotomy of control",
   "aliases": [

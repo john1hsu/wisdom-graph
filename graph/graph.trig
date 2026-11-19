@@ -1173,6 +1173,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/after-action-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/developmental-network.md" .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/wisdom-at-work/ethical-fading.md" .
@@ -13475,6 +13483,125 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/after-action-review/s6> <https://schema.org/url> <https://www.cbsnews.com/news/learning-in-the-thick-of-it> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/developmental-network#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Who, beyond my manager or one mentor, actively takes an interest in my growth right now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Do my advisers all come from the same place and see things the same way?" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What need do I have — feedback, sponsorship, support, inside knowledge — that nobody in my network currently meets?" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What am I offering the people who help me, and whom am I helping develop in turn?" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Has my network kept pace with where I am now, or is it still built for an earlier stage of my life?" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "My old boss knows my strengths, so I'll still talk to him, but he's never worked in product. I'll also ask a peer who made the same switch last year what the first months were really like, and a product lead in another company what they look for. Then I'll decide." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'll ask my old boss — he's always been right about my career. If he thinks I should stay an analyst, I'll stay." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A mid-career analyst is weighing whether to move into a product-management role and has always relied on one trusted former manager for career advice." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response keeps a valued strong tie but stops treating one person's vantage point as the whole picture; advisers from different settings supply information a single mentor cannot, which is what the developmental network perspective predicts matters most for career changes." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/1> <https://schema.org/text> "Write down your goals for the next few years and the kinds of help you will need — skill-building, sponsorship, honest feedback, emotional support, a view of how decisions get made." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/2> <https://schema.org/text> "List everyone who currently takes an active interest in your development, note which part of your life each comes from (employer, school, profession, community, family) and how close the tie is." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/3> <https://schema.org/text> "Look for gaps and redundancy — needs nobody covers, or several advisers who all see the world from the same vantage point." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/4> <https://schema.org/text> "Approach one or two new people to fill the biggest gap, asking for something specific and thinking about what they might gain or learn from you in return." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/5> <https://schema.org/text> "Tend the ties you have with regular, low-stakes contact, and offer help to others rather than only taking it." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/6> <https://schema.org/text> "Revisit the map whenever your role, goals or circumstances change, letting some relationships become lighter and adding the ones the next stage needs." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/name> "Building a developmental network" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2000/01/rdf-schema#label> "Building a developmental network" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#altLabel> "constellation of developmental relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#altLabel> "developmental network perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#altLabel> "developmental network" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#altLabel> "mentoring network" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#altLabel> "multiple mentors" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#definition> "Deliberately cultivating several people from different parts of your life who each take an active interest in your growth — rather than relying on a single mentor — so that your guidance comes from varied vantage points and changes as your needs change." .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/wisdom-at-work> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#prefLabel> "Building a developmental network" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generativity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/constellations-and-careers-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/developmental-networks-and-professional-identity-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "wisdom-at-work" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/wisdom-at-work/developmental-network.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/developmental-network/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/monica-higgins> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> <http://purl.org/dc/terms/publisher> "Academy of Management Review, 26(2), 264–288 (Higgins & Kram, 2001), Boston University" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> <http://purl.org/dc/terms/title> "Reconceptualizing mentoring at work: A developmental network perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s1> <https://schema.org/url> <https://www.bu.edu/sph/files/2012/01/Higgins-Kram_Reconceptualizing-Mentoring-at-Work-A-Developmental-Network-Perspective.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> <http://purl.org/dc/terms/publisher> "Journal of Organizational Behavior, 22(3), 223–247 (Higgins & Thomas, 2001), Scilit" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> <http://purl.org/dc/terms/title> "Constellations and careers: Toward understanding the effects of multiple developmental relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s2> <https://schema.org/url> <https://scilit.com/publications/91065b1c2bd4bb8f24a2fa13216c752f> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> <http://purl.org/dc/terms/publisher> "Journal of Management, 38(1), 210–242 (Dobrow, Chandler, Murphy & Kram, 2012), LSE Research Online (accepted manuscript)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> <http://purl.org/dc/terms/title> "A review of developmental networks: Incorporating a mutuality perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s3> <https://schema.org/url> <https://researchonline.lse.ac.uk/id/eprint/50024/7/Dobrow_a_review_of_developmental_networks_accepted.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> <http://purl.org/dc/terms/publisher> "Career Development International, 10(6/7), 567–583 (Dobrow & Higgins, 2005), LSE Research Online" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> <http://purl.org/dc/terms/title> "Developmental networks and professional identity: A longitudinal study" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s4> <https://schema.org/url> <https://researchonline.lse.ac.uk/id/eprint/59412> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review (Kram & Higgins), Boston University Medical Campus" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> <http://purl.org/dc/terms/title> "A new mindset on mentoring: Creating developmental networks at work" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/developmental-network/s5> <https://schema.org/url> <https://www.bumc.bu.edu/facdev-medicine/files/2009/12/Kram-Higgins_A-New-Mindset-on-Mentoring.pdf> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/ethical-fading#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/ethical-fading/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If I described this decision in plain words, without the jargon, would it still sound acceptable?" .
@@ -16627,6 +16754,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/consequentialism> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/consolation-literature> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/on-old-age> .
   <https://github.com/john1hsu/wisdom-graph/id/consolation-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/on-old-age> .
+  <https://github.com/john1hsu/wisdom-graph/id/constellations-and-careers-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/constellations-and-careers-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/constellations-and-careers-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/construal-level-theory> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/construct-redundancy-in-leader-behaviors-review> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/contemplative-science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -16779,6 +16909,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/deliberation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
@@ -16817,6 +16948,24 @@
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-network> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-networks-and-professional-identity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-networks-and-professional-identity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-networks-and-professional-identity-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
@@ -17295,6 +17444,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/general-intelligence> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/general-intelligence> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/general-intelligence> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/generativity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/generativity> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/generosity/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17324,6 +17474,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
@@ -17724,6 +17875,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
@@ -17851,6 +18003,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/karma-yoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
+  <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/keeping-options-open-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kill-criteria/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17930,6 +18085,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
+  <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/leading-others> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
@@ -17962,12 +18118,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
   <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
@@ -18052,6 +18210,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
@@ -18144,6 +18303,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-growth> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/mieko-kamiya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/mieko-kamiya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/mieko-kamiya> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/ikigai> .
@@ -18156,6 +18317,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/minima-moralia> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/mispredicting-honest-communication-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/mohism> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/monica-higgins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/monica-higgins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/monica-higgins> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/monika-ardelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/monika-ardelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/monika-ardelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
@@ -18348,6 +18512,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
@@ -18564,6 +18729,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
@@ -18965,6 +19131,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/after-action-review> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
@@ -19002,6 +19170,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
@@ -19146,6 +19315,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/self-reflection> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/self-regulation-strategies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -19248,6 +19418,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
@@ -19633,6 +19804,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
@@ -19799,6 +19971,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/professional-work> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
@@ -19848,6 +20021,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-vs-intelligence> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
@@ -19964,6 +20138,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/honesty> .

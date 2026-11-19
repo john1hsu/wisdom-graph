@@ -1641,6 +1641,30 @@ Ask yourself:
 - Did I ask what went right and why, or only what went wrong?
 - What is the one concrete thing I will do differently next time, and when will I check that I did it?
 
+### [Building a developmental network](../articles/wisdom-at-work/developmental-network.md) — Practice
+
+1. Write down your goals for the next few years and the kinds of help you will need — skill-building, sponsorship, honest feedback, emotional support, a view of how decisions get made.
+2. List everyone who currently takes an active interest in your development, note which part of your life each comes from (employer, school, profession, community, family) and how close the tie is.
+3. Look for gaps and redundancy — needs nobody covers, or several advisers who all see the world from the same vantage point.
+4. Approach one or two new people to fill the biggest gap, asking for something specific and thinking about what they might gain or learn from you in return.
+5. Tend the ties you have with regular, low-stakes contact, and offer help to others rather than only taking it.
+6. Revisit the map whenever your role, goals or circumstances change, letting some relationships become lighter and adding the ones the next stage needs.
+
+*A mid-career analyst is weighing whether to move into a product-management role and has always relied on one trusted former manager for career advice.*
+
+| Before | After |
+|---|---|
+| I'll ask my old boss — he's always been right about my career. If he thinks I should stay an analyst, I'll stay. | My old boss knows my strengths, so I'll still talk to him, but he's never worked in product. I'll also ask a peer who made the same switch last year what the first months were really like, and a product lead in another company what they look for. Then I'll decide. |
+
+**Why:** The wiser response keeps a valued strong tie but stops treating one person's vantage point as the whole picture; advisers from different settings supply information a single mentor cannot, which is what the developmental network perspective predicts matters most for career changes.
+
+Ask yourself:
+- Who, beyond my manager or one mentor, actively takes an interest in my growth right now?
+- Do my advisers all come from the same place and see things the same way?
+- What need do I have — feedback, sponsorship, support, inside knowledge — that nobody in my network currently meets?
+- What am I offering the people who help me, and whom am I helping develop in turn?
+- Has my network kept pace with where I am now, or is it still built for an earlier stage of my life?
+
 ### [Ethical fading](../articles/wisdom-at-work/ethical-fading.md) — Obstacle
 
 *Two days before quarter end, a sales manager is short of target. A customer has verbally agreed to a deal but will not sign until next month. Her director suggests "pulling it forward" and booking it now.*
