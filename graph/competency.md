@@ -83,6 +83,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:facing-mortality` | `wg:epicureanism` |
 | `wg:failure` | `wg:stoic-reserve-clause` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
+| `wg:grief-and-loss` | `wg:continuing-bonds` |
 | `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
 | `wg:interpersonal-conflict` | `wg:cognitive-reappraisal` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:after-action-review` |
-| `wg:leading-others` | `wg:balance-theory-of-wisdom` |
 
-…and 35 more.
+…and 36 more.
 
 ## Myths and contested advice
 
@@ -121,6 +121,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
 | `wg:compassionate-reappraisal` | mixed |  |
 | `wg:contentment` | mixed |  |
+| `wg:continuing-bonds` | mixed | `wg:continue-or-relinquish-bonds-review` |
+| `wg:continuing-bonds` | mixed | `wg:proximity-seeking-behavior-scale-study` |
 | `wg:death-awareness` | mixed |  |
 | `wg:decision-theory` | mixed | `wg:allais-paradox` |
 | `wg:decision-theory` | mixed | `wg:ellsberg-paradox` |
@@ -132,10 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:end-of-history-illusion` | mixed | `wg:end-of-history-life-satisfaction-study` |
 | `wg:equanimity` | mixed |  |
-| `wg:ethical-fading` | mixed |  |
-| `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 
-…and 66 more.
+…and 68 more.
 
 ## Ideas with no recorded origin (gap)
 

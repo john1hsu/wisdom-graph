@@ -8485,6 +8485,90 @@
    "wgo:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Taylor & Francis / Routledge",
+   "dcterms:title": "Continuing Bonds: New Understandings of Grief (Klass, Silverman & Nickman, eds., 1996), publisher's description",
+   "schema:url": {
+    "@id": "https://www.routledge.com/Continuing-Bonds-New-Understandings-of-Grief/Klass-Nickman-Silverman/p/book/9781560323396"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Death Studies, 29(6), 477–494 (Stroebe & Schut, 2005); Utrecht University repository",
+   "dcterms:title": "To continue or relinquish bonds: A review of consequences for the bereaved",
+   "schema:url": {
+    "@id": "https://utrecht-main-test.atmire.com/items/26bc4063-93a6-481f-b237-b531da33b090"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Death Studies, 30(8), 767–776 (Boelen, Stroebe, Schut & Zijerveld, 2006); Utrecht University repository",
+   "dcterms:title": "Continuing bonds and grief: A prospective analysis",
+   "schema:url": {
+    "@id": "https://utrecht-main-test.atmire.com/items/1622bcb7-0b87-44c4-ad4f-ef95a829ddfa"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Death Studies (Hewson, Galbraith, Jones & Heath, 2023); Aston University Research Explorer (full text)",
+   "dcterms:title": "The impact of continuing bonds following bereavement: A systematic review",
+   "schema:url": {
+    "@id": "https://research.aston.ac.uk/files/113426262/2023_Hewson_et_al_Impact_of_continuing_bonds_following_bereavement_A_systematic_review.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Death Studies (Eisma & Nguyen, 2022), doi:10.1080/07481187.2022.2039811; CORE open-access full text",
+   "dcterms:title": "How we continue bonds with deceased persons: The proximity-seeking behavior scale",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/518786843.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Death Studies, 21(4), 377–395 (Goss, 1997); Digital Library of Buddhist Studies, National Taiwan University",
+   "dcterms:title": "Tibetan Buddhism and the resolution of grief: The Bardo-Thodol for the dying and the grieving",
+   "schema:url": {
+    "@id": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-ADM/goss.htm"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/courage/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -23691,6 +23775,98 @@
    ],
    "wgo:supportedBy": {
     "@id": "wg:contentment-and-self-acceptance-study"
+   }
+  },
+  {
+   "@id": "wg:continuing-bonds",
+   "@type": "wgo:Theory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/continuing-bonds/s6"
+    }
+   ],
+   "rdfs:label": "Continuing bonds",
+   "skos:altLabel": [
+    "continuing bonds model",
+    "continuing bonds theory",
+    "continuing bonds with the deceased"
+   ],
+   "skos:broader": {
+    "@id": "wg:theories-of-grief"
+   },
+   "skos:definition": "The view, set out by Dennis Klass, Phyllis Silverman and Steven Nickman in 1996, that healthy grief need not end in cutting ties with the person who died: many bereaved people keep and transform an inner relationship with them. Research since suggests such bonds can comfort or distress, depending on their form, the circumstances of the death and the person.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality"
+   },
+   "skos:prefLabel": "Continuing bonds",
+   "skos:related": [
+    {
+     "@id": "wg:buddhism"
+    },
+    {
+     "@id": "wg:dual-process-model-of-bereavement"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:mourning-and-melancholia"
+    },
+    {
+     "@id": "wg:prolonged-grief-disorder"
+    },
+    {
+     "@id": "wg:rumination"
+    }
+   ],
+   "wgo:appliedIn": {
+    "@id": "wg:grief-and-loss"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:continue-or-relinquish-bonds-review"
+    },
+    {
+     "@id": "wg:proximity-seeking-behavior-scale-study"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:grief-work"
+   },
+   "wgo:domain": "adversity-and-mortality",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/adversity-and-mortality/continuing-bonds.md",
+   "wgo:introducedBy": {
+    "@id": "wg:dennis-klass"
+   },
+   "wgo:introducedIn": {
+    "@id": "wg:continuing-bonds-new-understandings-of-grief"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:grief-and-loss"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:impact-of-continuing-bonds-systematic-review"
    }
   },
   {
