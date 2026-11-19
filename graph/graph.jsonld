@@ -8392,6 +8392,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "George Bell and Sons (1889); Project Gutenberg eBook 64576",
+   "dcterms:title": "Seneca, Of Anger (De Ira), Books I–III, in Minor Dialogues, Together with the Dialogue on Clemency, trans. Aubrey Stewart (1889)",
+   "schema:url": {
+    "@id": "https://www.gutenberg.org/cache/epub/64576/pg64576.txt"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Katja Vogt; substantive revision 2024)",
+   "dcterms:title": "Seneca",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/seneca/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Cambridge University Press, in M. Graver, Seneca: The Literary Philosopher (2023), ch. 6, pp. 135–159 (doi:10.1017/9781316683125.011)",
+   "dcterms:title": "Seneca's Therapy for Anger",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/product/identifier/9781316683125%23CN-BP-6/type/BOOK_PART"
+   },
+   "wgo:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Princeton University Press (2019), Ancient Wisdom for Modern Readers series",
+   "dcterms:title": "How to Keep Your Cool: An Ancient Guide to Anger Management (Seneca, ed. and trans. James Romm)",
+   "schema:url": {
+    "@id": "https://press.princeton.edu/node/6497"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 28(6), 724–731 (Bushman, 2002)",
+   "dcterms:title": "Does venting anger feed or extinguish the flame? Catharsis, rumination, distraction, anger, and aggressive responding",
+   "schema:url": {
+    "@id": "https://public.websites.umich.edu/~bbushman/PSPB02.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Ohio State News, The Ohio State University (2024)",
+   "dcterms:title": "Breathe, don't vent: Turning down the heat is key to managing anger (on Kjærvik & Bushman, 2024, Clinical Psychology Review)",
+   "schema:url": {
+    "@id": "https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/death-awareness/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -20966,6 +21050,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-18"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/wisdom-graph/id/source/anger/s1"
@@ -21009,6 +21097,9 @@
     },
     {
      "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:de-ira"
     },
     {
      "@id": "wg:doctrine-of-the-mean"
@@ -21065,6 +21156,9 @@
     "@id": "wg:appraisal-tendency-framework"
    },
    "wgo:file": "articles/emotions-and-equanimity/anger.md",
+   "wgo:introducedIn": {
+    "@id": "wg:de-ira"
+   },
    "wgo:level": "introductory",
    "wgo:undermines": [
     {
@@ -23154,6 +23248,103 @@
    "wgo:supportedBy": {
     "@id": "wg:taoist-cognitive-therapy-pilot-study"
    }
+  },
+  {
+   "@id": "wg:de-ira",
+   "@type": "wgo:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6"
+    }
+   ],
+   "rdfs:label": "De Ira",
+   "skos:altLabel": [
+    "Seneca's Of Anger",
+    "Seneca's On Anger"
+   ],
+   "skos:broader": {
+    "@id": "wg:stoicism"
+   },
+   "skos:definition": "Seneca's three-book Stoic treatise on anger, addressed to his brother Novatus, which argues that anger is a voluntary judgment rather than an unstoppable force, that it should be refused rather than moderated, and that it is best managed before it takes hold: by delay, by doubting quick suspicions, by avoiding needless provocation and by a nightly review of one's own conduct.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "De Ira",
+   "skos:related": [
+    {
+     "@id": "wg:anger"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:evening-review"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:good-temper"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:nicomachean-ethics"
+    },
+    {
+     "@id": "wg:patience"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:seneca"
+    },
+    {
+     "@id": "wg:stoic-reserve-clause"
+    }
+   ],
+   "wgo:authoredBy": {
+    "@id": "wg:seneca"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:good-temper"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/de-ira.md",
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:anger-arousal-activities-meta-analysis"
+    },
+    {
+     "@id": "wg:venting-anger-rumination-study"
+    }
+   ]
   },
   {
    "@id": "wg:death-awareness",

@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:negative-emotions]
-related: [wg:good-temper, wg:patience, wg:rumination, wg:self-distancing, wg:evening-review, wg:cognitive-reappraisal, wg:emotional-suppression, wg:compassionate-reappraisal, wg:forgiveness, wg:doctrine-of-the-mean, wg:stoicism, wg:buddhism, wg:seneca, wg:shantideva, wg:equanimity, wg:interpersonal-conflict]
+related: [wg:good-temper, wg:patience, wg:rumination, wg:self-distancing, wg:evening-review, wg:cognitive-reappraisal, wg:emotional-suppression, wg:compassionate-reappraisal, wg:forgiveness, wg:doctrine-of-the-mean, wg:stoicism, wg:buddhism, wg:seneca, wg:shantideva, wg:equanimity, wg:interpersonal-conflict, wg:de-ira]
 requires: []
 relations:
   - {predicate: undermines, object: wg:deliberation, source: s4, confidence: medium}
@@ -19,6 +19,7 @@ relations:
   - {predicate: explainedBy, object: wg:appraisal-tendency-framework, source: s4, confidence: high}
   - {predicate: demonstratedBy, object: wg:anger-arousal-activities-meta-analysis, source: s5, confidence: high}
   - {predicate: confusedWith, object: wg:aggression, source: s6, confidence: medium}
+  - {predicate: introducedIn, object: wg:de-ira, source: s2, confidence: medium}
 example:
   situation: >-
     A colleague forwards your draft proposal to senior management with a note pointing out its weaknesses,
@@ -80,6 +81,7 @@ sources:
     type: institutional
     accessed: 2026-11-18
 created: 2026-11-18
+modified: 2026-11-19
 ---
 
 # Anger
@@ -121,7 +123,7 @@ Laboratory work supports the claim that anger biases judgment, though most studi
 
 ## Connections
 
-Anger **undermines deliberation** and **wise reasoning** through its appraisals of certainty and blame.[^s4] It is **explained by the appraisal-tendency framework**.[^s4] The benefit of calming over venting is **demonstrated by** Kjærvik and Bushman's **meta-analysis of arousal-lowering and arousal-raising activities**.[^s5] Anger is often **confused with aggression**, though the emotion can be expressed assertively without hurting anyone.[^s6] Aristotle's **good temper** and the **doctrine of the mean** place anger between two vices; Seneca and the **Stoics** seek to replace it; **Śāntideva** and **Buddhism** counter it with **patience**.[^s1][^s2][^s3] Seneca's **evening review** was meant partly as a check on anger.[^s2] Related remedies include **self-distancing**, **cognitive reappraisal** and **forgiveness**; **rumination** keeps anger alive, and **emotional suppression** is the opposite mistake to venting.[^s6]
+Anger **undermines deliberation** and **wise reasoning** through its appraisals of certainty and blame.[^s4] It is **explained by the appraisal-tendency framework**.[^s4] The benefit of calming over venting is **demonstrated by** Kjærvik and Bushman's **meta-analysis of arousal-lowering and arousal-raising activities**.[^s5] Anger is often **confused with aggression**, though the emotion can be expressed assertively without hurting anyone.[^s6] Aristotle's **good temper** and the **doctrine of the mean** place anger between two vices; Seneca and the **Stoics** seek to replace it, in the analysis Seneca sets out in **De Ira** (*On Anger*); **Śāntideva** and **Buddhism** counter it with **patience**.[^s1][^s2][^s3] Seneca's **evening review** was meant partly as a check on anger.[^s2] Related remedies include **self-distancing**, **cognitive reappraisal** and **forgiveness**; **rumination** keeps anger alive, and **emotional suppression** is the opposite mistake to venting.[^s6]
 
 ## Sources
 

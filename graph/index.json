@@ -882,6 +882,10 @@
     "object": "wg:interpersonal-conflict"
    },
    {
+    "predicate": "skos:related",
+    "object": "wg:de-ira"
+   },
+   {
     "predicate": "wgo:undermines",
     "object": "wg:deliberation",
     "source": "s4",
@@ -909,6 +913,12 @@
     "predicate": "wgo:confusedWith",
     "object": "wg:aggression",
     "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedIn",
+    "object": "wg:de-ira",
+    "source": "s2",
     "confidence": "medium"
    }
   ],
@@ -3303,6 +3313,110 @@
    "https://classics.mit.edu/Lao/taote.mb.txt",
    "https://www.britannica.com/topic/Daoism",
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7527502/"
+  ]
+ },
+ {
+  "id": "wg:de-ira",
+  "title": "De Ira",
+  "aliases": [
+   "Seneca's On Anger",
+   "Seneca's Of Anger"
+  ],
+  "type": "Work",
+  "domain": "thinkers-and-works",
+  "level": "introductory",
+  "evidenceStatus": "historical",
+  "file": "articles/thinkers-and-works/de-ira.md",
+  "created": "2026-11-19",
+  "summary": "Seneca's three-book Stoic treatise on anger, addressed to his brother Novatus, which argues that anger is a voluntary judgment rather than an unstoppable force, that it should be refused rather than moderated, and that it is best managed before it takes hold: by delay, by doubting quick suspicions, by avoiding needless provocation and by a nightly review of one's own conduct.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:stoicism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:anger"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seneca"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:evening-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:good-temper"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:nicomachean-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:patience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:stoic-reserve-clause"
+   },
+   {
+    "predicate": "wgo:authoredBy",
+    "object": "wg:seneca",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:good-temper",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:venting-anger-rumination-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:anger-arousal-activities-meta-analysis",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.gutenberg.org/cache/epub/64576/pg64576.txt",
+   "https://plato.stanford.edu/ENTRIES/seneca/",
+   "https://cambridge.org/core/product/identifier/9781316683125%23CN-BP-6/type/BOOK_PART",
+   "https://press.princeton.edu/node/6497",
+   "https://public.websites.umich.edu/~bbushman/PSPB02.pdf",
+   "https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/"
   ]
  },
  {

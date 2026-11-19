@@ -909,6 +909,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/de-ira.md" .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/thinkers-and-works/ernest-becker.md" .
@@ -3900,6 +3909,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/anger/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A colleague forwards your draft proposal to senior management with a note pointing out its weaknesses, without talking to you first. You find out an hour before a deadline." .
   <https://github.com/john1hsu/wisdom-graph/id/anger/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Anger made you certain about motive and eager to punish; waiting until your body calmed down, and asking before judging, let you defend a fair working norm without escalating, and still learn from the parts of the criticism that were right." .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/anger> <http://purl.org/dc/terms/modified> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Obstacle> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2000/01/rdf-schema#label> "Anger" .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#altLabel> "ira" .
@@ -3912,6 +3922,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -3938,6 +3949,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/anger/example> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/appraisal-tendency-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/anger.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/anger> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -11049,6 +11061,80 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/big-decisions-opting-converting-drifting/s6> <https://schema.org/url> <https://academic.oup.com/book/26496> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/de-ira#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2000/01/rdf-schema#label> "De Ira" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#altLabel> "Seneca's Of Anger" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#altLabel> "Seneca's On Anger" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#definition> "Seneca's three-book Stoic treatise on anger, addressed to his brother Novatus, which argues that anger is a voluntary judgment rather than an unstoppable force, that it should be refused rather than moderated, and that it is best managed before it takes hold: by delay, by doubting quick suspicions, by avoiding needless provocation and by a nightly review of one's own conduct." .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#prefLabel> "De Ira" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/good-temper> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seneca> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/seneca> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/good-temper> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "thinkers-and-works" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "historical" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/thinkers-and-works/de-ira.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/anger-arousal-activities-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/venting-anger-rumination-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> <http://purl.org/dc/terms/publisher> "George Bell and Sons (1889); Project Gutenberg eBook 64576" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> <http://purl.org/dc/terms/title> "Seneca, Of Anger (De Ira), Books I–III, in Minor Dialogues, Together with the Dialogue on Clemency, trans. Aubrey Stewart (1889)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s1> <https://schema.org/url> <https://www.gutenberg.org/cache/epub/64576/pg64576.txt> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Katja Vogt; substantive revision 2024)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> <http://purl.org/dc/terms/title> "Seneca" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s2> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/seneca/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> <http://purl.org/dc/terms/publisher> "Cambridge University Press, in M. Graver, Seneca: The Literary Philosopher (2023), ch. 6, pp. 135–159 (doi:10.1017/9781316683125.011)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> <http://purl.org/dc/terms/title> "Seneca's Therapy for Anger" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s3> <https://schema.org/url> <https://cambridge.org/core/product/identifier/9781316683125%23CN-BP-6/type/BOOK_PART> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> <http://purl.org/dc/terms/publisher> "Princeton University Press (2019), Ancient Wisdom for Modern Readers series" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> <http://purl.org/dc/terms/title> "How to Keep Your Cool: An Ancient Guide to Anger Management (Seneca, ed. and trans. James Romm)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s4> <https://schema.org/url> <https://press.princeton.edu/node/6497> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 28(6), 724–731 (Bushman, 2002)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> <http://purl.org/dc/terms/title> "Does venting anger feed or extinguish the flame? Catharsis, rumination, distraction, anger, and aggressive responding" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s5> <https://schema.org/url> <https://public.websites.umich.edu/~bbushman/PSPB02.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> <http://purl.org/dc/terms/publisher> "Ohio State News, The Ohio State University (2024)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> <http://purl.org/dc/terms/title> "Breathe, don't vent: Turning down the heat is key to managing anger (on Kjærvik & Bushman, 2024, Clinical Psychology Review)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/de-ira/s6> <https://schema.org/url> <https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/ernest-becker#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -16511,6 +16597,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/anger-arousal-activities-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/anger-arousal-activities-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/anger-arousal-activities-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/anger-arousal-activities-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/anger/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/anger/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/anger/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -16838,6 +16925,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
@@ -17058,6 +17146,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/david-messick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/david-messick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/david-messick> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/de-ira> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/dealing-with-feeling-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/dear-abby-advice-giving-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/dear-abby-advice-giving-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -17528,6 +17622,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/reflective-practices> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
   <https://github.com/john1hsu/wisdom-graph/id/everyday-temptations-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
@@ -17620,6 +17715,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/christianity> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
@@ -17717,6 +17813,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/good-temper> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/good-temper> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
+  <https://github.com/john1hsu/wisdom-graph/id/good-temper> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude-interventions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/gratitude/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17823,6 +17921,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
   <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/henry-david-thoreau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18159,6 +18258,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
@@ -18725,6 +18825,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+  <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
   <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
@@ -18740,6 +18841,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
@@ -18805,6 +18907,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/ozlem-ayduk> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
@@ -19285,6 +19388,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
@@ -19471,6 +19575,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
@@ -19574,8 +19679,12 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/self-transcendent-experiences-and-wisdom-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/awe> .
+  <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+  <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/seneca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/seneca> <https://github.com/john1hsu/wisdom-graph/ontology#authored> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/sense-of-coherence-steeling-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/serenity-prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
@@ -19800,11 +19909,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/stoic-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/hellenistic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
+  <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/stoicism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
@@ -20006,6 +20118,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ursula-staudinger> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
   <https://github.com/john1hsu/wisdom-graph/id/ursula-staudinger> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/vedic-ritualism> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/venting-anger-rumination-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/via-character-strengths> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/via-character-strengths> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/via-character-strengths> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
@@ -20048,6 +20161,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .

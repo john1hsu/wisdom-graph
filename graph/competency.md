@@ -143,7 +143,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:anger` | wgo:Obstacle |
 | `wg:decision-theory` | wgo:Field |
 | `wg:failure` | wgo:Context |
 | `wg:judaism` | wgo:Tradition |
