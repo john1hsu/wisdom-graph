@@ -2690,6 +2690,107 @@
    "schema:text": "Check that the humility is believed, not read as a tactic, by keeping your private conduct consistent with what you say in meetings."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I waiting to feel certain about who I am before I try anything at all?",
+   "wgo:questionFor": {
+    "@id": "wg:identity-experiments"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What is the smallest real experiment that would teach me more than another month of thinking?",
+   "wgo:questionFor": {
+    "@id": "wg:identity-experiments"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I hearing only from people who know my old self, or also from people who live the life I am considering?",
+   "wgo:questionFor": {
+    "@id": "wg:identity-experiments"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the step I am about to take one I could undo if this possible self turns out not to fit?",
+   "wgo:questionFor": {
+    "@id": "wg:identity-experiments"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll tutor two evenings a week this term, sit in on a colleague's training sessions, and have coffee with three teachers about their actual week. In four months I'll know far more about whether the teaching self fits.",
+   "wgo:before": "I can't move until I know for certain who I really am and what I want. I'll do one more assessment, then resign and retrain in one go.",
+   "wgo:situation": "An accountant in her late thirties keeps wondering whether she would be happier teaching. She has spent a year reading about career change and taking personality tests, and still feels unsure.",
+   "wgo:why": "The first response treats today's self-image as fixed and knowable by introspection, then gambles everything on it. The second tests the possible self cheaply, gathers feedback from experience and from people on the path, and keeps the move reversible while the answer is still forming."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Identity experiments",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Write down two or three possible selves you are drawn to, and one you fear becoming, without choosing between them yet."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "For each, design a small experiment you can run alongside your current life, such as a side project, a short course, a volunteer role or a temporary assignment."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Seek out people who already live each possibility, outside your usual circle, and spend real time with them rather than only reading about the path."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Run the experiments for a set period, and note after each one what energised you, what felt false, and what feedback others gave you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Borrow selectively from several role models instead of copying one person wholesale, and keep what fits."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Revisit your story about who you are every few months, and only then scale up the experiment that keeps pulling you, while keeping a way back."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Who will live with this decision after I have moved on, and has anyone in the room spoken for them?",
@@ -11472,6 +11573,90 @@
     "@id": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/text/single-page"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Administrative Science Quarterly, 44(4), 764–791 (Ibarra, 1999), copy hosted by MIT",
+   "dcterms:title": "Provisional selves: Experimenting with image and identity in professional adaptation",
+   "schema:url": {
+    "@id": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Self-presentation_Impression_Formation/Ibarra_1999_Provisional_selves.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Harvard Business Review, 80(12), 40–48 (Ibarra, 2002), INSEAD faculty publication page",
+   "dcterms:title": "How to stay stuck in the wrong career",
+   "schema:url": {
+    "@id": "https://www.insead.edu/faculty-research/publications/journal-articles/how-stay-stuck-wrong-career"
+   },
+   "wgo:sourceType": "practitioner-journal"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "INSEAD working paper 2004/21/OB (Ibarra, 2004)",
+   "dcterms:title": "Becoming yourself: Identity, networks and the dynamics of role transition",
+   "schema:url": {
+    "@id": "https://flora.insead.edu/fichiersti_wp/inseadwp2004/2004-21.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "INSEAD Knowledge (Ibarra & Karabell, 8 April 2013)",
+   "dcterms:title": "Making change",
+   "schema:url": {
+    "@id": "https://knowledge.insead.edu/career/making-change"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Science, 339(6115), 96–98 (Quoidbach, Gilbert & Wilson, 2013), author copy hosted by Harvard University",
+   "dcterms:title": "The end of history illusion",
+   "schema:url": {
+    "@id": "https://dtg.sites.fas.harvard.edu/Quoidbach%20et%20al%202013.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Harvard Business Review, 103 (Hardy, 2025), abstract via EBSCO",
+   "dcterms:title": "Take ownership of your future self",
+   "schema:url": {
+    "@id": "https://www.ebsco.com/articles/psychology/e8716a48-9a79-54d0-8c6c-9e7843e646f2/take-ownership-of-your-future-self"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s1",
@@ -26866,6 +27051,113 @@
    "wgo:supportedBy": {
     "@id": "wg:leader-expressed-humility-meta-analysis"
    }
+  },
+  {
+   "@id": "wg:identity-experiments",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6"
+    }
+   ],
+   "rdfs:label": "Identity experiments",
+   "skos:altLabel": [
+    "crafting experiments",
+    "experimenting with possible selves",
+    "provisional selves",
+    "test-and-learn career change",
+    "working identity"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:learning-from-experience"
+    },
+    {
+     "@id": "wg:self-knowledge"
+    }
+   ],
+   "skos:definition": "Learning who you are becoming by trying out possible selves in small, low-risk, real-world experiments, such as side projects, temporary roles and new circles of people, and revising your self-understanding from what happens, instead of trying to settle your future identity by introspection alone before acting.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge"
+   },
+   "skos:prefLabel": "Identity experiments",
+   "skos:related": [
+    {
+     "@id": "wg:big-decisions-opting-converting-drifting"
+    },
+    {
+     "@id": "wg:emulating-moral-exemplars"
+    },
+    {
+     "@id": "wg:end-of-history-illusion"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:reflective-journaling"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:transformative-experience"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:end-of-history-illusion"
+   },
+   "wgo:appliedIn": [
+    {
+     "@id": "wg:career-change"
+    },
+    {
+     "@id": "wg:major-life-decision"
+    }
+   ],
+   "wgo:complements": [
+    {
+     "@id": "wg:developmental-network"
+    },
+    {
+     "@id": "wg:reversible-and-irreversible-decisions"
+    }
+   ],
+   "wgo:domain": "self-knowledge",
+   "wgo:evidenceStatus": "practitioner",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:possible-selves"
+   },
+   "wgo:file": "articles/self-knowledge/identity-experiments.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:herminia-ibarra"
+   },
+   "wgo:level": "intermediate"
   },
   {
    "@id": "wg:igor-grossmann",

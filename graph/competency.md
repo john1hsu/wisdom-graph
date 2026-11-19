@@ -6,9 +6,7 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written obstacles or vices have nothing in the graph that addresses them?_ — `queries/01-problems-without-fix.rq`
 
-| node | type |
-|---|---|
-| `wg:end-of-history-illusion` | wgo:Obstacle |
+_No results._
 
 ## Skills and virtues with no practice (gap)
 
@@ -59,7 +57,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 
-…and 23 more.
+…and 24 more.
 
 ## Toolkit by life situation
 
@@ -78,6 +76,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:ageing` | `wg:lifespan-developmental-psychology` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
 | `wg:ageing` | `wg:three-dimensional-wisdom-model` |
+| `wg:career-change` | `wg:identity-experiments` |
 | `wg:community-decision-making` | `wg:imaginary-future-generations` |
 | `wg:decisions-under-uncertainty` | `wg:decision-theory` |
 | `wg:facing-mortality` | `wg:death-awareness` |
@@ -96,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:after-action-review` |
 | `wg:leading-others` | `wg:balance-theory-of-wisdom` |
-| `wg:leading-others` | `wg:compassion` |
 
-…and 33 more.
+…and 35 more.
 
 ## Myths and contested advice
 

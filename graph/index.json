@@ -7221,6 +7221,132 @@
   ]
  },
  {
+  "id": "wg:identity-experiments",
+  "title": "Identity experiments",
+  "aliases": [
+   "provisional selves",
+   "crafting experiments",
+   "test-and-learn career change",
+   "working identity",
+   "experimenting with possible selves"
+  ],
+  "type": "Practice",
+  "domain": "self-knowledge",
+  "level": "intermediate",
+  "evidenceStatus": "practitioner",
+  "file": "articles/self-knowledge/identity-experiments.md",
+  "created": "2026-11-19",
+  "summary": "Learning who you are becoming by trying out possible selves in small, low-risk, real-world experiments, such as side projects, temporary roles and new circles of people, and revising your self-understanding from what happens, instead of trying to settle your future identity by introspection alone before acting.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:learning-from-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:end-of-history-illusion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:transformative-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:big-decisions-opting-converting-drifting"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reflective-journaling"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emulating-moral-exemplars"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:end-of-history-illusion",
+    "source": "s6",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:herminia-ibarra",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:possible-selves",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:career-change",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:major-life-decision",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:developmental-network",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:reversible-and-irreversible-decisions",
+    "source": "s3",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Am I waiting to feel certain about who I am before I try anything at all?",
+   "What is the smallest real experiment that would teach me more than another month of thinking?",
+   "Am I hearing only from people who know my old self, or also from people who live the life I am considering?",
+   "Is the step I am about to take one I could undo if this possible self turns out not to fit?"
+  ],
+  "steps": [
+   "Write down two or three possible selves you are drawn to, and one you fear becoming, without choosing between them yet.",
+   "For each, design a small experiment you can run alongside your current life, such as a side project, a short course, a volunteer role or a temporary assignment.",
+   "Seek out people who already live each possibility, outside your usual circle, and spend real time with them rather than only reading about the path.",
+   "Run the experiments for a set period, and note after each one what energised you, what felt false, and what feedback others gave you.",
+   "Borrow selectively from several role models instead of copying one person wholesale, and keep what fits.",
+   "Revisit your story about who you are every few months, and only then scale up the experiment that keeps pulling you, while keeping a way back."
+  ],
+  "example": {
+   "situation": "An accountant in her late thirties keeps wondering whether she would be happier teaching. She has spent a year reading about career change and taking personality tests, and still feels unsure.",
+   "before": "I can't move until I know for certain who I really am and what I want. I'll do one more assessment, then resign and retrain in one go.",
+   "after": "I'll tutor two evenings a week this term, sit in on a colleague's training sessions, and have coffee with three teachers about their actual week. In four months I'll know far more about whether the teaching self fits.",
+   "why": "The first response treats today's self-image as fixed and knowable by introspection, then gambles everything on it. The second tests the possible self cheaply, gathers feedback from experience and from people on the path, and keeps the move reversible while the answer is still forming."
+  },
+  "source_urls": [
+   "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Self-presentation_Impression_Formation/Ibarra_1999_Provisional_selves.pdf",
+   "https://www.insead.edu/faculty-research/publications/journal-articles/how-stay-stuck-wrong-career",
+   "https://flora.insead.edu/fichiersti_wp/inseadwp2004/2004-21.pdf",
+   "https://knowledge.insead.edu/career/making-change",
+   "https://dtg.sites.fas.harvard.edu/Quoidbach%20et%20al%202013.pdf",
+   "https://www.ebsco.com/articles/psychology/e8716a48-9a79-54d0-8c6c-9e7843e646f2/take-ownership-of-your-future-self"
+  ]
+ },
+ {
   "id": "wg:igor-grossmann",
   "title": "Igor Grossmann",
   "aliases": [

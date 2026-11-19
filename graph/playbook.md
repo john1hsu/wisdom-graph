@@ -1278,6 +1278,29 @@ Ask yourself:
 - Is there one concrete thing I will say or do differently tomorrow as a result of this review?
 - Am I judging myself by my own considered standards, or by one bad moment?
 
+### [Identity experiments](../articles/self-knowledge/identity-experiments.md) — Practice
+
+1. Write down two or three possible selves you are drawn to, and one you fear becoming, without choosing between them yet.
+2. For each, design a small experiment you can run alongside your current life, such as a side project, a short course, a volunteer role or a temporary assignment.
+3. Seek out people who already live each possibility, outside your usual circle, and spend real time with them rather than only reading about the path.
+4. Run the experiments for a set period, and note after each one what energised you, what felt false, and what feedback others gave you.
+5. Borrow selectively from several role models instead of copying one person wholesale, and keep what fits.
+6. Revisit your story about who you are every few months, and only then scale up the experiment that keeps pulling you, while keeping a way back.
+
+*An accountant in her late thirties keeps wondering whether she would be happier teaching. She has spent a year reading about career change and taking personality tests, and still feels unsure.*
+
+| Before | After |
+|---|---|
+| I can't move until I know for certain who I really am and what I want. I'll do one more assessment, then resign and retrain in one go. | I'll tutor two evenings a week this term, sit in on a colleague's training sessions, and have coffee with three teachers about their actual week. In four months I'll know far more about whether the teaching self fits. |
+
+**Why:** The first response treats today's self-image as fixed and knowable by introspection, then gambles everything on it. The second tests the possible self cheaply, gathers feedback from experience and from people on the path, and keeps the move reversible while the answer is still forming.
+
+Ask yourself:
+- Am I waiting to feel certain about who I am before I try anything at all?
+- What is the smallest real experiment that would teach me more than another month of thinking?
+- Am I hearing only from people who know my old self, or also from people who live the life I am considering?
+- Is the step I am about to take one I could undo if this possible self turns out not to fit?
+
 ### [Know thyself](../articles/self-knowledge/know-thyself.md) — Principle
 
 *After a project review, a manager is told by two team members that her meetings run long because she rarely lets others finish a point.*

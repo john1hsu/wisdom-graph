@@ -3483,6 +3483,88 @@
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/daoism> .
 <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/leader-expressed-humility-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I waiting to feel certain about who I am before I try anything at all?" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What is the smallest real experiment that would teach me more than another month of thinking?" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I hearing only from people who know my old self, or also from people who live the life I am considering?" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Is the step I am about to take one I could undo if this possible self turns out not to fit?" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I'll tutor two evenings a week this term, sit in on a colleague's training sessions, and have coffee with three teachers about their actual week. In four months I'll know far more about whether the teaching self fits." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I can't move until I know for certain who I really am and what I want. I'll do one more assessment, then resign and retrain in one go." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "An accountant in her late thirties keeps wondering whether she would be happier teaching. She has spent a year reading about career change and taking personality tests, and still feels unsure." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first response treats today's self-image as fixed and knowable by introspection, then gambles everything on it. The second tests the possible self cheaply, gathers feedback from experience and from people on the path, and keeps the move reversible while the answer is still forming." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/1> <https://schema.org/text> "Write down two or three possible selves you are drawn to, and one you fear becoming, without choosing between them yet." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/2> <https://schema.org/text> "For each, design a small experiment you can run alongside your current life, such as a side project, a short course, a volunteer role or a temporary assignment." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/3> <https://schema.org/text> "Seek out people who already live each possibility, outside your usual circle, and spend real time with them rather than only reading about the path." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/4> <https://schema.org/text> "Run the experiments for a set period, and note after each one what energised you, what felt false, and what feedback others gave you." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/5> <https://schema.org/text> "Borrow selectively from several role models instead of copying one person wholesale, and keep what fits." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/6> <https://schema.org/text> "Revisit your story about who you are every few months, and only then scale up the experiment that keeps pulling you, while keeping a way back." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/name> "Identity experiments" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2000/01/rdf-schema#label> "Identity experiments" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#altLabel> "crafting experiments" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#altLabel> "experimenting with possible selves" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#altLabel> "provisional selves" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#altLabel> "test-and-learn career change" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#altLabel> "working identity" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#definition> "Learning who you are becoming by trying out possible selves in small, low-risk, real-world experiments, such as side projects, temporary roles and new circles of people, and revising your self-understanding from what happens, instead of trying to settle your future identity by introspection alone before acting." .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#prefLabel> "Identity experiments" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/career-change> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "practitioner" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/example> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/possible-selves> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/identity-experiments.md" .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/herminia-ibarra> .
+<https://github.com/john1hsu/wisdom-graph/id/identity-experiments> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
 <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
 <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2000/01/rdf-schema#label> "Igor Grossmann" .
@@ -9862,6 +9944,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/humble-leadership/s6> <https://schema.org/url> <https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge/text/single-page> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly, 44(4), 764–791 (Ibarra, 1999), copy hosted by MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> <http://purl.org/dc/terms/title> "Provisional selves: Experimenting with image and identity in professional adaptation" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s1> <https://schema.org/url> <https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Self-presentation_Impression_Formation/Ibarra_1999_Provisional_selves.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review, 80(12), 40–48 (Ibarra, 2002), INSEAD faculty publication page" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> <http://purl.org/dc/terms/title> "How to stay stuck in the wrong career" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s2> <https://schema.org/url> <https://www.insead.edu/faculty-research/publications/journal-articles/how-stay-stuck-wrong-career> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> <http://purl.org/dc/terms/publisher> "INSEAD working paper 2004/21/OB (Ibarra, 2004)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> <http://purl.org/dc/terms/title> "Becoming yourself: Identity, networks and the dynamics of role transition" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s3> <https://schema.org/url> <https://flora.insead.edu/fichiersti_wp/inseadwp2004/2004-21.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> <http://purl.org/dc/terms/publisher> "INSEAD Knowledge (Ibarra & Karabell, 8 April 2013)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> <http://purl.org/dc/terms/title> "Making change" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s4> <https://schema.org/url> <https://knowledge.insead.edu/career/making-change> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> <http://purl.org/dc/terms/publisher> "Science, 339(6115), 96–98 (Quoidbach, Gilbert & Wilson, 2013), author copy hosted by Harvard University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> <http://purl.org/dc/terms/title> "The end of history illusion" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s5> <https://schema.org/url> <https://dtg.sites.fas.harvard.edu/Quoidbach%20et%20al%202013.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review, 103 (Hardy, 2025), abstract via EBSCO" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> <http://purl.org/dc/terms/title> "Take ownership of your future self" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/identity-experiments/s6> <https://schema.org/url> <https://www.ebsco.com/articles/psychology/e8716a48-9a79-54d0-8c6c-9e7843e646f2/take-ownership-of-your-future-self> .
 <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://purl.org/dc/terms/publisher> "Wisdom and Culture Lab, University of Waterloo" .
 <https://github.com/john1hsu/wisdom-graph/id/source/igor-grossmann/s10> <http://purl.org/dc/terms/title> "Wisdom Measures" .
