@@ -324,6 +324,38 @@
    "wgo:why": "Anger made you certain about motive and eager to punish; waiting until your body calmed down, and asking before judging, let you defend a fair working norm without escalating, and still learn from the parts of the criticism that were right."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What in this situation actually matters morally, and what am I failing to notice because I'm in a hurry or irritated?",
+   "wgo:questionFor": {
+    "@id": "wg:aristotelian-phronesis-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which of my values are pulling against each other here, and have I decided which gives way and why?",
+   "wgo:questionFor": {
+    "@id": "wg:aristotelian-phronesis-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Does this choice fit the kind of life and person I am trying to become, or only what's convenient today?",
+   "wgo:questionFor": {
+    "@id": "wg:aristotelian-phronesis-model"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Are my feelings about this in proportion to what really happened, or am I running on the first jolt?",
+   "wgo:questionFor": {
+    "@id": "wg:aristotelian-phronesis-model"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/awe/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "When did I last let something vast or excellent stop me long enough to change how I saw my own concerns?",
@@ -6673,6 +6705,90 @@
     "@id": "https://www.apa.org/topics/anger/control"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Human Development, 62(3), 101–129 (Darnell, Gulliford, Kristjánsson & Paris, 2019; doi:10.1159/000496136); accepted manuscript, University of Birmingham repository",
+   "dcterms:title": "Phronesis and the knowledge-action gap in moral psychology and moral education: A new synthesis?",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/55826409/Phronesispaper_Human_Development_accepted.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Personality and Individual Differences, 196, 111684 (Darnell, Fowers & Kristjánsson, 2022; doi:10.1016/j.paid.2022.111684); University of Birmingham research portal",
+   "dcterms:title": "A multifunction approach to assessing Aristotelian phronesis (practical wisdom)",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/en/publications/a-multifunction-approach-to-assessing-aristotelian-phronesis-prac"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Review of General Psychology, 25(3), 239–257 (Kristjánsson, Fowers, Darnell & Pollard, 2021; doi:10.1177/10892680211023063); University of Birmingham repository",
+   "dcterms:title": "Phronesis (practical wisdom) as a type of contextual integrative thinking",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Jubilee Centre for Character and Virtues, University of Birmingham, Insight Series (Pollard)",
+   "dcterms:title": "The development of phronesis in adolescents and young adults: Preliminary findings",
+   "schema:url": {
+    "@id": "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/05/The-Development-of-Phronesis-in.pdf"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Chicago Center for Practical Wisdom, University of Chicago (publication listing for Sanderse, 2026, Human Development; doi:10.1159/000551960)",
+   "dcterms:title": "Does practical wisdom solve the moral knowledge-action gap?",
+   "schema:url": {
+    "@id": "https://wisdomcenter.uchicago.edu/publications/does-practical-wisdom-solve-moral-knowledge-action-gap"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Human Development, 69(1), 48–59 (Villacís & Vaccarezza, 2025; doi:10.1159/000541728); Karger",
+   "dcterms:title": "Promoting human development through virtue: A philosophical and psychological exploration of the practical wisdom blueprint function",
+   "schema:url": {
+    "@id": "https://karger.com/article/doi/10.1159/000541728"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s1",
@@ -21593,6 +21709,125 @@
      "@id": "wg:wise-reasoning"
     }
    ]
+  },
+  {
+   "@id": "wg:aristotelian-phronesis-model",
+   "@type": "wgo:Framework",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aristotelian-phronesis-model/s6"
+    }
+   ],
+   "rdfs:label": "Aristotelian phronesis model",
+   "skos:altLabel": [
+    "APM",
+    "Aristotelian Phronesis Model",
+    "Jubilee Centre phronesis model",
+    "four-function model of phronesis",
+    "multifunction model of practical wisdom",
+    "neo-Aristotelian phronesis model"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    }
+   ],
+   "skos:definition": "A neo-Aristotelian psychological model, developed at the University of Birmingham's Jubilee Centre for Character and Virtues, that treats practical wisdom (phronesis) as four working functions: noticing what matters morally in a situation, weighing values that conflict, steering by a picture of a good life, and bringing emotions into line with reason. It was proposed to explain why knowing what is right so often fails to produce right action.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Aristotelian phronesis model",
+   "skos:related": [
+    {
+     "@id": "wg:common-wisdom-model"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:eudaimonia"
+    },
+    {
+     "@id": "wg:moral-awareness"
+    },
+    {
+     "@id": "wg:moral-habituation"
+    },
+    {
+     "@id": "wg:nicomachean-ethics"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:situated-wise-reasoning-scale"
+    },
+    {
+     "@id": "wg:teaching-for-wisdom"
+    },
+    {
+     "@id": "wg:three-dimensional-wisdom-model"
+    },
+    {
+     "@id": "wg:virtue-ethics"
+    },
+    {
+     "@id": "wg:wisdom-in-professions"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:weakness-of-will"
+   },
+   "wgo:alternativeTo": {
+    "@id": "wg:neo-kohlbergian-four-component-model"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:phronesis-blueprint-function-review"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:common-wisdom-model"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:multifunction-phronesis-assessment-study"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "theoretical",
+   "wgo:file": "articles/science-of-wisdom/aristotelian-phronesis-model.md",
+   "wgo:introducedBy": {
+    "@id": "wg:kristjan-kristjansson"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   },
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   }
   },
   {
    "@id": "wg:aristotle",

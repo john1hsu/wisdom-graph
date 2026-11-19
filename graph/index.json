@@ -946,6 +946,151 @@
   ]
  },
  {
+  "id": "wg:aristotelian-phronesis-model",
+  "title": "Aristotelian phronesis model",
+  "aliases": [
+   "APM",
+   "Aristotelian Phronesis Model",
+   "neo-Aristotelian phronesis model",
+   "four-function model of phronesis",
+   "multifunction model of practical wisdom",
+   "Jubilee Centre phronesis model"
+  ],
+  "type": "Framework",
+  "domain": "science-of-wisdom",
+  "level": "intermediate",
+  "evidenceStatus": "theoretical",
+  "file": "articles/science-of-wisdom/aristotelian-phronesis-model.md",
+  "created": "2026-11-19",
+  "summary": "A neo-Aristotelian psychological model, developed at the University of Birmingham's Jubilee Centre for Character and Virtues, that treats practical wisdom (phronesis) as four working functions: noticing what matters morally in a situation, weighing values that conflict, steering by a picture of a good life, and bringing emotions into line with reason. It was proposed to explain why knowing what is right so often fails to produce right action.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:psychology-of-wisdom"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:common-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-awareness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:eudaimonia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-habituation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:situated-wise-reasoning-scale"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:three-dimensional-wisdom-model"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:teaching-for-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-in-professions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:nicomachean-ethics"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:weakness-of-will",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:kristjan-kristjansson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:multifunction-phronesis-assessment-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:alternativeTo",
+    "object": "wg:neo-kohlbergian-four-component-model",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:common-wisdom-model",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:phronesis-blueprint-function-review",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "What in this situation actually matters morally, and what am I failing to notice because I'm in a hurry or irritated?",
+   "Which of my values are pulling against each other here, and have I decided which gives way and why?",
+   "Does this choice fit the kind of life and person I am trying to become, or only what's convenient today?",
+   "Are my feelings about this in proportion to what really happened, or am I running on the first jolt?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://research.birmingham.ac.uk/files/55826409/Phronesispaper_Human_Development_accepted.pdf",
+   "https://research.birmingham.ac.uk/en/publications/a-multifunction-approach-to-assessing-aristotelian-phronesis-prac",
+   "https://research.birmingham.ac.uk/files/142317699/10892680211023063.pdf",
+   "https://www.jubileecentre.ac.uk/wp-content/uploads/2023/05/The-Development-of-Phronesis-in.pdf",
+   "https://wisdomcenter.uchicago.edu/publications/does-practical-wisdom-solve-moral-knowledge-action-gap",
+   "https://karger.com/article/doi/10.1159/000541728"
+  ]
+ },
+ {
   "id": "wg:aristotle",
   "title": "Aristotle",
   "aliases": [

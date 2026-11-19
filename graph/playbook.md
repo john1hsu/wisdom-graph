@@ -1113,6 +1113,14 @@ Ask yourself:
 
 ## science-of-wisdom
 
+### [Aristotelian phronesis model](../articles/science-of-wisdom/aristotelian-phronesis-model.md) — Framework
+
+Ask yourself:
+- What in this situation actually matters morally, and what am I failing to notice because I'm in a hurry or irritated?
+- Which of my values are pulling against each other here, and have I decided which gives way and why?
+- Does this choice fit the kind of life and person I am trying to become, or only what's convenient today?
+- Are my feelings about this in proportion to what really happened, or am I running on the first jolt?
+
 ### [Balance theory of wisdom](../articles/science-of-wisdom/balance-theory-of-wisdom.md) — Framework
 
 1. Name the decision and the outcome you are tempted to choose before you start weighing it.

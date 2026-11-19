@@ -57,7 +57,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:temperance` | 2 | insensibility, intemperance |
 | `wg:after-action-review` | 1 | Self-reflection |
 
-…and 24 more.
+…and 25 more.
 
 ## Toolkit by life situation
 
@@ -177,6 +177,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:ancient-egyptian-wisdom-literature` | `wg:intellectual-humility` |
 | `wg:ancient-egyptian-wisdom-literature` | `wg:self-control` |
 | `wg:ancient-greek-philosophy` | `wg:kairos` |
+| `wg:aristotelian-virtue-ethics` | `wg:aristotelian-phronesis-model` |
 | `wg:aristotelian-virtue-ethics` | `wg:cleverness` |
 | `wg:aristotelian-virtue-ethics` | `wg:courage` |
 | `wg:aristotelian-virtue-ethics` | `wg:deliberation` |
@@ -202,9 +203,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:christianity` | `wg:cardinal-virtues` |
 | `wg:christianity` | `wg:golden-rule` |
-| `wg:christianity` | `wg:greed` |
 
-…and 49 more.
+…and 50 more.
 
 ## The doctrine of the mean
 
