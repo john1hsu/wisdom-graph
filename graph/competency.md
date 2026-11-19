@@ -143,7 +143,6 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
-| `wg:decision-theory` | wgo:Field |
 | `wg:end-of-history-illusion` | wgo:Obstacle |
 | `wg:failure` | wgo:Context |
 | `wg:judaism` | wgo:Tradition |

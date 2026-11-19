@@ -10725,6 +10725,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (F. MacBride, M. Marion, M. J. Frápolli, D. Edgington, E. Elliott, S. Lutz & J. Paris; first published 2019, substantive revision 2023)",
+   "dcterms:title": "Frank Ramsey",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/ramsey/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Dialectica, 58(4), 483–498 (Richard Bradley, 2004), author's copy at the London School of Economics",
+   "dcterms:title": "Ramsey's Representation Theorem",
+   "schema:url": {
+    "@id": "https://personal.lse.ac.uk/bradleyr/pdf/Ramsey.dialectica.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Partha Dasgupta; first published 2019, substantive revision 2023)",
+   "dcterms:title": "Ramsey and Intergenerational Welfare Economics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/ramsey-economics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Cambridge Journal of Economics, 47(1), 195–213 (Bill Gerrard, 2023), White Rose Research Online open-access copy",
+   "dcterms:title": "Ramsey and Keynes revisited",
+   "schema:url": {
+    "@id": "https://eprints.whiterose.ac.uk/id/eprint/190983/9/beac068.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Dictionary of Scientific Biography / Complete Dictionary of Scientific Biography supplement (Paul Weirich; Charles Scribner's Sons, 2008), MacTutor, University of St Andrews copy",
+   "dcterms:title": "Ramsey, Frank Plumpton",
+   "schema:url": {
+    "@id": "https://mathshistory.st-andrews.ac.uk/DSB/Ramsey.pdf"
+   },
+   "wgo:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The Economic Journal, 38(152), 543–559 (F. P. Ramsey, December 1928), first page via California State University, Sacramento course materials",
+   "dcterms:title": "A Mathematical Theory of Saving",
+   "schema:url": {
+    "@id": "https://www.csus.edu/indiv/o/onure/econ%20200A%20_%20S10/Ramsey.pdf"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -26288,6 +26372,100 @@
      "@id": "wg:loving-kindness-positive-emotions-meta-analysis"
     }
    ]
+  },
+  {
+   "@id": "wg:frank-ramsey",
+   "@type": "wgo:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6"
+    }
+   ],
+   "rdfs:label": "Frank Ramsey",
+   "skos:altLabel": [
+    "F. P. Ramsey",
+    "Frank Plumpton Ramsey"
+   ],
+   "skos:broader": {
+    "@id": "wg:philosophers"
+   },
+   "skos:definition": "Cambridge philosopher, mathematician and economist (1903–1930) whose 1926 essay \"Truth and Probability\" treated belief as a matter of degree, measured by the bets a person would accept, and helped found modern decision theory; he also argued that discounting the well-being of future generations is ethically indefensible.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/thinkers-and-works"
+   },
+   "skos:prefLabel": "Frank Ramsey",
+   "skos:related": [
+    {
+     "@id": "wg:decisions-under-uncertainty"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:imaginary-future-generations"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:intergenerational-discounting"
+    },
+    {
+     "@id": "wg:moral-algebra"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:stewardship"
+    },
+    {
+     "@id": "wg:weakness-of-will"
+    }
+   ],
+   "wgo:authored": {
+    "@id": "wg:truth-and-probability"
+   },
+   "wgo:domain": "thinkers-and-works",
+   "wgo:evidenceStatus": "historical",
+   "wgo:file": "articles/thinkers-and-works/frank-ramsey.md",
+   "wgo:influenced": {
+    "@id": "wg:ludwig-wittgenstein"
+   },
+   "wgo:influencedBy": {
+    "@id": "wg:charles-sanders-peirce"
+   },
+   "wgo:introduced": [
+    {
+     "@id": "wg:decision-theory"
+    },
+    {
+     "@id": "wg:ramsey-test"
+    }
+   ],
+   "wgo:level": "introductory"
   },
   {
    "@id": "wg:generosity",
