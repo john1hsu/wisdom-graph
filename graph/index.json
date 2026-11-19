@@ -492,6 +492,106 @@
   ]
  },
  {
+  "id": "wg:aging-and-wisdom-culture-study",
+  "title": "Aging and wisdom across cultures study",
+  "aliases": [
+   {
+    "Aging and wisdom": "Culture matters"
+   },
+   "Grossmann et al. 2012 Japan–US wisdom study",
+   "Japanese–American age and wise reasoning study"
+  ],
+  "type": "Study",
+  "domain": "science-of-wisdom",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/science-of-wisdom/aging-and-wisdom-culture-study.md",
+  "created": "2026-11-19",
+  "summary": "A 2012 comparison of age-stratified random samples in the United States and Japan which found that wise reasoning about social conflicts rose with age among Americans but not among Japanese, whose younger and middle-aged adults already reasoned more wisely than their American peers.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:wisdom-and-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ageing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:igor-grossmann"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:concept-of-wisdom-cross-cultural-study"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-well-being"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:igor-grossmann",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:lifespan-developmental-psychology",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:cultural-psychology",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:reasoning-about-social-conflicts-study",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:culturally-inclusive-wisdom-study",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://core.ac.uk/download/215255572.pdf",
+   "https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html",
+   "https://scilit.com/publications/5bc24f25efab73bac01bc605f066a29d",
+   "https://psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053"
+  ]
+ },
+ {
   "id": "wg:amor-fati",
   "title": "Amor fati",
   "aliases": [

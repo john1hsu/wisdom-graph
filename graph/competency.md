@@ -114,6 +114,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:adversity` | mixed | `wg:sense-of-coherence-steeling-study` |
 | `wg:after-action-review` | mixed |  |
 | `wg:ageing` | mixed | `wg:subjective-aging-confounding-study` |
+| `wg:aging-and-wisdom-culture-study` | mixed | `wg:culturally-inclusive-wisdom-study` |
 | `wg:anger` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
 | `wg:cognitive-defusion` | mixed | `wg:act-mediation-studies-review` |
@@ -135,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:giving-advice` | mixed |  |
 | `wg:gratitude` | mixed | `wg:gratitude-interventions-meta-analysis` |
 | `wg:greed` | mixed |  |
-| `wg:grief-and-loss` | mixed |  |
 
-…and 58 more.
+…and 59 more.
 
 ## Ideas with no recorded origin (gap)
 

@@ -647,6 +647,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/science-of-wisdom/aging-and-wisdom-culture-study.md" .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/science-of-wisdom/balance-theory-of-wisdom.md" .
@@ -8315,6 +8323,72 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s7> <https://schema.org/url> <https://courses.lumenlearning.com/suny-americanlit1/chapter/reading-where-i-lived-and-what-i-lived-for/> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2000/01/rdf-schema#label> "Aging and wisdom across cultures study" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Grossmann et al. 2012 Japan–US wisdom study" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Japanese–American age and wise reasoning study" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#altLabel> "{'Aging and wisdom': 'Culture matters'}" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#definition> "A 2012 comparison of age-stratified random samples in the United States and Japan which found that wise reasoning about social conflicts rose with age among Americans but not among Japanese, whose younger and middle-aged adults already reasoned more wisely than their American peers." .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aging and wisdom across cultures study" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/concept-of-wisdom-cross-cultural-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/culturally-inclusive-wisdom-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "science-of-wisdom" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/science-of-wisdom/aging-and-wisdom-culture-study.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/cultural-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/reasoning-about-social-conflicts-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> <http://purl.org/dc/terms/publisher> "Psychological Science, 23(10), 1059–1066 (Grossmann, Karasawa, Izumi, Na, Varnum, Kitayama & Nisbett, 2012; doi:10.1177/0956797612446025); CORE open-access copy" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> <http://purl.org/dc/terms/title> "Aging and wisdom: Culture matters" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1> <https://schema.org/url> <https://core.ac.uk/download/215255572.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> <http://purl.org/dc/terms/publisher> "Association for Psychological Science, news release (30 August 2012)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> <http://purl.org/dc/terms/title> "Does wisdom really come with age? It depends on the culture" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2> <https://schema.org/url> <https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> <http://purl.org/dc/terms/publisher> "International Journal of Behavioral Development, 26(3), 269–277 (Takahashi & Overton, 2002; doi:10.1080/01650250143000139); Scilit record" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> <http://purl.org/dc/terms/title> "Wisdom: A culturally inclusive developmental perspective" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3> <https://schema.org/url> <https://scilit.com/publications/5bc24f25efab73bac01bc605f066a29d> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> <http://purl.org/dc/terms/publisher> "Social Psychological and Personality Science (Grossmann, Gerlach & Denissen, 2016); University of Göttingen, Biological Personality Psychology publications page" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> <http://purl.org/dc/terms/title> "Wise reasoning in the face of everyday life challenges" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4> <https://schema.org/url> <https://psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> <http://purl.org/dc/terms/publisher> "Journal of Experimental Psychology: General, 142(3), 944–953 (Grossmann, Na, Varnum, Kitayama & Nisbett, 2013; doi:10.1037/a0029560); PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> <http://purl.org/dc/terms/title> "A route to well-being: Intelligence versus wise reasoning" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Whose interests have I left off the list, including people who are not in the room?" .
@@ -15951,6 +16025,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/life-transitions> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
   <https://github.com/john1hsu/wisdom-graph/id/ageing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
@@ -15965,11 +16040,14 @@
   <https://github.com/john1hsu/wisdom-graph/id/ageism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/aggression> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
-  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
-  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+  <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> <https://github.com/john1hsu/wisdom-graph/ontology#requires> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/alan-waterman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/alan-waterman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/alan-waterman> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/hedonic-and-eudaimonic-well-being> .
@@ -16409,6 +16487,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/concept-of-wisdom-cross-cultural-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/concept-of-wisdom-cross-cultural-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/concept-of-wisdom-cross-cultural-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/concept-of-wisdom-cross-cultural-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/condonation> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/conflict-reappraisal-marriage-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -16514,6 +16593,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/cultural-anthropologists> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/cultural-anthropologists> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ernest-becker> .
   <https://github.com/john1hsu/wisdom-graph/id/cultural-differences-in-positivity-effect-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/cultural-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/cultural-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/cultural-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/culturally-inclusive-wisdom-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/cumulative-lifetime-adversity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cumulative-lifetime-adversity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/cumulative-lifetime-adversity-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
@@ -16627,6 +16710,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/development-of-wisdom-across-the-life-span> <https://github.com/john1hsu/wisdom-graph/ontology#authoredBy> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -17353,6 +17437,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -17474,6 +17559,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
@@ -17582,6 +17668,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
@@ -17800,6 +17887,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -18252,6 +18340,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-cognition> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
@@ -18269,6 +18358,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -18467,6 +18557,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/implicit-theories-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
+  <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
@@ -18509,6 +18600,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/reasoning-about-social-conflicts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/reasoning-about-social-conflicts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/reasoning-about-social-conflicts-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
+  <https://github.com/john1hsu/wisdom-graph/id/reasoning-about-social-conflicts-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/reconciliation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/reconciliation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
   <https://github.com/john1hsu/wisdom-graph/id/reconciliation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -19530,6 +19622,8 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/life-review> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/on-old-age> .
@@ -19557,6 +19651,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-can-be-taught-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
@@ -19694,6 +19789,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/common-wisdom-model> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
@@ -19716,6 +19812,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .

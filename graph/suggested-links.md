@@ -23,9 +23,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.90 | `wg:deliberation` | `wg:moral-virtues` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cleverness`, `wg:doctrine-of-the-mean`, `wg:intellectual-virtues` |
 | 2.87 | `wg:theoretical-wisdom` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:eudaimonia`, `wg:intellectual-humility`, `wg:intellectual-virtues` |
 | 2.86 | `wg:self-distancing` | `wg:wisdom` | `wg:intellectual-humility`, `wg:intellectual-virtues`, `wg:personal-and-general-wisdom`, `wg:post-traumatic-growth`, `wg:psychology-of-wisdom` |
-| 2.85 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
+| 2.84 | `wg:balance-theory-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:major-life-decision` |
 | 2.82 | `wg:intellectual-humility` | `wg:wise-leadership` | `wg:berlin-wisdom-paradigm`, `wg:deliberation`, `wg:hubris`, `wg:humble-leadership`, `wg:leading-others` |
 | 2.82 | `wg:regulatory-flexibility` | `wg:richard-lazarus` | `wg:adversity`, `wg:cognitive-reappraisal`, `wg:compassionate-reappraisal`, `wg:dichotomy-of-control`, `wg:emotion-regulation` |
 | 2.81 | `wg:cleverness` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-virtues`, `wg:moral-virtues` |
-| 2.79 | `wg:interpersonal-conflict` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:moral-case-deliberation`, `wg:perspective-taking`, `wg:philosophical-hermeneutics` |
+| 2.78 | `wg:interpersonal-conflict` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:moral-case-deliberation`, `wg:perspective-taking`, `wg:philosophical-hermeneutics` |
 | 2.73 | `wg:book-of-proverbs` | `wg:intellectual-humility` | `wg:ancient-egyptian-wisdom-literature`, `wg:folly`, `wg:hebrew-wisdom-literature`, `wg:hubris`, `wg:humility` |

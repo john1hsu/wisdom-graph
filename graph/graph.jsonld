@@ -6025,6 +6025,76 @@
    "wgo:sourceType": "preprint"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Psychological Science, 23(10), 1059–1066 (Grossmann, Karasawa, Izumi, Na, Varnum, Kitayama & Nisbett, 2012; doi:10.1177/0956797612446025); CORE open-access copy",
+   "dcterms:title": "Aging and wisdom: Culture matters",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/215255572.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Association for Psychological Science, news release (30 August 2012)",
+   "dcterms:title": "Does wisdom really come with age? It depends on the culture",
+   "schema:url": {
+    "@id": "https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "International Journal of Behavioral Development, 26(3), 269–277 (Takahashi & Overton, 2002; doi:10.1080/01650250143000139); Scilit record",
+   "dcterms:title": "Wisdom: A culturally inclusive developmental perspective",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/5bc24f25efab73bac01bc605f066a29d"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Social Psychological and Personality Science (Grossmann, Gerlach & Denissen, 2016); University of Göttingen, Biological Personality Psychology publications page",
+   "dcterms:title": "Wise reasoning in the face of everyday life challenges",
+   "schema:url": {
+    "@id": "https://psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Experimental Psychology: General, 142(3), 944–953 (Grossmann, Na, Varnum, Kitayama & Nisbett, 2013; doi:10.1037/a0029560); PubMed Central",
+   "dcterms:title": "A route to well-being: Intelligence versus wise reasoning",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3594053"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/amor-fati/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -20111,6 +20181,95 @@
    },
    "wgo:file": "articles/adversity-and-mortality/ageing.md",
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:aging-and-wisdom-culture-study",
+   "@type": "wgo:Study",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/aging-and-wisdom-culture-study/s5"
+    }
+   ],
+   "rdfs:label": "Aging and wisdom across cultures study",
+   "skos:altLabel": [
+    "Grossmann et al. 2012 Japan–US wisdom study",
+    "Japanese–American age and wise reasoning study",
+    "{'Aging and wisdom': 'Culture matters'}"
+   ],
+   "skos:broader": {
+    "@id": "wg:wisdom-and-age"
+   },
+   "skos:definition": "A 2012 comparison of age-stratified random samples in the United States and Japan which found that wise reasoning about social conflicts rose with age among Americans but not among Japanese, whose younger and middle-aged adults already reasoned more wisely than their American peers.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/science-of-wisdom"
+   },
+   "skos:prefLabel": "Aging and wisdom across cultures study",
+   "skos:related": [
+    {
+     "@id": "wg:ageing"
+    },
+    {
+     "@id": "wg:concept-of-wisdom-cross-cultural-study"
+    },
+    {
+     "@id": "wg:igor-grossmann"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:wisdom-and-well-being"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:culturally-inclusive-wisdom-study"
+   },
+   "wgo:domain": "science-of-wisdom",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:file": "articles/science-of-wisdom/aging-and-wisdom-culture-study.md",
+   "wgo:introducedBy": {
+    "@id": "wg:igor-grossmann"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": {
+    "@id": "wg:wise-reasoning"
+   },
+   "wgo:studiedIn": [
+    {
+     "@id": "wg:cultural-psychology"
+    },
+    {
+     "@id": "wg:lifespan-developmental-psychology"
+    }
+   ],
+   "wgo:supportedBy": {
+    "@id": "wg:reasoning-about-social-conflicts-study"
+   }
   },
   {
    "@id": "wg:amor-fati",
