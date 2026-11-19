@@ -801,6 +801,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/end-of-history-illusion.md" .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/self-knowledge/evening-review.md" .
@@ -9891,6 +9900,99 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/cognitive-defusion/s6> <https://schema.org/url> <https://contextualscience.org/book/export/html/31> .
 }
 
+<https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "How different was I ten years ago from who I am now, and why do I assume the next ten years will be quieter?" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I locking in a costly, hard-to-reverse commitment to a taste or value I have held for only a few years?" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Who has already lived through the change I'm considering, and have I asked how it actually felt?" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "If my priorities shift, is there a way back from this decision, and what would it cost me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Ten years ago I'd have said I'd never enjoy public speaking, and now I like it. Let me talk to two people who made this switch, and ask whether I can trial it for six months with a way back." .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'm just not a people person and never will be. Saying yes would mean pretending to be someone I'm not." .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "Your manager offers you a two-year rotation leading a small team. You have always seen yourself as a hands-on specialist, and the offer means stepping away from the technical work you enjoy." .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first answer treats today's preferences as permanent. The second recalls how much has already changed, borrows the experience of people who have lived the choice, and keeps the decision reversible while the future self is still unknown." .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Obstacle> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2000/01/rdf-schema#label> "End-of-history illusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#altLabel> "EoHI" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#altLabel> "end of history illusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#altLabel> "underestimating future personal change" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#definition> "The tendency, found at every adult age, to recognise how much one's personality, values and preferences have changed over the past decade while expecting them to change much less over the next one, as if the person one is today were the finished version." .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#prefLabel> "End-of-history illusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-life-satisfaction-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "self-knowledge" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/self-enhancement> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/self-knowledge/end-of-history-illusion.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/mean-level-personality-change-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <https://github.com/john1hsu/wisdom-graph/ontology#undermines> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> <http://purl.org/dc/terms/publisher> "Science, 339(6115), 96–98 (Quoidbach, Gilbert & Wilson, 2013), author copy hosted by the MIDUS study, University of Wisconsin–Madison" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> <http://purl.org/dc/terms/title> "The end of history illusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s1> <https://schema.org/url> <https://midus.wisc.edu/wp-content/uploads/2024/04/1256.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> <http://purl.org/dc/terms/publisher> "Current Directions in Psychological Science, 17(1), 31–35 (Roberts & Mroczek, 2008), PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> <http://purl.org/dc/terms/title> "Personality trait change in adulthood" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s2> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC2743415> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> <http://purl.org/dc/terms/publisher> "Journal of Research in Personality, 86, 103937 (Quoidbach, Gilbert & Wilson, 2020), author copy hosted by the MIDUS study" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> <http://purl.org/dc/terms/title> "Your life satisfaction will change more than you think: A comment on Harris and Busseri (2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s3> <https://schema.org/url> <https://midus.wisc.edu/wp-content/uploads/2024/04/2073.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> <http://purl.org/dc/terms/publisher> "Journal of Research in Personality, 88, 104013 (Busseri & Harris, 2020), author copy hosted by the MIDUS study" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> <http://purl.org/dc/terms/title> "Life satisfaction and the 'end of history illusion': A reply to Quoidbach, Gilbert, and Wilson (2020)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s4> <https://schema.org/url> <https://midus.wisc.edu/wp-content/uploads/2024/04/2180.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 48(9), 1331–1348 (Haas & Omura, 2022), author copy hosted by the MIDUS study" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> <http://purl.org/dc/terms/title> "Cultural differences in susceptibility to the end of history illusion" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s5> <https://schema.org/url> <https://midus.wisc.edu/findings/pdfs/2383.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> <http://purl.org/dc/terms/publisher> "Science, 323(5921), 1617–1619 (Gilbert, Killingsworth, Eyre & Wilson, 2009), Harvard DASH repository" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> <http://purl.org/dc/terms/title> "The surprising power of neighborly advice" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/end-of-history-illusion/s6> <https://schema.org/url> <https://dash.harvard.edu/server/api/core/bitstreams/7312037c-63f2-6bd4-e053-0100007fdf3b/content> .
+}
+
 <https://github.com/john1hsu/wisdom-graph/id/evening-review#graph> {
   <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
   <https://github.com/john1hsu/wisdom-graph/id/evening-review/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I reviewing today's conduct to improve it tomorrow, or to punish myself for it?" .
@@ -17298,6 +17400,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
+  <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
   <https://github.com/john1hsu/wisdom-graph/id/deescalation-strategies-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/deescalation-strategies-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -17584,8 +17687,22 @@
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/sage> .
   <https://github.com/john1hsu/wisdom-graph/id/enchiridion> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
-  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
-  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/end-of-history-life-satisfaction-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/envy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/greed> .
   <https://github.com/john1hsu/wisdom-graph/id/envy> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/envy> <https://github.com/john1hsu/wisdom-graph/ontology#causedBy> <https://github.com/john1hsu/wisdom-graph/id/greed> .
@@ -18016,6 +18133,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
   <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
@@ -18262,6 +18380,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
@@ -18312,6 +18431,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
@@ -18671,6 +18791,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/management-scholars> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/management-scholars> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/linda-hill> .
   <https://github.com/john1hsu/wisdom-graph/id/mans-search-for-meaning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18695,6 +18816,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/maximizing-versus-satisficing-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/maximizing> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
   <https://github.com/john1hsu/wisdom-graph/id/mcd-impact-multiple-case-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
+  <https://github.com/john1hsu/wisdom-graph/id/mean-level-personality-change-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-and-physical-health-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-group-psychotherapy-trial> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
   <https://github.com/john1hsu/wisdom-graph/id/meaning-centered-psychotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/logotherapy> .
@@ -18975,6 +19097,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -19403,6 +19526,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
   <https://github.com/john1hsu/wisdom-graph/id/regret> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
@@ -19476,6 +19600,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
+  <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/rhetoric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -19629,6 +19754,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emulating-moral-exemplars> .
+  <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/folly> .
   <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
@@ -19700,6 +19826,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/self-deception> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
@@ -19750,6 +19877,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-enhancement> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -19760,15 +19888,18 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
   <https://github.com/john1hsu/wisdom-graph/id/self-other-knowledge-asymmetry-model> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/self-perceptions-of-aging-longevity-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -20233,6 +20364,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/transactional-model-of-stress-and-coping> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/transformational-leadership> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/big-decisions-opting-converting-drifting> .
+  <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/transformative-experience> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
   <https://github.com/john1hsu/wisdom-graph/id/truth-and-method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/truth-and-method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
@@ -20312,6 +20444,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -20534,6 +20667,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .

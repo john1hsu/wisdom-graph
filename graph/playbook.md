@@ -1239,6 +1239,22 @@ Ask yourself:
 - Am I using a defusion trick to make the feeling go away, rather than to make room for it?
 - Have I checked whether the thought is pointing to a real problem that deserves action?
 
+### [End-of-history illusion](../articles/self-knowledge/end-of-history-illusion.md) — Obstacle
+
+*Your manager offers you a two-year rotation leading a small team. You have always seen yourself as a hands-on specialist, and the offer means stepping away from the technical work you enjoy.*
+
+| Before | After |
+|---|---|
+| I'm just not a people person and never will be. Saying yes would mean pretending to be someone I'm not. | Ten years ago I'd have said I'd never enjoy public speaking, and now I like it. Let me talk to two people who made this switch, and ask whether I can trial it for six months with a way back. |
+
+**Why:** The first answer treats today's preferences as permanent. The second recalls how much has already changed, borrows the experience of people who have lived the choice, and keeps the decision reversible while the future self is still unknown.
+
+Ask yourself:
+- How different was I ten years ago from who I am now, and why do I assume the next ten years will be quieter?
+- Am I locking in a costly, hard-to-reverse commitment to a taste or value I have held for only a few years?
+- Who has already lived through the change I'm considering, and have I asked how it actually felt?
+- If my priorities shift, is there a way back from this decision, and what would it cost me?
+
 ### [Evening review](../articles/self-knowledge/evening-review.md) — Practice
 
 1. Pick a fixed, short slot at the end of the day, such as the last ten minutes before bed, and keep it whether or not the day went well.

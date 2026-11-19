@@ -4556,6 +4556,125 @@
   ]
  },
  {
+  "id": "wg:end-of-history-illusion",
+  "title": "End-of-history illusion",
+  "aliases": [
+   "end of history illusion",
+   "EoHI",
+   "underestimating future personal change"
+  ],
+  "type": "Obstacle",
+  "domain": "self-knowledge",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/self-knowledge/end-of-history-illusion.md",
+  "created": "2026-11-19",
+  "summary": "The tendency, found at every adult age, to recognise how much one's personality, values and preferences have changed over the past decade while expecting them to change much less over the next one, as if the person one is today were the finished version.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-knowledge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:major-life-decision"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:big-decisions-opting-converting-drifting"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:transformative-experience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:regret"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:reversible-and-irreversible-decisions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-adaptation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:decisions-under-uncertainty"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:end-of-history-illusion-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:major-life-decision",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:undermines",
+    "object": "wg:self-knowledge",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:mean-level-personality-change-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:self-enhancement",
+    "source": "s5",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:end-of-history-life-satisfaction-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "How different was I ten years ago from who I am now, and why do I assume the next ten years will be quieter?",
+   "Am I locking in a costly, hard-to-reverse commitment to a taste or value I have held for only a few years?",
+   "Who has already lived through the change I'm considering, and have I asked how it actually felt?",
+   "If my priorities shift, is there a way back from this decision, and what would it cost me?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "Your manager offers you a two-year rotation leading a small team. You have always seen yourself as a hands-on specialist, and the offer means stepping away from the technical work you enjoy.",
+   "before": "I'm just not a people person and never will be. Saying yes would mean pretending to be someone I'm not.",
+   "after": "Ten years ago I'd have said I'd never enjoy public speaking, and now I like it. Let me talk to two people who made this switch, and ask whether I can trial it for six months with a way back.",
+   "why": "The first answer treats today's preferences as permanent. The second recalls how much has already changed, borrows the experience of people who have lived the choice, and keeps the decision reversible while the future self is still unknown."
+  },
+  "source_urls": [
+   "https://midus.wisc.edu/wp-content/uploads/2024/04/1256.pdf",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2743415",
+   "https://midus.wisc.edu/wp-content/uploads/2024/04/2073.pdf",
+   "https://midus.wisc.edu/wp-content/uploads/2024/04/2180.pdf",
+   "https://midus.wisc.edu/findings/pdfs/2383.pdf",
+   "https://dash.harvard.edu/server/api/core/bitstreams/7312037c-63f2-6bd4-e053-0100007fdf3b/content"
+  ]
+ },
+ {
   "id": "wg:epicureanism",
   "title": "Epicureanism",
   "aliases": [
