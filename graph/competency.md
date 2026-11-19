@@ -124,6 +124,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:death-awareness` | mixed |  |
 | `wg:decision-theory` | mixed | `wg:allais-paradox` |
 | `wg:decision-theory` | mixed | `wg:ellsberg-paradox` |
+| `wg:decisions-under-uncertainty` | mixed |  |
 | `wg:deliberation` | mixed | `wg:thinking-too-much-study` |
 | `wg:developmental-network` | mixed |  |
 | `wg:emotional-suppression` | mixed | `wg:suppression-paradox-study` |
@@ -133,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:ethical-fading` | mixed |  |
 | `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 | `wg:failure` | mixed | `wg:answer-consistency-critique` |
-| `wg:folly` | mixed |  |
 
-…and 64 more.
+…and 65 more.
 
 ## Ideas with no recorded origin (gap)
 

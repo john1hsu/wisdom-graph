@@ -669,6 +669,21 @@ Ask yourself:
 
 ## judgment-and-decisions
 
+### [Decisions under uncertainty](../articles/judgment-and-decisions/decisions-under-uncertainty.md) — Context
+
+*A team lead is asked to commit to a firm twelve-month sales forecast for a service the company has never sold, in a market nobody on the team knows well.*
+
+| Before | After |
+|---|---|
+| I'll build a detailed spreadsheet with one number per month and defend it. Admitting we don't know would look weak. | I'll say plainly what we know and what we don't, give a range with two or three scenarios, start with a small pilot we can scale or stop, and name the signals that would make us revise. |
+
+**Why:** A single precise forecast hides how little is known and invites a big, hard-to-reverse bet; naming the uncertainty and buying information cheaply keeps options open without freezing the team.
+
+Ask yourself:
+- Do I actually know the odds here, or am I treating a guess as if it were a measured probability?
+- Which of my options still leaves me in a tolerable position if the future turns out quite differently from what I expect?
+- What is the cheapest step I could take now that would teach me something before I commit further?
+
 ### [Deliberation](../articles/judgment-and-decisions/deliberation.md) — Skill
 
 1. Check that the matter is actually up to you and that its outcome is genuinely uncertain; if not, stop deliberating and either accept it or act on what is known.

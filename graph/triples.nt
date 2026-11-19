@@ -1665,6 +1665,56 @@
 <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/decision-theory.md" .
 <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
 <https://github.com/john1hsu/wisdom-graph/id/decision-theory> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/prospect-theory-replication-study> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Do I actually know the odds here, or am I treating a guess as if it were a measured probability?" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Which of my options still leaves me in a tolerable position if the future turns out quite differently from what I expect?" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What is the cheapest step I could take now that would teach me something before I commit further?" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I'll say plainly what we know and what we don't, give a range with two or three scenarios, start with a small pilot we can scale or stop, and name the signals that would make us revise." .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I'll build a detailed spreadsheet with one number per month and defend it. Admitting we don't know would look weak." .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A team lead is asked to commit to a firm twelve-month sales forecast for a service the company has never sold, in a market nobody on the team knows well." .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "A single precise forecast hides how little is known and invites a big, hard-to-reverse bet; naming the uncertainty and buying information cheaply keeps options open without freezing the team." .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "Decisions under uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#altLabel> "Knightian uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#altLabel> "deciding under uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#altLabel> "decision-making under uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#altLabel> "radical uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#altLabel> "unmeasurable uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#definition> "Choices made when the possible outcomes, or their odds, cannot be known or reliably measured in advance, as opposed to choices under risk, where the odds are known. Recognising and managing this kind of uncertainty is one of the marks that wisdom researchers use to tell wise judgment from mere cleverness." .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decisions under uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ellsberg-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/fast-and-frugal-heuristics> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/satisficing> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-risk> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "judgment-and-decisions" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/judgment-and-decisions/decisions-under-uncertainty.md" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/frank-knight> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
+<https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is this decision actually within my power, and is the outcome really uncertain, or am I deliberating to put off accepting something?" .
 <https://github.com/john1hsu/wisdom-graph/id/deliberation/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
@@ -8570,6 +8620,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/decision-theory/s5> <https://schema.org/url> <https://core.ac.uk/download/210693851.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> <http://purl.org/dc/terms/publisher> "Frank H. Knight (1921), Houghton Mifflin; Library of Economics and Liberty (Econlib), Liberty Fund" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> <http://purl.org/dc/terms/title> "Risk, Uncertainty, and Profit, Part III, Chapter VIII: Structures and Methods for Meeting Uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1> <https://schema.org/url> <https://www.econlib.org/library/Knight/knRUP7.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> <http://purl.org/dc/terms/publisher> "Journal of Business Research, 67(8), 1671–1678 (Mousavi & Gigerenzer, 2014); Max Planck Society repository (MPG.PuRe)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> <http://purl.org/dc/terms/title> "Risk, uncertainty, and heuristics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2> <https://schema.org/url> <https://pure.mpg.de/pubman/item/item_2096854_3/component/file_2096853/SM_Risk_2014.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> <http://purl.org/dc/terms/publisher> "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000); Max Planck Society repository (MPG.PuRe)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> <http://purl.org/dc/terms/title> "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3> <https://schema.org/url> <https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> <http://purl.org/dc/terms/publisher> "Trends in Cognitive Sciences (Johnson, Karimi, Bengio, Chater, Gerstenberg, Larson, Levine, Mitchell, Rahwan, Schölkopf & Grossmann, 2026; doi:10.1016/j.tics.2026.01.002); Causality in Cognition Lab, Stanford University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> <http://purl.org/dc/terms/title> "Imagining and building wise machines: The centrality of AI metacognition" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4> <https://schema.org/url> <https://cicl.stanford.edu/papers/johnson2026wise.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Seamus Bradley; first published 2014, substantive revision 2019)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> <http://purl.org/dc/terms/title> "Imprecise Probabilities" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5> <https://schema.org/url> <https://plato.stanford.edu/ENTRIES/imprecise-probabilities/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review, November–December 1997 (Courtney, Kirkland & Viguerie); reprint, McKinsey & Company" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> <http://purl.org/dc/terms/title> "Strategy under uncertainty" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6> <https://schema.org/url> <https://mckinsey.com/~/media/McKinsey/Featured%20Insights/Managing%20In%20Uncertainty/Strategy%20under%20uncertainty/Strategy%20under%20uncertainty.pdf> .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, Massachusetts Institute of Technology" .
 <https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book III (translated by W. D. Ross)" .

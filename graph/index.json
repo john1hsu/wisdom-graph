@@ -3626,6 +3626,110 @@
   ]
  },
  {
+  "id": "wg:decisions-under-uncertainty",
+  "title": "Decisions under uncertainty",
+  "aliases": [
+   "deciding under uncertainty",
+   "decision-making under uncertainty",
+   "Knightian uncertainty",
+   "radical uncertainty",
+   "unmeasurable uncertainty"
+  ],
+  "type": "Context",
+  "domain": "judgment-and-decisions",
+  "level": "intermediate",
+  "evidenceStatus": "mixed",
+  "file": "articles/judgment-and-decisions/decisions-under-uncertainty.md",
+  "created": "2026-11-19",
+  "summary": "Choices made when the possible outcomes, or their odds, cannot be known or reliably measured in advance, as opposed to choices under risk, where the odds are known. Recognising and managing this kind of uncertainty is one of the marks that wisdom researchers use to tell wise judgment from mere cleverness.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:berlin-wisdom-paradigm"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wise-reasoning"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:fast-and-frugal-heuristics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:satisficing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ellsberg-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:deliberation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:decisions-under-risk",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:frank-knight",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:decision-theory",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "selfCheck": [
+   "Do I actually know the odds here, or am I treating a guess as if it were a measured probability?",
+   "Which of my options still leaves me in a tolerable position if the future turns out quite differently from what I expect?",
+   "What is the cheapest step I could take now that would teach me something before I commit further?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A team lead is asked to commit to a firm twelve-month sales forecast for a service the company has never sold, in a market nobody on the team knows well.",
+   "before": "I'll build a detailed spreadsheet with one number per month and defend it. Admitting we don't know would look weak.",
+   "after": "I'll say plainly what we know and what we don't, give a range with two or three scenarios, start with a small pilot we can scale or stop, and name the signals that would make us revise.",
+   "why": "A single precise forecast hides how little is known and invites a big, hard-to-reverse bet; naming the uncertainty and buying information cheaply keeps options open without freezing the team."
+  },
+  "source_urls": [
+   "https://www.econlib.org/library/Knight/knRUP7.html",
+   "https://pure.mpg.de/pubman/item/item_2096854_3/component/file_2096853/SM_Risk_2014.pdf",
+   "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf",
+   "https://cicl.stanford.edu/papers/johnson2026wise.pdf",
+   "https://plato.stanford.edu/ENTRIES/imprecise-probabilities/",
+   "https://mckinsey.com/~/media/McKinsey/Featured%20Insights/Managing%20In%20Uncertainty/Strategy%20under%20uncertainty/Strategy%20under%20uncertainty.pdf"
+  ]
+ },
+ {
   "id": "wg:deliberation",
   "title": "Deliberation",
   "aliases": [

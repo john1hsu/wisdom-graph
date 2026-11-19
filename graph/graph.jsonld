@@ -1136,6 +1136,38 @@
    "wgo:why": "Silence avoids risk at the cost of the goal, and a reckless outburst takes risk without judgment. The wiser response accepts a real personal cost for a worthy aim, and uses preparation, framing and follow-up so the risk actually serves that aim."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do I actually know the odds here, or am I treating a guess as if it were a measured probability?",
+   "wgo:questionFor": {
+    "@id": "wg:decisions-under-uncertainty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which of my options still leaves me in a tolerable position if the future turns out quite differently from what I expect?",
+   "wgo:questionFor": {
+    "@id": "wg:decisions-under-uncertainty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What is the cheapest step I could take now that would teach me something before I commit further?",
+   "wgo:questionFor": {
+    "@id": "wg:decisions-under-uncertainty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll say plainly what we know and what we don't, give a range with two or three scenarios, start with a small pilot we can scale or stop, and name the signals that would make us revise.",
+   "wgo:before": "I'll build a detailed spreadsheet with one number per month and defend it. Admitting we don't know would look weak.",
+   "wgo:situation": "A team lead is asked to commit to a firm twelve-month sales forecast for a service the company has never sold, in a market nobody on the team knows well.",
+   "wgo:why": "A single precise forecast hides how little is known and invites a big, hard-to-reverse bet; naming the uncertainty and buying information cheaply keeps options open without freezing the team."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/deliberation/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Is this decision actually within my power, and is the outcome really uncertain, or am I deliberating to put off accepting something?",
@@ -8628,6 +8660,90 @@
     "@id": "https://core.ac.uk/download/210693851.pdf"
    },
    "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Frank H. Knight (1921), Houghton Mifflin; Library of Economics and Liberty (Econlib), Liberty Fund",
+   "dcterms:title": "Risk, Uncertainty, and Profit, Part III, Chapter VIII: Structures and Methods for Meeting Uncertainty",
+   "schema:url": {
+    "@id": "https://www.econlib.org/library/Knight/knRUP7.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Business Research, 67(8), 1671–1678 (Mousavi & Gigerenzer, 2014); Max Planck Society repository (MPG.PuRe)",
+   "dcterms:title": "Risk, uncertainty, and heuristics",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2096854_3/component/file_2096853/SM_Risk_2014.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "American Psychologist, 55(1), 122–136 (Baltes & Staudinger, 2000); Max Planck Society repository (MPG.PuRe)",
+   "dcterms:title": "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence",
+   "schema:url": {
+    "@id": "https://pure.mpg.de/pubman/item/item_2102711_1/component/file_2102710/PB_Wisdom_2000.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Trends in Cognitive Sciences (Johnson, Karimi, Bengio, Chater, Gerstenberg, Larson, Levine, Mitchell, Rahwan, Schölkopf & Grossmann, 2026; doi:10.1016/j.tics.2026.01.002); Causality in Cognition Lab, Stanford University",
+   "dcterms:title": "Imagining and building wise machines: The centrality of AI metacognition",
+   "schema:url": {
+    "@id": "https://cicl.stanford.edu/papers/johnson2026wise.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Seamus Bradley; first published 2014, substantive revision 2019)",
+   "dcterms:title": "Imprecise Probabilities",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/imprecise-probabilities/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Harvard Business Review, November–December 1997 (Courtney, Kirkland & Viguerie); reprint, McKinsey & Company",
+   "dcterms:title": "Strategy under uncertainty",
+   "schema:url": {
+    "@id": "https://mckinsey.com/~/media/McKinsey/Featured%20Insights/Managing%20In%20Uncertainty/Strategy%20under%20uncertainty/Strategy%20under%20uncertainty.pdf"
+   },
+   "wgo:sourceType": "practitioner-journal"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/deliberation/s1",
@@ -23535,6 +23651,100 @@
    "wgo:supportedBy": {
     "@id": "wg:prospect-theory-replication-study"
    }
+  },
+  {
+   "@id": "wg:decisions-under-uncertainty",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/decisions-under-uncertainty/s6"
+    }
+   ],
+   "rdfs:label": "Decisions under uncertainty",
+   "skos:altLabel": [
+    "Knightian uncertainty",
+    "deciding under uncertainty",
+    "decision-making under uncertainty",
+    "radical uncertainty",
+    "unmeasurable uncertainty"
+   ],
+   "skos:broader": {
+    "@id": "wg:practical-wisdom"
+   },
+   "skos:definition": "Choices made when the possible outcomes, or their odds, cannot be known or reliably measured in advance, as opposed to choices under risk, where the odds are known. Recognising and managing this kind of uncertainty is one of the marks that wisdom researchers use to tell wise judgment from mere cleverness.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/judgment-and-decisions"
+   },
+   "skos:prefLabel": "Decisions under uncertainty",
+   "skos:related": [
+    {
+     "@id": "wg:berlin-wisdom-paradigm"
+    },
+    {
+     "@id": "wg:deliberation"
+    },
+    {
+     "@id": "wg:ellsberg-paradox"
+    },
+    {
+     "@id": "wg:fast-and-frugal-heuristics"
+    },
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:satisficing"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:contrastsWith": {
+    "@id": "wg:decisions-under-risk"
+   },
+   "wgo:domain": "judgment-and-decisions",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/decisions-under-uncertainty/example"
+   },
+   "wgo:file": "articles/judgment-and-decisions/decisions-under-uncertainty.md",
+   "wgo:introducedBy": {
+    "@id": "wg:frank-knight"
+   },
+   "wgo:level": "intermediate",
+   "wgo:studiedIn": [
+    {
+     "@id": "wg:decision-theory"
+    },
+    {
+     "@id": "wg:psychology-of-wisdom"
+    }
+   ]
   },
   {
    "@id": "wg:deliberation",
