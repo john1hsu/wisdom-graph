@@ -104,6 +104,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 
 | node | status | challenger |
 |---|---|---|
+| `wg:awe` | contested | `wg:awe-induction-replication-series-study` |
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:different-types-of-well-being-study` |
 | `wg:hedonic-and-eudaimonic-well-being` | contested | `wg:reconsidering-happiness-critique` |
 | `wg:ikigai` | contested | `wg:ikigai-outcome-wide-study` |
@@ -133,9 +134,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:evening-review` | mixed | `wg:strength-based-interventions-replication-study` |
 | `wg:failure` | mixed | `wg:answer-consistency-critique` |
 | `wg:folly` | mixed |  |
-| `wg:generosity` | mixed | `wg:prosocial-spending-replication-study` |
 
-…and 63 more.
+…and 64 more.
 
 ## Ideas with no recorded origin (gap)
 

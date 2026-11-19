@@ -1030,6 +1030,128 @@
   ]
  },
  {
+  "id": "wg:awe",
+  "title": "Awe",
+  "aliases": [
+   "sense of awe",
+   "feeling of awe",
+   "awe experience",
+   "experience of awe"
+  ],
+  "type": "Phenomenon",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "contested",
+  "file": "articles/meaning-and-the-good-life/awe.md",
+  "created": "2026-11-19",
+  "summary": "The emotion felt in the presence of something so vast, in size, power, skill, virtue or ideas, that it does not fit your existing understanding; research links it to a quieter sense of self, humility and wiser reasoning, though many of its popular downstream effects have not held up in direct replications.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:self-transcendence"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:emotions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:view-from-above"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:overview-effect"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:theoretical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-humility"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:savoring"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:socratic-ignorance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:positive-psychology"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:dacher-keltner",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:introducedBy",
+    "object": "wg:jonathan-haidt",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:awe-induction-replication-series-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:awe-walks-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:self-transcendent-experiences-and-wisdom-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:causes",
+    "object": "wg:humility",
+    "source": "s1",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:causes",
+    "object": "wg:wise-reasoning",
+    "source": "s3",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "When did I last let something vast or excellent stop me long enough to change how I saw my own concerns?",
+   "Am I treating awe as a technique to fix a mood, or simply making room to notice what is larger than me?",
+   "After a moment of awe, did I come away more open to other views, or just more certain of my own?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "After a bruising quarter in which your project slipped, you are on a weekend hike and reach a ridge with a view across a whole valley.",
+   "before": "Glance, take a photo, and spend the descent rehearsing the Monday meeting and who is to blame for the delays.",
+   "after": "Stop for five minutes, take in how far the valley runs and how long it took to form, and let the project shrink to its real size; on the way down, ask what you would advise a colleague who had this quarter.",
+   "why": "Letting a vast scene register can loosen self-focus and the grip of one problem, which leaves room to see the situation and the other people in it more fairly; the effect is modest, so it helps most when you then reflect on purpose."
+  },
+  "source_urls": [
+   "https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Awe_FINAL.pdf?os=0",
+   "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0356728",
+   "https://informahealthcare.com/doi/abs/10.1080/02699931.2022.2149473",
+   "https://escholarship.org/uc/item/4c62428x",
+   "https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0059.tlg006.perseus-eng2:155/text",
+   "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+   "https://ggia.berkeley.edu/practice/awe_walk"
+  ]
+ },
+ {
   "id": "wg:balance-theory-of-wisdom",
   "title": "Balance theory of wisdom",
   "aliases": [

@@ -924,6 +924,21 @@ Ask yourself:
 
 ## meaning-and-the-good-life
 
+### [Awe](../articles/meaning-and-the-good-life/awe.md) — Phenomenon
+
+*After a bruising quarter in which your project slipped, you are on a weekend hike and reach a ridge with a view across a whole valley.*
+
+| Before | After |
+|---|---|
+| Glance, take a photo, and spend the descent rehearsing the Monday meeting and who is to blame for the delays. | Stop for five minutes, take in how far the valley runs and how long it took to form, and let the project shrink to its real size; on the way down, ask what you would advise a colleague who had this quarter. |
+
+**Why:** Letting a vast scene register can loosen self-focus and the grip of one problem, which leaves room to see the situation and the other people in it more fairly; the effect is modest, so it helps most when you then reflect on purpose.
+
+Ask yourself:
+- When did I last let something vast or excellent stop me long enough to change how I saw my own concerns?
+- Am I treating awe as a technique to fix a mood, or simply making room to notice what is larger than me?
+- After a moment of awe, did I come away more open to other views, or just more certain of my own?
+
 ### [Classification of desires](../articles/meaning-and-the-good-life/classification-of-desires.md) — Principle
 
 *After a good year, a project manager starts eyeing a bigger house, a premium car and a more senior title, and finds herself working weekends and sleeping badly to get all three.*

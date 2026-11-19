@@ -469,6 +469,59 @@
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/plato> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/aristotle> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "When did I last let something vast or excellent stop me long enough to change how I saw my own concerns?" .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/awe> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Am I treating awe as a technique to fix a mood, or simply making room to notice what is larger than me?" .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/awe> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "After a moment of awe, did I come away more open to other views, or just more certain of my own?" .
+<https://github.com/john1hsu/wisdom-graph/id/awe/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/awe> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/awe/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Stop for five minutes, take in how far the valley runs and how long it took to form, and let the project shrink to its real size; on the way down, ask what you would advise a colleague who had this quarter." .
+<https://github.com/john1hsu/wisdom-graph/id/awe/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Glance, take a photo, and spend the descent rehearsing the Monday meeting and who is to blame for the delays." .
+<https://github.com/john1hsu/wisdom-graph/id/awe/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "After a bruising quarter in which your project slipped, you are on a weekend hike and reach a ridge with a view across a whole valley." .
+<https://github.com/john1hsu/wisdom-graph/id/awe/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Letting a vast scene register can loosen self-focus and the grip of one problem, which leaves room to see the situation and the other people in it more fairly; the effect is modest, so it helps most when you then reflect on purpose." .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Phenomenon> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2000/01/rdf-schema#label> "Awe" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#altLabel> "awe experience" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#altLabel> "experience of awe" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#altLabel> "feeling of awe" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#altLabel> "sense of awe" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/emotions> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#definition> "The emotion felt in the presence of something so vast, in size, power, skill, virtue or ideas, that it does not fit your existing understanding; research links it to a quieter sense of self, humility and wiser reasoning, though many of its popular downstream effects have not held up in direct replications." .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#prefLabel> "Awe" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/overview-effect> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/view-from-above> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#causes> <https://github.com/john1hsu/wisdom-graph/id/humility> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#causes> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/awe-induction-replication-series-study> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "meaning-and-the-good-life" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "contested" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/awe/example> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/meaning-and-the-good-life/awe.md" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/dacher-keltner> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/jonathan-haidt> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/awe-walks-study> .
+<https://github.com/john1hsu/wisdom-graph/id/awe> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/self-transcendent-experiences-and-wisdom-study> .
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Whose interests have I left off the list, including people who are not in the room?" .
 <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom> .
@@ -7609,6 +7662,48 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/wisdom-graph/id/source/aristotle/s7> <https://schema.org/url> <https://amp.checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, University of California, Berkeley (Summer Allen, white paper prepared for the John Templeton Foundation, September 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> <http://purl.org/dc/terms/title> "The Science of Awe" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s1> <https://schema.org/url> <https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Awe_FINAL.pdf?os=0> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> <http://purl.org/dc/terms/publisher> "PLOS ONE, 21(9), e0356728 (Graziosi, Chirico, Clifton, Rohde, Chhabra & Yaden, 2026; doi:10.1371/journal.pone.0356728)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> <http://purl.org/dc/terms/title> "A series of replication attempts of experimental awe-induction effects" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s2> <https://schema.org/url> <https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0356728> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> <http://purl.org/dc/terms/publisher> "Cognition and Emotion, 37(1), 98–116 (Kim, Nusbaum & Yang, 2023, online 2022; doi:10.1080/02699931.2022.2149473; Taylor & Francis record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> <http://purl.org/dc/terms/title> "Going beyond ourselves: The role of self-transcendent experiences in wisdom" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s3> <https://schema.org/url> <https://informahealthcare.com/doi/abs/10.1080/02699931.2022.2149473> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> <http://purl.org/dc/terms/publisher> "Emotion, 22(5), 1044–1058 (Sturm, Datta, Roy, Sible, Kosik, Veziris, Chow, Morris, Neuhaus, Kramer, Miller, Holley & Keltner, 2022; doi:10.1037/emo0000876; eScholarship, University of California)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> <http://purl.org/dc/terms/title> "Big smile, small self: Awe walks promote prosocial positive emotions in older adults" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s4> <https://schema.org/url> <https://escholarship.org/uc/item/4c62428x> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> <http://purl.org/dc/terms/publisher> "Plato, Theaetetus 155d; Perseus Digital Library, Tufts University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> <http://purl.org/dc/terms/title> "Theaetetus (English translation)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s5> <https://schema.org/url> <https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0059.tlg006.perseus-eng2:155/text> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> <http://purl.org/dc/terms/publisher> "Aristotle, Metaphysics I.1–2 (982b); The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> <http://purl.org/dc/terms/title> "Metaphysics, Book I (trans. W. D. Ross)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s6> <https://schema.org/url> <https://classics.mit.edu/Aristotle/metaphysics.1.i.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, University of California, Berkeley" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> <http://purl.org/dc/terms/title> "Awe Walk" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/awe/s7> <https://schema.org/url> <https://ggia.berkeley.edu/practice/awe_walk> .
 <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://purl.org/dc/terms/publisher> "Robert J. Sternberg (Cornell University), author's research website" .
 <https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1> <http://purl.org/dc/terms/title> "Balance theory of wisdom" .

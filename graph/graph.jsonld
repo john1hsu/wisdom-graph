@@ -324,6 +324,38 @@
    "wgo:why": "Anger made you certain about motive and eager to punish; waiting until your body calmed down, and asking before judging, let you defend a fair working norm without escalating, and still learn from the parts of the criticism that were right."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/awe/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "When did I last let something vast or excellent stop me long enough to change how I saw my own concerns?",
+   "wgo:questionFor": {
+    "@id": "wg:awe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/awe/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I treating awe as a technique to fix a mood, or simply making room to notice what is larger than me?",
+   "wgo:questionFor": {
+    "@id": "wg:awe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/awe/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "After a moment of awe, did I come away more open to other views, or just more certain of my own?",
+   "wgo:questionFor": {
+    "@id": "wg:awe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/awe/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Stop for five minutes, take in how far the valley runs and how long it took to form, and let the project shrink to its real size; on the way down, ask what you would advise a colleague who had this quarter.",
+   "wgo:before": "Glance, take a photo, and spend the descent rehearsing the Monday meeting and who is to blame for the delays.",
+   "wgo:situation": "After a bruising quarter in which your project slipped, you are on a weekend hike and reach a ridge with a view across a whole valley.",
+   "wgo:why": "Letting a vast scene register can loosen self-focus and the grip of one problem, which leaves room to see the situation and the other people in it more fairly; the effect is modest, so it helps most when you then reflect on purpose."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Whose interests have I left off the list, including people who are not in the room?",
@@ -6566,6 +6598,104 @@
     "@id": "https://amp.checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do"
    },
    "wgo:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Greater Good Science Center, University of California, Berkeley (Summer Allen, white paper prepared for the John Templeton Foundation, September 2018)",
+   "dcterms:title": "The Science of Awe",
+   "schema:url": {
+    "@id": "https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Awe_FINAL.pdf?os=0"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "PLOS ONE, 21(9), e0356728 (Graziosi, Chirico, Clifton, Rohde, Chhabra & Yaden, 2026; doi:10.1371/journal.pone.0356728)",
+   "dcterms:title": "A series of replication attempts of experimental awe-induction effects",
+   "schema:url": {
+    "@id": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0356728"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Cognition and Emotion, 37(1), 98–116 (Kim, Nusbaum & Yang, 2023, online 2022; doi:10.1080/02699931.2022.2149473; Taylor & Francis record)",
+   "dcterms:title": "Going beyond ourselves: The role of self-transcendent experiences in wisdom",
+   "schema:url": {
+    "@id": "https://informahealthcare.com/doi/abs/10.1080/02699931.2022.2149473"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Emotion, 22(5), 1044–1058 (Sturm, Datta, Roy, Sible, Kosik, Veziris, Chow, Morris, Neuhaus, Kramer, Miller, Holley & Keltner, 2022; doi:10.1037/emo0000876; eScholarship, University of California)",
+   "dcterms:title": "Big smile, small self: Awe walks promote prosocial positive emotions in older adults",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/4c62428x"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Plato, Theaetetus 155d; Perseus Digital Library, Tufts University",
+   "dcterms:title": "Theaetetus (English translation)",
+   "schema:url": {
+    "@id": "https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0059.tlg006.perseus-eng2:155/text"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Aristotle, Metaphysics I.1–2 (982b); The Internet Classics Archive, MIT",
+   "dcterms:title": "Metaphysics, Book I (trans. W. D. Ross)",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s7",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Greater Good in Action, Greater Good Science Center, University of California, Berkeley",
+   "dcterms:title": "Awe Walk",
+   "schema:url": {
+    "@id": "https://ggia.berkeley.edu/practice/awe_walk"
+   },
+   "wgo:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/balance-theory-of-wisdom/s1",
@@ -21037,6 +21167,117 @@
     "@id": "wg:aristotelian-virtue-ethics"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:awe",
+   "@type": "wgo:Phenomenon",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/awe/s7"
+    }
+   ],
+   "rdfs:label": "Awe",
+   "skos:altLabel": [
+    "awe experience",
+    "experience of awe",
+    "feeling of awe",
+    "sense of awe"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:emotions"
+    },
+    {
+     "@id": "wg:self-transcendence"
+    }
+   ],
+   "skos:definition": "The emotion felt in the presence of something so vast, in size, power, skill, virtue or ideas, that it does not fit your existing understanding; research links it to a quieter sense of self, humility and wiser reasoning, though many of its popular downstream effects have not held up in direct replications.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Awe",
+   "skos:related": [
+    {
+     "@id": "wg:intellectual-humility"
+    },
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:overview-effect"
+    },
+    {
+     "@id": "wg:positive-psychology"
+    },
+    {
+     "@id": "wg:savoring"
+    },
+    {
+     "@id": "wg:socratic-ignorance"
+    },
+    {
+     "@id": "wg:theoretical-wisdom"
+    },
+    {
+     "@id": "wg:view-from-above"
+    }
+   ],
+   "wgo:causes": [
+    {
+     "@id": "wg:humility"
+    },
+    {
+     "@id": "wg:wise-reasoning"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:awe-induction-replication-series-study"
+   },
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "contested",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/awe/example"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/awe.md",
+   "wgo:introducedBy": [
+    {
+     "@id": "wg:dacher-keltner"
+    },
+    {
+     "@id": "wg:jonathan-haidt"
+    }
+   ],
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:awe-walks-study"
+    },
+    {
+     "@id": "wg:self-transcendent-experiences-and-wisdom-study"
+    }
+   ]
   },
   {
    "@id": "wg:balance-theory-of-wisdom",
