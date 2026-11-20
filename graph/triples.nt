@@ -7527,6 +7527,64 @@
 <https://github.com/john1hsu/wisdom-graph/id/simplicity> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/changes-in-materialism-study> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/materialism-and-well-being-meta-analysis> .
 <https://github.com/john1hsu/wisdom-graph/id/simplicity> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/voluntary-simplicity-wellbeing-review> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If a friend described this situation to me about their own relationship, what would I see that I am missing now?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What do I actually know about the other person's reasons, and what am I assuming?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I tending this relationship for its own sake, or only for what it does for me?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Who in my life could I count on in a hard week, and who could count on me?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I've missed you, and I've noticed our plans keep falling through. Is something going on, or would a different kind of plan work better for you right now? I'd like to keep seeing you." .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Clearly I'm not a priority any more. I'll stop inviting them and see if they even notice." .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "An old friend has cancelled dinner plans three times in two months, each time by text an hour beforehand. You have started to feel that you care about the friendship more than they do." .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response admits it does not know the other person's reasons, says plainly what it values, and leaves room for circumstances to change instead of turning a hurt into a test the friendship is set up to fail." .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://purl.org/dc/terms/created> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2000/01/rdf-schema#label> "Social relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "close relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "living with others" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "personal relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "relationships with others" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "wisdom in relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#definition> "The ongoing ties of family, partnership, friendship and community in which most of life is lived — the setting where wisdom is most often needed and tested, and where people tend to reason less wisely about their own ties than about other people's." .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/character-friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/harvard-study-of-adult-development> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/social-relationships-and-mortality-meta-analysis> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/social-relationships.md" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
 <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Theory> .
 <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Socioemotional selectivity theory" .
@@ -12745,6 +12803,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/simplicity/s7> <https://schema.org/url> <https://courses.lumenlearning.com/suny-americanlit1/chapter/reading-where-i-lived-and-what-i-lived-for/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://purl.org/dc/terms/publisher> "PLoS Medicine, 7(7), e1000316 (Holt-Lunstad, Smith & Layton, 2010; doi:10.1371/journal.pmed.1000316)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://purl.org/dc/terms/title> "Social relationships and mortality risk: A meta-analytic review" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <https://schema.org/url> <https://journals.plos.org/plosmedicine/article/info:doi/10.1371/journal.pmed.1000316> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://purl.org/dc/terms/publisher> "Psychological Science (Grossmann & Kross, 2014; doi:10.1177/0956797614535400); article proof, Wisdom and Culture Lab, University of Waterloo" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://purl.org/dc/terms/title> "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <https://schema.org/url> <https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Bennett Helm; first published 2005, substantive revision 2021)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://purl.org/dc/terms/title> "Friendship" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <https://schema.org/url> <https://plato.stanford.edu/entries/friendship/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (David Wong; first published 2008, substantive revision 2023)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://purl.org/dc/terms/title> "Chinese ethics" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <https://schema.org/url> <https://plato.stanford.edu/entries/ethics-chinese/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://purl.org/dc/terms/publisher> "Harvard Gazette, Harvard University (Liz Mineo, 11 April 2017)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://purl.org/dc/terms/title> "Good genes are nice, but joy is better" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <https://schema.org/url> <https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/> .
 <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/publisher> "GeroPsych, 31(3), 163–167 (Liao & Carstensen, 2018), via PubMed Central" .
 <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/title> "Future time perspective: Time horizons and beyond" .

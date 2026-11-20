@@ -308,6 +308,22 @@ Ask yourself:
 - Am I holding back something true and useful only because saying it would be awkward for me?
 - Did anything I said today divide people, wound someone needlessly or pass on gossip, and is there something I should put right?
 
+### [Social relationships](../articles/compassion-and-relationships/social-relationships.md) — Context
+
+*An old friend has cancelled dinner plans three times in two months, each time by text an hour beforehand. You have started to feel that you care about the friendship more than they do.*
+
+| Before | After |
+|---|---|
+| Clearly I'm not a priority any more. I'll stop inviting them and see if they even notice. | I've missed you, and I've noticed our plans keep falling through. Is something going on, or would a different kind of plan work better for you right now? I'd like to keep seeing you. |
+
+**Why:** The wiser response admits it does not know the other person's reasons, says plainly what it values, and leaves room for circumstances to change instead of turning a hurt into a test the friendship is set up to fail.
+
+Ask yourself:
+- If a friend described this situation to me about their own relationship, what would I see that I am missing now?
+- What do I actually know about the other person's reasons, and what am I assuming?
+- Am I tending this relationship for its own sake, or only for what it does for me?
+- Who in my life could I count on in a hard week, and who could count on me?
+
 ### [Tzedakah](../articles/compassion-and-relationships/tzedakah.md) — Practice
 
 1. Decide in advance how much you will give over a month or year, in proportion to your means, and treat it as a commitment rather than a mood.

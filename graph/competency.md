@@ -18,7 +18,9 @@ _No results._
 
 _Which written life situations have no practice, principle, skill or virtue applied in them?_ — `queries/03-situations-without-guidance.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `wg:social-relationships` | wgo:Context |
 
 ## Highest-leverage practices and teachings
 
@@ -135,7 +137,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:end-of-history-illusion` | mixed | `wg:end-of-history-life-satisfaction-study` |
 | `wg:equanimity` | mixed |  |
 
-…and 68 more.
+…and 69 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -151,6 +153,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:resilience` | wgo:Phenomenon |
 | `wg:reversible-and-irreversible-decisions` | wgo:Principle |
 | `wg:self-deception` | wgo:Obstacle |
+| `wg:social-relationships` | wgo:Context |
 | `wg:speaking-up-at-work` | wgo:Context |
 | `wg:ubuntu` | wgo:Tradition |
 | `wg:virtue-ethics` | wgo:Field |

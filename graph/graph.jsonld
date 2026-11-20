@@ -5963,6 +5963,46 @@
    "schema:text": "At the end of the month, ask whether you miss what you dropped; keep the change, reverse it, or try the next item."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If a friend described this situation to me about their own relationship, what would I see that I am missing now?",
+   "wgo:questionFor": {
+    "@id": "wg:social-relationships"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "What do I actually know about the other person's reasons, and what am I assuming?",
+   "wgo:questionFor": {
+    "@id": "wg:social-relationships"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I tending this relationship for its own sake, or only for what it does for me?",
+   "wgo:questionFor": {
+    "@id": "wg:social-relationships"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Who in my life could I count on in a hard week, and who could count on me?",
+   "wgo:questionFor": {
+    "@id": "wg:social-relationships"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/social-relationships/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I've missed you, and I've noticed our plans keep falling through. Is something going on, or would a different kind of plan work better for you right now? I'd like to keep seeing you.",
+   "wgo:before": "Clearly I'm not a priority any more. I'll stop inviting them and see if they even notice.",
+   "wgo:situation": "An old friend has cancelled dinner plans three times in two months, each time by text an hour beforehand. You have started to feel that you care about the friendship more than they do.",
+   "wgo:why": "The wiser response admits it does not know the other person's reasons, says plainly what it values, and leaves room for circumstances to change instead of turning a hurt into a test the friendship is set up to fail."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Do I actually know this, or am I only confident about it?",
@@ -17849,6 +17889,76 @@
     "@id": "https://courses.lumenlearning.com/suny-americanlit1/chapter/reading-where-i-lived-and-what-i-lived-for/"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "PLoS Medicine, 7(7), e1000316 (Holt-Lunstad, Smith & Layton, 2010; doi:10.1371/journal.pmed.1000316)",
+   "dcterms:title": "Social relationships and mortality risk: A meta-analytic review",
+   "schema:url": {
+    "@id": "https://journals.plos.org/plosmedicine/article/info:doi/10.1371/journal.pmed.1000316"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Psychological Science (Grossmann & Kross, 2014; doi:10.1177/0956797614535400); article proof, Wisdom and Culture Lab, University of Waterloo",
+   "dcterms:title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults",
+   "schema:url": {
+    "@id": "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Bennett Helm; first published 2005, substantive revision 2021)",
+   "dcterms:title": "Friendship",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/friendship/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (David Wong; first published 2008, substantive revision 2023)",
+   "dcterms:title": "Chinese ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/ethics-chinese/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Harvard Gazette, Harvard University (Liz Mineo, 11 April 2017)",
+   "dcterms:title": "Good genes are nice, but joy is better",
+   "schema:url": {
+    "@id": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+   },
+   "wgo:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1",
@@ -34452,6 +34562,115 @@
      "@id": "wg:voluntary-simplicity-wellbeing-review"
     }
    ]
+  },
+  {
+   "@id": "wg:social-relationships",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5"
+    }
+   ],
+   "rdfs:label": "Social relationships",
+   "skos:altLabel": [
+    "close relationships",
+    "living with others",
+    "personal relationships",
+    "relationships with others",
+    "wisdom in relationships"
+   ],
+   "skos:broader": {
+    "@id": "wg:practical-wisdom"
+   },
+   "skos:definition": "The ongoing ties of family, partnership, friendship and community in which most of life is lived — the setting where wisdom is most often needed and tested, and where people tend to reason less wisely about their own ties than about other people's.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Social relationships",
+   "skos:related": [
+    {
+     "@id": "wg:character-friendship"
+    },
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:confucianism"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:friendship"
+    },
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:golden-rule"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:mentorship"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:self-distancing"
+    },
+    {
+     "@id": "wg:social-support"
+    },
+    {
+     "@id": "wg:solomons-paradox"
+    },
+    {
+     "@id": "wg:ubuntu"
+    },
+    {
+     "@id": "wg:wisdom-and-well-being"
+    }
+   ],
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:exploring-solomons-paradox-study"
+    },
+    {
+     "@id": "wg:harvard-study-of-adult-development"
+    },
+    {
+     "@id": "wg:social-relationships-and-mortality-meta-analysis"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/social-relationships/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/social-relationships.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:psychology-of-wisdom"
+   }
   },
   {
    "@id": "wg:socioemotional-selectivity-theory",

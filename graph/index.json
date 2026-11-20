@@ -15388,6 +15388,134 @@
   ]
  },
  {
+  "id": "wg:social-relationships",
+  "title": "Social relationships",
+  "aliases": [
+   "relationships with others",
+   "close relationships",
+   "personal relationships",
+   "wisdom in relationships",
+   "living with others"
+  ],
+  "type": "Context",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/social-relationships.md",
+  "created": "2026-11-20",
+  "summary": "The ongoing ties of family, partnership, friendship and community in which most of life is lived — the setting where wisdom is most often needed and tested, and where people tend to reason less wisely about their own ties than about other people's.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:interpersonal-conflict"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mentorship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:friendship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:character-friendship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:solomons-paradox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-distancing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:perspective-taking"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:forgiveness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:golden-rule"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:confucianism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ubuntu"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:social-support"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-well-being"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:social-relationships-and-mortality-meta-analysis",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:exploring-solomons-paradox-study",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:harvard-study-of-adult-development",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:psychology-of-wisdom",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "If a friend described this situation to me about their own relationship, what would I see that I am missing now?",
+   "What do I actually know about the other person's reasons, and what am I assuming?",
+   "Am I tending this relationship for its own sake, or only for what it does for me?",
+   "Who in my life could I count on in a hard week, and who could count on me?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "An old friend has cancelled dinner plans three times in two months, each time by text an hour beforehand. You have started to feel that you care about the friendship more than they do.",
+   "before": "Clearly I'm not a priority any more. I'll stop inviting them and see if they even notice.",
+   "after": "I've missed you, and I've noticed our plans keep falling through. Is something going on, or would a different kind of plan work better for you right now? I'd like to keep seeing you.",
+   "why": "The wiser response admits it does not know the other person's reasons, says plainly what it values, and leaves room for circumstances to change instead of turning a hurt into a test the friendship is set up to fail."
+  },
+  "source_urls": [
+   "https://journals.plos.org/plosmedicine/article/info:doi/10.1371/journal.pmed.1000316",
+   "https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf",
+   "https://plato.stanford.edu/entries/friendship/",
+   "https://plato.stanford.edu/entries/ethics-chinese/",
+   "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+  ]
+ },
+ {
   "id": "wg:socioemotional-selectivity-theory",
   "title": "Socioemotional selectivity theory",
   "aliases": [

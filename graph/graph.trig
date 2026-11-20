@@ -228,6 +228,14 @@
 <https://github.com/john1hsu/wisdom-graph/id/right-speech#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/right-speech#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/right-speech#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/social-relationships.md" .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/tzedakah#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/tzedakah#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/tzedakah> .
 <https://github.com/john1hsu/wisdom-graph/id/tzedakah#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/tzedakah.md" .
@@ -3805,6 +3813,97 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
   <https://github.com/john1hsu/wisdom-graph/id/source/right-speech/s6> <https://schema.org/url> <https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/c/3234/files/2023/07/12.-Handle-the-Truth-2018.pdf> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/social-relationships#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "If a friend described this situation to me about their own relationship, what would I see that I am missing now?" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What do I actually know about the other person's reasons, and what am I assuming?" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I tending this relationship for its own sake, or only for what it does for me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Who in my life could I count on in a hard week, and who could count on me?" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I've missed you, and I've noticed our plans keep falling through. Is something going on, or would a different kind of plan work better for you right now? I'd like to keep seeing you." .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Clearly I'm not a priority any more. I'll stop inviting them and see if they even notice." .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "An old friend has cancelled dinner plans three times in two months, each time by text an hour beforehand. You have started to feel that you care about the friendship more than they do." .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The wiser response admits it does not know the other person's reasons, says plainly what it values, and leaves room for circumstances to change instead of turning a hurt into a test the friendship is set up to fail." .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://purl.org/dc/terms/created> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2000/01/rdf-schema#label> "Social relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "close relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "living with others" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "personal relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "relationships with others" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#altLabel> "wisdom in relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#definition> "The ongoing ties of family, partnership, friendship and community in which most of life is lived — the setting where wisdom is most often needed and tested, and where people tend to reason less wisely about their own ties than about other people's." .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/character-friendship> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/confucianism> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/harvard-study-of-adult-development> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/social-relationships-and-mortality-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/social-relationships.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://purl.org/dc/terms/publisher> "PLoS Medicine, 7(7), e1000316 (Holt-Lunstad, Smith & Layton, 2010; doi:10.1371/journal.pmed.1000316)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://purl.org/dc/terms/title> "Social relationships and mortality risk: A meta-analytic review" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s1> <https://schema.org/url> <https://journals.plos.org/plosmedicine/article/info:doi/10.1371/journal.pmed.1000316> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://purl.org/dc/terms/publisher> "Psychological Science (Grossmann & Kross, 2014; doi:10.1177/0956797614535400); article proof, Wisdom and Culture Lab, University of Waterloo" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://purl.org/dc/terms/title> "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s2> <https://schema.org/url> <https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Bennett Helm; first published 2005, substantive revision 2021)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://purl.org/dc/terms/title> "Friendship" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s3> <https://schema.org/url> <https://plato.stanford.edu/entries/friendship/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (David Wong; first published 2008, substantive revision 2023)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://purl.org/dc/terms/title> "Chinese ethics" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s4> <https://schema.org/url> <https://plato.stanford.edu/entries/ethics-chinese/> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://purl.org/dc/terms/date> "2026-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://purl.org/dc/terms/publisher> "Harvard Gazette, Harvard University (Liz Mineo, 11 April 2017)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://purl.org/dc/terms/title> "Good genes are nice, but joy is better" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <https://schema.org/url> <https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/tzedakah#graph> {
@@ -17467,6 +17566,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ceo-hubris-acquisition-premiums-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/ceo-hubris-acquisition-premiums-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/hubris> .
   <https://github.com/john1hsu/wisdom-graph/id/changes-in-materialism-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
+  <https://github.com/john1hsu/wisdom-graph/id/character-friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/character-friendship> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/charles-sanders-peirce> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> .
   <https://github.com/john1hsu/wisdom-graph/id/charlotte-witvliet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17607,6 +17707,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/tzedakah> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/vivian-clayton> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
@@ -17650,6 +17751,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/daoism> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+  <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/confucianism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
@@ -18317,6 +18419,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/personal-and-general-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
   <https://github.com/john1hsu/wisdom-graph/id/exploring-solomons-paradox-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
@@ -18391,6 +18494,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
+  <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/formal-and-informal-mentoring-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18427,6 +18531,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
   <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+  <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/function-argument> <https://github.com/john1hsu/wisdom-graph/ontology#introducedIn> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/general-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
   <https://github.com/john1hsu/wisdom-graph/id/general-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-vs-intelligence> .
@@ -18462,11 +18567,17 @@
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
+  <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/giving-advice> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
   <https://github.com/john1hsu/wisdom-graph/id/goal-adjustment-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
@@ -18483,6 +18594,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/judaism> .
+  <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/tzedakah> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/golden-verses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Work> .
@@ -18555,6 +18667,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/hard-earned-wisdom-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/hard-earned-wisdom-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
   <https://github.com/john1hsu/wisdom-graph/id/harpers-songs> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/instruction-of-hardjedef> .
+  <https://github.com/john1hsu/wisdom-graph/id/harvard-study-of-adult-development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/harvard-study-of-adult-development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/harvard-study-of-adult-development> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-bible> <https://github.com/john1hsu/wisdom-graph/ontology#hasPart> <https://github.com/john1hsu/wisdom-graph/id/book-of-proverbs> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/hebrew-wisdom-literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18902,15 +19017,18 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -18925,6 +19043,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
@@ -18964,13 +19083,19 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/berlin-wisdom-paradigm> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
@@ -19358,10 +19483,16 @@
   <https://github.com/john1hsu/wisdom-graph/id/mentorship/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/learning-from-experience> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/personal-growth> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/mentorship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/mentorship> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/mieko-kamiya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/mieko-kamiya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
@@ -19590,17 +19721,20 @@
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -19616,6 +19750,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
@@ -19716,6 +19851,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
@@ -19817,6 +19953,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/aristotelian-phronesis-model> .
@@ -19824,18 +19961,22 @@
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/reversible-and-irreversible-decisions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-in-professions> .
   <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/wise-leadership> .
@@ -20379,6 +20520,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/self-distancing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
@@ -20553,6 +20695,21 @@
   <https://github.com/john1hsu/wisdom-graph/id/social-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/social-psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
   <https://github.com/john1hsu/wisdom-graph/id/social-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships-and-mortality-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships-and-mortality-meta-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships-and-mortality-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/practical-wisdom> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
@@ -20561,6 +20718,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -20634,6 +20792,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-knowledge> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seven-sages-of-greece> .
+  <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wise-reasoning> .
   <https://github.com/john1hsu/wisdom-graph/id/solomons-paradox> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
@@ -20907,6 +21066,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ubuntu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/ubuntu> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/african-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/ubuntu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+  <https://github.com/john1hsu/wisdom-graph/id/ubuntu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
@@ -20971,17 +21131,20 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-humility> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/intellectual-virtues> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -20997,6 +21160,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-philosophy> .
   <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
@@ -21122,6 +21286,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-age> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-vs-intelligence> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom-can-be-taught-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
@@ -21198,14 +21363,17 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/end-of-history-illusion> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-fading> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/ethical-lenses-framework> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/humble-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/identity-experiments> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/kill-criteria> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/major-life-decision> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-algebra> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
@@ -21220,6 +21388,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
+  <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/socratic-ignorance> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/stewardship> .
   <https://github.com/john1hsu/wisdom-graph/id/wisdom> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/theoretical-wisdom> .
