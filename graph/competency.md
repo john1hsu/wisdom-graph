@@ -193,6 +193,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:aristotelian-virtue-ethics` | `wg:practical-wisdom` |
 | `wg:aristotelian-virtue-ethics` | `wg:temperance` |
 | `wg:aristotelian-virtue-ethics` | `wg:theoretical-wisdom` |
+| `wg:aristotelian-virtue-ethics` | `wg:unity-of-the-virtues` |
 | `wg:aristotelian-virtue-ethics` | `wg:wise-leadership` |
 | `wg:buddhism` | `wg:compassion` |
 | `wg:buddhism` | `wg:contentment` |
@@ -204,9 +205,8 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
 | `wg:christianity` | `wg:cardinal-virtues` |
-| `wg:christianity` | `wg:golden-rule` |
 
-…and 50 more.
+…and 51 more.
 
 ## The doctrine of the mean
 

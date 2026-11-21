@@ -19403,6 +19403,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "The Internet Classics Archive (MIT)",
+   "dcterms:title": "Nicomachean Ethics, Book VI (chs. 12–13), trans. W. D. Ross",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Richard Kraut; rev. 2026-08-11)",
+   "dcterms:title": "Aristotle's Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/ENTRIES/aristotle-ethics/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Glen Pettigrove; rev. 2026-05-03)",
+   "dcterms:title": "Virtue Ethics",
+   "schema:url": {
+    "@id": "https://plato.stanford.edu/entries/ethics-virtue/"
+   },
+   "wgo:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "The Journal of Ethics, 18(3), 207–227 (Christopher Toner, 2014), Springer",
+   "dcterms:title": "The Full Unity of the Virtues",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s10892-014-9165-2"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Synthese, 199, 9835–9854 (Alan T. Wilson, 2021), Springer",
+   "dcterms:title": "Unity of the intellectual virtues",
+   "schema:url": {
+    "@id": "https://link.springer.com/article/10.1007/s11229-021-03227-z"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Frontiers in Psychology, 11, 599094 (Willibald Ruch, Sonja Heintz & Lisa Wagner, 2020)",
+   "dcterms:title": "Co-occurrence Patterns of Character Strengths and Measured Core Virtues in German-Speaking Adults",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.599094/full"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -20842,6 +20926,90 @@
    "@type": "schema:HowToStep",
    "schema:position": 6,
    "schema:text": "Stay within your means so that your giving does not make you dependent on others in turn."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using one virtue I am proud of as an excuse to ignore what the others would ask of me here?",
+   "wgo:questionFor": {
+    "@id": "wg:unity-of-the-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Would a person who was fair, kind and brave as well as honest act the way I am about to act?",
+   "wgo:questionFor": {
+    "@id": "wg:unity-of-the-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this a domain of my life where my good intentions regularly outrun my judgment?",
+   "wgo:questionFor": {
+    "@id": "wg:unity-of-the-virtues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I'll be honest about what is wrong, but in private, with the three specific fixes, a realistic deadline and a word about what was good, because the aim is a better report and a better analyst.",
+   "wgo:before": "I pride myself on honesty, so I'll tell them in the team channel that it's sloppy and needs redoing. If they're upset, that's their problem.",
+   "wgo:situation": "A project lead has to tell a junior analyst that the analyst's first client report is not good enough to send.",
+   "wgo:why": "Honesty cut off from kindness, fairness and judgment about timing stops being a virtue and becomes bluntness; the unity thesis says the full version of one virtue already carries the others."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Unity of the virtues",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/5"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Name the virtue you are relying on in this decision, such as honesty, loyalty, courage or generosity."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Ask what each neighbouring virtue would say about the same act - is it also fair, kind, proportionate and well timed?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Check the goal as well as the means, so that skill at getting your way is not standing in for judgment about where to go."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Where one virtue's demands clash with another's, look for the response that honours both before deciding one must lose."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Notice the areas of life where your judgment is weaker, and borrow the eyes of someone who is steadier there."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/view-from-above/check/1",
@@ -36215,6 +36383,122 @@
    "wgo:evidenceStatus": "normative",
    "wgo:file": "articles/wisdom-traditions/ubuntu.md",
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:unity-of-the-virtues",
+   "@type": "wgo:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/unity-of-the-virtues/s6"
+    }
+   ],
+   "rdfs:label": "Unity of the virtues",
+   "skos:altLabel": [
+    "reciprocity of the virtues",
+    "reciprocity thesis",
+    "unity of virtue",
+    "unity thesis"
+   ],
+   "skos:broader": {
+    "@id": "wg:virtue-ethics"
+   },
+   "skos:definition": "The classical thesis that the virtues of character cannot be fully possessed one at a time: because each genuine virtue needs practical wisdom, and practical wisdom needs good character as a whole, having one virtue in the full sense brings the others with it. Modern versions range from full unity to limited or weak forms.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/foundations"
+   },
+   "skos:prefLabel": "Unity of the virtues",
+   "skos:related": [
+    {
+     "@id": "wg:aristotelian-phronesis-model"
+    },
+    {
+     "@id": "wg:aristotle"
+    },
+    {
+     "@id": "wg:cardinal-virtues"
+    },
+    {
+     "@id": "wg:cleverness"
+    },
+    {
+     "@id": "wg:courage"
+    },
+    {
+     "@id": "wg:doctrine-of-the-mean"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:intellectual-virtues"
+    },
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:nicomachean-ethics"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "wgo:alternativeTo": {
+    "@id": "wg:limited-unity-of-virtue"
+   },
+   "wgo:challengedBy": [
+    {
+     "@id": "wg:character-strengths-co-occurrence-study"
+    },
+    {
+     "@id": "wg:situationism"
+    }
+   ],
+   "wgo:domain": "foundations",
+   "wgo:evidenceStatus": "normative",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/example"
+   },
+   "wgo:explainedBy": {
+    "@id": "wg:practical-wisdom"
+   },
+   "wgo:file": "articles/foundations/unity-of-the-virtues.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/howto"
+   },
+   "wgo:influencedBy": {
+    "@id": "wg:socratic-philosophy"
+   },
+   "wgo:level": "intermediate",
+   "wgo:requires": [
+    {
+     "@id": "wg:moral-virtues"
+    },
+    {
+     "@id": "wg:practical-wisdom"
+    }
+   ],
+   "wgo:rootedIn": {
+    "@id": "wg:aristotelian-virtue-ethics"
+   }
   },
   {
    "@id": "wg:view-from-above",

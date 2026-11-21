@@ -661,6 +661,27 @@ Ask yourself:
 - If someone questioned me closely here, where would my account run out?
 - Am I treating skill in my own field as if it made me an authority on this question too?
 
+### [Unity of the virtues](../articles/foundations/unity-of-the-virtues.md) — Principle
+
+1. Name the virtue you are relying on in this decision, such as honesty, loyalty, courage or generosity.
+2. Ask what each neighbouring virtue would say about the same act - is it also fair, kind, proportionate and well timed?
+3. Check the goal as well as the means, so that skill at getting your way is not standing in for judgment about where to go.
+4. Where one virtue's demands clash with another's, look for the response that honours both before deciding one must lose.
+5. Notice the areas of life where your judgment is weaker, and borrow the eyes of someone who is steadier there.
+
+*A project lead has to tell a junior analyst that the analyst's first client report is not good enough to send.*
+
+| Before | After |
+|---|---|
+| I pride myself on honesty, so I'll tell them in the team channel that it's sloppy and needs redoing. If they're upset, that's their problem. | I'll be honest about what is wrong, but in private, with the three specific fixes, a realistic deadline and a word about what was good, because the aim is a better report and a better analyst. |
+
+**Why:** Honesty cut off from kindness, fairness and judgment about timing stops being a virtue and becomes bluntness; the unity thesis says the full version of one virtue already carries the others.
+
+Ask yourself:
+- Am I using one virtue I am proud of as an excuse to ignore what the others would ask of me here?
+- Would a person who was fair, kind and brave as well as honest act the way I am about to act?
+- Is this a domain of my life where my good intentions regularly outrun my judgment?
+
 ### [Wisdom](../articles/foundations/wisdom.md) — Concept
 
 *A team member with deep technical knowledge is asked whether the team should rebuild a struggling product from scratch or keep repairing it.*

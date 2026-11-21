@@ -17229,6 +17229,143 @@
   ]
  },
  {
+  "id": "wg:unity-of-the-virtues",
+  "title": "Unity of the virtues",
+  "aliases": [
+   "unity of virtue",
+   "reciprocity of the virtues",
+   "reciprocity thesis",
+   "unity thesis"
+  ],
+  "type": "Principle",
+  "domain": "foundations",
+  "level": "intermediate",
+  "evidenceStatus": "normative",
+  "file": "articles/foundations/unity-of-the-virtues.md",
+  "created": "2026-11-21",
+  "summary": "The classical thesis that the virtues of character cannot be fully possessed one at a time: because each genuine virtue needs practical wisdom, and practical wisdom needs good character as a whole, having one virtue in the full sense brings the others with it. Modern versions range from full unity to limited or weak forms.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:virtue-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:intellectual-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cardinal-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cleverness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:doctrine-of-the-mean"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:nicomachean-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotelian-phronesis-model"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:practical-wisdom"
+   },
+   {
+    "predicate": "wgo:requires",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:aristotelian-virtue-ethics",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:practical-wisdom",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:socratic-philosophy",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:alternativeTo",
+    "object": "wg:limited-unity-of-virtue",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:situationism",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:character-strengths-co-occurrence-study",
+    "source": "s6",
+    "confidence": "low"
+   }
+  ],
+  "selfCheck": [
+   "Am I using one virtue I am proud of as an excuse to ignore what the others would ask of me here?",
+   "Would a person who was fair, kind and brave as well as honest act the way I am about to act?",
+   "Is this a domain of my life where my good intentions regularly outrun my judgment?"
+  ],
+  "steps": [
+   "Name the virtue you are relying on in this decision, such as honesty, loyalty, courage or generosity.",
+   "Ask what each neighbouring virtue would say about the same act - is it also fair, kind, proportionate and well timed?",
+   "Check the goal as well as the means, so that skill at getting your way is not standing in for judgment about where to go.",
+   "Where one virtue's demands clash with another's, look for the response that honours both before deciding one must lose.",
+   "Notice the areas of life where your judgment is weaker, and borrow the eyes of someone who is steadier there."
+  ],
+  "example": {
+   "situation": "A project lead has to tell a junior analyst that the analyst's first client report is not good enough to send.",
+   "before": "I pride myself on honesty, so I'll tell them in the team channel that it's sloppy and needs redoing. If they're upset, that's their problem.",
+   "after": "I'll be honest about what is wrong, but in private, with the three specific fixes, a realistic deadline and a word about what was good, because the aim is a better report and a better analyst.",
+   "why": "Honesty cut off from kindness, fairness and judgment about timing stops being a virtue and becomes bluntness; the unity thesis says the full version of one virtue already carries the others."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+   "https://plato.stanford.edu/ENTRIES/aristotle-ethics/",
+   "https://plato.stanford.edu/entries/ethics-virtue/",
+   "https://link.springer.com/article/10.1007/s10892-014-9165-2",
+   "https://link.springer.com/article/10.1007/s11229-021-03227-z",
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.599094/full"
+  ]
+ },
+ {
   "id": "wg:view-from-above",
   "title": "The view from above",
   "aliases": [
