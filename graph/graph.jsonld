@@ -3711,6 +3711,116 @@
    "schema:text": "Turn your attention from monitoring yourself to the task or person in front of you."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Can I wish this person well even while I disagree with what they did?",
+   "wgo:questionFor": {
+    "@id": "wg:loving-kindness-meditation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is the warmth I feel in practice turning into any kinder action, or staying on the cushion?",
+   "wgo:questionFor": {
+    "@id": "wg:loving-kindness-meditation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I skipped myself, or the difficult person, because that part feels uncomfortable?",
+   "wgo:questionFor": {
+    "@id": "wg:loving-kindness-meditation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I using goodwill to avoid a conversation or a boundary I actually need?",
+   "wgo:questionFor": {
+    "@id": "wg:loving-kindness-meditation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "For a few mornings I include them in my practice as a mildly difficult person: may they be well, may their work go easily. When the next curt message arrives I notice the familiar irritation, remember that they may be under pressure I can't see, and reply clearly and kindly, then ask whether earlier notice is possible.",
+   "wgo:before": "I sigh when their name appears, answer as tersely as they write, and complain about them at lunch. Each exchange is a little colder than the last.",
+   "wgo:situation": "A colleague in another team keeps sending you curt, last-minute requests, and you have started reading every message from them as a slight.",
+   "wgo:why": "The practice does not make the requests reasonable, but rehearsing goodwill toward the person loosens the habit of reading hostility into every message, which leaves room to solve the real problem without souring the relationship."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Loving-kindness meditation",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Sit comfortably for about fifteen minutes and settle your attention on the breath for a minute or two."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Silently offer yourself a few simple wishes, such as \"May I be safe, may I be healthy, may I be happy, may I live with ease.\""
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Bring to mind someone you love and repeat the same wishes for them, picturing them as you do."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Move on to a neutral person, such as a shop assistant or a colleague you barely know, and repeat the wishes."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "When you feel ready, include someone you find difficult, starting with a mildly irritating person rather than the hardest relationship in your life."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Widen the wishes to everyone around you and then to all beings, and notice without judging whether goodwill came easily or not at all."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Later in the day, when you meet one of these people, recall the wish and let it shape a single concrete act, such as a patient reply."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/major-life-decision/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I treating \"not deciding\" as if it were not itself a choice?",
@@ -13787,6 +13897,90 @@
     "@id": "https://viktorfrankl.org/quote_stimulus.html"
    },
    "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Trans. the Amaravati Sangha, from Chanting Book (Amaravati Publications, 1994; English Sangha Trust), Access to Insight edition",
+   "dcterms:title": "Karaniya Metta Sutta: The Buddha's Words on Loving-Kindness (Sutta Nipāta 1.8)",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/kn/snp/snp.1.08.amar.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Trans. Thanissaro Bhikkhu (2004), Access to Insight edition",
+   "dcterms:title": "Karaniya Metta Sutta: Good Will (Sutta Nipāta 1.8)",
+   "schema:url": {
+    "@id": "https://accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Greater Good in Action, Greater Good Science Center, University of California, Berkeley",
+   "dcterms:title": "Loving-Kindness Meditation",
+   "schema:url": {
+    "@id": "https://ggia.berkeley.edu/practice/loving_kindness_meditation"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Emotion, 8, 720–724 (Hutcherson, Seppala & Gross, 2008; doi:10.1037/a0013237); abstract via Association for Contextual Behavioral Science",
+   "dcterms:title": "Loving-kindness meditation increases social connectedness",
+   "schema:url": {
+    "@id": "https://contextualscience.org/publications/lovingkindness_meditation_increases_social_connectedness"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Mindfulness, 9(3), 708–724 (Luberto, Shinday, Song, Philpotts, Park, Fricchione & Yeh, 2018; doi:10.1007/s12671-017-0841-8); NIH author manuscript, PubMed Central",
+   "dcterms:title": "A Systematic Review and Meta-analysis of the Effects of Meditation on Empathy, Compassion, and Prosocial Behaviors",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6081743"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Scientific Reports, 8, 2403 (Kreplin, Farias & Brazil, 2018; doi:10.1038/s41598-018-20299-z), PubMed Central",
+   "dcterms:title": "The limited prosocial effects of meditation: A systematic review and meta-analysis",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5799363"
+   },
+   "wgo:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/major-life-decision/s1",
@@ -30118,6 +30312,109 @@
      "@id": "wg:meaning-centered-group-psychotherapy-trial"
     }
    ]
+  },
+  {
+   "@id": "wg:loving-kindness-meditation",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6"
+    }
+   ],
+   "rdfs:label": "Loving-kindness meditation",
+   "skos:altLabel": [
+    "LKM",
+    "goodwill meditation",
+    "mettā bhāvanā",
+    "metta bhavana",
+    "metta meditation"
+   ],
+   "skos:broader": {
+    "@id": "wg:four-immeasurables"
+   },
+   "skos:definition": "A meditation, drawn from the Buddhist practice of mettā (goodwill), in which a person silently wishes well-being first to themselves and then to widening circles of others, a loved one, a neutral person, a difficult person and finally all beings, to make goodwill a steadier habit of mind.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Loving-kindness meditation",
+   "skos:related": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:compassionate-reappraisal"
+    },
+    {
+     "@id": "wg:empathy"
+    },
+    {
+     "@id": "wg:forgiveness"
+    },
+    {
+     "@id": "wg:interpersonal-conflict"
+    },
+    {
+     "@id": "wg:perspective-taking"
+    },
+    {
+     "@id": "wg:self-compassion"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:ill-will"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:social-relationships"
+   },
+   "wgo:challengedBy": {
+    "@id": "wg:limited-prosocial-effects-of-meditation-meta-analysis"
+   },
+   "wgo:demonstratedBy": {
+    "@id": "wg:loving-kindness-social-connectedness-study"
+   },
+   "wgo:develops": [
+    {
+     "@id": "wg:compassion"
+    },
+    {
+     "@id": "wg:empathy"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/loving-kindness-meditation.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto"
+   },
+   "wgo:level": "introductory",
+   "wgo:rootedIn": {
+    "@id": "wg:buddhism"
+   },
+   "wgo:supportedBy": {
+    "@id": "wg:meditation-empathy-compassion-prosocial-meta-analysis"
+   }
   },
   {
    "@id": "wg:major-life-decision",

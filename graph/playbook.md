@@ -244,6 +244,30 @@ Ask yourself:
 - How am I likely to see this disagreement a year from now?
 - Is there an outcome that meets the main concern on each side, or am I only trying to win?
 
+### [Loving-kindness meditation](../articles/compassion-and-relationships/loving-kindness-meditation.md) — Practice
+
+1. Sit comfortably for about fifteen minutes and settle your attention on the breath for a minute or two.
+2. Silently offer yourself a few simple wishes, such as "May I be safe, may I be healthy, may I be happy, may I live with ease."
+3. Bring to mind someone you love and repeat the same wishes for them, picturing them as you do.
+4. Move on to a neutral person, such as a shop assistant or a colleague you barely know, and repeat the wishes.
+5. When you feel ready, include someone you find difficult, starting with a mildly irritating person rather than the hardest relationship in your life.
+6. Widen the wishes to everyone around you and then to all beings, and notice without judging whether goodwill came easily or not at all.
+7. Later in the day, when you meet one of these people, recall the wish and let it shape a single concrete act, such as a patient reply.
+
+*A colleague in another team keeps sending you curt, last-minute requests, and you have started reading every message from them as a slight.*
+
+| Before | After |
+|---|---|
+| I sigh when their name appears, answer as tersely as they write, and complain about them at lunch. Each exchange is a little colder than the last. | For a few mornings I include them in my practice as a mildly difficult person: may they be well, may their work go easily. When the next curt message arrives I notice the familiar irritation, remember that they may be under pressure I can't see, and reply clearly and kindly, then ask whether earlier notice is possible. |
+
+**Why:** The practice does not make the requests reasonable, but rehearsing goodwill toward the person loosens the habit of reading hostility into every message, which leaves room to solve the real problem without souring the relationship.
+
+Ask yourself:
+- Can I wish this person well even while I disagree with what they did?
+- Is the warmth I feel in practice turning into any kinder action, or staying on the cushion?
+- Have I skipped myself, or the difficult person, because that part feels uncomfortable?
+- Am I using goodwill to avoid a conversation or a boundary I actually need?
+
 ### [Mentorship](../articles/compassion-and-relationships/mentorship.md) — Context
 
 *A senior engineer is asked to mentor a new hire who is talented but keeps missing deadlines because she quietly says yes to every request from other teams.*

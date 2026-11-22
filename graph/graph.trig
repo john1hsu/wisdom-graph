@@ -198,6 +198,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/loving-kindness-meditation.md" .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/mentorship#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/mentorship#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
 <https://github.com/john1hsu/wisdom-graph/id/mentorship#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/compassion-and-relationships/mentorship.md" .
@@ -3459,6 +3468,131 @@
   <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
   <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/wisdom-graph/id/source/interpersonal-conflict/s6> <https://schema.org/url> <https://www.psychologicalscience.org/news/releases/does-wisdom-really-come-with-age-it-depends-on-the-culture.html> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Can I wish this person well even while I disagree with what they did?" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is the warmth I feel in practice turning into any kinder action, or staying on the cushion?" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Have I skipped myself, or the difficult person, because that part feels uncomfortable?" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Am I using goodwill to avoid a conversation or a boundary I actually need?" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "For a few mornings I include them in my practice as a mildly difficult person: may they be well, may their work go easily. When the next curt message arrives I notice the familiar irritation, remember that they may be under pressure I can't see, and reply clearly and kindly, then ask whether earlier notice is possible." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "I sigh when their name appears, answer as tersely as they write, and complain about them at lunch. Each exchange is a little colder than the last." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A colleague in another team keeps sending you curt, last-minute requests, and you have started reading every message from them as a slight." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The practice does not make the requests reasonable, but rehearsing goodwill toward the person loosens the habit of reading hostility into every message, which leaves room to solve the real problem without souring the relationship." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/1> <https://schema.org/text> "Sit comfortably for about fifteen minutes and settle your attention on the breath for a minute or two." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/2> <https://schema.org/text> "Silently offer yourself a few simple wishes, such as \"May I be safe, may I be healthy, may I be happy, may I live with ease.\"" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/3> <https://schema.org/text> "Bring to mind someone you love and repeat the same wishes for them, picturing them as you do." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/4> <https://schema.org/text> "Move on to a neutral person, such as a shop assistant or a colleague you barely know, and repeat the wishes." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/5> <https://schema.org/text> "When you feel ready, include someone you find difficult, starting with a mildly irritating person rather than the hardest relationship in your life." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/6> <https://schema.org/text> "Widen the wishes to everyone around you and then to all beings, and notice without judging whether goodwill came easily or not at all." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/7> <https://schema.org/text> "Later in the day, when you meet one of these people, recall the wish and let it shape a single concrete act, such as a patient reply." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/name> "Loving-kindness meditation" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto/7> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://purl.org/dc/terms/created> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2000/01/rdf-schema#label> "Loving-kindness meditation" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#altLabel> "LKM" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#altLabel> "goodwill meditation" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#altLabel> "metta bhavana" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#altLabel> "metta meditation" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#altLabel> "mettā bhāvanā" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#definition> "A meditation, drawn from the Buddhist practice of mettā (goodwill), in which a person silently wishes well-being first to themselves and then to widening circles of others, a loved one, a neutral person, a difficult person and finally all beings, to make goodwill a steadier habit of mind." .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loving-kindness meditation" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/ill-will> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#challengedBy> <https://github.com/john1hsu/wisdom-graph/id/limited-prosocial-effects-of-meditation-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-social-connectedness-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/loving-kindness-meditation.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/meditation-empathy-compassion-prosocial-meta-analysis> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> <http://purl.org/dc/terms/publisher> "Trans. the Amaravati Sangha, from Chanting Book (Amaravati Publications, 1994; English Sangha Trust), Access to Insight edition" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> <http://purl.org/dc/terms/title> "Karaniya Metta Sutta: The Buddha's Words on Loving-Kindness (Sutta Nipāta 1.8)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s1> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/kn/snp/snp.1.08.amar.html> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> <http://purl.org/dc/terms/publisher> "Trans. Thanissaro Bhikkhu (2004), Access to Insight edition" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> <http://purl.org/dc/terms/title> "Karaniya Metta Sutta: Good Will (Sutta Nipāta 1.8)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s2> <https://schema.org/url> <https://accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> <http://purl.org/dc/terms/publisher> "Greater Good in Action, Greater Good Science Center, University of California, Berkeley" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> <http://purl.org/dc/terms/title> "Loving-Kindness Meditation" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s3> <https://schema.org/url> <https://ggia.berkeley.edu/practice/loving_kindness_meditation> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> <http://purl.org/dc/terms/publisher> "Emotion, 8, 720–724 (Hutcherson, Seppala & Gross, 2008; doi:10.1037/a0013237); abstract via Association for Contextual Behavioral Science" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> <http://purl.org/dc/terms/title> "Loving-kindness meditation increases social connectedness" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s4> <https://schema.org/url> <https://contextualscience.org/publications/lovingkindness_meditation_increases_social_connectedness> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> <http://purl.org/dc/terms/publisher> "Mindfulness, 9(3), 708–724 (Luberto, Shinday, Song, Philpotts, Park, Fricchione & Yeh, 2018; doi:10.1007/s12671-017-0841-8); NIH author manuscript, PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> <http://purl.org/dc/terms/title> "A Systematic Review and Meta-analysis of the Effects of Meditation on Empathy, Compassion, and Prosocial Behaviors" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s5> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC6081743> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> <http://purl.org/dc/terms/publisher> "Scientific Reports, 8, 2403 (Kreplin, Farias & Brazil, 2018; doi:10.1038/s41598-018-20299-z), PubMed Central" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> <http://purl.org/dc/terms/title> "The limited prosocial effects of meditation: A systematic review and meta-analysis" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/loving-kindness-meditation/s6> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC5799363> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/mentorship#graph> {
@@ -17656,6 +17790,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
+  <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/memento-mori> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhism> <https://github.com/john1hsu/wisdom-graph/ontology#teaches> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
@@ -17664,6 +17799,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/cardinal-virtues/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17848,6 +17984,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassion> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -17862,6 +17999,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
@@ -18331,9 +18469,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
+  <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/servant-leadership> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ubuntu> .
+  <https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/empathy> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
   <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/empirical-stage-theory-of-grief-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -18626,6 +18766,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+  <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/forgiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
@@ -18645,9 +18786,11 @@
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
+  <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
   <https://github.com/john1hsu/wisdom-graph/id/francis-hutcheson> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/theory-of-moral-sentiments> .
   <https://github.com/john1hsu/wisdom-graph/id/frank-knight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18973,6 +19116,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/ikigai> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/meaning-in-life> .
   <https://github.com/john1hsu/wisdom-graph/id/ikigai> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/ill-will> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/ill-will> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/imaginary-future-generations/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -19228,6 +19372,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aging-and-wisdom-culture-study> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
+  <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
   <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philosophical-hermeneutics> .
@@ -19479,6 +19624,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> .
   <https://github.com/john1hsu/wisdom-graph/id/limited-future-recall-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
+  <https://github.com/john1hsu/wisdom-graph/id/limited-prosocial-effects-of-meditation-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/limited-unity-of-virtue> <https://github.com/john1hsu/wisdom-graph/ontology#alternativeTo> <https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/linda-hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/linda-hill> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/management-scholars> .
@@ -19492,9 +19638,20 @@
   <https://github.com/john1hsu/wisdom-graph/id/logotherapy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/viktor-frankl> .
   <https://github.com/john1hsu/wisdom-graph/id/looking-beyond-linear-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
   <https://github.com/john1hsu/wisdom-graph/id/lottery-wealth-well-being-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/hedonic-adaptation> .
-  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/buddhist-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
   <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-positive-emotions-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-social-connectedness-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-social-connectedness-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
+  <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-social-connectedness-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/ludwig-wittgenstein> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> .
   <https://github.com/john1hsu/wisdom-graph/id/lying> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/maat> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ancient-egyptian-wisdom-literature> .
@@ -19587,6 +19744,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
   <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/medical-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Field> .
+  <https://github.com/john1hsu/wisdom-graph/id/meditation-empathy-compassion-prosocial-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/memento-mori/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -19988,6 +20146,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/golden-rule> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/leading-others> .
+  <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/moral-case-deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/morton-deutsch> .
@@ -20596,6 +20755,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/evening-review> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/failure> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
+  <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/self-compassion> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/regret> .
   <https://github.com/john1hsu/wisdom-graph/id/self-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/judaism> .
   <https://github.com/john1hsu/wisdom-graph/id/self-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
@@ -20862,6 +21022,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
   <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/loving-kindness-meditation> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .

@@ -7,10 +7,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 5.78 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly` |
 | 4.04 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:decisions-under-uncertainty`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
 | 3.85 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt` |
-| 3.58 | `wg:perspective-taking` | `wg:practical-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:leading-others` |
-| 3.50 | `wg:perspective-taking` | `wg:psychology-of-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:giving-advice` |
+| 3.57 | `wg:perspective-taking` | `wg:practical-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:leading-others` |
+| 3.49 | `wg:perspective-taking` | `wg:psychology-of-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:giving-advice` |
 | 3.41 | `wg:aristotle` | `wg:socratic-philosophy` | `wg:ancient-greek-philosophy`, `wg:eudaimonia`, `wg:philosophical-hermeneutics`, `wg:plato`, `wg:socrates` |
-| 3.33 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:anger`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:de-ira` |
+| 3.32 | `wg:cognitive-reappraisal` | `wg:rumination` | `wg:adversity`, `wg:anger`, `wg:cognitive-defusion`, `wg:compassionate-reappraisal`, `wg:de-ira` |
 | 3.32 | `wg:deliberation` | `wg:kill-criteria` | `wg:decision-theory`, `wg:decisions-under-uncertainty`, `wg:implementation-intentions`, `wg:kairos`, `wg:knowing-when-to-quit` |
 | 3.29 | `wg:paul-baltes` | `wg:personal-and-general-wisdom` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:learning-from-experience`, `wg:psychology-of-wisdom`, `wg:three-dimensional-wisdom-model` |
 | 3.28 | `wg:balance-theory-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:leading-others`, `wg:perspective-taking` |

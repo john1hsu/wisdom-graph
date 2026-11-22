@@ -18,9 +18,7 @@ _No results._
 
 _Which written life situations have no practice, principle, skill or virtue applied in them?_ — `queries/03-situations-without-guidance.rq`
 
-| node | type |
-|---|---|
-| `wg:social-relationships` | wgo:Context |
+_No results._
 
 ## Highest-leverage practices and teachings
 
@@ -33,6 +31,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:compassionate-reappraisal` | 3 | Compassion, Forgiveness, Rumination |
 | `wg:ethical-lenses-framework` | 3 | Deliberation, Ethical fading, Moral awareness |
 | `wg:implementation-intentions` | 3 | Weakness of will, procrastination, self-control |
+| `wg:loving-kindness-meditation` | 3 | Compassion, Empathy, ill-will |
 | `wg:moral-case-deliberation` | 3 | Practical wisdom, moral-competence, moral-distress |
 | `wg:moral-habituation` | 3 | Courage, Temperance, cowardice |
 | `wg:negative-visualization` | 3 | Equanimity, Gratitude, Hedonic adaptation |
@@ -57,9 +56,8 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:savoring` | 2 | Gratitude, Hedonic adaptation |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:temperance` | 2 | insensibility, intemperance |
-| `wg:after-action-review` | 1 | Self-reflection |
 
-…and 25 more.
+…and 26 more.
 
 ## Toolkit by life situation
 
@@ -98,7 +96,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:wise-reasoning` |
 | `wg:leading-others` | `wg:after-action-review` |
 
-…and 36 more.
+…and 37 more.
 
 ## Myths and contested advice
 
@@ -137,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:end-of-history-illusion` | mixed | `wg:end-of-history-life-satisfaction-study` |
 | `wg:equanimity` | mixed |  |
 
-…and 69 more.
+…and 70 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -202,11 +200,11 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:four-immeasurables` |
 | `wg:buddhism` | `wg:generosity` |
 | `wg:buddhism` | `wg:impermanence` |
+| `wg:buddhism` | `wg:loving-kindness-meditation` |
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
-| `wg:christianity` | `wg:cardinal-virtues` |
 
-…and 51 more.
+…and 52 more.
 
 ## The doctrine of the mean
 
