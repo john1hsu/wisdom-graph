@@ -6214,6 +6214,145 @@
   ]
  },
  {
+  "id": "wg:friendship",
+  "title": "Friendship",
+  "aliases": [
+   "philia",
+   "amicitia",
+   "close friendship",
+   "being a good friend",
+   "friendships"
+  ],
+  "type": "Context",
+  "domain": "compassion-and-relationships",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/compassion-and-relationships/friendship.md",
+  "created": "2026-11-23",
+  "summary": "A freely chosen, mutual relationship of goodwill in which each person wishes the other well for the other's own sake — a setting where wisdom shows in how friends are chosen and kept, and above all in telling a friend the truth without flattery or cruelty.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:social-relationships"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:character-friendship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:aristotle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:nicomachean-ethics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cicero"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:plutarch"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:epicureanism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:honesty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:flattery"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:mentorship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:know-thyself"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-deception"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:loneliness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:social-support"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:dunbars-number"
+   },
+   {
+    "predicate": "wgo:contrastsWith",
+    "object": "wg:flattery",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:honesty",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:virtue-ethics",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:hours-to-make-a-friend-study",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:dunbars-number-deconstructed-study",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Am I telling my friend what is true and useful, or only what will keep the moment pleasant?",
+   "If I have a criticism, am I raising it privately, at a good time, and for their sake rather than mine?",
+   "Do my friends ever disagree with me, or have I drifted toward people who only agree?",
+   "Which friendships have I been taking for granted, and when did I last spend unhurried time with them?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A close friend tells you over coffee that she plans to quit her job next month to open a café, and asks what you think. You admire her drive but have serious doubts about her savings and the lease she has found.",
+   "before": "\"That's amazing — you should totally go for it!\" Then, a week later at a group dinner, \"Honestly, I give it six months.\"",
+   "after": "I love that you want to do this, and you'd be great with customers. Can I be straight with you about one thing that worries me? The lease and your savings. Could we go through the numbers together this weekend? Whatever you decide, I'm on your side.",
+   "why": "The first reply flatters and the second wounds in public; the wiser one speaks privately, starts from real praise, names one concrete concern, offers help and leaves the decision with her — frank speech in the service of the friend's own good."
+  },
+  "source_urls": [
+   "https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html",
+   "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Laelius_de_Amicitia/text*.html",
+   "https://topostext.org/work/253",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8103230",
+   "https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend",
+   "https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend"
+  ]
+ },
+ {
   "id": "wg:generosity",
   "title": "Generosity",
   "aliases": [

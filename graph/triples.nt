@@ -2951,6 +2951,67 @@
 <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
 <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/ramsey-test> .
 <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I telling my friend what is true and useful, or only what will keep the moment pleasant?" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If I have a criticism, am I raising it privately, at a good time, and for their sake rather than mine?" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Do my friends ever disagree with me, or have I drifted toward people who only agree?" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Which friendships have I been taking for granted, and when did I last spend unhurried time with them?" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "I love that you want to do this, and you'd be great with customers. Can I be straight with you about one thing that worries me? The lease and your savings. Could we go through the numbers together this weekend? Whatever you decide, I'm on your side." .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"That's amazing — you should totally go for it!\" Then, a week later at a group dinner, \"Honestly, I give it six months.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A close friend tells you over coffee that she plans to quit her job next month to open a café, and asks what you think. You admire her drive but have serious doubts about her savings and the lease she has found." .
+<https://github.com/john1hsu/wisdom-graph/id/friendship/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first reply flatters and the second wounds in public; the wiser one speaks privately, starts from real praise, names one concrete concern, offers help and leaves the decision with her — frank speech in the service of the friend's own good." .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://purl.org/dc/terms/created> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2000/01/rdf-schema#label> "Friendship" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#altLabel> "amicitia" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#altLabel> "being a good friend" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#altLabel> "close friendship" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#altLabel> "friendships" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#altLabel> "philia" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#definition> "A freely chosen, mutual relationship of goodwill in which each person wishes the other well for the other's own sake — a setting where wisdom shows in how friends are chosen and kept, and above all in telling a friend the truth without flattery or cruelty." .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#prefLabel> "Friendship" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/aristotle> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/character-friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cicero> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dunbars-number> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/flattery> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loneliness> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/nicomachean-ethics> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/plutarch> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/flattery> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/dunbars-number-deconstructed-study> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/hours-to-make-a-friend-study> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/friendship/example> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/friendship.md" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
 <https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I giving this freely, or to be seen as generous, to be owed something or to avoid saying no?" .
 <https://github.com/john1hsu/wisdom-graph/id/generosity/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
@@ -9871,6 +9932,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6> <https://schema.org/url> <https://www.csus.edu/indiv/o/onure/econ%20200A%20_%20S10/Ramsey.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://purl.org/dc/terms/publisher> "Aristotle, trans. W. D. Ross; The Internet Classics Archive, MIT" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VIII" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <https://schema.org/url> <https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> <http://purl.org/dc/terms/publisher> "Cicero, Loeb Classical Library translation (1923, W. A. Falconer); LacusCurtius, University of Chicago" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> <http://purl.org/dc/terms/title> "Laelius de Amicitia (On Friendship)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2> <https://schema.org/url> <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Laelius_de_Amicitia/text*.html> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> <http://purl.org/dc/terms/publisher> "Plutarch, trans. ed. W. W. Goodwin (1878); ToposText" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> <http://purl.org/dc/terms/title> "How to Know a Flatterer from a Friend (Moralia)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3> <https://schema.org/url> <https://topostext.org/work/253> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> <http://purl.org/dc/terms/publisher> "Biology Letters, 17(5), 20210158 (Lindenfors, Wartel & Lind, 2021; doi:10.1098/rsbl.2021.0158), PubMed Central" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> <http://purl.org/dc/terms/title> "'Dunbar's number' deconstructed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC8103230> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, UC Berkeley (Kira M. Newman, 25 May 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> <http://purl.org/dc/terms/title> "How Long Does It Take to Make a Friend?" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5> <https://schema.org/url> <https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> <http://purl.org/dc/terms/publisher> "KU News, University of Kansas (Rick Hellman, 2018)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> <http://purl.org/dc/terms/title> "How to make friends? Study reveals how many hours it takes" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6> <https://schema.org/url> <https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend> .
 <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://purl.org/dc/terms/publisher> "The Internet Classics Archive, MIT" .
 <https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book IV, Part 1 (liberality), trans. W. D. Ross" .

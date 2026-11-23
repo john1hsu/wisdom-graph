@@ -2229,6 +2229,46 @@
    "schema:text": "Afterwards, notice which of the four came easily and which you avoided, and practise the neglected one next time."
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/friendship/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I telling my friend what is true and useful, or only what will keep the moment pleasant?",
+   "wgo:questionFor": {
+    "@id": "wg:friendship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/friendship/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "If I have a criticism, am I raising it privately, at a good time, and for their sake rather than mine?",
+   "wgo:questionFor": {
+    "@id": "wg:friendship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/friendship/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Do my friends ever disagree with me, or have I drifted toward people who only agree?",
+   "wgo:questionFor": {
+    "@id": "wg:friendship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/friendship/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Which friendships have I been taking for granted, and when did I last spend unhurried time with them?",
+   "wgo:questionFor": {
+    "@id": "wg:friendship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/friendship/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "I love that you want to do this, and you'd be great with customers. Can I be straight with you about one thing that worries me? The lease and your savings. Could we go through the numbers together this weekend? Whatever you decide, I'm on your side.",
+   "wgo:before": "\"That's amazing — you should totally go for it!\" Then, a week later at a group dinner, \"Honestly, I give it six months.\"",
+   "wgo:situation": "A close friend tells you over coffee that she plans to quit her job next month to open a café, and asks what you think. You admire her drive but have serious doubts about her savings and the lease she has found.",
+   "wgo:why": "The first reply flatters and the second wounds in public; the wiser one speaks privately, starts from real praise, names one concrete concern, offers help and leaves the decision with her — frank speech in the service of the friend's own good."
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/generosity/check/1",
    "@type": "wgo:SelfCheckQuestion",
    "rdfs:label": "Am I giving this freely, or to be seen as generous, to be owed something or to avoid saying no?",
@@ -10957,6 +10997,90 @@
     "@id": "https://www.csus.edu/indiv/o/onure/econ%20200A%20_%20S10/Ramsey.pdf"
    },
    "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Aristotle, trans. W. D. Ross; The Internet Classics Archive, MIT",
+   "dcterms:title": "Nicomachean Ethics, Book VIII",
+   "schema:url": {
+    "@id": "https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Cicero, Loeb Classical Library translation (1923, W. A. Falconer); LacusCurtius, University of Chicago",
+   "dcterms:title": "Laelius de Amicitia (On Friendship)",
+   "schema:url": {
+    "@id": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Laelius_de_Amicitia/text*.html"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Plutarch, trans. ed. W. W. Goodwin (1878); ToposText",
+   "dcterms:title": "How to Know a Flatterer from a Friend (Moralia)",
+   "schema:url": {
+    "@id": "https://topostext.org/work/253"
+   },
+   "wgo:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Biology Letters, 17(5), 20210158 (Lindenfors, Wartel & Lind, 2021; doi:10.1098/rsbl.2021.0158), PubMed Central",
+   "dcterms:title": "'Dunbar's number' deconstructed",
+   "schema:url": {
+    "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8103230"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Greater Good Science Center, UC Berkeley (Kira M. Newman, 25 May 2018)",
+   "dcterms:title": "How Long Does It Take to Make a Friend?",
+   "schema:url": {
+    "@id": "https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "KU News, University of Kansas (Rick Hellman, 2018)",
+   "dcterms:title": "How to make friends? Study reveals how many hours it takes",
+   "schema:url": {
+    "@id": "https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend"
+   },
+   "wgo:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/generosity/s1",
@@ -26938,6 +27062,124 @@
     }
    ],
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:friendship",
+   "@type": "wgo:Context",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/friendship/s6"
+    }
+   ],
+   "rdfs:label": "Friendship",
+   "skos:altLabel": [
+    "amicitia",
+    "being a good friend",
+    "close friendship",
+    "friendships",
+    "philia"
+   ],
+   "skos:broader": {
+    "@id": "wg:social-relationships"
+   },
+   "skos:definition": "A freely chosen, mutual relationship of goodwill in which each person wishes the other well for the other's own sake — a setting where wisdom shows in how friends are chosen and kept, and above all in telling a friend the truth without flattery or cruelty.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships"
+   },
+   "skos:prefLabel": "Friendship",
+   "skos:related": [
+    {
+     "@id": "wg:aristotle"
+    },
+    {
+     "@id": "wg:character-friendship"
+    },
+    {
+     "@id": "wg:cicero"
+    },
+    {
+     "@id": "wg:dunbars-number"
+    },
+    {
+     "@id": "wg:epicureanism"
+    },
+    {
+     "@id": "wg:flattery"
+    },
+    {
+     "@id": "wg:giving-advice"
+    },
+    {
+     "@id": "wg:honesty"
+    },
+    {
+     "@id": "wg:know-thyself"
+    },
+    {
+     "@id": "wg:loneliness"
+    },
+    {
+     "@id": "wg:mentorship"
+    },
+    {
+     "@id": "wg:nicomachean-ethics"
+    },
+    {
+     "@id": "wg:plutarch"
+    },
+    {
+     "@id": "wg:seeking-counsel"
+    },
+    {
+     "@id": "wg:self-deception"
+    },
+    {
+     "@id": "wg:social-support"
+    }
+   ],
+   "wgo:complements": {
+    "@id": "wg:honesty"
+   },
+   "wgo:contrastsWith": {
+    "@id": "wg:flattery"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:dunbars-number-deconstructed-study"
+    },
+    {
+     "@id": "wg:hours-to-make-a-friend-study"
+    }
+   ],
+   "wgo:domain": "compassion-and-relationships",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/friendship/example"
+   },
+   "wgo:file": "articles/compassion-and-relationships/friendship.md",
+   "wgo:level": "introductory",
+   "wgo:studiedIn": {
+    "@id": "wg:virtue-ethics"
+   }
   },
   {
    "@id": "wg:generosity",

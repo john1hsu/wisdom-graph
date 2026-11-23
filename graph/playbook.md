@@ -179,6 +179,22 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Friendship](../articles/compassion-and-relationships/friendship.md) — Context
+
+*A close friend tells you over coffee that she plans to quit her job next month to open a café, and asks what you think. You admire her drive but have serious doubts about her savings and the lease she has found.*
+
+| Before | After |
+|---|---|
+| "That's amazing — you should totally go for it!" Then, a week later at a group dinner, "Honestly, I give it six months." | I love that you want to do this, and you'd be great with customers. Can I be straight with you about one thing that worries me? The lease and your savings. Could we go through the numbers together this weekend? Whatever you decide, I'm on your side. |
+
+**Why:** The first reply flatters and the second wounds in public; the wiser one speaks privately, starts from real praise, names one concrete concern, offers help and leaves the decision with her — frank speech in the service of the friend's own good.
+
+Ask yourself:
+- Am I telling my friend what is true and useful, or only what will keep the moment pleasant?
+- If I have a criticism, am I raising it privately, at a good time, and for their sake rather than mine?
+- Do my friends ever disagree with me, or have I drifted toward people who only agree?
+- Which friendships have I been taking for granted, and when did I last spend unhurried time with them?
+
 ### [Generosity](../articles/compassion-and-relationships/generosity.md) — Virtue
 
 *A project lead is two days from her own deadline when a newer colleague asks, for the third time this week, for "a quick hand" with a client report he is struggling to structure.*

@@ -4,7 +4,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 5.78 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly` |
+| 5.77 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly` |
 | 4.04 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:decisions-under-uncertainty`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
 | 3.85 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt` |
 | 3.57 | `wg:perspective-taking` | `wg:practical-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:leading-others` |
@@ -14,18 +14,18 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.32 | `wg:deliberation` | `wg:kill-criteria` | `wg:decision-theory`, `wg:decisions-under-uncertainty`, `wg:implementation-intentions`, `wg:kairos`, `wg:knowing-when-to-quit` |
 | 3.29 | `wg:paul-baltes` | `wg:personal-and-general-wisdom` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:learning-from-experience`, `wg:psychology-of-wisdom`, `wg:three-dimensional-wisdom-model` |
 | 3.28 | `wg:balance-theory-of-wisdom` | `wg:intellectual-humility` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:leading-others`, `wg:perspective-taking` |
-| 3.25 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
+| 3.24 | `wg:implicit-theories-of-wisdom` | `wg:wise-reasoning` | `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:personal-and-general-wisdom`, `wg:psychology-of-wisdom` |
 | 3.24 | `wg:aristotle` | `wg:courage` | `wg:aristotelian-virtue-ethics`, `wg:cardinal-virtues`, `wg:doctrine-of-the-mean`, `wg:moral-habituation`, `wg:moral-virtues` |
-| 3.17 | `wg:linda-hill` | `wg:speaking-up-at-work` | `wg:honesty`, `wg:humble-leadership`, `wg:leading-others`, `wg:organizational-behavior`, `wg:psychological-safety-in-work-teams-study` |
-| 3.16 | `wg:moral-habituation` | `wg:virtue-ethics` | `wg:aristotelian-phronesis-model`, `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cardinal-virtues`, `wg:confucianism` |
+| 3.16 | `wg:linda-hill` | `wg:speaking-up-at-work` | `wg:honesty`, `wg:humble-leadership`, `wg:leading-others`, `wg:organizational-behavior`, `wg:psychological-safety-in-work-teams-study` |
 | 3.16 | `wg:personal-and-general-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:learning-from-experience`, `wg:self-distancing` |
+| 3.15 | `wg:moral-habituation` | `wg:virtue-ethics` | `wg:aristotelian-phronesis-model`, `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:cardinal-virtues`, `wg:confucianism` |
 | 3.09 | `wg:cleverness` | `wg:virtue-ethics` | `wg:aristotelian-virtue-ethics`, `wg:aristotle`, `wg:deliberation`, `wg:intellectual-virtues`, `wg:moral-virtues` |
-| 3.00 | `wg:speaking-up-at-work` | `wg:wisdom-in-professions` | `wg:courage`, `wg:kairos`, `wg:leading-others`, `wg:organizational-behavior`, `wg:professional-work` |
+| 2.99 | `wg:speaking-up-at-work` | `wg:wisdom-in-professions` | `wg:courage`, `wg:kairos`, `wg:leading-others`, `wg:organizational-behavior`, `wg:professional-work` |
 | 2.98 | `wg:deliberation` | `wg:regret` | `wg:big-decisions-opting-converting-drifting`, `wg:decision-theory`, `wg:knowing-when-to-quit`, `wg:major-life-decision`, `wg:reversible-and-irreversible-decisions` |
-| 2.97 | `wg:adversity` | `wg:emotional-suppression` | `wg:acceptance`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:regulatory-flexibility`, `wg:resilience` |
 | 2.96 | `wg:rumination` | `wg:stoicism` | `wg:adversity`, `wg:anger`, `wg:de-ira`, `wg:emotional-suppression`, `wg:equanimity` |
-| 2.94 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:developmental-network`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:learning-from-experience` |
+| 2.93 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:developmental-network`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:learning-from-experience` |
 | 2.90 | `wg:adversity` | `wg:equanimity` | `wg:acceptance`, `wg:buddhism`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:impermanence` |
+| 2.90 | `wg:seeking-counsel` | `wg:social-relationships` | `wg:developmental-network`, `wg:friendship`, `wg:giving-advice`, `wg:mentorship`, `wg:perspective-taking` |
 | 2.89 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:paul-baltes`, `wg:self-knowledge` |
 | 2.88 | `wg:balance-theory-of-wisdom` | `wg:wisdom` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:practical-wisdom` |
 | 2.88 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |
