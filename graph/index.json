@@ -1910,6 +1910,107 @@
   ]
  },
  {
+  "id": "wg:calling",
+  "title": "Calling",
+  "aliases": [
+   "vocation",
+   "sense of calling",
+   "work as a calling",
+   "calling orientation",
+   "occupational calling"
+  ],
+  "type": "Concept",
+  "domain": "meaning-and-the-good-life",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/meaning-and-the-good-life/calling.md",
+  "created": "2026-11-24",
+  "summary": "Experiencing one's work as a meaningful end in itself, felt as a passion one is drawn to or a duty to serve a real need, rather than only as a paycheque (a job) or a ladder (a career). People who see their work this way tend to report more meaning and satisfaction, but a calling can also bind people to sacrifice and leave them open to overwork and exploitation.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:meaning-in-life"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "wg:purpose-in-life"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ikigai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-in-professions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:identity-experiments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:hedonic-and-eudaimonic-well-being"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:jobs-careers-and-callings-study",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:calling-and-the-good-life-meta-analysis",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:zookeepers-calling-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:challengedBy",
+    "object": "wg:passion-exploitation-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:complements",
+    "object": "wg:job-crafting",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:self-determination-theory",
+    "source": "s6",
+    "confidence": "low"
+   },
+   {
+    "predicate": "wgo:influencedBy",
+    "object": "wg:max-weber",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/7/206/files/2016/09/jobscareerscallings156JRP1997pap-28y6cfl.pdf",
+   "https://researchonline.lse.ac.uk/id/eprint/118139",
+   "https://profiles.wustl.edu/en/publications/the-call-of-the-wild-zookeepers-callings-and-the-double-edged-swo/",
+   "https://scholars.duke.edu/publication/1383997",
+   "https://www.gsb.stanford.edu/faculty-research/publications/when-callings-are-calling-crafting-work-leisure-pursuit-unanswered",
+   "https://experts.umn.edu/en/publications/perceiving-a-calling-and-well-being-motivation-and-access-to-oppo/"
+  ]
+ },
+ {
   "id": "wg:cardinal-virtues",
   "title": "Cardinal virtues",
   "aliases": [

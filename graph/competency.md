@@ -118,6 +118,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:aging-and-wisdom-culture-study` | mixed | `wg:culturally-inclusive-wisdom-study` |
 | `wg:anger` | mixed |  |
 | `wg:berlin-wisdom-paradigm` | mixed |  |
+| `wg:calling` | mixed | `wg:passion-exploitation-study` |
 | `wg:cognitive-defusion` | mixed | `wg:act-mediation-studies-review` |
 | `wg:cognitive-reappraisal` | mixed | `wg:reappraisal-controllability-study` |
 | `wg:compassion` | mixed | `wg:compassion-fade-study` |
@@ -135,9 +136,8 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:empathy` | mixed | `wg:empathy-and-its-discontents` |
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:end-of-history-illusion` | mixed | `wg:end-of-history-life-satisfaction-study` |
-| `wg:equanimity` | mixed |  |
 
-…and 71 more.
+…and 72 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -145,6 +145,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 
 | node | type |
 |---|---|
+| `wg:calling` | wgo:Concept |
 | `wg:end-of-history-illusion` | wgo:Obstacle |
 | `wg:failure` | wgo:Context |
 | `wg:friendship` | wgo:Context |

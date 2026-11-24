@@ -7667,6 +7667,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Journal of Research in Personality, 31, 21–33 (Wrzesniewski, McCauley, Rozin & Schwartz, 1997; author copy, University of Pennsylvania)",
+   "dcterms:title": "Jobs, careers, and callings: People's relations to their work",
+   "schema:url": {
+    "@id": "https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/7/206/files/2016/09/jobscareerscallings156JRP1997pap-28y6cfl.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Administrative Science Quarterly (Dobrow, Weisman, Heller & Tosti-Kharas, 2023; LSE Research Online)",
+   "dcterms:title": "Calling and the good life: A meta-analysis and theoretical extension",
+   "schema:url": {
+    "@id": "https://researchonline.lse.ac.uk/id/eprint/118139"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Administrative Science Quarterly, 54(1), 32–57 (Bunderson & Thompson, 2009; Washington University in St. Louis research profiles)",
+   "dcterms:title": "The call of the wild: Zookeepers, callings, and the double-edged sword of deeply meaningful work",
+   "schema:url": {
+    "@id": "https://profiles.wustl.edu/en/publications/the-call-of-the-wild-zookeepers-callings-and-the-double-edged-swo/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Journal of Personality and Social Psychology, 118(1), 121–148 (Kim, Campbell, Shepherd & Kay, 2020; Duke University Scholars@Duke)",
+   "dcterms:title": "Understanding contemporary forms of exploitation: Attributions of passion serve to legitimize the poor treatment of workers",
+   "schema:url": {
+    "@id": "https://scholars.duke.edu/publication/1383997"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Organization Science, 21(5), 973–994 (Berg, Grant & Johnson, 2010; Stanford Graduate School of Business)",
+   "dcterms:title": "When callings are calling: Crafting work and leisure in pursuit of unanswered occupational callings",
+   "schema:url": {
+    "@id": "https://www.gsb.stanford.edu/faculty-research/publications/when-callings-are-calling-crafting-work-leisure-pursuit-unanswered"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Journal of Vocational Behavior, 98, 127–137 (Duffy, England, Douglass, Autin & Allan, 2017; University of Minnesota Experts)",
+   "dcterms:title": "Perceiving a calling and well-being: Motivation and access to opportunity as moderators",
+   "schema:url": {
+    "@id": "https://experts.umn.edu/en/publications/perceiving-a-calling-and-well-being-motivation-and-access-to-oppo/"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/cardinal-virtues/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -23332,6 +23416,99 @@
     "@id": "wg:the-buddha"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:calling",
+   "@type": "wgo:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/calling/s6"
+    }
+   ],
+   "rdfs:label": "Calling",
+   "skos:altLabel": [
+    "calling orientation",
+    "occupational calling",
+    "sense of calling",
+    "vocation",
+    "work as a calling"
+   ],
+   "skos:broader": [
+    {
+     "@id": "wg:meaning-in-life"
+    },
+    {
+     "@id": "wg:purpose-in-life"
+    }
+   ],
+   "skos:definition": "Experiencing one's work as a meaningful end in itself, felt as a passion one is drawn to or a duty to serve a real need, rather than only as a paycheque (a job) or a ladder (a career). People who see their work this way tend to report more meaning and satisfaction, but a calling can also bind people to sacrifice and leave them open to overwork and exploitation.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/meaning-and-the-good-life"
+   },
+   "skos:prefLabel": "Calling",
+   "skos:related": [
+    {
+     "@id": "wg:hedonic-and-eudaimonic-well-being"
+    },
+    {
+     "@id": "wg:identity-experiments"
+    },
+    {
+     "@id": "wg:ikigai"
+    },
+    {
+     "@id": "wg:knowing-when-to-quit"
+    },
+    {
+     "@id": "wg:wisdom-in-professions"
+    }
+   ],
+   "wgo:challengedBy": {
+    "@id": "wg:passion-exploitation-study"
+   },
+   "wgo:complements": {
+    "@id": "wg:job-crafting"
+   },
+   "wgo:demonstratedBy": [
+    {
+     "@id": "wg:jobs-careers-and-callings-study"
+    },
+    {
+     "@id": "wg:zookeepers-calling-study"
+    }
+   ],
+   "wgo:domain": "meaning-and-the-good-life",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:explainedBy": {
+    "@id": "wg:self-determination-theory"
+   },
+   "wgo:file": "articles/meaning-and-the-good-life/calling.md",
+   "wgo:influencedBy": {
+    "@id": "wg:max-weber"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": {
+    "@id": "wg:calling-and-the-good-life-meta-analysis"
+   }
   },
   {
    "@id": "wg:cardinal-virtues",
