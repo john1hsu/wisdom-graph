@@ -2986,6 +2986,105 @@
 <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/decision-theory> .
 <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/ramsey-test> .
 <https://github.com/john1hsu/wisdom-graph/id/frank-ramsey> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I about to say this for their good, or mainly for my own relief or to feel superior?" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is this important enough to raise, and is now a time when they can actually hear it?" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "If I were in their position, would I want someone to tell me?" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Did I begin with something true and generous, and end on support rather than on the sting?" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "When a friend last told me something unwelcome, did I thank them or punish them for it?" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Can I be straight with you, because I think you'd want me to be? You're the sharpest person in those meetings, and people know it. The one thing I've noticed is that you often jump in before others have finished, and I think it has cost you with the people who decide. If it helps, I can flag it to you after the next few meetings. Your call." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "\"No idea, it's politics. You were the obvious choice.\" Later, joking with others at the pub, \"Maybe if he let someone else finish a sentence.\"" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A close friend who is also a colleague is passed over for a team-lead role and asks you over lunch whether you know why. You have watched them talk over quieter colleagues in meetings for months, and you have heard two people mention it." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "The first reply flatters to their face and mocks behind their back; the wiser one speaks privately, starts from real praise, names one specific, important pattern, offers help and leaves the choice with them, which is what the ancient writers meant by frankness in the service of a friend." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/1> <https://schema.org/text> "Before you say anything, check your motive; speak only if the point is for your friend's good, not to vent, score a point or look wiser than them." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/2> <https://schema.org/text> "Ask whether the matter is important enough to raise; let small quirks go, so that your frankness keeps its weight when it counts." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/3> <https://schema.org/text> "Ask yourself, \"If I were them, would I want to know?\" and do not assume they would rather not hear it." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/4> <https://schema.org/text> "Choose a moment when they can listen, ideally one-to-one; not as a joke, not over drinks and not when they are already overwhelmed." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/5> <https://schema.org/text> "Open with praise that is true and specific, so they know you are on their side." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/6> <https://schema.org/text> "Name one concern plainly, without mockery or exaggeration, and say why it matters to you and to them." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/7> <https://schema.org/text> "End warmly, leave the decision with them, and do not let the painful point be the last thing said." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/8> <https://schema.org/position> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/8> <https://schema.org/text> "Invite the same frankness about yourself, and when it comes, hear it without anger." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/name> "Frank speech" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/1> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/2> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/3> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/4> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/5> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/6> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/7> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto/8> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://purl.org/dc/terms/created> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2000/01/rdf-schema#label> "Frank speech" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "frank criticism" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "frankness between friends" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "friendly frankness" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "parrhesia" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "parrhêsia" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#altLabel> "parrēsia" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#definition> "The ancient practice, taught in the Epicurean Garden and by Plutarch, of telling a friend, student or companion an unwelcome truth about their conduct, out of goodwill and for their own good, with care for motive, timing, tone and the person's character, and of welcoming the same frankness in return." .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/compassion-and-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frank speech" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/character-friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/how-to-tell-a-flatterer-from-a-friend> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/on-frank-criticism> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/perspective-taking> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/philodemus> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/plutarch> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/workplace-feedback> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/zeno-of-sidon> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/flattery> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/mentorship> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "compassion-and-relationships" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/example> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/frank-speech.md" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/frank-speech/howto> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/mispredicting-honest-communication-study> .
+<https://github.com/john1hsu/wisdom-graph/id/frank-speech> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/underestimating-desire-for-feedback-study> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Am I telling my friend what is true and useful, or only what will keep the moment pleasant?" .
 <https://github.com/john1hsu/wisdom-graph/id/friendship/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
@@ -3021,6 +3120,7 @@
 <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dunbars-number> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/epicureanism> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/flattery> .
+<https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/honesty> .
 <https://github.com/john1hsu/wisdom-graph/id/friendship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/know-thyself> .
@@ -10003,6 +10103,36 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/wisdom-graph/id/source/frank-ramsey/s6> <https://schema.org/url> <https://www.csus.edu/indiv/o/onure/econ%20200A%20_%20S10/Ramsey.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (David Blank; first published 2013, substantive revision 16 January 2019)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> <http://purl.org/dc/terms/title> "Philodemus" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s1> <https://schema.org/url> <https://plato.stanford.edu/entries/philodemus/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> <http://purl.org/dc/terms/publisher> "Plutarch, Moralia vol. I, trans. Frank Cole Babbitt, Loeb Classical Library (Harvard University Press, 1927); Perseus Digital Library via Perseids" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> <http://purl.org/dc/terms/title> "How to Tell a Flatterer from a Friend, chs. 26–27 (Moralia)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s2> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0007/tlg070/perseus-eng3/26-27> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> <http://purl.org/dc/terms/publisher> "Plutarch, Moralia vol. I, trans. Frank Cole Babbitt, Loeb Classical Library (Harvard University Press, 1927); Perseus Digital Library via Perseids" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> <http://purl.org/dc/terms/title> "How to Tell a Flatterer from a Friend, chs. 36–37 (Moralia)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s3> <https://schema.org/url> <https://cts.perseids.org/read/greekLit/tlg0007/tlg070/perseus-eng3/36-37> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> <http://purl.org/dc/terms/publisher> "Journal of Experimental Psychology General, 147(9), 1400–1429 (Levine & Cohen, 2018; doi:10.1037/xge0000488), author copy, University of Chicago" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> <http://purl.org/dc/terms/title> "You can handle the truth: Mispredicting the consequences of honest communication" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s4> <https://schema.org/url> <https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/c/3234/files/2023/07/12.-Handle-the-Truth-2018.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> <http://purl.org/dc/terms/publisher> "American Psychological Association press release on Abi-Esber, Abel, Schroeder & Gino (2022), Journal of Personality and Social Psychology (24 March 2022)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> <http://purl.org/dc/terms/title> "People underestimate others' desire for constructive feedback" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/frank-speech/s5> <https://schema.org/url> <https://www.apa.org/news/press/releases/2022/03/constructive-criticism> .
 <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://purl.org/dc/terms/publisher> "Aristotle, trans. W. D. Ross; The Internet Classics Archive, MIT" .
 <https://github.com/john1hsu/wisdom-graph/id/source/friendship/s1> <http://purl.org/dc/terms/title> "Nicomachean Ethics, Book VIII" .

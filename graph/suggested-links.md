@@ -5,7 +5,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 5.77 | `wg:intellectual-humility` | `wg:practical-wisdom` | `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:deliberation`, `wg:doctrine-of-the-mean`, `wg:folly` |
-| 4.04 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:decisions-under-uncertainty`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
+| 4.03 | `wg:psychology-of-wisdom` | `wg:seeking-counsel` | `wg:berlin-wisdom-paradigm`, `wg:decisions-under-uncertainty`, `wg:giving-advice`, `wg:implicit-theories-of-wisdom`, `wg:intellectual-humility` |
 | 3.85 | `wg:psychology-of-wisdom` | `wg:teaching-for-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:berlin-wisdom-paradigm`, `wg:intellectual-humility`, `wg:monika-ardelt` |
 | 3.57 | `wg:perspective-taking` | `wg:practical-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:leading-others` |
 | 3.49 | `wg:perspective-taking` | `wg:psychology-of-wisdom` | `wg:aristotelian-phronesis-model`, `wg:balance-theory-of-wisdom`, `wg:common-wisdom-model`, `wg:decisions-under-uncertainty`, `wg:giving-advice` |
@@ -25,7 +25,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.96 | `wg:rumination` | `wg:stoicism` | `wg:adversity`, `wg:anger`, `wg:de-ira`, `wg:emotional-suppression`, `wg:equanimity` |
 | 2.93 | `wg:seeking-counsel` | `wg:self-reflection` | `wg:after-action-review`, `wg:developmental-network`, `wg:emulating-moral-exemplars`, `wg:know-thyself`, `wg:learning-from-experience` |
 | 2.90 | `wg:adversity` | `wg:equanimity` | `wg:acceptance`, `wg:buddhism`, `wg:cognitive-reappraisal`, `wg:dichotomy-of-control`, `wg:impermanence` |
-| 2.90 | `wg:seeking-counsel` | `wg:social-relationships` | `wg:developmental-network`, `wg:friendship`, `wg:giving-advice`, `wg:mentorship`, `wg:perspective-taking` |
 | 2.89 | `wg:seeking-counsel` | `wg:three-dimensional-wisdom-model` | `wg:berlin-wisdom-paradigm`, `wg:implicit-theories-of-wisdom`, `wg:leading-others`, `wg:paul-baltes`, `wg:self-knowledge` |
 | 2.88 | `wg:balance-theory-of-wisdom` | `wg:wisdom` | `wg:berlin-wisdom-paradigm`, `wg:common-wisdom-model`, `wg:folly`, `wg:implicit-theories-of-wisdom`, `wg:practical-wisdom` |
+| 2.88 | `wg:seeking-counsel` | `wg:social-relationships` | `wg:developmental-network`, `wg:friendship`, `wg:giving-advice`, `wg:mentorship`, `wg:perspective-taking` |
 | 2.88 | `wg:berlin-wisdom-paradigm` | `wg:folly` | `wg:balance-theory-of-wisdom`, `wg:intellectual-humility`, `wg:robert-sternberg`, `wg:seeking-counsel`, `wg:socratic-ignorance` |

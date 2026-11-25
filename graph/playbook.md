@@ -179,6 +179,32 @@ Ask yourself:
 - If they keep doing this, what boundary would self-respect require alongside any forgiveness?
 - Have I given myself time to name the hurt before deciding whether, and how, to forgive?
 
+### [Frank speech](../articles/compassion-and-relationships/frank-speech.md) — Practice
+
+1. Before you say anything, check your motive; speak only if the point is for your friend's good, not to vent, score a point or look wiser than them.
+2. Ask whether the matter is important enough to raise; let small quirks go, so that your frankness keeps its weight when it counts.
+3. Ask yourself, "If I were them, would I want to know?" and do not assume they would rather not hear it.
+4. Choose a moment when they can listen, ideally one-to-one; not as a joke, not over drinks and not when they are already overwhelmed.
+5. Open with praise that is true and specific, so they know you are on their side.
+6. Name one concern plainly, without mockery or exaggeration, and say why it matters to you and to them.
+7. End warmly, leave the decision with them, and do not let the painful point be the last thing said.
+8. Invite the same frankness about yourself, and when it comes, hear it without anger.
+
+*A close friend who is also a colleague is passed over for a team-lead role and asks you over lunch whether you know why. You have watched them talk over quieter colleagues in meetings for months, and you have heard two people mention it.*
+
+| Before | After |
+|---|---|
+| "No idea, it's politics. You were the obvious choice." Later, joking with others at the pub, "Maybe if he let someone else finish a sentence." | Can I be straight with you, because I think you'd want me to be? You're the sharpest person in those meetings, and people know it. The one thing I've noticed is that you often jump in before others have finished, and I think it has cost you with the people who decide. If it helps, I can flag it to you after the next few meetings. Your call. |
+
+**Why:** The first reply flatters to their face and mocks behind their back; the wiser one speaks privately, starts from real praise, names one specific, important pattern, offers help and leaves the choice with them, which is what the ancient writers meant by frankness in the service of a friend.
+
+Ask yourself:
+- Am I about to say this for their good, or mainly for my own relief or to feel superior?
+- Is this important enough to raise, and is now a time when they can actually hear it?
+- If I were in their position, would I want someone to tell me?
+- Did I begin with something true and generous, and end on support rather than on the sting?
+- When a friend last told me something unwelcome, did I thank them or punish them for it?
+
 ### [Friendship](../articles/compassion-and-relationships/friendship.md) — Context
 
 *A close friend tells you over coffee that she plans to quit her job next month to open a café, and asks what you think. You admire her drive but have serious doubts about her savings and the lease she has found.*

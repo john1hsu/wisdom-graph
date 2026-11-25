@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: mixed
 broader: [wg:social-relationships]
-related: [wg:character-friendship, wg:aristotle, wg:nicomachean-ethics, wg:cicero, wg:plutarch, wg:epicureanism, wg:honesty, wg:flattery, wg:giving-advice, wg:seeking-counsel, wg:mentorship, wg:know-thyself, wg:self-deception, wg:loneliness, wg:social-support, wg:dunbars-number]
+related: [wg:character-friendship, wg:frank-speech, wg:aristotle, wg:nicomachean-ethics, wg:cicero, wg:plutarch, wg:epicureanism, wg:honesty, wg:flattery, wg:giving-advice, wg:seeking-counsel, wg:mentorship, wg:know-thyself, wg:self-deception, wg:loneliness, wg:social-support, wg:dunbars-number]
 requires: []
 relations:
   - {predicate: contrastsWith, object: wg:flattery, source: s3, confidence: high}

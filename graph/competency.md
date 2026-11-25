@@ -18,9 +18,7 @@ _No results._
 
 _Which written life situations have no practice, principle, skill or virtue applied in them?_ — `queries/03-situations-without-guidance.rq`
 
-| node | type |
-|---|---|
-| `wg:friendship` | wgo:Context |
+_No results._
 
 ## Highest-leverage practices and teachings
 
@@ -59,7 +57,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 | `wg:temperance` | 2 | insensibility, intemperance |
 
-…and 26 more.
+…and 27 more.
 
 ## Toolkit by life situation
 
@@ -84,7 +82,9 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:facing-mortality` | `wg:death-awareness` |
 | `wg:facing-mortality` | `wg:epicureanism` |
 | `wg:failure` | `wg:stoic-reserve-clause` |
+| `wg:friendship` | `wg:frank-speech` |
 | `wg:giving-advice` | `wg:berlin-wisdom-paradigm` |
+| `wg:giving-advice` | `wg:frank-speech` |
 | `wg:grief-and-loss` | `wg:continuing-bonds` |
 | `wg:grief-and-loss` | `wg:resilience` |
 | `wg:interpersonal-conflict` | `wg:berlin-wisdom-paradigm` |
@@ -95,10 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:perspective-taking` |
 | `wg:interpersonal-conflict` | `wg:right-speech` |
 | `wg:interpersonal-conflict` | `wg:self-distancing` |
-| `wg:interpersonal-conflict` | `wg:wise-reasoning` |
-| `wg:leading-others` | `wg:after-action-review` |
 
-…and 37 more.
+…and 40 more.
 
 ## Myths and contested advice
 
@@ -208,7 +206,7 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:memento-mori` |
 | `wg:buddhism` | `wg:right-speech` |
 
-…and 52 more.
+…and 53 more.
 
 ## The doctrine of the mean
 
