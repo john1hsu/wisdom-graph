@@ -105,6 +105,22 @@ Ask yourself:
 - Am I using the thought of death to clarify what matters, or to feed dread or reckless indulgence?
 - What would I want to have said or done for the people involved here?
 
+### [Social support](../articles/adversity-and-mortality/social-support.md) — Concept
+
+*A close colleague is preparing for a make-or-break client presentation next week and has been visibly tense. You want to help.*
+
+| Before | After |
+|---|---|
+| You look really stressed. Sit down, let's go through everything that could go wrong, and I'll check in on you every few hours until it's done. | Quietly take the routine report off their plate, offer to be the audience for a run-through if they'd like one, and tell them once, plainly, that you're around if they want anything. |
+
+**Why:** Help that keeps announcing itself can magnify the stressor and suggest the person can't cope; practical help given lightly, plus a clear sense that you are available, protects their confidence while still letting them lean on you.
+
+Ask yourself:
+- Is the help I'm about to offer what this person needs, or what makes me feel useful?
+- Would my support leave them feeling more capable, or less?
+- If things went badly for me this week, whom could I actually ask, and have I let them know I'd want them to?
+- When did I last offer someone else the kind of steady backing I hope to receive?
+
 ## compassion-and-relationships
 
 ### [Compassion](../articles/compassion-and-relationships/compassion.md) — Virtue

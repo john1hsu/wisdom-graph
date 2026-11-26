@@ -7867,6 +7867,65 @@
 <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/compassion-and-relationships/social-relationships.md" .
 <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/wisdom-graph/id/social-relationships> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/psychology-of-wisdom> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is the help I'm about to offer what this person needs, or what makes me feel useful?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Would my support leave them feeling more capable, or less?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "If things went badly for me this week, whom could I actually ask, and have I let them know I'd want them to?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "When did I last offer someone else the kind of steady backing I hope to receive?" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Quietly take the routine report off their plate, offer to be the audience for a run-through if they'd like one, and tell them once, plainly, that you're around if they want anything." .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "You look really stressed. Sit down, let's go through everything that could go wrong, and I'll check in on you every few hours until it's done." .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A close colleague is preparing for a make-or-break client presentation next week and has been visibly tense. You want to help." .
+<https://github.com/john1hsu/wisdom-graph/id/social-support/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Help that keeps announcing itself can magnify the stressor and suggest the person can't cope; practical help given lightly, plus a clear sense that you are available, protects their confidence while still letting them lean on you." .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://purl.org/dc/terms/created> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2000/01/rdf-schema#label> "Social support" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#altLabel> "enacted support" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#altLabel> "invisible support" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#altLabel> "perceived social support" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#altLabel> "received social support" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#altLabel> "stress buffering" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#altLabel> "support from others" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#definition> "The help, care and sense of being backed by others that people draw on, especially under stress. Research separates the belief that help would be there if needed (perceived support) from help actually given (received support), and finds that the first is the more reliable protector." .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/adversity-and-mortality> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social support" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/compassion> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/giving-advice> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/grief-and-loss> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/loneliness> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/resilience> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/seeking-counsel> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/wisdom-and-well-being> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/adversity> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/giving-support-and-mortality-study> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#demonstratedBy> <https://github.com/john1hsu/wisdom-graph/id/invisible-support-daily-diary-study> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "adversity-and-mortality" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/social-support/example> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/stress-buffering-hypothesis> .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/adversity-and-mortality/social-support.md" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/health-psychology> .
 <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Theory> .
 <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Socioemotional selectivity theory" .
@@ -13253,6 +13312,42 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/wisdom-graph/id/source/social-relationships/s5> <https://schema.org/url> <https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> <http://purl.org/dc/terms/publisher> "American Psychologist, 676–684 (Sheldon Cohen, 2004); author's copy, Laboratory for the Study of Stress, Immunity and Disease, Carnegie Mellon University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> <http://purl.org/dc/terms/title> "Social relationships and health" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s1> <https://schema.org/url> <https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/abstracts/pdf/amerpsycholpaper.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> <http://purl.org/dc/terms/publisher> "Current Opinion in Psychiatry, 21(2), 201–205 (Reblin & Uchino, 2008; doi:10.1097/YCO.0b013e3282f3ad89); PubMed Central author manuscript" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> <http://purl.org/dc/terms/title> "Social and emotional support and its implication for health" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s2> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC2729718/> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> <http://purl.org/dc/terms/publisher> "Journal of Family Psychology, 32(7), 882–893 (Girme, Maniaci, Reis, McNulty, Carmichael, Gable, Baker & Overall, 2018; doi:10.1037/fam0000453); PubMed Central" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> <http://purl.org/dc/terms/title> "Does support need to be seen? Daily invisible support promotes next day relationship well-being" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s3> <https://schema.org/url> <https://pmc.ncbi.nlm.nih.gov/articles/PMC6205907> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> <http://purl.org/dc/terms/publisher> "Psychological Science (Brown and colleagues, 2003); abstract record, Institute for Social Research, University of Michigan" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> <http://purl.org/dc/terms/title> "Providing social support may be more beneficial than receiving it: Results from a prospective study of mortality" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s4> <https://schema.org/url> <https://api.isr.umich.edu/?p=187086> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> <http://purl.org/dc/terms/publisher> "Monitor on Psychology, 34(2), American Psychological Association (M. Greengrass, February 2003)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> <http://purl.org/dc/terms/title> "Giving to others linked to longer life, study finds" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s5> <https://schema.org/url> <https://www.apa.org/monitor/feb03/giving> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> <http://purl.org/dc/terms/publisher> "National Cancer Institute, Division of Cancer Control and Population Sciences, Behavioral Research Program (Brian Lakey; archived reference page)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> <http://purl.org/dc/terms/title> "Social support" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/wisdom-graph/id/source/social-support/s6> <https://schema.org/url> <https://cancercontrol.cancer.gov/brp/research/constructs/social-support> .
 <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/publisher> "GeroPsych, 31(3), 163–167 (Liao & Carstensen, 2018), via PubMed Central" .
 <https://github.com/john1hsu/wisdom-graph/id/source/socioemotional-selectivity-theory/s1> <http://purl.org/dc/terms/title> "Future time perspective: Time horizons and beyond" .

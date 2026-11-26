@@ -16044,6 +16044,134 @@
   ]
  },
  {
+  "id": "wg:social-support",
+  "title": "Social support",
+  "aliases": [
+   "support from others",
+   "perceived social support",
+   "received social support",
+   "enacted support",
+   "invisible support",
+   "stress buffering"
+  ],
+  "type": "Concept",
+  "domain": "adversity-and-mortality",
+  "level": "introductory",
+  "evidenceStatus": "mixed",
+  "file": "articles/adversity-and-mortality/social-support.md",
+  "created": "2026-11-26",
+  "summary": "The help, care and sense of being backed by others that people draw on, especially under stress. Research separates the belief that help would be there if needed (perceived support) from help actually given (received support), and finds that the first is the more reliable protector.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:social-relationships"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:adversity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:resilience"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:friendship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:compassion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:empathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:generosity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:seeking-counsel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:giving-advice"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:grief-and-loss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:rumination"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:emotional-suppression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:loneliness"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:wisdom-and-well-being"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:stress-buffering-hypothesis",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:adversity",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:invisible-support-daily-diary-study",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:demonstratedBy",
+    "object": "wg:giving-support-and-mortality-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:health-psychology",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is the help I'm about to offer what this person needs, or what makes me feel useful?",
+   "Would my support leave them feeling more capable, or less?",
+   "If things went badly for me this week, whom could I actually ask, and have I let them know I'd want them to?",
+   "When did I last offer someone else the kind of steady backing I hope to receive?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A close colleague is preparing for a make-or-break client presentation next week and has been visibly tense. You want to help.",
+   "before": "You look really stressed. Sit down, let's go through everything that could go wrong, and I'll check in on you every few hours until it's done.",
+   "after": "Quietly take the routine report off their plate, offer to be the audience for a run-through if they'd like one, and tell them once, plainly, that you're around if they want anything.",
+   "why": "Help that keeps announcing itself can magnify the stressor and suggest the person can't cope; practical help given lightly, plus a clear sense that you are available, protects their confidence while still letting them lean on you."
+  },
+  "source_urls": [
+   "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/abstracts/pdf/amerpsycholpaper.pdf",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2729718/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6205907",
+   "https://api.isr.umich.edu/?p=187086",
+   "https://www.apa.org/monitor/feb03/giving",
+   "https://cancercontrol.cancer.gov/brp/research/constructs/social-support"
+  ]
+ },
+ {
   "id": "wg:socioemotional-selectivity-theory",
   "title": "Socioemotional selectivity theory",
   "aliases": [

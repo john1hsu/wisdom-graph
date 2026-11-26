@@ -72,6 +72,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:adversity` | `wg:reflective-journaling` |
 | `wg:adversity` | `wg:regulatory-flexibility` |
 | `wg:adversity` | `wg:self-reflection` |
+| `wg:adversity` | `wg:social-support` |
 | `wg:ageing` | `wg:life-review` |
 | `wg:ageing` | `wg:lifespan-developmental-psychology` |
 | `wg:ageing` | `wg:socioemotional-selectivity-theory` |
@@ -94,9 +95,8 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
 | `wg:interpersonal-conflict` | `wg:perspective-taking` |
 | `wg:interpersonal-conflict` | `wg:right-speech` |
-| `wg:interpersonal-conflict` | `wg:self-distancing` |
 
-…and 40 more.
+…and 41 more.
 
 ## Myths and contested advice
 
@@ -135,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:end-of-history-illusion` | mixed | `wg:end-of-history-life-satisfaction-study` |
 
-…and 72 more.
+…and 73 more.
 
 ## Ideas with no recorded origin (gap)
 
@@ -154,6 +154,7 @@ _Which written concepts have no introducedBy / introducedIn edge or rootedIn edg
 | `wg:reversible-and-irreversible-decisions` | wgo:Principle |
 | `wg:self-deception` | wgo:Obstacle |
 | `wg:social-relationships` | wgo:Context |
+| `wg:social-support` | wgo:Concept |
 | `wg:speaking-up-at-work` | wgo:Context |
 | `wg:ubuntu` | wgo:Tradition |
 | `wg:virtue-ethics` | wgo:Field |
