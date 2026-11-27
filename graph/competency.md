@@ -12,7 +12,9 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-_No results._
+| skill | type |
+|---|---|
+| `wg:patience` | wgo:Virtue |
 
 ## Life situations with no guidance (gap)
 
@@ -50,14 +52,14 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:logotherapy` | 2 | existential-vacuum, hyper-reflection |
 | `wg:memento-mori` | 2 | Equanimity, Greed |
 | `wg:moral-algebra` | 2 | Deliberation, impetuosity |
+| `wg:patience` | 2 | Anger, impatience |
 | `wg:process-model-of-emotion-regulation` | 2 | Emotion regulatory flexibility, Rumination |
 | `wg:reflective-journaling` | 2 | Rumination, Self-reflection |
 | `wg:right-speech` | 2 | Honesty, lying |
 | `wg:savoring` | 2 | Gratitude, Hedonic adaptation |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
-| `wg:temperance` | 2 | insensibility, intemperance |
 
-…and 27 more.
+…and 28 more.
 
 ## Toolkit by life situation
 
@@ -93,10 +95,10 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:compassionate-reappraisal` |
 | `wg:interpersonal-conflict` | `wg:forgiveness` |
 | `wg:interpersonal-conflict` | `wg:intellectual-humility` |
+| `wg:interpersonal-conflict` | `wg:patience` |
 | `wg:interpersonal-conflict` | `wg:perspective-taking` |
-| `wg:interpersonal-conflict` | `wg:right-speech` |
 
-…and 41 more.
+…and 42 more.
 
 ## Myths and contested advice
 
@@ -205,9 +207,9 @@ _Which teachings, practices and virtues in the graph are rooted in each wisdom t
 | `wg:buddhism` | `wg:impermanence` |
 | `wg:buddhism` | `wg:loving-kindness-meditation` |
 | `wg:buddhism` | `wg:memento-mori` |
-| `wg:buddhism` | `wg:right-speech` |
+| `wg:buddhism` | `wg:patience` |
 
-…and 53 more.
+…and 55 more.
 
 ## The doctrine of the mean
 

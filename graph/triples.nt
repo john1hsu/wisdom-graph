@@ -5992,6 +5992,72 @@
 <https://github.com/john1hsu/wisdom-graph/id/on-old-age> <https://github.com/john1hsu/wisdom-graph/ontology#influencedBy> <https://github.com/john1hsu/wisdom-graph/id/plato> .
 <https://github.com/john1hsu/wisdom-graph/id/on-old-age> <https://github.com/john1hsu/wisdom-graph/ontology#introduces> <https://github.com/john1hsu/wisdom-graph/id/ageing> .
 <https://github.com/john1hsu/wisdom-graph/id/on-old-age> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is my frustration telling me something needs fixing, or only that things are slower than I want?" .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "If this can be remedied, what is the next step; and if it cannot, what does my agitation add?" .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I calling it patience when I am really avoiding a conversation or a wrong I should resist?" .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What would this wait look like if I used it rather than just endured it?" .
+<https://github.com/john1hsu/wisdom-graph/id/patience/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/wisdom-graph/id/patience/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Ask once, briefly and privately, when the report will arrive, use the fifteen minutes to prepare the parts you can, and raise the pattern calmly with the colleague after the call." .
+<https://github.com/john1hsu/wisdom-graph/id/patience/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Fire off a sharp message to the whole team about missed deadlines, then sit stewing until the call." .
+<https://github.com/john1hsu/wisdom-graph/id/patience/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "A colleague you depend on for a report is late again, and a client call starts in fifteen minutes." .
+<https://github.com/john1hsu/wisdom-graph/id/patience/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Irritation in the moment mostly harms the person feeling it and the working relationship. Patience keeps judgment intact long enough to act on what can be fixed now and to address the real problem later, which is not the same as letting it slide." .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://purl.org/dc/terms/created> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Virtue> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2000/01/rdf-schema#label> "Patience" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#altLabel> "forbearance" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#altLabel> "khanti" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#altLabel> "kshanti" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#altLabel> "kṣānti" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#altLabel> "patient endurance" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#altLabel> "patientia" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#definition> "The settled disposition to bear delay, frustration, provocation and hardship calmly, so that sorrow or irritation does not overrun judgment or push one into rash or hostile action; studied in psychology as the propensity to wait calmly in the face of frustration or adversity." .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/virtues-and-character> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patience" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/de-ira> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/gratitude> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/kairos> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-control> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/shantideva> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ten-perfections> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/anger> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/impatience> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/interpersonal-conflict> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "virtues-and-character" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "normative" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/patience/example> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#explainedBy> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/virtues-and-character/patience.md" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#partOf> <https://github.com/john1hsu/wisdom-graph/id/courage> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/christianity> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#studiedIn> <https://github.com/john1hsu/wisdom-graph/id/positive-psychology> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/patience-and-well-being-study> .
+<https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/trait-patience-during-waiting-study> .
 <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
 <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Baltes" .
@@ -12070,6 +12136,54 @@
 <https://github.com/john1hsu/wisdom-graph/id/source/on-old-age/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
 <https://github.com/john1hsu/wisdom-graph/id/source/on-old-age/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/wisdom-graph/id/source/on-old-age/s5> <https://schema.org/url> <https://discovery-pp.ucl.ac.uk/10047874/1/gny029.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> <http://purl.org/dc/terms/publisher> "New Advent (online edition)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> <http://purl.org/dc/terms/title> "Summa Theologiae II-II, Question 136: Of patience (Second and Revised Edition, 1920, trans. Fathers of the English Dominican Province)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> <https://schema.org/url> <https://www.newadvent.org/summa/3136.htm> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> <http://purl.org/dc/terms/publisher> "The Journal of Positive Psychology, 7(4), 263-280 (doi:10.1080/17439760.2012.697185; DeepDyve record)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> <http://purl.org/dc/terms/title> "An examination of patience and well-being (Schnitker, 2012)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> <https://schema.org/url> <https://www.deepdyve.com/lp/taylor-francis/an-examination-of-patience-and-well-being-rgUxn0uWSk> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> <http://purl.org/dc/terms/publisher> "Journal of Research in Personality, 120 (doi:10.1016/j.jrp.2025.104681; eScholarship, University of California)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> <http://purl.org/dc/terms/title> "Patiently waiting: The role of trait patience during stressful waiting periods (Sweeny & Schnitker)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> <https://schema.org/url> <https://escholarship.org/content/qt2459x4rw/qt2459x4rw.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Review, 29(2) (doi:10.1177/10888683241263874; eScholarship, University of California)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> <http://purl.org/dc/terms/title> "On (im)patience: A new approach to an old virtue (Sweeny, 2025)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s4> <https://schema.org/url> <https://escholarship.org/content/qt1fb8v9h5/qt1fb8v9h5.pdf> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> <http://purl.org/dc/terms/publisher> "Greater Good Science Center, University of California, Berkeley" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> <http://purl.org/dc/terms/title> "Four reasons to cultivate patience (Kira M. Newman, 2016)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s5> <https://schema.org/url> <https://greatergood.berkeley.edu/article/item/four_reasons_to_cultivate_patience> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> <http://purl.org/dc/terms/publisher> "Tsadra Foundation, Bodhicitta project" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> <http://purl.org/dc/terms/title> "Śāntideva, Bodhicaryāvatāra, Chapter 6: Patience (with excerpts from the Padmakara translation, The Way of the Bodhisattva)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s6> <https://schema.org/url> <https://bodhicitta.tsadra.org/index.php/Explore/Chapter_6_-_Patience> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> <http://purl.org/dc/terms/publisher> "Leiden Medievalists Blog, Leiden University" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> <http://purl.org/dc/terms/title> "Anger is always the enemy: Śāntideva's chapter on patience (Stephen Harris, 2023)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s7> <https://schema.org/url> <https://www.leidenmedievalistsblog.nl/articles/anger-is-always-the-enemy-śāntidevas-chapter-on-patience> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> <http://purl.org/dc/terms/publisher> "Access to Insight" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> <http://purl.org/dc/terms/title> "The Ten Perfections: A Study Guide (Thanissaro Bhikkhu, 2010), section on endurance (khanti)" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/wisdom-graph/id/source/patience/s8> <https://schema.org/url> <https://accesstoinsight.org/lib/study/perfections.html> .
 <https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s1> <http://purl.org/dc/terms/publisher> "Max Planck Institute for Human Development, Center for Lifespan Psychology" .
 <https://github.com/john1hsu/wisdom-graph/id/source/paul-baltes/s1> <http://purl.org/dc/terms/title> "In Memoriam Paul B. Baltes" .

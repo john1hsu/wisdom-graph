@@ -1779,6 +1779,22 @@ Ask yourself:
 - Would I act the same way if the setting changed, if I were rushed, unobserved or in a different mood?
 - Which of my virtues reliably show up at work but not at home, or the other way round?
 
+### [Patience](../articles/virtues-and-character/patience.md) — Virtue
+
+*A colleague you depend on for a report is late again, and a client call starts in fifteen minutes.*
+
+| Before | After |
+|---|---|
+| Fire off a sharp message to the whole team about missed deadlines, then sit stewing until the call. | Ask once, briefly and privately, when the report will arrive, use the fifteen minutes to prepare the parts you can, and raise the pattern calmly with the colleague after the call. |
+
+**Why:** Irritation in the moment mostly harms the person feeling it and the working relationship. Patience keeps judgment intact long enough to act on what can be fixed now and to address the real problem later, which is not the same as letting it slide.
+
+Ask yourself:
+- Is my frustration telling me something needs fixing, or only that things are slower than I want?
+- If this can be remedied, what is the next step; and if it cannot, what does my agitation add?
+- Am I calling it patience when I am really avoiding a conversation or a wrong I should resist?
+- What would this wait look like if I used it rather than just endured it?
+
 ### [Temperance](../articles/virtues-and-character/temperance.md) — Virtue
 
 *The night before you present to a client, your team takes them to dinner with an open bar. Colleagues are ordering round after round.*

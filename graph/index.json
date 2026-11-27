@@ -12290,6 +12290,166 @@
   ]
  },
  {
+  "id": "wg:patience",
+  "title": "Patience",
+  "aliases": [
+   "patientia",
+   "forbearance",
+   "kshanti",
+   "kṣānti",
+   "khanti",
+   "patient endurance"
+  ],
+  "type": "Virtue",
+  "domain": "virtues-and-character",
+  "level": "introductory",
+  "evidenceStatus": "normative",
+  "file": "articles/virtues-and-character/patience.md",
+  "created": "2026-11-27",
+  "summary": "The settled disposition to bear delay, frustration, provocation and hardship calmly, so that sorrow or irritation does not overrun judgment or push one into rash or hostile action; studied in psychology as the propensity to wait calmly in the face of frustration or adversity.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "wg:moral-virtues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:equanimity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:temperance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:courage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:anger"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:de-ira"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:shantideva"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:ten-perfections"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:acceptance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:cognitive-reappraisal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:gratitude"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:kairos"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:self-control"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "wg:knowing-when-to-quit"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:christianity",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:rootedIn",
+    "object": "wg:buddhism",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:partOf",
+    "object": "wg:courage",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:anger",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:addresses",
+    "object": "wg:impatience",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "wgo:explainedBy",
+    "object": "wg:emotion-regulation",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:patience-and-well-being-study",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:supportedBy",
+    "object": "wg:trait-patience-during-waiting-study",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:appliedIn",
+    "object": "wg:interpersonal-conflict",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "wgo:studiedIn",
+    "object": "wg:positive-psychology",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "selfCheck": [
+   "Is my frustration telling me something needs fixing, or only that things are slower than I want?",
+   "If this can be remedied, what is the next step; and if it cannot, what does my agitation add?",
+   "Am I calling it patience when I am really avoiding a conversation or a wrong I should resist?",
+   "What would this wait look like if I used it rather than just endured it?"
+  ],
+  "steps": [],
+  "example": {
+   "situation": "A colleague you depend on for a report is late again, and a client call starts in fifteen minutes.",
+   "before": "Fire off a sharp message to the whole team about missed deadlines, then sit stewing until the call.",
+   "after": "Ask once, briefly and privately, when the report will arrive, use the fifteen minutes to prepare the parts you can, and raise the pattern calmly with the colleague after the call.",
+   "why": "Irritation in the moment mostly harms the person feeling it and the working relationship. Patience keeps judgment intact long enough to act on what can be fixed now and to address the real problem later, which is not the same as letting it slide."
+  },
+  "source_urls": [
+   "https://www.newadvent.org/summa/3136.htm",
+   "https://www.deepdyve.com/lp/taylor-francis/an-examination-of-patience-and-well-being-rgUxn0uWSk",
+   "https://escholarship.org/content/qt2459x4rw/qt2459x4rw.pdf",
+   "https://escholarship.org/content/qt1fb8v9h5/qt1fb8v9h5.pdf",
+   "https://greatergood.berkeley.edu/article/item/four_reasons_to_cultivate_patience",
+   "https://bodhicitta.tsadra.org/index.php/Explore/Chapter_6_-_Patience",
+   "https://www.leidenmedievalistsblog.nl/articles/anger-is-always-the-enemy-śāntidevas-chapter-on-patience",
+   "https://accesstoinsight.org/lib/study/perfections.html"
+  ]
+ },
+ {
   "id": "wg:paul-baltes",
   "title": "Paul Baltes",
   "aliases": [
