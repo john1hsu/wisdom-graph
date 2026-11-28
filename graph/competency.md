@@ -12,9 +12,7 @@ _No results._
 
 _Which written skills or virtues have no practice, framework or principle that cultivates them?_ — `queries/02-skills-without-practice.rq`
 
-| skill | type |
-|---|---|
-| `wg:patience` | wgo:Virtue |
+_No results._
 
 ## Life situations with no guidance (gap)
 
@@ -59,7 +57,7 @@ _Which practices, frameworks, principles, skills and virtues counter the most ob
 | `wg:savoring` | 2 | Gratitude, Hedonic adaptation |
 | `wg:teaching-for-wisdom` | 2 | Folly, Wise reasoning |
 
-…and 28 more.
+…and 29 more.
 
 ## Toolkit by life situation
 
@@ -98,7 +96,7 @@ _For each life situation, which practices, principles, skills and virtues apply?
 | `wg:interpersonal-conflict` | `wg:patience` |
 | `wg:interpersonal-conflict` | `wg:perspective-taking` |
 
-…and 42 more.
+…and 43 more.
 
 ## Myths and contested advice
 
@@ -137,7 +135,7 @@ _Which wisdom claims and popular advice are contested, mixed or failed to replic
 | `wg:emulating-moral-exemplars` | mixed | `wg:which-moral-exemplars-inspire-study` |
 | `wg:end-of-history-illusion` | mixed | `wg:end-of-history-life-satisfaction-study` |
 
-…and 73 more.
+…and 74 more.
 
 ## Ideas with no recorded origin (gap)
 

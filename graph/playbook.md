@@ -671,6 +671,31 @@ Ask yourself:
 - Am I using the wider view to act better here, or to stop caring about people who are affected?
 - Which part of this is about my reputation, and which part is about what is right to do?
 
+### [Waiting well](../articles/emotions-and-equanimity/waiting-well.md) — Practice
+
+1. Write down what, if anything, you can still do before the news arrives, do it once (update the CV, gather the documents, line up a backup plan), and then stop re-checking.
+2. Find out, if you can, when the news is due, so the wait has an end you can see.
+3. Plan a few absorbing, moderately challenging activities for the hardest stretches, such as a sport, a craft, a puzzle or demanding work, rather than passive scrolling or television.
+4. Practise a short daily mindfulness session for the worry that returns between activities, noticing anxious thoughts without arguing with them.
+5. Look for moments of awe, such as a walk somewhere vast or beautiful, and for ordinary pleasant experiences too.
+6. Tell one or two people what you are waiting for and when, and ask for company or distraction at the moments you expect to be hardest.
+7. Save bracing for the worst for the final stretch; shortly before the news, consider the bad outcome and what you would do next, rather than rehearsing it from the first day.
+
+*An engineer has interviewed for an internal promotion and is told the panel will decide "in the next couple of weeks".*
+
+| Before | After |
+|---|---|
+| Check email every twenty minutes, replay every interview answer, ask colleagues daily whether they've heard anything, and assume from day one that it's a no. | Ask the panel chair for the decision date, update the CV once in case it's a no, take on an absorbing design problem and book two evening climbing sessions, do ten minutes of mindfulness each morning, tell a friend the date, and think through the 'no' scenario properly only the day before. |
+
+**Why:** Most of the wait cannot change the outcome. The wiser response does what can be done, gives the mind something better than worry to hold, and keeps bracing for when it is useful, so the waiter arrives at the news less worn out and still able to respond well either way.
+
+Ask yourself:
+- Is there anything left that I can do about this, or am I now only waiting?
+- Is what I'm doing to pass the time absorbing enough to hold my attention, or am I half-watching something while still worrying?
+- Am I bracing for bad news weeks early, when it only costs me, rather than shortly before it arrives?
+- Have I told anyone what I'm waiting for, and when I'll need them most?
+- Is this ordinary waiting stress, or distress that has gone on long enough that I should talk to a professional?
+
 ## foundations
 
 ### [Cleverness](../articles/foundations/cleverness.md) — Concept

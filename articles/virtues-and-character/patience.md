@@ -11,7 +11,7 @@ summary: >-
 level: introductory
 evidenceStatus: normative
 broader: [wg:moral-virtues]
-related: [wg:equanimity, wg:temperance, wg:courage, wg:anger, wg:de-ira, wg:shantideva, wg:ten-perfections, wg:acceptance, wg:cognitive-reappraisal, wg:gratitude, wg:kairos, wg:self-control, wg:knowing-when-to-quit]
+related: [wg:equanimity, wg:temperance, wg:courage, wg:anger, wg:de-ira, wg:shantideva, wg:ten-perfections, wg:acceptance, wg:cognitive-reappraisal, wg:gratitude, wg:kairos, wg:self-control, wg:knowing-when-to-quit, wg:waiting-well]
 requires: []
 relations:
   - {predicate: rootedIn, object: wg:christianity, source: s1, confidence: high}

@@ -20684,6 +20684,90 @@
    "wgo:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Emotion, 19(5) (doi:10.1037/emo0000479; eScholarship, University of California)",
+   "dcterms:title": "A better distraction: Exploring the benefits of flow during uncertain waiting periods (Rankin, Walsh & Sweeny, 2019)",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt25t752vx/qt25t752vx.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Personality and Social Psychology Bulletin, 43(10), 1399-1414 (doi:10.1177/0146167217713490; eScholarship record)",
+   "dcterms:title": "Bracing later and coping better: Benefits of mindfulness during a stressful waiting period (Sweeny & Howell, 2017)",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/3tf5497q"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "The Journal of Positive Psychology, 15(3), 338-347 (doi:10.1080/17439760.2019.1615106; eScholarship record)",
+   "dcterms:title": "Awe-full uncertainty: Easing discomfort during waiting periods (Rankin, Andrews & Sweeny, 2020)",
+   "schema:url": {
+    "@id": "https://escholarship.org/uc/item/7v03715n"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Journal of Research in Personality, 120 (doi:10.1016/j.jrp.2025.104681; eScholarship, University of California)",
+   "dcterms:title": "Patiently waiting: The role of trait patience during stressful waiting periods (Sweeny & Schnitker, 2026)",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt2459x4rw/qt2459x4rw.pdf"
+   },
+   "wgo:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "American Psychological Association",
+   "dcterms:title": "Speaking of Psychology: Waiting, worrying, and dealing with uncertainty, with Kate Sweeny, PhD",
+   "schema:url": {
+    "@id": "https://www.apa.org/research/action/speaking-of-psychology/waiting-stress"
+   },
+   "wgo:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6",
+   "@type": "wgo:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Graduate Student Resource Center, University of California, Riverside",
+   "dcterms:title": "Navigating uncertain waiting periods (Q&A with Kate Sweeny, 2020)",
+   "schema:url": {
+    "@id": "https://gsrc.ucr.edu/blog/2020/08/26/navigating-uncertain-waiting-periods"
+   },
+   "wgo:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/source/weakness-of-will/s1",
    "@type": "wgo:Source",
    "dcterms:date": {
@@ -21978,6 +22062,124 @@
    "@type": "schema:HowToStep",
    "schema:position": 6,
    "schema:text": "Stop and set the exercise aside if it leaves you feeling that nothing matters, and talk to someone you trust instead."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/1",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is there anything left that I can do about this, or am I now only waiting?",
+   "wgo:questionFor": {
+    "@id": "wg:waiting-well"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/2",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is what I'm doing to pass the time absorbing enough to hold my attention, or am I half-watching something while still worrying?",
+   "wgo:questionFor": {
+    "@id": "wg:waiting-well"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/3",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Am I bracing for bad news weeks early, when it only costs me, rather than shortly before it arrives?",
+   "wgo:questionFor": {
+    "@id": "wg:waiting-well"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/4",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Have I told anyone what I'm waiting for, and when I'll need them most?",
+   "wgo:questionFor": {
+    "@id": "wg:waiting-well"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/5",
+   "@type": "wgo:SelfCheckQuestion",
+   "rdfs:label": "Is this ordinary waiting stress, or distress that has gone on long enough that I should talk to a professional?",
+   "wgo:questionFor": {
+    "@id": "wg:waiting-well"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/example",
+   "@type": "wgo:Rewrite",
+   "wgo:after": "Ask the panel chair for the decision date, update the CV once in case it's a no, take on an absorbing design problem and book two evening climbing sessions, do ten minutes of mindfulness each morning, tell a friend the date, and think through the 'no' scenario properly only the day before.",
+   "wgo:before": "Check email every twenty minutes, replay every interview answer, ask colleagues daily whether they've heard anything, and assume from day one that it's a no.",
+   "wgo:situation": "An engineer has interviewed for an internal promotion and is told the panel will decide \"in the next couple of weeks\".",
+   "wgo:why": "Most of the wait cannot change the outcome. The wiser response does what can be done, gives the mind something better than worry to hold, and keeps bracing for when it is useful, so the waiter arrives at the news less worn out and still able to respond well either way."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Waiting well",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Write down what, if anything, you can still do before the news arrives, do it once (update the CV, gather the documents, line up a backup plan), and then stop re-checking."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Find out, if you can, when the news is due, so the wait has an end you can see."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Plan a few absorbing, moderately challenging activities for the hardest stretches, such as a sport, a craft, a puzzle or demanding work, rather than passive scrolling or television."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Practise a short daily mindfulness session for the worry that returns between activities, noticing anxious thoughts without arguing with them."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Look for moments of awe, such as a walk somewhere vast or beautiful, and for ordinary pleasant experiences too."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Tell one or two people what you are waiting for and when, and ask for company or distraction at the moments you expect to be hardest."
+  },
+  {
+   "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Save bracing for the worst for the final stretch; shortly before the news, consider the bad outcome and what you would do next, rather than rehearsing it from the first day."
   },
   {
    "@id": "https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/1",
@@ -32972,6 +33174,9 @@
     },
     {
      "@id": "wg:ten-perfections"
+    },
+    {
+     "@id": "wg:waiting-well"
     }
    ],
    "wgo:addresses": [
@@ -38445,6 +38650,116 @@
     "@id": "wg:psychology-of-wisdom"
    },
    "wgo:level": "introductory"
+  },
+  {
+   "@id": "wg:waiting-well",
+   "@type": "wgo:Practice",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6"
+    }
+   ],
+   "rdfs:label": "Waiting well",
+   "skos:altLabel": [
+    "coping with uncertain waiting",
+    "patient waiting",
+    "waiting for uncertain news"
+   ],
+   "skos:broader": {
+    "@id": "wg:emotion-regulation"
+   },
+   "skos:definition": "A set of research-informed habits for getting through a period of waiting for important, uncertain news, such as exam results, a job decision or a test result, by acting on what can still be done and then using absorbing activity, mindfulness, awe, support and well-timed bracing instead of worry to fill the wait.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity"
+   },
+   "skos:prefLabel": "Waiting well",
+   "skos:related": [
+    {
+     "@id": "wg:acceptance"
+    },
+    {
+     "@id": "wg:awe"
+    },
+    {
+     "@id": "wg:cognitive-reappraisal"
+    },
+    {
+     "@id": "wg:dichotomy-of-control"
+    },
+    {
+     "@id": "wg:distraction"
+    },
+    {
+     "@id": "wg:equanimity"
+    },
+    {
+     "@id": "wg:negative-visualization"
+    },
+    {
+     "@id": "wg:patience"
+    },
+    {
+     "@id": "wg:process-model-of-emotion-regulation"
+    },
+    {
+     "@id": "wg:rumination"
+    },
+    {
+     "@id": "wg:social-support"
+    }
+   ],
+   "wgo:addresses": {
+    "@id": "wg:worry"
+   },
+   "wgo:appliedIn": {
+    "@id": "wg:uncertain-waiting-periods"
+   },
+   "wgo:develops": {
+    "@id": "wg:patience"
+   },
+   "wgo:domain": "emotions-and-equanimity",
+   "wgo:evidenceStatus": "mixed",
+   "wgo:example": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/example"
+   },
+   "wgo:file": "articles/emotions-and-equanimity/waiting-well.md",
+   "wgo:howTo": {
+    "@id": "https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto"
+   },
+   "wgo:introducedBy": {
+    "@id": "wg:kate-sweeny"
+   },
+   "wgo:level": "introductory",
+   "wgo:supportedBy": [
+    {
+     "@id": "wg:awe-during-waiting-study"
+    },
+    {
+     "@id": "wg:flow-during-waiting-study"
+    },
+    {
+     "@id": "wg:mindfulness-during-waiting-study"
+    }
+   ]
   },
   {
    "@id": "wg:weakness-of-will",

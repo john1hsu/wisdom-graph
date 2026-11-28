@@ -398,6 +398,15 @@
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s4> .
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s5> .
 <https://github.com/john1hsu/wisdom-graph/id/view-from-above#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/view-from-above/s6> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/emotions-and-equanimity/waiting-well.md" .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> .
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> .
 <https://github.com/john1hsu/wisdom-graph/id/cleverness#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/wisdom-graph/id/cleverness#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/wisdom-graph/id/cleverness> .
 <https://github.com/john1hsu/wisdom-graph/id/cleverness#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/wisdom-graph/blob/main/articles/foundations/cleverness.md" .
@@ -5880,6 +5889,135 @@
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <https://github.com/john1hsu/wisdom-graph/ontology#rootedIn> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
   <https://github.com/john1hsu/wisdom-graph/id/view-from-above> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/this-too-shall-pass-study> .
+}
+
+<https://github.com/john1hsu/wisdom-graph/id/waiting-well#graph> {
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> <http://purl.org/dc/terms/publisher> "Emotion, 19(5) (doi:10.1037/emo0000479; eScholarship, University of California)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> <http://purl.org/dc/terms/title> "A better distraction: Exploring the benefits of flow during uncertain waiting periods (Rankin, Walsh & Sweeny, 2019)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> <https://schema.org/url> <https://escholarship.org/content/qt25t752vx/qt25t752vx.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> <http://purl.org/dc/terms/publisher> "Personality and Social Psychology Bulletin, 43(10), 1399-1414 (doi:10.1177/0146167217713490; eScholarship record)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> <http://purl.org/dc/terms/title> "Bracing later and coping better: Benefits of mindfulness during a stressful waiting period (Sweeny & Howell, 2017)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> <https://schema.org/url> <https://escholarship.org/uc/item/3tf5497q> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> <http://purl.org/dc/terms/publisher> "The Journal of Positive Psychology, 15(3), 338-347 (doi:10.1080/17439760.2019.1615106; eScholarship record)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> <http://purl.org/dc/terms/title> "Awe-full uncertainty: Easing discomfort during waiting periods (Rankin, Andrews & Sweeny, 2020)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> <https://schema.org/url> <https://escholarship.org/uc/item/7v03715n> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> <http://purl.org/dc/terms/publisher> "Journal of Research in Personality, 120 (doi:10.1016/j.jrp.2025.104681; eScholarship, University of California)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> <http://purl.org/dc/terms/title> "Patiently waiting: The role of trait patience during stressful waiting periods (Sweeny & Schnitker, 2026)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> <https://schema.org/url> <https://escholarship.org/content/qt2459x4rw/qt2459x4rw.pdf> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> <http://purl.org/dc/terms/publisher> "American Psychological Association" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> <http://purl.org/dc/terms/title> "Speaking of Psychology: Waiting, worrying, and dealing with uncertainty, with Kate Sweeny, PhD" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> <https://schema.org/url> <https://www.apa.org/research/action/speaking-of-psychology/waiting-stress> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> <http://purl.org/dc/terms/publisher> "Graduate Student Resource Center, University of California, Riverside" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> <http://purl.org/dc/terms/title> "Navigating uncertain waiting periods (Q&A with Kate Sweeny, 2020)" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Source> .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> <https://github.com/john1hsu/wisdom-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> <https://schema.org/url> <https://gsrc.ucr.edu/blog/2020/08/26/navigating-uncertain-waiting-periods> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Is there anything left that I can do about this, or am I now only waiting?" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/1> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Is what I'm doing to pass the time absorbing enough to hold my attention, or am I half-watching something while still worrying?" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/2> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Am I bracing for bad news weeks early, when it only costs me, rather than shortly before it arrives?" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/3> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Have I told anyone what I'm waiting for, and when I'll need them most?" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/4> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#SelfCheckQuestion> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Is this ordinary waiting stress, or distress that has gone on long enough that I should talk to a professional?" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/5> <https://github.com/john1hsu/wisdom-graph/ontology#questionFor> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> <https://github.com/john1hsu/wisdom-graph/ontology#after> "Ask the panel chair for the decision date, update the CV once in case it's a no, take on an absorbing design problem and book two evening climbing sessions, do ten minutes of mindfulness each morning, tell a friend the date, and think through the 'no' scenario properly only the day before." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> <https://github.com/john1hsu/wisdom-graph/ontology#before> "Check email every twenty minutes, replay every interview answer, ask colleagues daily whether they've heard anything, and assume from day one that it's a no." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> <https://github.com/john1hsu/wisdom-graph/ontology#situation> "An engineer has interviewed for an internal promotion and is told the panel will decide \"in the next couple of weeks\"." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> <https://github.com/john1hsu/wisdom-graph/ontology#why> "Most of the wait cannot change the outcome. The wiser response does what can be done, gives the mind something better than worry to hold, and keeps bracing for when it is useful, so the waiter arrives at the news less worn out and still able to respond well either way." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/1> <https://schema.org/text> "Write down what, if anything, you can still do before the news arrives, do it once (update the CV, gather the documents, line up a backup plan), and then stop re-checking." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/2> <https://schema.org/text> "Find out, if you can, when the news is due, so the wait has an end you can see." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/3> <https://schema.org/text> "Plan a few absorbing, moderately challenging activities for the hardest stretches, such as a sport, a craft, a puzzle or demanding work, rather than passive scrolling or television." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/4> <https://schema.org/text> "Practise a short daily mindfulness session for the worry that returns between activities, noticing anxious thoughts without arguing with them." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/5> <https://schema.org/text> "Look for moments of awe, such as a walk somewhere vast or beautiful, and for ordinary pleasant experiences too." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/6> <https://schema.org/text> "Tell one or two people what you are waiting for and when, and ask for company or distraction at the moments you expect to be hardest." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/7> <https://schema.org/text> "Save bracing for the worst for the final stretch; shortly before the news, consider the bad outcome and what you would do next, rather than rehearsing it from the first day." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/name> "Waiting well" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/1> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/2> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/3> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/4> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/5> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/6> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> <https://schema.org/step> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto/7> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://purl.org/dc/terms/created> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Practice> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2000/01/rdf-schema#label> "Waiting well" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#altLabel> "coping with uncertain waiting" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#altLabel> "patient waiting" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#altLabel> "waiting for uncertain news" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#definition> "A set of research-informed habits for getting through a period of waiting for important, uncertain news, such as exam results, a job decision or a test result, by acting on what can still be done and then using absorbing activity, mindfulness, awe, support and well-timed bracing instead of worry to fill the wait." .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/wisdom-graph/id/scheme/emotions-and-equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waiting well" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/awe> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/distraction> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s1> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s2> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s3> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s4> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s5> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/waiting-well/s6> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#addresses> <https://github.com/john1hsu/wisdom-graph/id/worry> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#appliedIn> <https://github.com/john1hsu/wisdom-graph/id/uncertain-waiting-periods> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#develops> <https://github.com/john1hsu/wisdom-graph/id/patience> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#domain> "emotions-and-equanimity" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#evidenceStatus> "mixed" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#example> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#file> "articles/emotions-and-equanimity/waiting-well.md" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#howTo> <https://github.com/john1hsu/wisdom-graph/id/waiting-well/howto> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/kate-sweeny> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/awe-during-waiting-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/flow-during-waiting-study> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <https://github.com/john1hsu/wisdom-graph/ontology#supportedBy> <https://github.com/john1hsu/wisdom-graph/id/mindfulness-during-waiting-study> .
 }
 
 <https://github.com/john1hsu/wisdom-graph/id/cleverness#graph> {
@@ -14871,6 +15009,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/shantideva> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/temperance> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/ten-perfections> .
+  <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s1> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s2> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/wisdom-graph/id/source/patience/s3> .
@@ -17973,6 +18112,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/patience> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/steven-hayes> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
+  <https://github.com/john1hsu/wisdom-graph/id/acceptance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/acceptance> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/accepting-negative-emotions-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18234,6 +18374,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/autonomy-oriented-help-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/tzedakah> .
   <https://github.com/john1hsu/wisdom-graph/id/awe-and-moral-expansiveness-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
   <https://github.com/john1hsu/wisdom-graph/id/awe-and-prosocial-behavior-meta-analysis> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
+  <https://github.com/john1hsu/wisdom-graph/id/awe-during-waiting-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/awe-induction-replication-series-study> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/awe> .
   <https://github.com/john1hsu/wisdom-graph/id/awe-walks-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/awe> .
   <https://github.com/john1hsu/wisdom-graph/id/awe/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18249,6 +18390,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-transcendence> .
+  <https://github.com/john1hsu/wisdom-graph/id/awe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/balance-theory-of-wisdom/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -18500,6 +18642,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/patience> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
+  <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#hasInstance> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
@@ -18907,6 +19050,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#complements> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> <https://github.com/john1hsu/wisdom-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
@@ -18917,6 +19061,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/distanced-self-reflection-diary> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/teaching-for-wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/distanced-self-reflection-diary> <https://github.com/john1hsu/wisdom-graph/ontology#introducedBy> <https://github.com/john1hsu/wisdom-graph/id/igor-grossmann> .
   <https://github.com/john1hsu/wisdom-graph/id/distraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
+  <https://github.com/john1hsu/wisdom-graph/id/distraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/distraction> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/self-distancing> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/doctrine-of-the-mean/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -19010,6 +19155,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/acceptance> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-defusion> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
@@ -19020,6 +19166,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/regulatory-flexibility> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
+  <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/empathy> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
@@ -19173,6 +19320,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/sage> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/three-dimensional-wisdom-model> .
+  <https://github.com/john1hsu/wisdom-graph/id/equanimity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/dichotomy-of-control> .
   <https://github.com/john1hsu/wisdom-graph/id/equanimity> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/four-immeasurables> .
@@ -19324,6 +19472,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/flattery> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/flattery> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/friendship> .
   <https://github.com/john1hsu/wisdom-graph/id/flawed-self-assessment-review> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/self-deception> .
+  <https://github.com/john1hsu/wisdom-graph/id/flow-during-waiting-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/flu-vaccination-planning-prompts-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
@@ -20100,6 +20249,9 @@
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/patience> .
   <https://github.com/john1hsu/wisdom-graph/id/kairos> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/speaking-up-at-work> .
   <https://github.com/john1hsu/wisdom-graph/id/karma-yoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/bhagavad-gita> .
+  <https://github.com/john1hsu/wisdom-graph/id/kate-sweeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/kate-sweeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
+  <https://github.com/john1hsu/wisdom-graph/id/kate-sweeny> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Person> .
   <https://github.com/john1hsu/wisdom-graph/id/kathy-kram> <https://github.com/john1hsu/wisdom-graph/ontology#introduced> <https://github.com/john1hsu/wisdom-graph/id/developmental-network> .
@@ -20465,6 +20617,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/military-historians> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/military-historians> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/wisdom-graph/id/s-l-a-marshall> .
   <https://github.com/john1hsu/wisdom-graph/id/mindfulness-based-interventions> <https://github.com/john1hsu/wisdom-graph/ontology#confusedWith> <https://github.com/john1hsu/wisdom-graph/id/buddhism> .
+  <https://github.com/john1hsu/wisdom-graph/id/mindfulness-during-waiting-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/minima-moralia> <https://github.com/john1hsu/wisdom-graph/ontology#challenges> <https://github.com/john1hsu/wisdom-graph/id/amor-fati> .
   <https://github.com/john1hsu/wisdom-graph/id/mispredicting-honest-communication-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/mispredicting-honest-communication-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/right-speech> .
@@ -20645,6 +20798,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/savoring> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoic-reserve-clause> .
   <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/stoicism> .
+  <https://github.com/john1hsu/wisdom-graph/id/negative-visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/negativity-bias> <https://github.com/john1hsu/wisdom-graph/ontology#contrastsWith> <https://github.com/john1hsu/wisdom-graph/id/positivity-effect-in-ageing> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/negotiating-with-the-future-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
@@ -20774,6 +20928,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/moral-virtues> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/normative-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/patience> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
+  <https://github.com/john1hsu/wisdom-graph/id/patience> <https://github.com/john1hsu/wisdom-graph/ontology#developedBy> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom-researchers> .
   <https://github.com/john1hsu/wisdom-graph/id/paul-baltes> <https://github.com/john1hsu/wisdom-graph/ontology#influenced> <https://github.com/john1hsu/wisdom-graph/id/lifespan-developmental-psychology> .
@@ -21033,6 +21188,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/james-gross> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/richard-lazarus> .
+  <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/process-model-of-emotion-regulation> <https://github.com/john1hsu/wisdom-graph/ontology#explains> <https://github.com/john1hsu/wisdom-graph/id/cognitive-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/procrastination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/implementation-intentions> .
   <https://github.com/john1hsu/wisdom-graph/id/prodigality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/generosity> .
@@ -21320,6 +21476,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/self-reflection> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-support> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
+  <https://github.com/john1hsu/wisdom-graph/id/rumination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/compassionate-reappraisal> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/equanimity> .
   <https://github.com/john1hsu/wisdom-graph/id/rumination> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/forgiveness> .
@@ -21745,6 +21902,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/virtue-ethics> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/wisdom> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/social-relationships> .
+  <https://github.com/john1hsu/wisdom-graph/id/social-support> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/emotional-suppression> .
   <https://github.com/john1hsu/wisdom-graph/id/social-support> <https://github.com/john1hsu/wisdom-graph/ontology#underminedBy> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/socioemotional-selectivity-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
@@ -22101,6 +22259,10 @@
   <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/unattainable-goals-disengagement-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/knowing-when-to-quit> .
+  <https://github.com/john1hsu/wisdom-graph/id/uncertain-waiting-periods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/uncertain-waiting-periods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Context> .
+  <https://github.com/john1hsu/wisdom-graph/id/uncertain-waiting-periods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/uncertain-waiting-periods> <https://github.com/john1hsu/wisdom-graph/ontology#benefitsFrom> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/unconscious-thought-advantage-replication> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/deliberation> .
   <https://github.com/john1hsu/wisdom-graph/id/underestimating-desire-for-feedback-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/frank-speech> .
   <https://github.com/john1hsu/wisdom-graph/id/unity-of-the-virtues/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -22239,6 +22401,15 @@
   <https://github.com/john1hsu/wisdom-graph/id/voluntary-simplicity-wellbeing-review> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/simplicity> .
   <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/impermanence> .
   <https://github.com/john1hsu/wisdom-graph/id/wabi-sabi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/mono-no-aware> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Concept> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
+  <https://github.com/john1hsu/wisdom-graph/id/waiting-well> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/wisdom-graph/id/emotion-regulation> .
   <https://github.com/john1hsu/wisdom-graph/id/wanting-what-you-have-study> <https://github.com/john1hsu/wisdom-graph/ontology#supports> <https://github.com/john1hsu/wisdom-graph/id/classification-of-desires> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/weakness-of-will/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
@@ -22547,6 +22718,7 @@
   <https://github.com/john1hsu/wisdom-graph/id/worldview-defense> <https://github.com/john1hsu/wisdom-graph/ontology#causedBy> <https://github.com/john1hsu/wisdom-graph/id/death-awareness> .
   <https://github.com/john1hsu/wisdom-graph/id/worry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/rumination> .
   <https://github.com/john1hsu/wisdom-graph/id/worry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/wisdom-graph/id/susan-nolen-hoeksema> .
+  <https://github.com/john1hsu/wisdom-graph/id/worry> <https://github.com/john1hsu/wisdom-graph/ontology#addressedBy> <https://github.com/john1hsu/wisdom-graph/id/waiting-well> .
   <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Entity> .
   <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/wisdom-graph/ontology#Study> .
   <https://github.com/john1hsu/wisdom-graph/id/writing-talking-thinking-study> <https://github.com/john1hsu/wisdom-graph/ontology#demonstrates> <https://github.com/john1hsu/wisdom-graph/id/reflective-journaling> .
